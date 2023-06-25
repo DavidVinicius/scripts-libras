@@ -1,0 +1,1529 @@
+{
+    "pubName": "1 Pedro",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 60,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "https://download-a.akamaihd.net/files/media_publication/9e/nwt_60_1Pe_LSB.jpg",
+        "modifiedDatetime": "2019-02-05T12:09:03+00:00",
+        "checksum": "ad15f6a3d1f0dc07888bab6c9b2db494"
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/55/nwt_60_1Pe_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 12:46:12",
+                        "checksum": "1e5e7a309db8143a8076be0c6ffc680b"
+                    },
+                    "filesize": 16430836,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b3/nwt_60_1Pe_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:21+00:00",
+                        "checksum": "7b346eb565ee95a0035bba6e75f4c475"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.644,
+                    "duration": 1008.007,
+                    "bitRate": 127.34624486734715
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b3/nwt_60_1Pe_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 08:00:24",
+                        "checksum": "f090823a7c4cc634b4a45ba435ad99e0"
+                    },
+                    "filesize": 15985201,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/89/nwt_60_1Pe_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:14:43+00:00",
+                        "checksum": "62e487837d2439608fe24b99fb15d426"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.441,
+                    "duration": 999.432,
+                    "bitRate": 124.95535745553474
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3e/nwt_60_1Pe_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 12:46:16",
+                        "checksum": "66de21dbfcee306e2c551c8b2894536a"
+                    },
+                    "filesize": 14469059,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ad/nwt_60_1Pe_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:16:56+00:00",
+                        "checksum": "58ac021c52dfbde03d45b90d09760236"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.155,
+                    "duration": 878.745,
+                    "bitRate": 128.63745846349053
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a4/nwt_60_1Pe_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 08:00:27",
+                        "checksum": "235644ab91d0608a06e24f8b5d954e87"
+                    },
+                    "filesize": 11032210,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0a/nwt_60_1Pe_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:55+00:00",
+                        "checksum": "d4e6b75a87e1e488a344b9510f569473"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.155,
+                    "duration": 642.742,
+                    "bitRate": 134.09601461395087
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e5/nwt_60_1Pe_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 16:57:07",
+                        "checksum": "c05305e6ed18e125a8d2505dfed50c4e"
+                    },
+                    "filesize": 7724853,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/96/nwt_60_1Pe_LSB_05.jpg",
+                        "modifiedDatetime": "2019-01-19T23:10:27+00:00",
+                        "checksum": "749f155a586ad39eef23882dd4b11239"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.791,
+                    "duration": 452.819,
+                    "bitRate": 133.27712411029572
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2a/nwt_60_1Pe_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:27:46",
+                        "checksum": "16adcafb3c5dc6570e97bf1d074ca7f4"
+                    },
+                    "filesize": 29022680,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b3/nwt_60_1Pe_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:21+00:00",
+                        "checksum": "7b346eb565ee95a0035bba6e75f4c475"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1008.007,
+                    "bitRate": 224.93860409699536
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d1/nwt_60_1Pe_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:27:10",
+                        "checksum": "dcc23f4857504780197204cba752f94c"
+                    },
+                    "filesize": 28130510,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/89/nwt_60_1Pe_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:14:43+00:00",
+                        "checksum": "62e487837d2439608fe24b99fb15d426"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 999.432,
+                    "bitRate": 219.89450945637122
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ed/nwt_60_1Pe_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:26:51",
+                        "checksum": "fb192df2f4d004b70ad48cdce7bd99bf"
+                    },
+                    "filesize": 25413364,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ad/nwt_60_1Pe_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:16:56+00:00",
+                        "checksum": "58ac021c52dfbde03d45b90d09760236"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 878.745,
+                    "bitRate": 225.93802098447216
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bc/nwt_60_1Pe_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:26:25",
+                        "checksum": "2a39c27a83ee3d1da5ebb75676f7c6dc"
+                    },
+                    "filesize": 19229908,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0a/nwt_60_1Pe_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:55+00:00",
+                        "checksum": "d4e6b75a87e1e488a344b9510f569473"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 642.742,
+                    "bitRate": 233.73866380289448
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/70/nwt_60_1Pe_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:27:03",
+                        "checksum": "dbeb8a12438a2f297f672b8e26684d08"
+                    },
+                    "filesize": 13582129,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/96/nwt_60_1Pe_LSB_05.jpg",
+                        "modifiedDatetime": "2019-01-19T23:10:27+00:00",
+                        "checksum": "749f155a586ad39eef23882dd4b11239"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 452.819,
+                    "bitRate": 234.3328853526464
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ff/nwt_60_1Pe_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:28:22",
+                        "checksum": "2da6148df021a0d1dc6f847fedf04ef8"
+                    },
+                    "filesize": 61857110,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b3/nwt_60_1Pe_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:21+00:00",
+                        "checksum": "7b346eb565ee95a0035bba6e75f4c475"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1008.007,
+                    "bitRate": 479.4199562850258
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/64/nwt_60_1Pe_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:28:11",
+                        "checksum": "c86cc31f0608299d391cf30d8ce40d8b"
+                    },
+                    "filesize": 59403621,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/89/nwt_60_1Pe_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:14:43+00:00",
+                        "checksum": "62e487837d2439608fe24b99fb15d426"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 999.432,
+                    "bitRate": 464.3545424426074
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f0/nwt_60_1Pe_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:27:04",
+                        "checksum": "34e7742e44d1a2e42facecb34c0174d6"
+                    },
+                    "filesize": 53785307,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ad/nwt_60_1Pe_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:16:56+00:00",
+                        "checksum": "58ac021c52dfbde03d45b90d09760236"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 878.745,
+                    "bitRate": 478.17934774877807
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b6/nwt_60_1Pe_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:26:22",
+                        "checksum": "c7fc85c2d8d88b41d557cded37a73ad7"
+                    },
+                    "filesize": 40441162,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0a/nwt_60_1Pe_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:55+00:00",
+                        "checksum": "d4e6b75a87e1e488a344b9510f569473"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 642.742,
+                    "bitRate": 491.560498808231
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c6/nwt_60_1Pe_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:27:00",
+                        "checksum": "868cba5f0676dc1b89705ad0f067c67c"
+                    },
+                    "filesize": 28708285,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/96/nwt_60_1Pe_LSB_05.jpg",
+                        "modifiedDatetime": "2019-01-19T23:10:27+00:00",
+                        "checksum": "749f155a586ad39eef23882dd4b11239"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 452.819,
+                    "bitRate": 495.30491556780964
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/75/nwt_60_1Pe_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:28:15",
+                        "checksum": "4cf8ffb2b139cb0841ea9d6b0f37c278"
+                    },
+                    "filesize": 126692128,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b3/nwt_60_1Pe_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:21+00:00",
+                        "checksum": "7b346eb565ee95a0035bba6e75f4c475"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 60,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:53.386",
+                                "verseNumber": 1,
+                                "startTime": "00:00:13.546",
+                                "label": "1 Pedro 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.791",
+                                "verseNumber": 2,
+                                "startTime": "00:01:06.933",
+                                "label": "1 Pedro 1:2",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:56.689",
+                                "verseNumber": 3,
+                                "startTime": "00:02:04.724",
+                                "label": "1 Pedro 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.380",
+                                "verseNumber": 4,
+                                "startTime": "00:03:01.414",
+                                "label": "1 Pedro 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.634",
+                                "verseNumber": 5,
+                                "startTime": "00:03:14.794",
+                                "label": "1 Pedro 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.964",
+                                "verseNumber": 6,
+                                "startTime": "00:03:49.429",
+                                "label": "1 Pedro 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.894",
+                                "verseNumber": 7,
+                                "startTime": "00:04:20.393",
+                                "label": "1 Pedro 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.199",
+                                "verseNumber": 8,
+                                "startTime": "00:05:21.287",
+                                "label": "1 Pedro 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.480",
+                                "verseNumber": 9,
+                                "startTime": "00:05:54.487",
+                                "label": "1 Pedro 1:9",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:00.360",
+                                "verseNumber": 10,
+                                "startTime": "00:06:07.967",
+                                "label": "1 Pedro 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.833",
+                                "verseNumber": 11,
+                                "startTime": "00:07:08.327",
+                                "label": "1 Pedro 1:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.927",
+                                "verseNumber": 12,
+                                "startTime": "00:07:42.161",
+                                "label": "1 Pedro 1:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:48.982",
+                                "verseNumber": 13,
+                                "startTime": "00:08:43.089",
+                                "label": "1 Pedro 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.529",
+                                "verseNumber": 14,
+                                "startTime": "00:09:32.071",
+                                "label": "1 Pedro 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.880",
+                                "verseNumber": 15,
+                                "startTime": "00:10:01.601",
+                                "label": "1 Pedro 1:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.516",
+                                "verseNumber": 16,
+                                "startTime": "00:10:15.481",
+                                "label": "1 Pedro 1:16",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:56.656",
+                                "verseNumber": 17,
+                                "startTime": "00:10:31.998",
+                                "label": "1 Pedro 1:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.748",
+                                "verseNumber": 18,
+                                "startTime": "00:11:28.654",
+                                "label": "1 Pedro 1:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.586",
+                                "verseNumber": 19,
+                                "startTime": "00:12:17.403",
+                                "label": "1 Pedro 1:19",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:52.786",
+                                "verseNumber": 20,
+                                "startTime": "00:12:36.989",
+                                "label": "1 Pedro 1:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.039",
+                                "verseNumber": 21,
+                                "startTime": "00:13:29.775",
+                                "label": "1 Pedro 1:21",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:39.172",
+                                "verseNumber": 22,
+                                "startTime": "00:14:08.814",
+                                "label": "1 Pedro 1:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.470",
+                                "verseNumber": 23,
+                                "startTime": "00:14:47.987",
+                                "label": "1 Pedro 1:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.803",
+                                "verseNumber": 24,
+                                "startTime": "00:15:25.457",
+                                "label": "1 Pedro 1:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.745",
+                                "verseNumber": 25,
+                                "startTime": "00:16:02.261",
+                                "label": "1 Pedro 1:25",
+                                "endTransitionDuration": "00:00:12.012"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:13.546",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1008.007,
+                    "bitRate": 981.9200164284574
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ca/nwt_60_1Pe_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:27:13",
+                        "checksum": "25ad3a4d4b6c067c533007525b7c9e87"
+                    },
+                    "filesize": 121456509,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/89/nwt_60_1Pe_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:14:43+00:00",
+                        "checksum": "62e487837d2439608fe24b99fb15d426"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 60,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:43.910",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "1 Pedro 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:06.232",
+                                "verseNumber": 2,
+                                "startTime": "00:00:45.879",
+                                "label": "1 Pedro 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.347",
+                                "verseNumber": 3,
+                                "startTime": "00:01:52.112",
+                                "label": "1 Pedro 2:3",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:34.334",
+                                "verseNumber": 4,
+                                "startTime": "00:02:06.459",
+                                "label": "1 Pedro 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.334",
+                                "verseNumber": 5,
+                                "startTime": "00:02:40.793",
+                                "label": "1 Pedro 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.438",
+                                "verseNumber": 6,
+                                "startTime": "00:03:15.128",
+                                "label": "1 Pedro 2:6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:05.065",
+                                "verseNumber": 7,
+                                "startTime": "00:03:53.566",
+                                "label": "1 Pedro 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.060",
+                                "verseNumber": 8,
+                                "startTime": "00:04:58.631",
+                                "label": "1 Pedro 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.624",
+                                "verseNumber": 9,
+                                "startTime": "00:05:25.692",
+                                "label": "1 Pedro 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.252",
+                                "verseNumber": 10,
+                                "startTime": "00:06:23.316",
+                                "label": "1 Pedro 2:10",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:49.783",
+                                "verseNumber": 11,
+                                "startTime": "00:06:42.568",
+                                "label": "1 Pedro 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.781",
+                                "verseNumber": 12,
+                                "startTime": "00:07:32.351",
+                                "label": "1 Pedro 2:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:29.763",
+                                "verseNumber": 13,
+                                "startTime": "00:08:20.132",
+                                "label": "1 Pedro 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.162",
+                                "verseNumber": 14,
+                                "startTime": "00:08:49.896",
+                                "label": "1 Pedro 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.603",
+                                "verseNumber": 15,
+                                "startTime": "00:09:19.058",
+                                "label": "1 Pedro 2:15",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:29.496",
+                                "verseNumber": 16,
+                                "startTime": "00:09:55.661",
+                                "label": "1 Pedro 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.031",
+                                "verseNumber": 17,
+                                "startTime": "00:10:25.157",
+                                "label": "1 Pedro 2:17",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:46.413",
+                                "verseNumber": 18,
+                                "startTime": "00:10:57.189",
+                                "label": "1 Pedro 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.608",
+                                "verseNumber": 19,
+                                "startTime": "00:11:43.602",
+                                "label": "1 Pedro 2:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.545",
+                                "verseNumber": 20,
+                                "startTime": "00:12:25.211",
+                                "label": "1 Pedro 2:20",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:56.589",
+                                "verseNumber": 21,
+                                "startTime": "00:13:10.756",
+                                "label": "1 Pedro 2:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.744",
+                                "verseNumber": 22,
+                                "startTime": "00:14:07.346",
+                                "label": "1 Pedro 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.777",
+                                "verseNumber": 23,
+                                "startTime": "00:14:18.090",
+                                "label": "1 Pedro 2:23",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:58.024",
+                                "verseNumber": 24,
+                                "startTime": "00:15:01.867",
+                                "label": "1 Pedro 2:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.539",
+                                "verseNumber": 25,
+                                "startTime": "00:15:59.892",
+                                "label": "1 Pedro 2:25",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 999.432,
+                    "bitRate": 949.4182461262998
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/fd/nwt_60_1Pe_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:26:54",
+                        "checksum": "384d9cb94313858e2a047fb0f9294534"
+                    },
+                    "filesize": 108865789,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ad/nwt_60_1Pe_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:16:56+00:00",
+                        "checksum": "58ac021c52dfbde03d45b90d09760236"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 60,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:42.442",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "1 Pedro 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.547",
+                                "verseNumber": 2,
+                                "startTime": "00:00:44.411",
+                                "label": "1 Pedro 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:56.423",
+                                "verseNumber": 3,
+                                "startTime": "00:00:58.958",
+                                "label": "1 Pedro 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:53.520",
+                                "verseNumber": 4,
+                                "startTime": "00:01:55.381",
+                                "label": "1 Pedro 3:4",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:20.687",
+                                "verseNumber": 5,
+                                "startTime": "00:02:48.902",
+                                "label": "1 Pedro 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.710",
+                                "verseNumber": 6,
+                                "startTime": "00:03:09.589",
+                                "label": "1 Pedro 3:6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:33.526",
+                                "verseNumber": 7,
+                                "startTime": "00:03:53.299",
+                                "label": "1 Pedro 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.533",
+                                "verseNumber": 8,
+                                "startTime": "00:05:26.826",
+                                "label": "1 Pedro 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.615",
+                                "verseNumber": 9,
+                                "startTime": "00:06:00.360",
+                                "label": "1 Pedro 3:9",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:16.282",
+                                "verseNumber": 10,
+                                "startTime": "00:06:48.975",
+                                "label": "1 Pedro 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.862",
+                                "verseNumber": 11,
+                                "startTime": "00:07:05.258",
+                                "label": "1 Pedro 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.895",
+                                "verseNumber": 12,
+                                "startTime": "00:07:34.120",
+                                "label": "1 Pedro 3:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:08.375",
+                                "verseNumber": 13,
+                                "startTime": "00:08:03.015",
+                                "label": "1 Pedro 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.600",
+                                "verseNumber": 14,
+                                "startTime": "00:08:11.390",
+                                "label": "1 Pedro 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.306",
+                                "verseNumber": 15,
+                                "startTime": "00:08:44.991",
+                                "label": "1 Pedro 3:15",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:40.907",
+                                "verseNumber": 16,
+                                "startTime": "00:09:25.298",
+                                "label": "1 Pedro 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.697",
+                                "verseNumber": 17,
+                                "startTime": "00:10:06.205",
+                                "label": "1 Pedro 3:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.882",
+                                "verseNumber": 18,
+                                "startTime": "00:10:36.902",
+                                "label": "1 Pedro 3:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.345",
+                                "verseNumber": 19,
+                                "startTime": "00:11:25.785",
+                                "label": "1 Pedro 3:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:12.505",
+                                "verseNumber": 20,
+                                "startTime": "00:11:38.130",
+                                "label": "1 Pedro 3:20",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:09.002",
+                                "verseNumber": 21,
+                                "startTime": "00:12:50.636",
+                                "label": "1 Pedro 3:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.105",
+                                "verseNumber": 22,
+                                "startTime": "00:13:59.638",
+                                "label": "1 Pedro 3:22",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 878.745,
+                    "bitRate": 967.8734747423883
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/88/nwt_60_1Pe_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:26:46",
+                        "checksum": "d995c07e2e8ba089dddfac8007cda174"
+                    },
+                    "filesize": 81114114,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0a/nwt_60_1Pe_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:55+00:00",
+                        "checksum": "d4e6b75a87e1e488a344b9510f569473"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 60,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:44.344",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "1 Pedro 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.292",
+                                "verseNumber": 2,
+                                "startTime": "00:00:46.312",
+                                "label": "1 Pedro 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:08.935",
+                                "verseNumber": 3,
+                                "startTime": "00:01:12.605",
+                                "label": "1 Pedro 4:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.252",
+                                "verseNumber": 4,
+                                "startTime": "00:02:21.541",
+                                "label": "1 Pedro 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.157",
+                                "verseNumber": 5,
+                                "startTime": "00:02:40.793",
+                                "label": "1 Pedro 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.204",
+                                "verseNumber": 6,
+                                "startTime": "00:03:04.951",
+                                "label": "1 Pedro 4:6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:25.258",
+                                "verseNumber": 7,
+                                "startTime": "00:03:43.156",
+                                "label": "1 Pedro 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.473",
+                                "verseNumber": 8,
+                                "startTime": "00:04:08.414",
+                                "label": "1 Pedro 4:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.146",
+                                "verseNumber": 9,
+                                "startTime": "00:04:48.888",
+                                "label": "1 Pedro 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.324",
+                                "verseNumber": 10,
+                                "startTime": "00:05:02.035",
+                                "label": "1 Pedro 4:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:01.261",
+                                "verseNumber": 11,
+                                "startTime": "00:05:26.359",
+                                "label": "1 Pedro 4:11",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:41.408",
+                                "verseNumber": 12,
+                                "startTime": "00:06:27.620",
+                                "label": "1 Pedro 4:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.659",
+                                "verseNumber": 13,
+                                "startTime": "00:07:09.028",
+                                "label": "1 Pedro 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.459",
+                                "verseNumber": 14,
+                                "startTime": "00:07:35.688",
+                                "label": "1 Pedro 4:14",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:29.796",
+                                "verseNumber": 15,
+                                "startTime": "00:08:02.148",
+                                "label": "1 Pedro 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.356",
+                                "verseNumber": 16,
+                                "startTime": "00:08:31.944",
+                                "label": "1 Pedro 4:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.269",
+                                "verseNumber": 17,
+                                "startTime": "00:08:55.301",
+                                "label": "1 Pedro 4:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.533",
+                                "verseNumber": 18,
+                                "startTime": "00:09:31.571",
+                                "label": "1 Pedro 4:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.637",
+                                "verseNumber": 19,
+                                "startTime": "00:10:05.104",
+                                "label": "1 Pedro 4:19",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 642.742,
+                    "bitRate": 985.9383946046781
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2a/nwt_60_1Pe_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-16 00:26:43",
+                        "checksum": "1189c79a6c2f6e07ff2f512f950eab49"
+                    },
+                    "filesize": 57975604,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/96/nwt_60_1Pe_LSB_05.jpg",
+                        "modifiedDatetime": "2019-01-19T23:10:27+00:00",
+                        "checksum": "749f155a586ad39eef23882dd4b11239"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 60,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:27.827",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "1 Pedro 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.515",
+                                "verseNumber": 2,
+                                "startTime": "00:00:29.796",
+                                "label": "1 Pedro 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.422",
+                                "verseNumber": 3,
+                                "startTime": "00:01:18.311",
+                                "label": "1 Pedro 5:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.999",
+                                "verseNumber": 4,
+                                "startTime": "00:01:40.733",
+                                "label": "1 Pedro 5:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.800",
+                                "verseNumber": 5,
+                                "startTime": "00:02:13.733",
+                                "label": "1 Pedro 5:5",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:25.458",
+                                "verseNumber": 6,
+                                "startTime": "00:02:47.534",
+                                "label": "1 Pedro 5:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.098",
+                                "verseNumber": 7,
+                                "startTime": "00:03:12.992",
+                                "label": "1 Pedro 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.283",
+                                "verseNumber": 8,
+                                "startTime": "00:03:45.091",
+                                "label": "1 Pedro 5:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.428",
+                                "verseNumber": 9,
+                                "startTime": "00:04:35.375",
+                                "label": "1 Pedro 5:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.778",
+                                "verseNumber": 10,
+                                "startTime": "00:05:03.803",
+                                "label": "1 Pedro 5:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.407",
+                                "verseNumber": 11,
+                                "startTime": "00:05:48.581",
+                                "label": "1 Pedro 5:11",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:47.781",
+                                "verseNumber": 12,
+                                "startTime": "00:05:55.988",
+                                "label": "1 Pedro 5:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.057",
+                                "verseNumber": 13,
+                                "startTime": "00:06:43.770",
+                                "label": "1 Pedro 5:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.991",
+                                "verseNumber": 14,
+                                "startTime": "00:07:07.827",
+                                "label": "1 Pedro 5:14",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 60,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 452.819,
+                    "bitRate": 1000.2548617659594
+                }
+            ]
+        }
+    }
+}

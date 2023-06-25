@@ -1,0 +1,1001 @@
+{
+    "pubName": "Joel",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 29,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2f/nwt_29_Joe_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 10:50:16",
+                        "checksum": "77c81a043e4787e844e1728c6df62bc0"
+                    },
+                    "filesize": 8435073,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.383,
+                    "duration": 616.683,
+                    "bitRate": 106.86042555494477
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d3/nwt_29_Joe_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 03:31:13",
+                        "checksum": "e83026ef75fe7ec3fb93e6b8e8dc6cdb"
+                    },
+                    "filesize": 14043478,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 1015.581,
+                    "bitRate": 108.03143410028348
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d1/nwt_29_Joe_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 03:31:17",
+                        "checksum": "7683a8d24be718e55a8291f55aedebd4"
+                    },
+                    "filesize": 9053074,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.674,
+                    "duration": 643.343,
+                    "bitRate": 109.93690865525855
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/99/nwt_29_Joe_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-06-07 19:59:16",
+                        "checksum": "5e630c342bc872476a0c91c9eef4b389"
+                    },
+                    "filesize": 16407817,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 616.683,
+                    "bitRate": 207.86379762779256
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f6/nwt_29_Joe_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-06-07 19:59:38",
+                        "checksum": "c4391dca71804001774f78f3c65f4aa8"
+                    },
+                    "filesize": 27750954,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1015.581,
+                    "bitRate": 213.47812545232728
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/08/nwt_29_Joe_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-06-07 19:59:35",
+                        "checksum": "cf81e9d9d03ecd47a574753b1be3c6ec"
+                    },
+                    "filesize": 17813670,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 643.343,
+                    "bitRate": 216.3220814946304
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e9/nwt_29_Joe_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-06-07 19:59:31",
+                        "checksum": "cea3ba5aa30ff687369473f5bb06d1c4"
+                    },
+                    "filesize": 35197335,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 616.683,
+                    "bitRate": 445.9003729428248
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1c/nwt_29_Joe_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-06-07 19:59:10",
+                        "checksum": "2a3df2f405a997285926feae87946d75"
+                    },
+                    "filesize": 60634394,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1015.581,
+                    "bitRate": 466.4386229409569
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ab/nwt_29_Joe_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-06-07 19:59:21",
+                        "checksum": "d14a13983666a67938d2692b9180dc50"
+                    },
+                    "filesize": 39028864,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 643.343,
+                    "bitRate": 473.95090954591876
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/aa/nwt_29_Joe_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-06-07 19:59:25",
+                        "checksum": "f2b1a4946ed1ee6b655baef6302670ac"
+                    },
+                    "filesize": 89284664,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 29,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:13.146",
+                                "verseNumber": 1,
+                                "startTime": "00:00:09.976",
+                                "label": "Joel 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.627",
+                                "verseNumber": 2,
+                                "startTime": "00:00:23.123",
+                                "label": "Joel 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.755",
+                                "verseNumber": 3,
+                                "startTime": "00:00:50.750",
+                                "label": "Joel 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.281",
+                                "verseNumber": 4,
+                                "startTime": "00:01:12.505",
+                                "label": "Joel 1:4",
+                                "endTransitionDuration": "00:00:01.468"
+                            },
+                            {
+                                "duration": "00:00:26.726",
+                                "verseNumber": 5,
+                                "startTime": "00:02:00.787",
+                                "label": "Joel 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.496",
+                                "verseNumber": 6,
+                                "startTime": "00:02:27.514",
+                                "label": "Joel 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.260",
+                                "verseNumber": 7,
+                                "startTime": "00:02:57.010",
+                                "label": "Joel 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.361",
+                                "verseNumber": 8,
+                                "startTime": "00:03:24.270",
+                                "label": "Joel 1:8",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:34.167",
+                                "verseNumber": 9,
+                                "startTime": "00:03:52.632",
+                                "label": "Joel 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.538",
+                                "verseNumber": 10,
+                                "startTime": "00:04:26.799",
+                                "label": "Joel 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.833",
+                                "verseNumber": 11,
+                                "startTime": "00:05:05.338",
+                                "label": "Joel 1:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:52.152",
+                                "verseNumber": 12,
+                                "startTime": "00:05:39.172",
+                                "label": "Joel 1:12",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:53.920",
+                                "verseNumber": 13,
+                                "startTime": "00:06:31.324",
+                                "label": "Joel 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.793",
+                                "verseNumber": 14,
+                                "startTime": "00:07:25.244",
+                                "label": "Joel 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.611",
+                                "verseNumber": 15,
+                                "startTime": "00:07:52.038",
+                                "label": "Joel 1:15",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:18.852",
+                                "verseNumber": 16,
+                                "startTime": "00:08:03.649",
+                                "label": "Joel 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.298",
+                                "verseNumber": 17,
+                                "startTime": "00:08:22.502",
+                                "label": "Joel 1:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.290",
+                                "verseNumber": 18,
+                                "startTime": "00:08:54.800",
+                                "label": "Joel 1:18",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:17.784",
+                                "verseNumber": 19,
+                                "startTime": "00:09:19.091",
+                                "label": "Joel 1:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.165",
+                                "verseNumber": 20,
+                                "startTime": "00:09:36.876",
+                                "label": "Joel 1:20",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:09.976",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 616.683,
+                    "bitRate": 1131.1102097836329
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/46/nwt_29_Joe_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-06-07 20:00:08",
+                        "checksum": "b717f1e96751e775edda9f75cc704999"
+                    },
+                    "filesize": 154854415,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 29,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:28.328",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.035",
+                                "label": "Joel 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.748",
+                                "verseNumber": 2,
+                                "startTime": "00:00:30.363",
+                                "label": "Joel 2:2",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:30.697",
+                                "verseNumber": 3,
+                                "startTime": "00:01:19.112",
+                                "label": "Joel 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.342",
+                                "verseNumber": 4,
+                                "startTime": "00:01:49.809",
+                                "label": "Joel 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.138",
+                                "verseNumber": 5,
+                                "startTime": "00:01:59.152",
+                                "label": "Joel 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.509",
+                                "verseNumber": 6,
+                                "startTime": "00:02:37.290",
+                                "label": "Joel 2:6",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:22.422",
+                                "verseNumber": 7,
+                                "startTime": "00:02:46.799",
+                                "label": "Joel 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.591",
+                                "verseNumber": 8,
+                                "startTime": "00:03:09.222",
+                                "label": "Joel 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.798",
+                                "verseNumber": 9,
+                                "startTime": "00:03:33.813",
+                                "label": "Joel 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.397",
+                                "verseNumber": 10,
+                                "startTime": "00:04:05.612",
+                                "label": "Joel 2:10",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:23.423",
+                                "verseNumber": 11,
+                                "startTime": "00:04:36.009",
+                                "label": "Joel 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.933",
+                                "verseNumber": 12,
+                                "startTime": "00:04:59.432",
+                                "label": "Joel 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.875",
+                                "verseNumber": 13,
+                                "startTime": "00:05:33.366",
+                                "label": "Joel 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.700",
+                                "verseNumber": 14,
+                                "startTime": "00:06:15.241",
+                                "label": "Joel 2:14",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:28.094",
+                                "verseNumber": 15,
+                                "startTime": "00:06:48.941",
+                                "label": "Joel 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.631",
+                                "verseNumber": 16,
+                                "startTime": "00:07:17.036",
+                                "label": "Joel 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:59.826",
+                                "verseNumber": 17,
+                                "startTime": "00:07:48.668",
+                                "label": "Joel 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.010",
+                                "verseNumber": 18,
+                                "startTime": "00:08:48.494",
+                                "label": "Joel 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.576",
+                                "verseNumber": 19,
+                                "startTime": "00:08:58.504",
+                                "label": "Joel 2:19",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:44.177",
+                                "verseNumber": 20,
+                                "startTime": "00:09:42.081",
+                                "label": "Joel 2:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.783",
+                                "verseNumber": 21,
+                                "startTime": "00:10:26.258",
+                                "label": "Joel 2:21",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:33.400",
+                                "verseNumber": 22,
+                                "startTime": "00:10:43.042",
+                                "label": "Joel 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.105",
+                                "verseNumber": 23,
+                                "startTime": "00:11:16.442",
+                                "label": "Joel 2:23",
+                                "endTransitionDuration": "00:00:01.634"
+                            },
+                            {
+                                "duration": "00:00:57.223",
+                                "verseNumber": 24,
+                                "startTime": "00:11:55.548",
+                                "label": "Joel 2:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.913",
+                                "verseNumber": 25,
+                                "startTime": "00:12:52.772",
+                                "label": "Joel 2:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.328",
+                                "verseNumber": 26,
+                                "startTime": "00:13:39.685",
+                                "label": "Joel 2:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.925",
+                                "verseNumber": 27,
+                                "startTime": "00:14:08.013",
+                                "label": "Joel 2:27",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:49.149",
+                                "verseNumber": 28,
+                                "startTime": "00:14:33.939",
+                                "label": "Joel 2:28",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.241",
+                                "verseNumber": 29,
+                                "startTime": "00:15:23.088",
+                                "label": "Joel 2:29",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.718",
+                                "verseNumber": 30,
+                                "startTime": "00:15:31.330",
+                                "label": "Joel 2:30",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.358",
+                                "verseNumber": 31,
+                                "startTime": "00:15:50.049",
+                                "label": "Joel 2:31",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.634",
+                                "verseNumber": 32,
+                                "startTime": "00:16:15.407",
+                                "label": "Joel 2:32",
+                                "endTransitionDuration": "00:00:01.401"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.035",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1015.581,
+                    "bitRate": 1191.2394158491543
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cd/nwt_29_Joe_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-06-07 19:59:04",
+                        "checksum": "8777ef44cdb244385b86a948435f4f3e"
+                    },
+                    "filesize": 100004022,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 29,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:16.282",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.035",
+                                "label": "Joel 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:51.418",
+                                "verseNumber": 2,
+                                "startTime": "00:00:18.318",
+                                "label": "Joel 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:11.104",
+                                "verseNumber": 3,
+                                "startTime": "00:01:09.736",
+                                "label": "Joel 3:3",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:36.436",
+                                "verseNumber": 4,
+                                "startTime": "00:02:20.840",
+                                "label": "Joel 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.884",
+                                "verseNumber": 5,
+                                "startTime": "00:02:57.277",
+                                "label": "Joel 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.798",
+                                "verseNumber": 6,
+                                "startTime": "00:03:15.161",
+                                "label": "Joel 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.578",
+                                "verseNumber": 7,
+                                "startTime": "00:03:46.960",
+                                "label": "Joel 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.469",
+                                "verseNumber": 8,
+                                "startTime": "00:03:58.538",
+                                "label": "Joel 3:8",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:15.749",
+                                "verseNumber": 9,
+                                "startTime": "00:04:35.008",
+                                "label": "Joel 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.970",
+                                "verseNumber": 10,
+                                "startTime": "00:04:50.757",
+                                "label": "Joel 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.824",
+                                "verseNumber": 11,
+                                "startTime": "00:05:27.727",
+                                "label": "Joel 3:11",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:18.385",
+                                "verseNumber": 12,
+                                "startTime": "00:05:52.552",
+                                "label": "Joel 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.668",
+                                "verseNumber": 13,
+                                "startTime": "00:06:10.937",
+                                "label": "Joel 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.347",
+                                "verseNumber": 14,
+                                "startTime": "00:06:46.606",
+                                "label": "Joel 3:14",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:17.751",
+                                "verseNumber": 15,
+                                "startTime": "00:07:00.953",
+                                "label": "Joel 3:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.635",
+                                "verseNumber": 16,
+                                "startTime": "00:07:18.704",
+                                "label": "Joel 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.637",
+                                "verseNumber": 17,
+                                "startTime": "00:07:54.340",
+                                "label": "Joel 3:17",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:45.311",
+                                "verseNumber": 18,
+                                "startTime": "00:08:31.978",
+                                "label": "Joel 3:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.365",
+                                "verseNumber": 19,
+                                "startTime": "00:09:17.290",
+                                "label": "Joel 3:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.320",
+                                "verseNumber": 20,
+                                "startTime": "00:09:49.655",
+                                "label": "Joel 3:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.070",
+                                "verseNumber": 21,
+                                "startTime": "00:10:09.976",
+                                "label": "Joel 3:21",
+                                "endTransitionDuration": "00:00:10.643"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.035",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 29,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 643.343,
+                    "bitRate": 1214.4088330408508
+                }
+            ]
+        }
+    }
+}

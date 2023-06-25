@@ -1,0 +1,3552 @@
+{
+    "pubName": "Oseias",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 28,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/dc/nwt_28_Ho_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 12:17:53",
+                        "checksum": "e2546d213f9ba0430d2839b727e588e2"
+                    },
+                    "filesize": 4377306,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.354,
+                    "duration": 333.333,
+                    "bitRate": 102.59321196821196
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/59/nwt_28_Ho_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 09:58:54",
+                        "checksum": "eeb2426242638e07cd08ff0f534b5529"
+                    },
+                    "filesize": 9174628,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 671.604,
+                    "bitRate": 106.72476824140415
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/62/nwt_28_Ho_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 09:58:57",
+                        "checksum": "024b3ae19f80de7b9813ebbab324c805"
+                    },
+                    "filesize": 2783145,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.126,
+                    "duration": 188.388,
+                    "bitRate": 115.4177565051914
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/20/nwt_28_Ho_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-28 00:05:18",
+                        "checksum": "9d403904c89c12d5e4de3f7a23720026"
+                    },
+                    "filesize": 9316290,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.211,
+                    "duration": 679.479,
+                    "bitRate": 107.11665205988706
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a2/nwt_28_Ho_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 05:28:49",
+                        "checksum": "0946d4a0ec58f3e0492cdda9283c923c"
+                    },
+                    "filesize": 6630373,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 489.589,
+                    "bitRate": 105.80259985926972
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/67/nwt_28_Ho_LSB_06_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 01:40:34",
+                        "checksum": "87b264f050089af2b09db3c0250d4e58"
+                    },
+                    "filesize": 4711599,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.47,
+                    "duration": 348.782,
+                    "bitRate": 105.53688890911802
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/76/nwt_28_Ho_LSB_07_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 01:40:36",
+                        "checksum": "292f1fcc6f72bc16e6d077f97eba1aaf"
+                    },
+                    "filesize": 8027534,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.91,
+                    "duration": 611.311,
+                    "bitRate": 102.59116779347991
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f4/nwt_28_Ho_LSB_08_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 12:18:01",
+                        "checksum": "8cd9212fd1ac0133bb883b7730f8783b"
+                    },
+                    "filesize": 6419248,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.615,
+                    "duration": 472.605,
+                    "bitRate": 106.11477872642058
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ae/nwt_28_Ho_LSB_09_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-01-12 04:16:31",
+                        "checksum": "321fc9d7f26307d4d1f42406d81ebce6"
+                    },
+                    "filesize": 9608814,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/90/nwt_28_Ho_LSB_09.jpg",
+                        "modifiedDatetime": "2021-01-12T04:16:24+00:00",
+                        "checksum": "4b39a2df52e74ee51ec0d89dc7da38d6"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.732,
+                    "duration": 716.082,
+                    "bitRate": 104.83276967581925
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4b/nwt_28_Ho_LSB_10_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 09:59:00",
+                        "checksum": "c0a014b1c51d99d25ecaf15c3f5f7406"
+                    },
+                    "filesize": 9181006,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.791,
+                    "duration": 674.807,
+                    "bitRate": 106.29203516709222
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bf/nwt_28_Ho_LSB_11_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 03:30:14",
+                        "checksum": "089f72aea8da1bbce3ce570f683934fa"
+                    },
+                    "filesize": 5847703,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.354,
+                    "duration": 445.312,
+                    "bitRate": 102.59139589209363
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e7/nwt_28_Ho_LSB_12_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 12:18:05",
+                        "checksum": "f8a662cfd88849fe4a174a94b0839e31"
+                    },
+                    "filesize": 5981813,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.354,
+                    "duration": 427.327,
+                    "bitRate": 109.3610140770417
+                },
+                {
+                    "title": "Cap\u00edtulo 13",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bf/nwt_28_Ho_LSB_13_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 03:30:23",
+                        "checksum": "49936acb8e1c12d506014825bb779b37"
+                    },
+                    "filesize": 6515745,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 13,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.762,
+                    "duration": 481.448,
+                    "bitRate": 105.73158017584454
+                },
+                {
+                    "title": "Cap\u00edtulo 14",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3a/nwt_28_Ho_LSB_14_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 10:49:19",
+                        "checksum": "c3488cf8028e5e817fac362ddb36aad4"
+                    },
+                    "filesize": 4241423,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 14,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.183,
+                    "duration": 313.113,
+                    "bitRate": 105.82798282888287
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/66/nwt_28_Ho_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:05",
+                        "checksum": "21ee7236f6fd4982213c3d2854efe8a4"
+                    },
+                    "filesize": 7788947,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 333.333,
+                    "bitRate": 182.55362786612784
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/70/nwt_28_Ho_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:41:18",
+                        "checksum": "af47da746f4b4f7db822edb0a6216b05"
+                    },
+                    "filesize": 16156617,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 671.604,
+                    "bitRate": 187.9434463054121
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f2/nwt_28_Ho_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:53",
+                        "checksum": "f3f033626d86ba039314df9ebcfbd864"
+                    },
+                    "filesize": 4696035,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 188.388,
+                    "bitRate": 194.74580884928974
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4e/nwt_28_Ho_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:06",
+                        "checksum": "e9314a2541b98da308c7877ffa760d26"
+                    },
+                    "filesize": 16880070,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 679.479,
+                    "bitRate": 194.08332983800824
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/08/nwt_28_Ho_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:02",
+                        "checksum": "b02b8ce06732704c4933bf26681d81ed"
+                    },
+                    "filesize": 11937546,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 489.589,
+                    "bitRate": 190.49055049235176
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/98/nwt_28_Ho_LSB_06_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:04",
+                        "checksum": "e0b40b26c5503384b40d2d07c5ad89a3"
+                    },
+                    "filesize": 8423314,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 348.782,
+                    "bitRate": 188.676997737842
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5f/nwt_28_Ho_LSB_07_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:34",
+                        "checksum": "49fe42366723bb73833646ec9a2f6589"
+                    },
+                    "filesize": 14499787,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 611.311,
+                    "bitRate": 185.30598326792745
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9a/nwt_28_Ho_LSB_08_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:26",
+                        "checksum": "47cb239f4439af5d6d2db1ea803d6128"
+                    },
+                    "filesize": 11546492,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 472.605,
+                    "bitRate": 190.8718036203595
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/40/nwt_28_Ho_LSB_09_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-01-12 04:16:36",
+                        "checksum": "0192b2397ea6e62d2288f55776fc7ab9"
+                    },
+                    "filesize": 17268586,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/90/nwt_28_Ho_LSB_09.jpg",
+                        "modifiedDatetime": "2021-01-12T04:16:24+00:00",
+                        "checksum": "4b39a2df52e74ee51ec0d89dc7da38d6"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 716.082,
+                    "bitRate": 188.40136761571998
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4d/nwt_28_Ho_LSB_10_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:27",
+                        "checksum": "0f4e27abdfeec2537a44b0e4396f0499"
+                    },
+                    "filesize": 16610988,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 674.807,
+                    "bitRate": 192.31179248288768
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3e/nwt_28_Ho_LSB_11_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:41:20",
+                        "checksum": "63b60d81a8497c3b820e5c2eda7fd44b"
+                    },
+                    "filesize": 10202676,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 445.312,
+                    "bitRate": 178.9945167657732
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b2/nwt_28_Ho_LSB_12_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:41:16",
+                        "checksum": "a6673b2546e5305ed450169eaa9f4b8d"
+                    },
+                    "filesize": 10723141,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 427.327,
+                    "bitRate": 196.0431684927468
+                },
+                {
+                    "title": "Cap\u00edtulo 13",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0b/nwt_28_Ho_LSB_13_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:41:13",
+                        "checksum": "6b49dfad7234c0ed0b3fa96e8cddfa5d"
+                    },
+                    "filesize": 11723888,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 13,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 481.448,
+                    "bitRate": 190.24458508499362
+                },
+                {
+                    "title": "Cap\u00edtulo 14",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5b/nwt_28_Ho_LSB_14_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:49",
+                        "checksum": "e245582cdc019278f8b1d2f5a153e219"
+                    },
+                    "filesize": 7505383,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 14,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 313.113,
+                    "bitRate": 187.26723159849638
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4b/nwt_28_Ho_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:18",
+                        "checksum": "a948fdb31f2f079c6a9643f9f2c9bc6d"
+                    },
+                    "filesize": 16198146,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 333.333,
+                    "bitRate": 379.6444265194265
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e0/nwt_28_Ho_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:59",
+                        "checksum": "fca7f914c69e4329ad815833232e2249"
+                    },
+                    "filesize": 33447288,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 671.604,
+                    "bitRate": 389.07888800543174
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b1/nwt_28_Ho_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:41:02",
+                        "checksum": "1718c6fce1ad4d2c8a80aed568dd446a"
+                    },
+                    "filesize": 9480258,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 188.388,
+                    "bitRate": 393.1487972960061
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ba/nwt_28_Ho_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:15",
+                        "checksum": "bf6e2fb295614feec7b20614391f33a4"
+                    },
+                    "filesize": 35112896,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 679.479,
+                    "bitRate": 403.72035044497323
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1c/nwt_28_Ho_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:21",
+                        "checksum": "85b6017bc64ba17d94af785dac1157dc"
+                    },
+                    "filesize": 24790041,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 489.589,
+                    "bitRate": 395.58118199653177
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f7/nwt_28_Ho_LSB_06_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:25",
+                        "checksum": "1bad2e6b0947f605e098c51d552e78b3"
+                    },
+                    "filesize": 17411800,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 348.782,
+                    "bitRate": 390.01349696945374
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/09/nwt_28_Ho_LSB_07_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:32",
+                        "checksum": "f5cac287ca80cd7373ff5d433b96058d"
+                    },
+                    "filesize": 30248922,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 611.311,
+                    "bitRate": 386.57852242966345
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/07/nwt_28_Ho_LSB_08_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:36",
+                        "checksum": "d4e9b47b2bcb67ad8e2978ddcd52917d"
+                    },
+                    "filesize": 23974229,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 472.605,
+                    "bitRate": 396.31121986119484
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/06/nwt_28_Ho_LSB_09_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-01-12 04:16:43",
+                        "checksum": "76f16361c9d579165300fe616ef40e55"
+                    },
+                    "filesize": 36017818,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/90/nwt_28_Ho_LSB_09.jpg",
+                        "modifiedDatetime": "2021-01-12T04:16:24+00:00",
+                        "checksum": "4b39a2df52e74ee51ec0d89dc7da38d6"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 716.082,
+                    "bitRate": 392.95667692387184
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/de/nwt_28_Ho_LSB_10_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:10",
+                        "checksum": "0ec99fa40041b8819db963b3300773aa"
+                    },
+                    "filesize": 34475856,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 674.807,
+                    "bitRate": 399.14023565256434
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/79/nwt_28_Ho_LSB_11_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:38",
+                        "checksum": "6c1e8f431d472ccdc1ec073905f45e8d"
+                    },
+                    "filesize": 20999622,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 445.312,
+                    "bitRate": 368.4148347113933
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c9/nwt_28_Ho_LSB_12_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:48",
+                        "checksum": "291f57caf1dc8d01c9a4ba73fc900beb"
+                    },
+                    "filesize": 22128853,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 427.327,
+                    "bitRate": 404.5652721744706
+                },
+                {
+                    "title": "Cap\u00edtulo 13",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b2/nwt_28_Ho_LSB_13_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:41:11",
+                        "checksum": "4a442dbb40dc54d3df621fdabee8d7b0"
+                    },
+                    "filesize": 24224292,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 13,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 481.448,
+                    "bitRate": 393.08976514597634
+                },
+                {
+                    "title": "Cap\u00edtulo 14",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/50/nwt_28_Ho_LSB_14_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:51",
+                        "checksum": "d44c0619cf8a83f72a1830b9397270c6"
+                    },
+                    "filesize": 15442081,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 14,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 313.113,
+                    "bitRate": 385.2962279193135
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwt_28_Ho_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:13",
+                        "checksum": "6a9a8bb9079ba0d5ab48525323d6369a"
+                    },
+                    "filesize": 34110320,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:01.361",
+                                "verseNumber": 1,
+                                "startTime": "00:00:12.345",
+                                "label": "Oseias 1:1",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:28.962",
+                                "verseNumber": 2,
+                                "startTime": "00:01:13.706",
+                                "label": "Oseias 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.519",
+                                "verseNumber": 3,
+                                "startTime": "00:01:42.669",
+                                "label": "Oseias 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.409",
+                                "verseNumber": 4,
+                                "startTime": "00:02:02.188",
+                                "label": "Oseias 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.349",
+                                "verseNumber": 5,
+                                "startTime": "00:02:44.597",
+                                "label": "Oseias 1:5",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:31.464",
+                                "verseNumber": 6,
+                                "startTime": "00:03:00.947",
+                                "label": "Oseias 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.595",
+                                "verseNumber": 7,
+                                "startTime": "00:03:32.412",
+                                "label": "Oseias 1:7",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:12.779",
+                                "verseNumber": 8,
+                                "startTime": "00:04:01.007",
+                                "label": "Oseias 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.318",
+                                "verseNumber": 9,
+                                "startTime": "00:04:13.786",
+                                "label": "Oseias 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.097",
+                                "verseNumber": 10,
+                                "startTime": "00:04:32.105",
+                                "label": "Oseias 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.129",
+                                "verseNumber": 11,
+                                "startTime": "00:05:03.202",
+                                "label": "Oseias 1:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:12.345",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 333.333,
+                    "bitRate": 799.4614244614244
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b2/nwt_28_Ho_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:58",
+                        "checksum": "35bcca6c9dae51254a28ff9c410c2896"
+                    },
+                    "filesize": 77114654,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:16.082",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.720",
+                                "verseNumber": 2,
+                                "startTime": "00:00:18.084",
+                                "label": "Oseias 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.723",
+                                "verseNumber": 3,
+                                "startTime": "00:00:38.805",
+                                "label": "Oseias 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.517",
+                                "verseNumber": 4,
+                                "startTime": "00:01:02.529",
+                                "label": "Oseias 2:4",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:40.707",
+                                "verseNumber": 5,
+                                "startTime": "00:01:20.046",
+                                "label": "Oseias 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.054",
+                                "verseNumber": 6,
+                                "startTime": "00:02:00.753",
+                                "label": "Oseias 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.886",
+                                "verseNumber": 7,
+                                "startTime": "00:02:21.808",
+                                "label": "Oseias 2:7",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:43.977",
+                                "verseNumber": 8,
+                                "startTime": "00:02:41.694",
+                                "label": "Oseias 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.791",
+                                "verseNumber": 9,
+                                "startTime": "00:03:25.672",
+                                "label": "Oseias 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.714",
+                                "verseNumber": 10,
+                                "startTime": "00:03:50.463",
+                                "label": "Oseias 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.683",
+                                "verseNumber": 11,
+                                "startTime": "00:04:05.178",
+                                "label": "Oseias 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.250",
+                                "verseNumber": 12,
+                                "startTime": "00:04:21.861",
+                                "label": "Oseias 2:12",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:34.834",
+                                "verseNumber": 13,
+                                "startTime": "00:05:12.111",
+                                "label": "Oseias 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.382",
+                                "verseNumber": 14,
+                                "startTime": "00:05:46.946",
+                                "label": "Oseias 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.778",
+                                "verseNumber": 15,
+                                "startTime": "00:06:02.328",
+                                "label": "Oseias 2:15",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:13.279",
+                                "verseNumber": 16,
+                                "startTime": "00:06:47.106",
+                                "label": "Oseias 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.387",
+                                "verseNumber": 17,
+                                "startTime": "00:07:00.386",
+                                "label": "Oseias 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:52.085",
+                                "verseNumber": 18,
+                                "startTime": "00:07:20.773",
+                                "label": "Oseias 2:18",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:14.280",
+                                "verseNumber": 19,
+                                "startTime": "00:08:12.859",
+                                "label": "Oseias 2:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.846",
+                                "verseNumber": 20,
+                                "startTime": "00:08:27.139",
+                                "label": "Oseias 2:20",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:21.921",
+                                "verseNumber": 21,
+                                "startTime": "00:08:39.986",
+                                "label": "Oseias 2:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:26.052",
+                                "verseNumber": 22,
+                                "startTime": "00:09:01.908",
+                                "label": "Oseias 2:22",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:42.642",
+                                "verseNumber": 23,
+                                "startTime": "00:10:27.960",
+                                "label": "Oseias 2:23",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 671.604,
+                    "bitRate": 897.043844847559
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/86/nwt_28_Ho_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:41:03",
+                        "checksum": "60b3b07546a40f9c80bdb7ee17748fe5"
+                    },
+                    "filesize": 21679904,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:39.639",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:56.790",
+                                "verseNumber": 2,
+                                "startTime": "00:00:41.641",
+                                "label": "Oseias 3:2",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:19.953",
+                                "verseNumber": 3,
+                                "startTime": "00:01:38.431",
+                                "label": "Oseias 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.270",
+                                "verseNumber": 4,
+                                "startTime": "00:01:58.384",
+                                "label": "Oseias 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.731",
+                                "verseNumber": 5,
+                                "startTime": "00:02:35.655",
+                                "label": "Oseias 3:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 188.388,
+                    "bitRate": 899.0713315073147
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/51/nwt_28_Ho_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:18",
+                        "checksum": "00273c039fbf612b60776c15d4ec2f39"
+                    },
+                    "filesize": 72487486,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:34.634",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.890",
+                                "verseNumber": 2,
+                                "startTime": "00:00:36.636",
+                                "label": "Oseias 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.680",
+                                "verseNumber": 3,
+                                "startTime": "00:01:00.527",
+                                "label": "Oseias 4:3",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:38.738",
+                                "verseNumber": 4,
+                                "startTime": "00:01:48.208",
+                                "label": "Oseias 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.998",
+                                "verseNumber": 5,
+                                "startTime": "00:02:26.946",
+                                "label": "Oseias 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.439",
+                                "verseNumber": 6,
+                                "startTime": "00:02:58.945",
+                                "label": "Oseias 4:6",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:20.553",
+                                "verseNumber": 7,
+                                "startTime": "00:03:38.384",
+                                "label": "Oseias 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.156",
+                                "verseNumber": 8,
+                                "startTime": "00:03:58.938",
+                                "label": "Oseias 4:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.617",
+                                "verseNumber": 9,
+                                "startTime": "00:04:22.095",
+                                "label": "Oseias 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.597",
+                                "verseNumber": 10,
+                                "startTime": "00:04:39.712",
+                                "label": "Oseias 4:10",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:39.272",
+                                "verseNumber": 11,
+                                "startTime": "00:05:10.310",
+                                "label": "Oseias 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.202",
+                                "verseNumber": 12,
+                                "startTime": "00:05:49.582",
+                                "label": "Oseias 4:12",
+                                "endTransitionDuration": "00:00:01.234"
+                            },
+                            {
+                                "duration": "00:01:17.811",
+                                "verseNumber": 13,
+                                "startTime": "00:06:25.785",
+                                "label": "Oseias 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.781",
+                                "verseNumber": 14,
+                                "startTime": "00:07:43.596",
+                                "label": "Oseias 4:14",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:50.016",
+                                "verseNumber": 15,
+                                "startTime": "00:08:31.377",
+                                "label": "Oseias 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.139",
+                                "verseNumber": 16,
+                                "startTime": "00:09:21.394",
+                                "label": "Oseias 4:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.178",
+                                "verseNumber": 17,
+                                "startTime": "00:10:00.533",
+                                "label": "Oseias 4:17",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:40.073",
+                                "verseNumber": 18,
+                                "startTime": "00:10:12.712",
+                                "label": "Oseias 4:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.692",
+                                "verseNumber": 19,
+                                "startTime": "00:10:52.785",
+                                "label": "Oseias 4:19",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 679.479,
+                    "bitRate": 833.4451607408029
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/de/nwt_28_Ho_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:09",
+                        "checksum": "a0dccd44024fc9af915a8f8a3464f96d"
+                    },
+                    "filesize": 51802254,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:42.409",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.947",
+                                "verseNumber": 2,
+                                "startTime": "00:00:44.411",
+                                "label": "Oseias 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.225",
+                                "verseNumber": 3,
+                                "startTime": "00:00:58.358",
+                                "label": "Oseias 5:3",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:17.984",
+                                "verseNumber": 4,
+                                "startTime": "00:01:23.583",
+                                "label": "Oseias 5:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.296",
+                                "verseNumber": 5,
+                                "startTime": "00:01:41.568",
+                                "label": "Oseias 5:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.587",
+                                "verseNumber": 6,
+                                "startTime": "00:02:11.865",
+                                "label": "Oseias 5:6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:35.602",
+                                "verseNumber": 7,
+                                "startTime": "00:02:32.452",
+                                "label": "Oseias 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.466",
+                                "verseNumber": 8,
+                                "startTime": "00:03:08.054",
+                                "label": "Oseias 5:8",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:25.458",
+                                "verseNumber": 9,
+                                "startTime": "00:03:41.521",
+                                "label": "Oseias 5:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.347",
+                                "verseNumber": 10,
+                                "startTime": "00:04:06.980",
+                                "label": "Oseias 5:10",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:32.132",
+                                "verseNumber": 11,
+                                "startTime": "00:04:54.327",
+                                "label": "Oseias 5:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.509",
+                                "verseNumber": 12,
+                                "startTime": "00:05:26.459",
+                                "label": "Oseias 5:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.207",
+                                "verseNumber": 13,
+                                "startTime": "00:06:08.968",
+                                "label": "Oseias 5:13",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:49.783",
+                                "verseNumber": 14,
+                                "startTime": "00:06:50.176",
+                                "label": "Oseias 5:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.628",
+                                "verseNumber": 15,
+                                "startTime": "00:07:39.959",
+                                "label": "Oseias 5:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 489.589,
+                    "bitRate": 826.6221450543211
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f8/nwt_28_Ho_LSB_06_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:22",
+                        "checksum": "1a02f9949caea13586f37f5ff86a1931"
+                    },
+                    "filesize": 36308277,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 6,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:34.501",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 6:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.283",
+                                "verseNumber": 2,
+                                "startTime": "00:00:36.503",
+                                "label": "Oseias 6:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.857",
+                                "verseNumber": 3,
+                                "startTime": "00:00:53.787",
+                                "label": "Oseias 6:3",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:49.616",
+                                "verseNumber": 4,
+                                "startTime": "00:01:51.644",
+                                "label": "Oseias 6:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.333",
+                                "verseNumber": 5,
+                                "startTime": "00:02:41.261",
+                                "label": "Oseias 6:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.478",
+                                "verseNumber": 6,
+                                "startTime": "00:03:14.594",
+                                "label": "Oseias 6:6",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:14.047",
+                                "verseNumber": 7,
+                                "startTime": "00:04:00.073",
+                                "label": "Oseias 6:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.420",
+                                "verseNumber": 8,
+                                "startTime": "00:04:14.120",
+                                "label": "Oseias 6:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.966",
+                                "verseNumber": 9,
+                                "startTime": "00:04:34.540",
+                                "label": "Oseias 6:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.349",
+                                "verseNumber": 10,
+                                "startTime": "00:05:07.507",
+                                "label": "Oseias 6:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.923",
+                                "verseNumber": 11,
+                                "startTime": "00:05:23.856",
+                                "label": "Oseias 6:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 348.782,
+                    "bitRate": 813.2828358759914
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/28/nwt_28_Ho_LSB_07_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:27",
+                        "checksum": "53ebda97657cc816f4499e4c96b93e7c"
+                    },
+                    "filesize": 64018745,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 7,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:01.261",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 7:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.482",
+                                "verseNumber": 2,
+                                "startTime": "00:01:03.263",
+                                "label": "Oseias 7:2",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:18.218",
+                                "verseNumber": 3,
+                                "startTime": "00:01:18.745",
+                                "label": "Oseias 7:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.480",
+                                "verseNumber": 4,
+                                "startTime": "00:01:36.963",
+                                "label": "Oseias 7:4",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:44.911",
+                                "verseNumber": 5,
+                                "startTime": "00:02:24.444",
+                                "label": "Oseias 7:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.663",
+                                "verseNumber": 6,
+                                "startTime": "00:03:09.355",
+                                "label": "Oseias 7:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.969",
+                                "verseNumber": 7,
+                                "startTime": "00:03:40.019",
+                                "label": "Oseias 7:7",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:56.289",
+                                "verseNumber": 8,
+                                "startTime": "00:04:15.989",
+                                "label": "Oseias 7:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.471",
+                                "verseNumber": 9,
+                                "startTime": "00:05:12.278",
+                                "label": "Oseias 7:9",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:18.885",
+                                "verseNumber": 10,
+                                "startTime": "00:05:50.750",
+                                "label": "Oseias 7:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.421",
+                                "verseNumber": 11,
+                                "startTime": "00:06:09.635",
+                                "label": "Oseias 7:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.611",
+                                "verseNumber": 12,
+                                "startTime": "00:06:31.057",
+                                "label": "Oseias 7:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.057",
+                                "verseNumber": 13,
+                                "startTime": "00:07:15.668",
+                                "label": "Oseias 7:13",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:44.511",
+                                "verseNumber": 14,
+                                "startTime": "00:07:39.725",
+                                "label": "Oseias 7:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.192",
+                                "verseNumber": 15,
+                                "startTime": "00:08:24.237",
+                                "label": "Oseias 7:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:19.879",
+                                "verseNumber": 16,
+                                "startTime": "00:08:50.429",
+                                "label": "Oseias 7:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 611.311,
+                    "bitRate": 818.1538452808799
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/58/nwt_28_Ho_LSB_08_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:06",
+                        "checksum": "a8285a5d315c31012e01ce669f4184b9"
+                    },
+                    "filesize": 49859466,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 8,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:34.367",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 8:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.176",
+                                "verseNumber": 2,
+                                "startTime": "00:00:36.369",
+                                "label": "Oseias 8:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.480",
+                                "verseNumber": 3,
+                                "startTime": "00:00:46.546",
+                                "label": "Oseias 8:3",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:29.996",
+                                "verseNumber": 4,
+                                "startTime": "00:01:00.026",
+                                "label": "Oseias 8:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.523",
+                                "verseNumber": 5,
+                                "startTime": "00:01:30.023",
+                                "label": "Oseias 8:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.126",
+                                "verseNumber": 6,
+                                "startTime": "00:01:53.546",
+                                "label": "Oseias 8:6",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:01:36.362",
+                                "verseNumber": 7,
+                                "startTime": "00:02:19.672",
+                                "label": "Oseias 8:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.430",
+                                "verseNumber": 8,
+                                "startTime": "00:03:56.035",
+                                "label": "Oseias 8:8",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:39.873",
+                                "verseNumber": 9,
+                                "startTime": "00:04:26.466",
+                                "label": "Oseias 8:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.464",
+                                "verseNumber": 10,
+                                "startTime": "00:05:06.339",
+                                "label": "Oseias 8:10",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:31.131",
+                                "verseNumber": 11,
+                                "startTime": "00:05:37.804",
+                                "label": "Oseias 8:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.777",
+                                "verseNumber": 12,
+                                "startTime": "00:06:08.935",
+                                "label": "Oseias 8:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.961",
+                                "verseNumber": 13,
+                                "startTime": "00:06:19.712",
+                                "label": "Oseias 8:13",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:01:03.930",
+                                "verseNumber": 14,
+                                "startTime": "00:06:47.673",
+                                "label": "Oseias 8:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 472.605,
+                    "bitRate": 824.2127741454279
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/75/nwt_28_Ho_LSB_09_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-01-12 04:16:50",
+                        "checksum": "ce95c997c62bc110feb85d6bffa9ad66"
+                    },
+                    "filesize": 75311200,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/90/nwt_28_Ho_LSB_09.jpg",
+                        "modifiedDatetime": "2021-01-12T04:16:24+00:00",
+                        "checksum": "4b39a2df52e74ee51ec0d89dc7da38d6"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 9,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:45.011",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 9:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.303",
+                                "verseNumber": 2,
+                                "startTime": "00:00:47.013",
+                                "label": "Oseias 9:2",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:31.798",
+                                "verseNumber": 3,
+                                "startTime": "00:01:24.317",
+                                "label": "Oseias 9:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.791",
+                                "verseNumber": 4,
+                                "startTime": "00:01:56.116",
+                                "label": "Oseias 9:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.245",
+                                "verseNumber": 5,
+                                "startTime": "00:02:53.907",
+                                "label": "Oseias 9:5",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:53.386",
+                                "verseNumber": 6,
+                                "startTime": "00:03:06.152",
+                                "label": "Oseias 9:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.402",
+                                "verseNumber": 7,
+                                "startTime": "00:03:59.539",
+                                "label": "Oseias 9:7",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:01:33.326",
+                                "verseNumber": 8,
+                                "startTime": "00:04:34.941",
+                                "label": "Oseias 9:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.325",
+                                "verseNumber": 9,
+                                "startTime": "00:06:08.267",
+                                "label": "Oseias 9:9",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:01:44.704",
+                                "verseNumber": 10,
+                                "startTime": "00:06:33.593",
+                                "label": "Oseias 9:10",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:24.257",
+                                "verseNumber": 11,
+                                "startTime": "00:08:18.297",
+                                "label": "Oseias 9:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.255",
+                                "verseNumber": 12,
+                                "startTime": "00:08:42.555",
+                                "label": "Oseias 9:12",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:40.273",
+                                "verseNumber": 13,
+                                "startTime": "00:09:04.810",
+                                "label": "Oseias 9:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.558",
+                                "verseNumber": 14,
+                                "startTime": "00:09:45.084",
+                                "label": "Oseias 9:14",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:34.100",
+                                "verseNumber": 15,
+                                "startTime": "00:10:10.643",
+                                "label": "Oseias 9:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.716",
+                                "verseNumber": 16,
+                                "startTime": "00:10:44.777",
+                                "label": "Oseias 9:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.587",
+                                "verseNumber": 17,
+                                "startTime": "00:11:34.493",
+                                "label": "Oseias 9:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 716.082,
+                    "bitRate": 821.6499646688508
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/19/nwt_28_Ho_LSB_10_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:39",
+                        "checksum": "8e47849b765c9eb45d9a4a1ce6962187"
+                    },
+                    "filesize": 70514455,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 10,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:59.092",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 10:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.234",
+                                "verseNumber": 2,
+                                "startTime": "00:01:01.094",
+                                "label": "Oseias 10:2",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:29.763",
+                                "verseNumber": 3,
+                                "startTime": "00:01:35.328",
+                                "label": "Oseias 10:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.479",
+                                "verseNumber": 4,
+                                "startTime": "00:02:05.091",
+                                "label": "Oseias 10:4",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:48.314",
+                                "verseNumber": 5,
+                                "startTime": "00:02:51.571",
+                                "label": "Oseias 10:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.832",
+                                "verseNumber": 6,
+                                "startTime": "00:03:39.886",
+                                "label": "Oseias 10:6",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:25.091",
+                                "verseNumber": 7,
+                                "startTime": "00:04:12.719",
+                                "label": "Oseias 10:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:06.433",
+                                "verseNumber": 8,
+                                "startTime": "00:04:37.810",
+                                "label": "Oseias 10:8",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:32.332",
+                                "verseNumber": 9,
+                                "startTime": "00:05:44.243",
+                                "label": "Oseias 10:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.300",
+                                "verseNumber": 10,
+                                "startTime": "00:06:16.576",
+                                "label": "Oseias 10:10",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:01:21.347",
+                                "verseNumber": 11,
+                                "startTime": "00:06:50.877",
+                                "label": "Oseias 10:11",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:51.951",
+                                "verseNumber": 12,
+                                "startTime": "00:08:12.225",
+                                "label": "Oseias 10:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.080",
+                                "verseNumber": 13,
+                                "startTime": "00:09:04.176",
+                                "label": "Oseias 10:13",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:55.755",
+                                "verseNumber": 14,
+                                "startTime": "00:09:51.257",
+                                "label": "Oseias 10:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.793",
+                                "verseNumber": 15,
+                                "startTime": "00:10:47.013",
+                                "label": "Oseias 10:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 674.807,
+                    "bitRate": 816.3729476539218
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0c/nwt_28_Ho_LSB_11_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:35",
+                        "checksum": "4af5f35ceed8be11b4b73dac2e8c0e51"
+                    },
+                    "filesize": 48711642,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 11,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:26.059",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 11:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.316",
+                                "verseNumber": 2,
+                                "startTime": "00:00:28.061",
+                                "label": "Oseias 11:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.342",
+                                "verseNumber": 3,
+                                "startTime": "00:01:18.378",
+                                "label": "Oseias 11:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.208",
+                                "verseNumber": 4,
+                                "startTime": "00:02:00.720",
+                                "label": "Oseias 11:4",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:24.090",
+                                "verseNumber": 5,
+                                "startTime": "00:02:42.929",
+                                "label": "Oseias 11:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.636",
+                                "verseNumber": 6,
+                                "startTime": "00:03:07.020",
+                                "label": "Oseias 11:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.086",
+                                "verseNumber": 7,
+                                "startTime": "00:03:43.656",
+                                "label": "Oseias 11:7",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:36.336",
+                                "verseNumber": 8,
+                                "startTime": "00:04:03.743",
+                                "label": "Oseias 11:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.101",
+                                "verseNumber": 9,
+                                "startTime": "00:04:40.079",
+                                "label": "Oseias 11:9",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:31.197",
+                                "verseNumber": 10,
+                                "startTime": "00:05:15.181",
+                                "label": "Oseias 11:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.150",
+                                "verseNumber": 11,
+                                "startTime": "00:05:46.379",
+                                "label": "Oseias 11:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.781",
+                                "verseNumber": 12,
+                                "startTime": "00:06:36.529",
+                                "label": "Oseias 11:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 445.312,
+                    "bitRate": 854.5911700672787
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8e/nwt_28_Ho_LSB_12_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:39:45",
+                        "checksum": "7b854f6ec4758289b1f1694a507d1bed"
+                    },
+                    "filesize": 45061867,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 12,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:12.772",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 12:1",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:18.685",
+                                "verseNumber": 2,
+                                "startTime": "00:01:14.774",
+                                "label": "Oseias 12:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.363",
+                                "verseNumber": 3,
+                                "startTime": "00:01:33.460",
+                                "label": "Oseias 12:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.567",
+                                "verseNumber": 4,
+                                "startTime": "00:02:03.823",
+                                "label": "Oseias 12:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.047",
+                                "verseNumber": 5,
+                                "startTime": "00:02:38.391",
+                                "label": "Oseias 12:5",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:17.183",
+                                "verseNumber": 6,
+                                "startTime": "00:02:52.438",
+                                "label": "Oseias 12:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.917",
+                                "verseNumber": 7,
+                                "startTime": "00:03:09.622",
+                                "label": "Oseias 12:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.823",
+                                "verseNumber": 8,
+                                "startTime": "00:03:27.540",
+                                "label": "Oseias 12:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.415",
+                                "verseNumber": 9,
+                                "startTime": "00:03:51.364",
+                                "label": "Oseias 12:9",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:33.066",
+                                "verseNumber": 10,
+                                "startTime": "00:04:39.779",
+                                "label": "Oseias 12:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.883",
+                                "verseNumber": 11,
+                                "startTime": "00:05:12.845",
+                                "label": "Oseias 12:11",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:19.319",
+                                "verseNumber": 12,
+                                "startTime": "00:06:02.729",
+                                "label": "Oseias 12:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.486",
+                                "verseNumber": 13,
+                                "startTime": "00:06:22.048",
+                                "label": "Oseias 12:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.791",
+                                "verseNumber": 14,
+                                "startTime": "00:06:41.534",
+                                "label": "Oseias 12:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 427.327,
+                    "bitRate": 823.8324185869369
+                },
+                {
+                    "title": "Cap\u00edtulo 13",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/39/nwt_28_Ho_LSB_13_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:31",
+                        "checksum": "5a071e4d98795a93e909ca78cc04822d"
+                    },
+                    "filesize": 50227402,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 13,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:36.903",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 13:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.628",
+                                "verseNumber": 2,
+                                "startTime": "00:00:38.905",
+                                "label": "Oseias 13:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.781",
+                                "verseNumber": 3,
+                                "startTime": "00:01:07.534",
+                                "label": "Oseias 13:3",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:18.585",
+                                "verseNumber": 4,
+                                "startTime": "00:01:55.315",
+                                "label": "Oseias 13:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.110",
+                                "verseNumber": 5,
+                                "startTime": "00:02:13.900",
+                                "label": "Oseias 13:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.121",
+                                "verseNumber": 6,
+                                "startTime": "00:02:24.010",
+                                "label": "Oseias 13:6",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:21.187",
+                                "verseNumber": 7,
+                                "startTime": "00:02:45.131",
+                                "label": "Oseias 13:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.739",
+                                "verseNumber": 8,
+                                "startTime": "00:03:06.319",
+                                "label": "Oseias 13:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.650",
+                                "verseNumber": 9,
+                                "startTime": "00:03:46.059",
+                                "label": "Oseias 13:9",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:27.927",
+                                "verseNumber": 10,
+                                "startTime": "00:04:03.710",
+                                "label": "Oseias 13:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.444",
+                                "verseNumber": 11,
+                                "startTime": "00:04:31.638",
+                                "label": "Oseias 13:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.083",
+                                "verseNumber": 12,
+                                "startTime": "00:04:43.082",
+                                "label": "Oseias 13:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.063",
+                                "verseNumber": 13,
+                                "startTime": "00:05:00.166",
+                                "label": "Oseias 13:13",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:58.491",
+                                "verseNumber": 14,
+                                "startTime": "00:05:30.229",
+                                "label": "Oseias 13:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.249",
+                                "verseNumber": 15,
+                                "startTime": "00:06:28.721",
+                                "label": "Oseias 13:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.475",
+                                "verseNumber": 16,
+                                "startTime": "00:07:17.970",
+                                "label": "Oseias 13:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 13,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 481.448,
+                    "bitRate": 815.0445699743275
+                },
+                {
+                    "title": "Cap\u00edtulo 14",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9e/nwt_28_Ho_LSB_14_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-07-31 12:40:56",
+                        "checksum": "18bf8005508438d374f560cae1e2749c"
+                    },
+                    "filesize": 31947098,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 14,
+                        "bibleBookNumber": 28,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:12.612",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Oseias 14:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.795",
+                                "verseNumber": 2,
+                                "startTime": "00:00:14.614",
+                                "label": "Oseias 14:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.675",
+                                "verseNumber": 3,
+                                "startTime": "00:00:43.410",
+                                "label": "Oseias 14:3",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:23.990",
+                                "verseNumber": 4,
+                                "startTime": "00:01:26.086",
+                                "label": "Oseias 14:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.198",
+                                "verseNumber": 5,
+                                "startTime": "00:01:50.076",
+                                "label": "Oseias 14:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.535",
+                                "verseNumber": 6,
+                                "startTime": "00:02:22.275",
+                                "label": "Oseias 14:6",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:50.984",
+                                "verseNumber": 7,
+                                "startTime": "00:02:57.810",
+                                "label": "Oseias 14:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.269",
+                                "verseNumber": 8,
+                                "startTime": "00:03:48.795",
+                                "label": "Oseias 14:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.042",
+                                "verseNumber": 9,
+                                "startTime": "00:04:25.064",
+                                "label": "Oseias 14:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 14,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 28,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 313.113,
+                    "bitRate": 797.1138315081137
+                }
+            ]
+        }
+    }
+}

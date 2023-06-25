@@ -1,0 +1,819 @@
+{
+    "pubName": "2 Tessalonicenses",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 53,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "https://download-a.akamaihd.net/files/media_publication/99/nwt_53_2Th_LSB.jpg",
+        "modifiedDatetime": "2019-02-05T11:57:52+00:00",
+        "checksum": "22279d1156e47549e513fd05cca36f14"
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/27/nwt_53_2Th_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 03:56:39",
+                        "checksum": "4215e568488e386fffcd2e50cccb48e6"
+                    },
+                    "filesize": 10331836,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/87/nwt_53_2Th_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:45:35+00:00",
+                        "checksum": "c2b119779bbbd70c48fac455d83d0b49"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.851,
+                    "duration": 465.565,
+                    "bitRate": 173.3752939976158
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/40/nwt_53_2Th_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 12:19:10",
+                        "checksum": "a8a7a59d3e22c1b4cf15c934bf7decdc"
+                    },
+                    "filesize": 14968609,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/06/nwt_53_2Th_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:48:37+00:00",
+                        "checksum": "0315e3e6a6fcc5e26f060133ab07237c"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.183,
+                    "duration": 659.125,
+                    "bitRate": 177.42045562298503
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6e/nwt_53_2Th_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 03:09:05",
+                        "checksum": "e3d18341713b77e79170ad611d6acdc1"
+                    },
+                    "filesize": 12073245,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/21/nwt_53_2Th_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:48:36+00:00",
+                        "checksum": "cd0fdcffd91a64fe262dd6b925623a52"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.615,
+                    "duration": 543.61,
+                    "bitRate": 173.51083784790566
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d5/nwt_53_2Th_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-06 19:28:06",
+                        "checksum": "388aaa2781e3f575a9f03df2e759a893"
+                    },
+                    "filesize": 18482452,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/87/nwt_53_2Th_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:45:35+00:00",
+                        "checksum": "c2b119779bbbd70c48fac455d83d0b49"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 465.565,
+                    "bitRate": 310.14822044182876
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c5/nwt_53_2Th_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-06 19:27:21",
+                        "checksum": "fb50e6ff51911af1995477aba8c3b2ec"
+                    },
+                    "filesize": 27152169,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/06/nwt_53_2Th_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:48:37+00:00",
+                        "checksum": "0315e3e6a6fcc5e26f060133ab07237c"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 659.125,
+                    "bitRate": 321.8301844301157
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d3/nwt_53_2Th_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-06 19:29:01",
+                        "checksum": "717690e44359286536b60c4d5967ffbd"
+                    },
+                    "filesize": 21803208,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/21/nwt_53_2Th_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:48:36+00:00",
+                        "checksum": "cd0fdcffd91a64fe262dd6b925623a52"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 543.61,
+                    "bitRate": 313.3451601331837
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/38/nwt_53_2Th_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-06 19:28:08",
+                        "checksum": "5d02bfbde580934600ee19391fdf9519"
+                    },
+                    "filesize": 41328463,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/87/nwt_53_2Th_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:45:35+00:00",
+                        "checksum": "c2b119779bbbd70c48fac455d83d0b49"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 465.565,
+                    "bitRate": 693.5199535779108
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/85/nwt_53_2Th_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-06 19:28:02",
+                        "checksum": "5aa8fc1536456f29e34bb9304129bfa4"
+                    },
+                    "filesize": 60692715,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/06/nwt_53_2Th_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:48:37+00:00",
+                        "checksum": "0315e3e6a6fcc5e26f060133ab07237c"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 659.125,
+                    "bitRate": 719.3807486250711
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/17/nwt_53_2Th_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-06 19:27:16",
+                        "checksum": "37fe4803596183c027fcc101821894c3"
+                    },
+                    "filesize": 48776748,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/21/nwt_53_2Th_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:48:36+00:00",
+                        "checksum": "cd0fdcffd91a64fe262dd6b925623a52"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 543.61,
+                    "bitRate": 700.9958311105388
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2b/nwt_53_2Th_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-06 19:27:23",
+                        "checksum": "6a9b04008eeb889c0ca274440f1c497e"
+                    },
+                    "filesize": 86215116,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/87/nwt_53_2Th_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:45:35+00:00",
+                        "checksum": "c2b119779bbbd70c48fac455d83d0b49"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 53,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:44.210",
+                                "verseNumber": 1,
+                                "startTime": "00:00:21.955",
+                                "label": "2 Tessalonicenses 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.062",
+                                "verseNumber": 2,
+                                "startTime": "00:01:06.166",
+                                "label": "2 Tessalonicenses 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.845",
+                                "verseNumber": 3,
+                                "startTime": "00:01:35.228",
+                                "label": "2 Tessalonicenses 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.068",
+                                "verseNumber": 4,
+                                "startTime": "00:02:21.074",
+                                "label": "2 Tessalonicenses 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:03.563",
+                                "verseNumber": 5,
+                                "startTime": "00:02:56.142",
+                                "label": "2 Tessalonicenses 1:5",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:16.416",
+                                "verseNumber": 6,
+                                "startTime": "00:03:59.706",
+                                "label": "2 Tessalonicenses 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.869",
+                                "verseNumber": 7,
+                                "startTime": "00:04:16.122",
+                                "label": "2 Tessalonicenses 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.358",
+                                "verseNumber": 8,
+                                "startTime": "00:04:51.991",
+                                "label": "2 Tessalonicenses 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.112",
+                                "verseNumber": 9,
+                                "startTime": "00:05:17.350",
+                                "label": "2 Tessalonicenses 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.539",
+                                "verseNumber": 10,
+                                "startTime": "00:05:29.462",
+                                "label": "2 Tessalonicenses 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:53.386",
+                                "verseNumber": 11,
+                                "startTime": "00:06:09.001",
+                                "label": "2 Tessalonicenses 1:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.176",
+                                "verseNumber": 12,
+                                "startTime": "00:07:02.388",
+                                "label": "2 Tessalonicenses 1:12",
+                                "endTransitionDuration": "00:00:11.344"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:21.955",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 465.565,
+                    "bitRate": 1446.7487756811615
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d2/nwt_53_2Th_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-06 19:27:03",
+                        "checksum": "167fe9031830d63f06bd7e8cc17944df"
+                    },
+                    "filesize": 125409408,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/06/nwt_53_2Th_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:48:37+00:00",
+                        "checksum": "0315e3e6a6fcc5e26f060133ab07237c"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 53,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:24.758",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "2 Tessalonicenses 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:09.702",
+                                "verseNumber": 2,
+                                "startTime": "00:00:26.760",
+                                "label": "2 Tessalonicenses 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:51.418",
+                                "verseNumber": 3,
+                                "startTime": "00:01:36.463",
+                                "label": "2 Tessalonicenses 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:51.918",
+                                "verseNumber": 4,
+                                "startTime": "00:02:27.881",
+                                "label": "2 Tessalonicenses 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.780",
+                                "verseNumber": 5,
+                                "startTime": "00:03:19.799",
+                                "label": "2 Tessalonicenses 2:5",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:49.015",
+                                "verseNumber": 6,
+                                "startTime": "00:03:33.580",
+                                "label": "2 Tessalonicenses 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.433",
+                                "verseNumber": 7,
+                                "startTime": "00:04:22.595",
+                                "label": "2 Tessalonicenses 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.895",
+                                "verseNumber": 8,
+                                "startTime": "00:04:56.029",
+                                "label": "2 Tessalonicenses 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.540",
+                                "verseNumber": 9,
+                                "startTime": "00:05:24.924",
+                                "label": "2 Tessalonicenses 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.463",
+                                "verseNumber": 10,
+                                "startTime": "00:06:05.465",
+                                "label": "2 Tessalonicenses 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.850",
+                                "verseNumber": 11,
+                                "startTime": "00:06:35.928",
+                                "label": "2 Tessalonicenses 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.918",
+                                "verseNumber": 12,
+                                "startTime": "00:06:52.779",
+                                "label": "2 Tessalonicenses 2:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:07.534",
+                                "verseNumber": 13,
+                                "startTime": "00:07:11.697",
+                                "label": "2 Tessalonicenses 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.569",
+                                "verseNumber": 14,
+                                "startTime": "00:08:19.232",
+                                "label": "2 Tessalonicenses 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.300",
+                                "verseNumber": 15,
+                                "startTime": "00:08:55.801",
+                                "label": "2 Tessalonicenses 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.511",
+                                "verseNumber": 16,
+                                "startTime": "00:09:30.102",
+                                "label": "2 Tessalonicenses 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.511",
+                                "verseNumber": 17,
+                                "startTime": "00:10:14.614",
+                                "label": "2 Tessalonicenses 2:17",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 659.125,
+                    "bitRate": 1486.4570453252418
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/58/nwt_53_2Th_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-06 19:27:28",
+                        "checksum": "b2247e7f29ddeb543d49c67a8a4d63b2"
+                    },
+                    "filesize": 100763507,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/21/nwt_53_2Th_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:48:36+00:00",
+                        "checksum": "cd0fdcffd91a64fe262dd6b925623a52"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 53,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:43.309",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "2 Tessalonicenses 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.800",
+                                "verseNumber": 2,
+                                "startTime": "00:00:45.311",
+                                "label": "2 Tessalonicenses 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.694",
+                                "verseNumber": 3,
+                                "startTime": "00:01:19.112",
+                                "label": "2 Tessalonicenses 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.654",
+                                "verseNumber": 4,
+                                "startTime": "00:01:46.806",
+                                "label": "2 Tessalonicenses 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.160",
+                                "verseNumber": 5,
+                                "startTime": "00:02:08.461",
+                                "label": "2 Tessalonicenses 3:5",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:32.766",
+                                "verseNumber": 6,
+                                "startTime": "00:02:35.622",
+                                "label": "2 Tessalonicenses 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.385",
+                                "verseNumber": 7,
+                                "startTime": "00:03:08.388",
+                                "label": "2 Tessalonicenses 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.524",
+                                "verseNumber": 8,
+                                "startTime": "00:03:26.773",
+                                "label": "2 Tessalonicenses 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.627",
+                                "verseNumber": 9,
+                                "startTime": "00:04:24.297",
+                                "label": "2 Tessalonicenses 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.392",
+                                "verseNumber": 10,
+                                "startTime": "00:04:51.924",
+                                "label": "2 Tessalonicenses 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.869",
+                                "verseNumber": 11,
+                                "startTime": "00:05:17.317",
+                                "label": "2 Tessalonicenses 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.557",
+                                "verseNumber": 12,
+                                "startTime": "00:05:53.186",
+                                "label": "2 Tessalonicenses 3:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:15.749",
+                                "verseNumber": 13,
+                                "startTime": "00:06:17.744",
+                                "label": "2 Tessalonicenses 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.275",
+                                "verseNumber": 14,
+                                "startTime": "00:06:33.493",
+                                "label": "2 Tessalonicenses 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.814",
+                                "verseNumber": 15,
+                                "startTime": "00:07:15.768",
+                                "label": "2 Tessalonicenses 3:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.632",
+                                "verseNumber": 16,
+                                "startTime": "00:07:30.583",
+                                "label": "2 Tessalonicenses 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.077",
+                                "verseNumber": 17,
+                                "startTime": "00:08:03.216",
+                                "label": "2 Tessalonicenses 3:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.349",
+                                "verseNumber": 18,
+                                "startTime": "00:08:47.293",
+                                "label": "2 Tessalonicenses 3:18",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 53,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 543.61,
+                    "bitRate": 1448.1243877734037
+                }
+            ]
+        }
+    }
+}

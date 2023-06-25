@@ -1,0 +1,810 @@
+{
+    "pubName": "Tito",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 56,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "https://download-a.akamaihd.net/files/media_publication/38/nwt_56_Tit_LSB.jpg",
+        "modifiedDatetime": "2019-02-05T12:09:04+00:00",
+        "checksum": "2bd248e7fadb8b8e35a4787d38b17193"
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "M4V": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0d/nwt_56_Tit_LSB_01_r240P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 04:38:57",
+                        "checksum": "ff1b5e24979138f1e3dabab9c50032ad"
+                    },
+                    "filesize": 27699083,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d5/nwt_56_Tit_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:27+00:00",
+                        "checksum": "6bf54bad095121f194c66178118cb76a"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 320,
+                    "frameHeight": 180,
+                    "frameRate": 29.97,
+                    "duration": 683.3827,
+                    "bitRate": 316.6587125156958
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/80/nwt_56_Tit_LSB_02_r240P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 00:09:32",
+                        "checksum": "f15aa28abbaf869588651f92b25c78d9"
+                    },
+                    "filesize": 17019070,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f5/nwt_56_Tit_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:10:00+00:00",
+                        "checksum": "2e316ff12fb3c3ce38b012b18c969580"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 320,
+                    "frameHeight": 180,
+                    "frameRate": 29.97,
+                    "duration": 415.28153333333,
+                    "bitRate": 320.17191640514653
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e8/nwt_56_Tit_LSB_03_r240P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 04:14:38",
+                        "checksum": "b1366bed7170a91ec24dc61490a7a353"
+                    },
+                    "filesize": 19376131,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_56_Tit_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:49+00:00",
+                        "checksum": "14b8c0f28ab531b6eb300f2d2061ee36"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 320,
+                    "frameHeight": 180,
+                    "frameRate": 29.97,
+                    "duration": 479.9795,
+                    "bitRate": 315.3801848568533
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f0/nwt_56_Tit_LSB_01_r360P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 05:46:10",
+                        "checksum": "3998e450dc5f95db1d3ab7bcf6211f14"
+                    },
+                    "filesize": 61016521,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d5/nwt_56_Tit_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:27+00:00",
+                        "checksum": "6bf54bad095121f194c66178118cb76a"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 683.3827,
+                    "bitRate": 697.5470264501866
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/85/nwt_56_Tit_LSB_02_r360P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 01:56:30",
+                        "checksum": "9593b4f64356ec29aebbcdb4ae0eb77e"
+                    },
+                    "filesize": 37488466,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f5/nwt_56_Tit_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:10:00+00:00",
+                        "checksum": "2e316ff12fb3c3ce38b012b18c969580"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 415.28153333333,
+                    "bitRate": 705.2532249006073
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/53/nwt_56_Tit_LSB_03_r360P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 05:04:36",
+                        "checksum": "7d7ad07c864db30e5f64c1bb97b659c5"
+                    },
+                    "filesize": 43110824,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_56_Tit_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:49+00:00",
+                        "checksum": "14b8c0f28ab531b6eb300f2d2061ee36"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 479.9795,
+                    "bitRate": 701.7035362968627
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8f/nwt_56_Tit_LSB_01_r480P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 04:30:30",
+                        "checksum": "2456fb20515b89815762ff55232d4d83"
+                    },
+                    "filesize": 86790484,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d5/nwt_56_Tit_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:27+00:00",
+                        "checksum": "6bf54bad095121f194c66178118cb76a"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 854,
+                    "frameHeight": 480,
+                    "frameRate": 29.97,
+                    "duration": 683.3827,
+                    "bitRate": 992.1975728241291
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ee/nwt_56_Tit_LSB_02_r480P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 03:14:27",
+                        "checksum": "6f7850c37e356906b5af89e04b5dbe63"
+                    },
+                    "filesize": 53043320,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f5/nwt_56_Tit_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:10:00+00:00",
+                        "checksum": "2e316ff12fb3c3ce38b012b18c969580"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 854,
+                    "frameHeight": 480,
+                    "frameRate": 29.97,
+                    "duration": 415.28153333333,
+                    "bitRate": 997.8795208487559
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/13/nwt_56_Tit_LSB_03_r480P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-04 23:35:19",
+                        "checksum": "bd14f68872a048f39078a413d7f1ebe2"
+                    },
+                    "filesize": 61277913,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_56_Tit_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:49+00:00",
+                        "checksum": "14b8c0f28ab531b6eb300f2d2061ee36"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 854,
+                    "frameHeight": 480,
+                    "frameRate": 29.97,
+                    "duration": 479.9795,
+                    "bitRate": 997.4044627166369
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f5/nwt_56_Tit_LSB_01_r720P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-04 22:46:31",
+                        "checksum": "be51d84f71b2e2e30e9ffcf31239fa6e"
+                    },
+                    "filesize": 129933239,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d5/nwt_56_Tit_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:27+00:00",
+                        "checksum": "6bf54bad095121f194c66178118cb76a"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 56,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:38.071",
+                                "verseNumber": 1,
+                                "startTime": "00:00:15.949",
+                                "label": "Tito 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.634",
+                                "verseNumber": 2,
+                                "startTime": "00:00:54.020",
+                                "label": "Tito 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.070",
+                                "verseNumber": 3,
+                                "startTime": "00:01:28.655",
+                                "label": "Tito 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.324",
+                                "verseNumber": 4,
+                                "startTime": "00:02:05.725",
+                                "label": "Tito 1:4",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:01:15.809",
+                                "verseNumber": 5,
+                                "startTime": "00:03:04.050",
+                                "label": "Tito 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.040",
+                                "verseNumber": 6,
+                                "startTime": "00:04:19.859",
+                                "label": "Tito 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:18.244",
+                                "verseNumber": 7,
+                                "startTime": "00:04:59.899",
+                                "label": "Tito 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.694",
+                                "verseNumber": 8,
+                                "startTime": "00:06:18.144",
+                                "label": "Tito 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.343",
+                                "verseNumber": 9,
+                                "startTime": "00:06:45.838",
+                                "label": "Tito 1:9",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:27.160",
+                                "verseNumber": 10,
+                                "startTime": "00:07:29.182",
+                                "label": "Tito 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.142",
+                                "verseNumber": 11,
+                                "startTime": "00:07:56.342",
+                                "label": "Tito 1:11",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:49.983",
+                                "verseNumber": 12,
+                                "startTime": "00:08:38.484",
+                                "label": "Tito 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.422",
+                                "verseNumber": 13,
+                                "startTime": "00:09:28.467",
+                                "label": "Tito 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.461",
+                                "verseNumber": 14,
+                                "startTime": "00:09:50.890",
+                                "label": "Tito 1:14",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:32.365",
+                                "verseNumber": 15,
+                                "startTime": "00:10:19.352",
+                                "label": "Tito 1:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.660",
+                                "verseNumber": 16,
+                                "startTime": "00:10:51.717",
+                                "label": "Tito 1:16",
+                                "endTransitionDuration": "00:00:03.003"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:15.949",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 683.3827,
+                    "bitRate": 1485.4099023687606
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5e/nwt_56_Tit_LSB_02_r720P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 05:20:53",
+                        "checksum": "50441e80a0ac4ecc55e1b462c26230f6"
+                    },
+                    "filesize": 79491914,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f5/nwt_56_Tit_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:10:00+00:00",
+                        "checksum": "2e316ff12fb3c3ce38b012b18c969580"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 56,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:12.078",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Tito 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.904",
+                                "verseNumber": 2,
+                                "startTime": "00:00:14.047",
+                                "label": "Tito 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.467",
+                                "verseNumber": 3,
+                                "startTime": "00:00:51.951",
+                                "label": "Tito 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.449",
+                                "verseNumber": 4,
+                                "startTime": "00:01:26.419",
+                                "label": "Tito 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:52.719",
+                                "verseNumber": 5,
+                                "startTime": "00:01:42.869",
+                                "label": "Tito 2:5",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:07.440",
+                                "verseNumber": 6,
+                                "startTime": "00:02:35.588",
+                                "label": "Tito 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.352",
+                                "verseNumber": 7,
+                                "startTime": "00:02:43.029",
+                                "label": "Tito 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.430",
+                                "verseNumber": 8,
+                                "startTime": "00:03:02.382",
+                                "label": "Tito 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.925",
+                                "verseNumber": 9,
+                                "startTime": "00:03:32.812",
+                                "label": "Tito 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.308",
+                                "verseNumber": 10,
+                                "startTime": "00:03:58.738",
+                                "label": "Tito 2:10",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:13.146",
+                                "verseNumber": 11,
+                                "startTime": "00:04:41.047",
+                                "label": "Tito 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.630",
+                                "verseNumber": 12,
+                                "startTime": "00:04:54.193",
+                                "label": "Tito 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.655",
+                                "verseNumber": 13,
+                                "startTime": "00:05:24.824",
+                                "label": "Tito 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.564",
+                                "verseNumber": 14,
+                                "startTime": "00:05:47.480",
+                                "label": "Tito 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.265",
+                                "verseNumber": 15,
+                                "startTime": "00:06:19.045",
+                                "label": "Tito 2:15",
+                                "endTransitionDuration": "00:00:03.036"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 415.28153333333,
+                    "bitRate": 1495.4447243059167
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/31/nwt_56_Tit_LSB_03_r720P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 01:20:11",
+                        "checksum": "67d4fd9ae5044d7e512ffeb77f68d84e"
+                    },
+                    "filesize": 92219830,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_56_Tit_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:49+00:00",
+                        "checksum": "14b8c0f28ab531b6eb300f2d2061ee36"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 56,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:27.927",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Tito 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.996",
+                                "verseNumber": 2,
+                                "startTime": "00:00:29.896",
+                                "label": "Tito 3:2",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:51.518",
+                                "verseNumber": 3,
+                                "startTime": "00:00:59.893",
+                                "label": "Tito 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.940",
+                                "verseNumber": 4,
+                                "startTime": "00:01:51.411",
+                                "label": "Tito 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.631",
+                                "verseNumber": 5,
+                                "startTime": "00:01:58.351",
+                                "label": "Tito 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.581",
+                                "verseNumber": 6,
+                                "startTime": "00:02:29.983",
+                                "label": "Tito 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.650",
+                                "verseNumber": 7,
+                                "startTime": "00:02:44.564",
+                                "label": "Tito 3:7",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:24.457",
+                                "verseNumber": 8,
+                                "startTime": "00:03:02.215",
+                                "label": "Tito 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.827",
+                                "verseNumber": 9,
+                                "startTime": "00:03:26.673",
+                                "label": "Tito 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:56.623",
+                                "verseNumber": 10,
+                                "startTime": "00:04:27.500",
+                                "label": "Tito 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:05.005",
+                                "verseNumber": 11,
+                                "startTime": "00:05:24.123",
+                                "label": "Tito 3:11",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:46.146",
+                                "verseNumber": 12,
+                                "startTime": "00:05:29.128",
+                                "label": "Tito 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.907",
+                                "verseNumber": 13,
+                                "startTime": "00:06:15.274",
+                                "label": "Tito 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.692",
+                                "verseNumber": 14,
+                                "startTime": "00:06:56.182",
+                                "label": "Tito 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.062",
+                                "verseNumber": 15,
+                                "startTime": "00:07:21.874",
+                                "label": "Tito 3:15",
+                                "endTransitionDuration": "00:00:03.003"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 56,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 479.9795,
+                    "bitRate": 1501.0379023999985
+                }
+            ]
+        }
+    }
+}

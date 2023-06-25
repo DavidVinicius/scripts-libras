@@ -1,0 +1,819 @@
+{
+    "pubName": "Naum",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 34,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2b/nwt_34_Na_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 10:53:05",
+                        "checksum": "fcce162956f1e113c8698dcf16ecb54a"
+                    },
+                    "filesize": 6690200,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.851,
+                    "duration": 520.553,
+                    "bitRate": 100.40704308687108
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/44/nwt_34_Na_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 10:08:47",
+                        "checksum": "02afa0a1caab49571dc622cba253de13"
+                    },
+                    "filesize": 6550990,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.851,
+                    "duration": 481.548,
+                    "bitRate": 106.28142859071163
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b8/nwt_34_Na_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 05:38:36",
+                        "checksum": "7e66b4f8b9777b34d15730a6a95c131a"
+                    },
+                    "filesize": 9948945,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.674,
+                    "duration": 754.354,
+                    "bitRate": 103.03668146851477
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2e/nwt_34_Na_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:37:02",
+                        "checksum": "aeea7ac876fd861dbc762fe775848c5b"
+                    },
+                    "filesize": 12448070,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 520.553,
+                    "bitRate": 186.82160486060016
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/53/nwt_34_Na_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:43:02",
+                        "checksum": "c4f92763b794998618711724103b40f7"
+                    },
+                    "filesize": 12221382,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 481.548,
+                    "bitRate": 198.2762816479354
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/88/nwt_34_Na_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:49:39",
+                        "checksum": "12ba682cba5589f183d265ff96d154a5"
+                    },
+                    "filesize": 18737897,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 754.354,
+                    "bitRate": 194.05984499651356
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f4/nwt_34_Na_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:36:02",
+                        "checksum": "7616e3c523d7be3d2ada567866446b5e"
+                    },
+                    "filesize": 26352867,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 520.553,
+                    "bitRate": 395.50588208597395
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0c/nwt_34_Na_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:41:02",
+                        "checksum": "553b0c0400da2dbe65b6f6fc2c52bcfc"
+                    },
+                    "filesize": 25833691,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 481.548,
+                    "bitRate": 419.11857371954613
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/95/nwt_34_Na_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:49:43",
+                        "checksum": "8f1131f419c355a3f9b184a633fc8666"
+                    },
+                    "filesize": 39622160,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 754.354,
+                    "bitRate": 410.3486227951333
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f7/nwt_34_Na_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:39:02",
+                        "checksum": "f1fa0240b6142966701b9b4c355eb26f"
+                    },
+                    "filesize": 61846822,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 34,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:00.066",
+                                "verseNumber": 1,
+                                "startTime": "00:00:30.296",
+                                "label": "Naum 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.865",
+                                "verseNumber": 2,
+                                "startTime": "00:00:30.363",
+                                "label": "Naum 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.949",
+                                "verseNumber": 3,
+                                "startTime": "00:01:02.228",
+                                "label": "Naum 1:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:51.785",
+                                "verseNumber": 4,
+                                "startTime": "00:01:52.178",
+                                "label": "Naum 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.058",
+                                "verseNumber": 5,
+                                "startTime": "00:02:43.963",
+                                "label": "Naum 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.328",
+                                "verseNumber": 6,
+                                "startTime": "00:03:09.022",
+                                "label": "Naum 1:6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:22.756",
+                                "verseNumber": 7,
+                                "startTime": "00:03:37.350",
+                                "label": "Naum 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.665",
+                                "verseNumber": 8,
+                                "startTime": "00:04:00.106",
+                                "label": "Naum 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.454",
+                                "verseNumber": 9,
+                                "startTime": "00:04:32.772",
+                                "label": "Naum 1:9",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:45.245",
+                                "verseNumber": 10,
+                                "startTime": "00:04:54.227",
+                                "label": "Naum 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.153",
+                                "verseNumber": 11,
+                                "startTime": "00:05:39.472",
+                                "label": "Naum 1:11",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:35.268",
+                                "verseNumber": 12,
+                                "startTime": "00:05:59.625",
+                                "label": "Naum 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.793",
+                                "verseNumber": 13,
+                                "startTime": "00:06:34.894",
+                                "label": "Naum 1:13",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:40.473",
+                                "verseNumber": 14,
+                                "startTime": "00:07:01.687",
+                                "label": "Naum 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.391",
+                                "verseNumber": 15,
+                                "startTime": "00:07:42.161",
+                                "label": "Naum 1:15",
+                                "endTransitionDuration": "00:00:08.675"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:30.296",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 520.553,
+                    "bitRate": 928.2019254043296
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c3/nwt_34_Na_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:40:03",
+                        "checksum": "4f48a44ebc03d2679b3a6ac20bc856a9"
+                    },
+                    "filesize": 60127125,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 34,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:37.370",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.035",
+                                "label": "Naum 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.708",
+                                "verseNumber": 2,
+                                "startTime": "00:00:39.406",
+                                "label": "Naum 2:2",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:32.665",
+                                "verseNumber": 3,
+                                "startTime": "00:01:21.114",
+                                "label": "Naum 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.932",
+                                "verseNumber": 4,
+                                "startTime": "00:01:53.780",
+                                "label": "Naum 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.906",
+                                "verseNumber": 5,
+                                "startTime": "00:02:26.713",
+                                "label": "Naum 2:5",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:21.221",
+                                "verseNumber": 6,
+                                "startTime": "00:03:06.619",
+                                "label": "Naum 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.470",
+                                "verseNumber": 7,
+                                "startTime": "00:03:27.840",
+                                "label": "Naum 2:7",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:42.409",
+                                "verseNumber": 8,
+                                "startTime": "00:04:05.311",
+                                "label": "Naum 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.675",
+                                "verseNumber": 9,
+                                "startTime": "00:04:47.720",
+                                "label": "Naum 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.791",
+                                "verseNumber": 10,
+                                "startTime": "00:04:56.396",
+                                "label": "Naum 2:10",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:37.904",
+                                "verseNumber": 11,
+                                "startTime": "00:05:21.187",
+                                "label": "Naum 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.057",
+                                "verseNumber": 12,
+                                "startTime": "00:05:59.092",
+                                "label": "Naum 2:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:05.398",
+                                "verseNumber": 13,
+                                "startTime": "00:06:56.149",
+                                "label": "Naum 2:13",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.035",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 481.548,
+                    "bitRate": 975.4856505737746
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6b/nwt_34_Na_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:49:35",
+                        "checksum": "b367ee158b72bd20f0d7f3ff9379ddc0"
+                    },
+                    "filesize": 92727827,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 34,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:40.673",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.068",
+                                "label": "Naum 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.887",
+                                "verseNumber": 2,
+                                "startTime": "00:00:42.742",
+                                "label": "Naum 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.534",
+                                "verseNumber": 3,
+                                "startTime": "00:01:03.630",
+                                "label": "Naum 3:3",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:38.304",
+                                "verseNumber": 4,
+                                "startTime": "00:01:38.164",
+                                "label": "Naum 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.054",
+                                "verseNumber": 5,
+                                "startTime": "00:02:16.469",
+                                "label": "Naum 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.981",
+                                "verseNumber": 6,
+                                "startTime": "00:02:37.524",
+                                "label": "Naum 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.231",
+                                "verseNumber": 7,
+                                "startTime": "00:02:52.505",
+                                "label": "Naum 3:7",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:51.017",
+                                "verseNumber": 8,
+                                "startTime": "00:03:23.736",
+                                "label": "Naum 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.755",
+                                "verseNumber": 9,
+                                "startTime": "00:04:14.754",
+                                "label": "Naum 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:06.266",
+                                "verseNumber": 10,
+                                "startTime": "00:04:36.509",
+                                "label": "Naum 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.067",
+                                "verseNumber": 11,
+                                "startTime": "00:05:42.775",
+                                "label": "Naum 3:11",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:34.000",
+                                "verseNumber": 12,
+                                "startTime": "00:06:16.843",
+                                "label": "Naum 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.695",
+                                "verseNumber": 13,
+                                "startTime": "00:06:50.843",
+                                "label": "Naum 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.713",
+                                "verseNumber": 14,
+                                "startTime": "00:07:19.539",
+                                "label": "Naum 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.316",
+                                "verseNumber": 15,
+                                "startTime": "00:08:06.252",
+                                "label": "Naum 3:15",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:49.015",
+                                "verseNumber": 16,
+                                "startTime": "00:08:56.569",
+                                "label": "Naum 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.221",
+                                "verseNumber": 17,
+                                "startTime": "00:09:45.585",
+                                "label": "Naum 3:17",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:55.021",
+                                "verseNumber": 18,
+                                "startTime": "00:10:40.806",
+                                "label": "Naum 3:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.525",
+                                "verseNumber": 19,
+                                "startTime": "00:11:35.828",
+                                "label": "Naum 3:19",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.068",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 34,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 754.354,
+                    "bitRate": 960.3397720930756
+                }
+            ]
+        }
+    }
+}

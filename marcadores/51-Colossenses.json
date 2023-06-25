@@ -1,0 +1,1308 @@
+{
+    "pubName": "Colossenses",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 51,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "https://download-a.akamaihd.net/files/media_publication/03/nwt_51_Col_LSB.jpg",
+        "modifiedDatetime": "2019-01-19T23:09:01+00:00",
+        "checksum": "147b3fac80c582b71548997ace506ddc"
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/83/nwt_51_Col_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-11 02:30:12",
+                        "checksum": "43244df10e618705334c91a7b814d037"
+                    },
+                    "filesize": 19679661,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cb/nwt_51_Col_LSB_01.jpg",
+                        "modifiedDatetime": "2019-11-26T14:54:05+00:00",
+                        "checksum": "6ecb63e39693da8476600a1ae2552021"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.24,
+                    "duration": 1097.863,
+                    "bitRate": 140.04238376054207
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6a/nwt_51_Col_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 03:06:49",
+                        "checksum": "8d7483f96b3928f6bcbe48db3429eb69"
+                    },
+                    "filesize": 16446939,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b6/nwt_51_Col_LSB_02.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:05+00:00",
+                        "checksum": "29f8497d0b61d000814d374d1cdaffbc"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.88,
+                    "duration": 972.905,
+                    "bitRate": 132.07015169775056
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_51_Col_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 07:35:25",
+                        "checksum": "e4d18a99097b746e67c0988fdedfac06"
+                    },
+                    "filesize": 14765228,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/63/nwt_51_Col_LSB_03.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:27+00:00",
+                        "checksum": "73d7bd80b7ffb53d9f35c562a9a009ba"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.586,
+                    "duration": 840.273,
+                    "bitRate": 137.2807929684757
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/07/nwt_51_Col_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-28 01:59:59",
+                        "checksum": "440b434e76678ca708792a71d82ad803"
+                    },
+                    "filesize": 11056067,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/13/nwt_51_Col_LSB_04.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:52+00:00",
+                        "checksum": "658283e337e2b0621a5a0da5a2610fe2"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.268,
+                    "duration": 656.222,
+                    "bitRate": 131.62546125777558
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e7/nwt_51_Col_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:53:06",
+                        "checksum": "f9205481f4378eecaab8ebcaa18ec9bb"
+                    },
+                    "filesize": 34880016,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cb/nwt_51_Col_LSB_01.jpg",
+                        "modifiedDatetime": "2019-11-26T14:54:05+00:00",
+                        "checksum": "6ecb63e39693da8476600a1ae2552021"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1097.863,
+                    "bitRate": 248.20958990329393
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d8/nwt_51_Col_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:54:01",
+                        "checksum": "211f5f85ec4e3da93b0412ea4fab2d5d"
+                    },
+                    "filesize": 29057988,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b6/nwt_51_Col_LSB_02.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:05+00:00",
+                        "checksum": "29f8497d0b61d000814d374d1cdaffbc"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 972.905,
+                    "bitRate": 233.337819468499
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/51/nwt_51_Col_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:55:23",
+                        "checksum": "2d8cd83377761f1371c2361dd4ca084b"
+                    },
+                    "filesize": 26062809,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/63/nwt_51_Col_LSB_03.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:27+00:00",
+                        "checksum": "73d7bd80b7ffb53d9f35c562a9a009ba"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 840.273,
+                    "bitRate": 242.320882989814
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/34/nwt_51_Col_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:54:16",
+                        "checksum": "d54e14d95e689fde7311a8bd4efa9e49"
+                    },
+                    "filesize": 19461069,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/13/nwt_51_Col_LSB_04.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:52+00:00",
+                        "checksum": "658283e337e2b0621a5a0da5a2610fe2"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 656.222,
+                    "bitRate": 231.6892782663489
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b1/nwt_51_Col_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:54:33",
+                        "checksum": "86fc05fbd035ac02c80139ec4ea3d61e"
+                    },
+                    "filesize": 74489437,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cb/nwt_51_Col_LSB_01.jpg",
+                        "modifiedDatetime": "2019-11-26T14:54:05+00:00",
+                        "checksum": "6ecb63e39693da8476600a1ae2552021"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1097.863,
+                    "bitRate": 530.0740862589412
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/33/nwt_51_Col_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:54:21",
+                        "checksum": "54c14e2fe92fab4338a1d3a35dd463fc"
+                    },
+                    "filesize": 62405289,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b6/nwt_51_Col_LSB_02.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:05+00:00",
+                        "checksum": "29f8497d0b61d000814d374d1cdaffbc"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 972.905,
+                    "bitRate": 501.1191435057894
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/03/nwt_51_Col_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:54:11",
+                        "checksum": "fd39195ddc534c72030b4835a20b874d"
+                    },
+                    "filesize": 55689345,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/63/nwt_51_Col_LSB_03.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:27+00:00",
+                        "checksum": "73d7bd80b7ffb53d9f35c562a9a009ba"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 840.273,
+                    "bitRate": 517.7757797912107
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b6/nwt_51_Col_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:53:10",
+                        "checksum": "8c193471c14efcc6ebf03e959a45be1a"
+                    },
+                    "filesize": 41716324,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/13/nwt_51_Col_LSB_04.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:52+00:00",
+                        "checksum": "658283e337e2b0621a5a0da5a2610fe2"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 656.222,
+                    "bitRate": 496.6440949099543
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ea/nwt_51_Col_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:55:32",
+                        "checksum": "74fa3c31783116b15f3df6d3760e269a"
+                    },
+                    "filesize": 157994041,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cb/nwt_51_Col_LSB_01.jpg",
+                        "modifiedDatetime": "2019-11-26T14:54:05+00:00",
+                        "checksum": "6ecb63e39693da8476600a1ae2552021"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 51,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:26.393",
+                                "verseNumber": 1,
+                                "startTime": "00:00:14.381",
+                                "label": "Colossenses 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:51.484",
+                                "verseNumber": 2,
+                                "startTime": "00:00:40.774",
+                                "label": "Colossenses 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.990",
+                                "verseNumber": 3,
+                                "startTime": "00:01:32.258",
+                                "label": "Colossenses 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.094",
+                                "verseNumber": 4,
+                                "startTime": "00:01:56.249",
+                                "label": "Colossenses 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.336",
+                                "verseNumber": 5,
+                                "startTime": "00:02:24.344",
+                                "label": "Colossenses 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.407",
+                                "verseNumber": 6,
+                                "startTime": "00:03:00.680",
+                                "label": "Colossenses 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.981",
+                                "verseNumber": 7,
+                                "startTime": "00:03:41.087",
+                                "label": "Colossenses 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.690",
+                                "verseNumber": 8,
+                                "startTime": "00:04:29.068",
+                                "label": "Colossenses 1:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:35.101",
+                                "verseNumber": 9,
+                                "startTime": "00:04:52.759",
+                                "label": "Colossenses 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.063",
+                                "verseNumber": 10,
+                                "startTime": "00:05:27.860",
+                                "label": "Colossenses 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.964",
+                                "verseNumber": 11,
+                                "startTime": "00:05:57.924",
+                                "label": "Colossenses 1:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.376",
+                                "verseNumber": 12,
+                                "startTime": "00:06:28.888",
+                                "label": "Colossenses 1:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:43.143",
+                                "verseNumber": 13,
+                                "startTime": "00:07:12.265",
+                                "label": "Colossenses 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.457",
+                                "verseNumber": 14,
+                                "startTime": "00:07:55.408",
+                                "label": "Colossenses 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.171",
+                                "verseNumber": 15,
+                                "startTime": "00:08:19.866",
+                                "label": "Colossenses 1:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:29.556",
+                                "verseNumber": 16,
+                                "startTime": "00:08:58.037",
+                                "label": "Colossenses 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.484",
+                                "verseNumber": 17,
+                                "startTime": "00:10:27.593",
+                                "label": "Colossenses 1:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.103",
+                                "verseNumber": 18,
+                                "startTime": "00:10:45.077",
+                                "label": "Colossenses 1:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.416",
+                                "verseNumber": 19,
+                                "startTime": "00:11:22.181",
+                                "label": "Colossenses 1:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.087",
+                                "verseNumber": 20,
+                                "startTime": "00:11:38.597",
+                                "label": "Colossenses 1:20",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.054",
+                                "verseNumber": 21,
+                                "startTime": "00:12:32.685",
+                                "label": "Colossenses 1:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.456",
+                                "verseNumber": 22,
+                                "startTime": "00:12:53.739",
+                                "label": "Colossenses 1:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:20.413",
+                                "verseNumber": 23,
+                                "startTime": "00:13:17.196",
+                                "label": "Colossenses 1:23",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:40.373",
+                                "verseNumber": 24,
+                                "startTime": "00:14:37.610",
+                                "label": "Colossenses 1:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.518",
+                                "verseNumber": 25,
+                                "startTime": "00:15:17.983",
+                                "label": "Colossenses 1:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:07.867",
+                                "verseNumber": 26,
+                                "startTime": "00:15:36.502",
+                                "label": "Colossenses 1:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.372",
+                                "verseNumber": 27,
+                                "startTime": "00:16:44.370",
+                                "label": "Colossenses 1:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.689",
+                                "verseNumber": 28,
+                                "startTime": "00:17:23.742",
+                                "label": "Colossenses 1:28",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.431",
+                                "verseNumber": 29,
+                                "startTime": "00:17:46.432",
+                                "label": "Colossenses 1:29",
+                                "endTransitionDuration": "00:00:11.678"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:14.381",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1097.863,
+                    "bitRate": 1124.3009786398666
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8f/nwt_51_Col_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:55:01",
+                        "checksum": "7c97c9bc9a7c658cbb769a6837876be9"
+                    },
+                    "filesize": 134092523,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b6/nwt_51_Col_LSB_02.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:05+00:00",
+                        "checksum": "29f8497d0b61d000814d374d1cdaffbc"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 51,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:54.020",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Colossenses 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.425",
+                                "verseNumber": 2,
+                                "startTime": "00:00:55.989",
+                                "label": "Colossenses 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:51.251",
+                                "verseNumber": 3,
+                                "startTime": "00:01:54.414",
+                                "label": "Colossenses 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.924",
+                                "verseNumber": 4,
+                                "startTime": "00:02:45.665",
+                                "label": "Colossenses 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.634",
+                                "verseNumber": 5,
+                                "startTime": "00:03:10.590",
+                                "label": "Colossenses 2:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.221",
+                                "verseNumber": 6,
+                                "startTime": "00:03:45.225",
+                                "label": "Colossenses 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.126",
+                                "verseNumber": 7,
+                                "startTime": "00:04:06.446",
+                                "label": "Colossenses 2:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:46.780",
+                                "verseNumber": 8,
+                                "startTime": "00:05:06.572",
+                                "label": "Colossenses 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.851",
+                                "verseNumber": 9,
+                                "startTime": "00:05:53.353",
+                                "label": "Colossenses 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.322",
+                                "verseNumber": 10,
+                                "startTime": "00:06:11.204",
+                                "label": "Colossenses 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.157",
+                                "verseNumber": 11,
+                                "startTime": "00:06:33.526",
+                                "label": "Colossenses 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.223",
+                                "verseNumber": 12,
+                                "startTime": "00:06:57.683",
+                                "label": "Colossenses 2:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:35.235",
+                                "verseNumber": 13,
+                                "startTime": "00:07:54.907",
+                                "label": "Colossenses 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.016",
+                                "verseNumber": 14,
+                                "startTime": "00:08:30.142",
+                                "label": "Colossenses 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.929",
+                                "verseNumber": 15,
+                                "startTime": "00:09:20.159",
+                                "label": "Colossenses 2:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:07.033",
+                                "verseNumber": 16,
+                                "startTime": "00:09:50.089",
+                                "label": "Colossenses 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.969",
+                                "verseNumber": 17,
+                                "startTime": "00:10:57.123",
+                                "label": "Colossenses 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:04.130",
+                                "verseNumber": 18,
+                                "startTime": "00:11:33.092",
+                                "label": "Colossenses 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:10.670",
+                                "verseNumber": 19,
+                                "startTime": "00:12:37.223",
+                                "label": "Colossenses 2:19",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:50.116",
+                                "verseNumber": 20,
+                                "startTime": "00:13:47.893",
+                                "label": "Colossenses 2:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.779",
+                                "verseNumber": 21,
+                                "startTime": "00:14:38.010",
+                                "label": "Colossenses 2:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.018",
+                                "verseNumber": 22,
+                                "startTime": "00:14:50.789",
+                                "label": "Colossenses 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:04.097",
+                                "verseNumber": 23,
+                                "startTime": "00:15:08.807",
+                                "label": "Colossenses 2:23",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 972.905,
+                    "bitRate": 1076.773000382874
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/7c/nwt_51_Col_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:56:21",
+                        "checksum": "3e871775af709562fcc075f9d0fd7c6c"
+                    },
+                    "filesize": 118620020,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/63/nwt_51_Col_LSB_03.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:27+00:00",
+                        "checksum": "73d7bd80b7ffb53d9f35c562a9a009ba"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 51,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:44.978",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Colossenses 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.606",
+                                "verseNumber": 2,
+                                "startTime": "00:00:46.946",
+                                "label": "Colossenses 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.715",
+                                "verseNumber": 3,
+                                "startTime": "00:00:53.553",
+                                "label": "Colossenses 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.626",
+                                "verseNumber": 4,
+                                "startTime": "00:01:09.269",
+                                "label": "Colossenses 3:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:09.002",
+                                "verseNumber": 5,
+                                "startTime": "00:01:35.895",
+                                "label": "Colossenses 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.909",
+                                "verseNumber": 6,
+                                "startTime": "00:02:44.898",
+                                "label": "Colossenses 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.076",
+                                "verseNumber": 7,
+                                "startTime": "00:02:54.807",
+                                "label": "Colossenses 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.735",
+                                "verseNumber": 8,
+                                "startTime": "00:03:04.884",
+                                "label": "Colossenses 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.863",
+                                "verseNumber": 9,
+                                "startTime": "00:03:40.620",
+                                "label": "Colossenses 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.029",
+                                "verseNumber": 10,
+                                "startTime": "00:04:10.483",
+                                "label": "Colossenses 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:02.996",
+                                "verseNumber": 11,
+                                "startTime": "00:04:39.512",
+                                "label": "Colossenses 3:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:47.280",
+                                "verseNumber": 12,
+                                "startTime": "00:05:42.508",
+                                "label": "Colossenses 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.593",
+                                "verseNumber": 13,
+                                "startTime": "00:06:29.789",
+                                "label": "Colossenses 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.913",
+                                "verseNumber": 14,
+                                "startTime": "00:07:30.383",
+                                "label": "Colossenses 3:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:41.374",
+                                "verseNumber": 15,
+                                "startTime": "00:08:17.296",
+                                "label": "Colossenses 3:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.090",
+                                "verseNumber": 16,
+                                "startTime": "00:08:58.671",
+                                "label": "Colossenses 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.510",
+                                "verseNumber": 17,
+                                "startTime": "00:09:55.761",
+                                "label": "Colossenses 3:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.417",
+                                "verseNumber": 18,
+                                "startTime": "00:10:39.271",
+                                "label": "Colossenses 3:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.411",
+                                "verseNumber": 19,
+                                "startTime": "00:10:56.689",
+                                "label": "Colossenses 3:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.458",
+                                "verseNumber": 20,
+                                "startTime": "00:11:08.100",
+                                "label": "Colossenses 3:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.418",
+                                "verseNumber": 21,
+                                "startTime": "00:11:33.559",
+                                "label": "Colossenses 3:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.614",
+                                "verseNumber": 22,
+                                "startTime": "00:11:51.977",
+                                "label": "Colossenses 3:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.926",
+                                "verseNumber": 23,
+                                "startTime": "00:12:39.592",
+                                "label": "Colossenses 3:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.690",
+                                "verseNumber": 24,
+                                "startTime": "00:13:06.519",
+                                "label": "Colossenses 3:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.063",
+                                "verseNumber": 25,
+                                "startTime": "00:13:30.209",
+                                "label": "Colossenses 3:25",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 840.273,
+                    "bitRate": 1102.878357688513
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/48/nwt_51_Col_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 14:54:45",
+                        "checksum": "a29a88143c2d7d78805fbdd18b5c1c78"
+                    },
+                    "filesize": 89747665,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/13/nwt_51_Col_LSB_04.jpg",
+                        "modifiedDatetime": "2019-11-26T14:53:52+00:00",
+                        "checksum": "658283e337e2b0621a5a0da5a2610fe2"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 51,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:34.968",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Colossenses 4:1",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.684",
+                                "verseNumber": 2,
+                                "startTime": "00:00:36.936",
+                                "label": "Colossenses 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:11.638",
+                                "verseNumber": 3,
+                                "startTime": "00:00:54.621",
+                                "label": "Colossenses 4:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.215",
+                                "verseNumber": 4,
+                                "startTime": "00:02:06.259",
+                                "label": "Colossenses 4:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:23.757",
+                                "verseNumber": 5,
+                                "startTime": "00:02:21.474",
+                                "label": "Colossenses 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:02.962",
+                                "verseNumber": 6,
+                                "startTime": "00:02:45.231",
+                                "label": "Colossenses 4:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.127",
+                                "verseNumber": 7,
+                                "startTime": "00:03:48.194",
+                                "label": "Colossenses 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.181",
+                                "verseNumber": 8,
+                                "startTime": "00:04:15.321",
+                                "label": "Colossenses 4:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.870",
+                                "verseNumber": 9,
+                                "startTime": "00:04:30.503",
+                                "label": "Colossenses 4:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:40.173",
+                                "verseNumber": 10,
+                                "startTime": "00:05:07.373",
+                                "label": "Colossenses 4:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.712",
+                                "verseNumber": 11,
+                                "startTime": "00:05:47.547",
+                                "label": "Colossenses 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.913",
+                                "verseNumber": 12,
+                                "startTime": "00:06:33.259",
+                                "label": "Colossenses 4:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.358",
+                                "verseNumber": 13,
+                                "startTime": "00:07:20.173",
+                                "label": "Colossenses 4:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:25.592",
+                                "verseNumber": 14,
+                                "startTime": "00:07:45.531",
+                                "label": "Colossenses 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.634",
+                                "verseNumber": 15,
+                                "startTime": "00:08:11.123",
+                                "label": "Colossenses 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.058",
+                                "verseNumber": 16,
+                                "startTime": "00:08:45.758",
+                                "label": "Colossenses 4:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.461",
+                                "verseNumber": 17,
+                                "startTime": "00:09:43.816",
+                                "label": "Colossenses 4:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.943",
+                                "verseNumber": 18,
+                                "startTime": "00:10:12.278",
+                                "label": "Colossenses 4:18",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 51,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 656.222,
+                    "bitRate": 1068.4701713939794
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1238 @@
+{
+    "pubName": "Rute",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 8,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/09/nwt_08_Ru_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:23",
+                        "checksum": "6b56de11cb977aa9abff6f9b338bcd0a"
+                    },
+                    "filesize": 8727549,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5c/nwt_08_Ru_LSB_01.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:18+00:00",
+                        "checksum": "0d7babf86a1047a1703831b414f9d248"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.88,
+                    "duration": 560.911,
+                    "bitRate": 121.55934999046195
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9e/nwt_08_Ru_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:49",
+                        "checksum": "5a90db9c63e5c8c6ba10c4515ca46b72"
+                    },
+                    "filesize": 9734866,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f8/nwt_08_Ru_LSB_02.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:43+00:00",
+                        "checksum": "79d0ee39458fe650c94fa2641187e148"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.851,
+                    "duration": 648.581,
+                    "bitRate": 117.26159203707786
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b4/nwt_08_Ru_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:36:12",
+                        "checksum": "22825f42d43aa24328857266867306fa"
+                    },
+                    "filesize": 5785477,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0b/nwt_08_Ru_LSB_03.jpg",
+                        "modifiedDatetime": "2021-09-09T13:36:09+00:00",
+                        "checksum": "f96f0be42caa3f1184158350ed918929"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.615,
+                    "duration": 387.62,
+                    "bitRate": 116.60657102961663
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/37/nwt_08_Ru_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:09",
+                        "checksum": "52c0147921fcb6163c5ff06860aa914a"
+                    },
+                    "filesize": 8632798,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d7/nwt_08_Ru_LSB_04.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:00+00:00",
+                        "checksum": "12c59756bb591095bbe8ebcfd5089d28"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.383,
+                    "duration": 586.686,
+                    "bitRate": 114.9571225067583
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a5/nwt_08_Ru_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:29",
+                        "checksum": "586ff20f4423667f36cd81a8280c776c"
+                    },
+                    "filesize": 15373143,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5c/nwt_08_Ru_LSB_01.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:18+00:00",
+                        "checksum": "0d7babf86a1047a1703831b414f9d248"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 560.911,
+                    "bitRate": 214.1207423058204
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/aa/nwt_08_Ru_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:53",
+                        "checksum": "4d8193e2544561d1e839e3e8853294ee"
+                    },
+                    "filesize": 17223051,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f8/nwt_08_Ru_LSB_02.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:43+00:00",
+                        "checksum": "79d0ee39458fe650c94fa2641187e148"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 648.581,
+                    "bitRate": 207.4607272453248
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/68/nwt_08_Ru_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:36:14",
+                        "checksum": "673a71574e9506717d9e990cc2a6967e"
+                    },
+                    "filesize": 10119876,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0b/nwt_08_Ru_LSB_03.jpg",
+                        "modifiedDatetime": "2021-09-09T13:36:09+00:00",
+                        "checksum": "f96f0be42caa3f1184158350ed918929"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 387.62,
+                    "bitRate": 203.9665942159847
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b5/nwt_08_Ru_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:11",
+                        "checksum": "129d76a4509210ea5d8dbfbcdb9d5919"
+                    },
+                    "filesize": 15277535,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d7/nwt_08_Ru_LSB_04.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:00+00:00",
+                        "checksum": "12c59756bb591095bbe8ebcfd5089d28"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 586.686,
+                    "bitRate": 203.4405835276451
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/38/nwt_08_Ru_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:34",
+                        "checksum": "c6bc77539b54b3eb9941f7a2ce10dcd8"
+                    },
+                    "filesize": 31558287,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5c/nwt_08_Ru_LSB_01.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:18+00:00",
+                        "checksum": "0d7babf86a1047a1703831b414f9d248"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 560.911,
+                    "bitRate": 439.5512250383751
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f4/nwt_08_Ru_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:59",
+                        "checksum": "1c2a28ba90164b9ba8e5d0188234fbcf"
+                    },
+                    "filesize": 35343547,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f8/nwt_08_Ru_LSB_02.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:43+00:00",
+                        "checksum": "79d0ee39458fe650c94fa2641187e148"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 648.581,
+                    "bitRate": 425.7316525422422
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5d/nwt_08_Ru_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:34:53",
+                        "checksum": "94d25b6a5bf5bf16c91c66e378122d7e"
+                    },
+                    "filesize": 20720637,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0b/nwt_08_Ru_LSB_03.jpg",
+                        "modifiedDatetime": "2021-09-09T13:36:09+00:00",
+                        "checksum": "f96f0be42caa3f1184158350ed918929"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 387.62,
+                    "bitRate": 417.62544905448635
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/22/nwt_08_Ru_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:13",
+                        "checksum": "d7d20ee0a07773c6e9c0f4868fa787ef"
+                    },
+                    "filesize": 31515090,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d7/nwt_08_Ru_LSB_04.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:00+00:00",
+                        "checksum": "12c59756bb591095bbe8ebcfd5089d28"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 586.686,
+                    "bitRate": 419.66510301080984
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/65/nwt_08_Ru_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:38",
+                        "checksum": "b296165c5d5eb3beb8551036f1d24a25"
+                    },
+                    "filesize": 62513033,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5c/nwt_08_Ru_LSB_01.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:18+00:00",
+                        "checksum": "0d7babf86a1047a1703831b414f9d248"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 8,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:36.136",
+                                "verseNumber": 1,
+                                "startTime": "00:00:09.509",
+                                "label": "Rute 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.476",
+                                "verseNumber": 2,
+                                "startTime": "00:00:45.645",
+                                "label": "Rute 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.409",
+                                "verseNumber": 3,
+                                "startTime": "00:01:29.122",
+                                "label": "Rute 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.858",
+                                "verseNumber": 4,
+                                "startTime": "00:01:38.531",
+                                "label": "Rute 1:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:13.880",
+                                "verseNumber": 5,
+                                "startTime": "00:02:03.389",
+                                "label": "Rute 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.117",
+                                "verseNumber": 6,
+                                "startTime": "00:02:17.270",
+                                "label": "Rute 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.175",
+                                "verseNumber": 7,
+                                "startTime": "00:02:34.387",
+                                "label": "Rute 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.070",
+                                "verseNumber": 8,
+                                "startTime": "00:02:43.563",
+                                "label": "Rute 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.193",
+                                "verseNumber": 9,
+                                "startTime": "00:03:20.633",
+                                "label": "Rute 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.047",
+                                "verseNumber": 10,
+                                "startTime": "00:03:47.827",
+                                "label": "Rute 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.222",
+                                "verseNumber": 11,
+                                "startTime": "00:04:01.874",
+                                "label": "Rute 1:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.390",
+                                "verseNumber": 12,
+                                "startTime": "00:04:24.097",
+                                "label": "Rute 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.897",
+                                "verseNumber": 13,
+                                "startTime": "00:04:47.487",
+                                "label": "Rute 1:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.260",
+                                "verseNumber": 14,
+                                "startTime": "00:05:18.384",
+                                "label": "Rute 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.024",
+                                "verseNumber": 15,
+                                "startTime": "00:05:45.645",
+                                "label": "Rute 1:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.364",
+                                "verseNumber": 16,
+                                "startTime": "00:06:09.669",
+                                "label": "Rute 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.355",
+                                "verseNumber": 17,
+                                "startTime": "00:06:41.033",
+                                "label": "Rute 1:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:13.847",
+                                "verseNumber": 18,
+                                "startTime": "00:07:03.389",
+                                "label": "Rute 1:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.963",
+                                "verseNumber": 19,
+                                "startTime": "00:07:17.236",
+                                "label": "Rute 1:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.589",
+                                "verseNumber": 20,
+                                "startTime": "00:07:47.200",
+                                "label": "Rute 1:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.465",
+                                "verseNumber": 21,
+                                "startTime": "00:08:09.789",
+                                "label": "Rute 1:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.671",
+                                "verseNumber": 22,
+                                "startTime": "00:08:42.255",
+                                "label": "Rute 1:22",
+                                "endTransitionDuration": "00:00:08.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:09.509",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 560.911,
+                    "bitRate": 870.696189435579
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ec/nwt_08_Ru_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:36:03",
+                        "checksum": "9d1470566acc3a9344ec77b99fbd5e53"
+                    },
+                    "filesize": 69274262,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f8/nwt_08_Ru_LSB_02.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:43+00:00",
+                        "checksum": "79d0ee39458fe650c94fa2641187e148"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 8,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:25.625",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.501",
+                                "label": "Rute 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.304",
+                                "verseNumber": 2,
+                                "startTime": "00:00:27.127",
+                                "label": "Rute 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.198",
+                                "verseNumber": 3,
+                                "startTime": "00:01:05.432",
+                                "label": "Rute 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.720",
+                                "verseNumber": 4,
+                                "startTime": "00:01:37.630",
+                                "label": "Rute 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.917",
+                                "verseNumber": 5,
+                                "startTime": "00:01:58.351",
+                                "label": "Rute 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.111",
+                                "verseNumber": 6,
+                                "startTime": "00:02:16.269",
+                                "label": "Rute 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.328",
+                                "verseNumber": 7,
+                                "startTime": "00:02:27.380",
+                                "label": "Rute 2:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.784",
+                                "verseNumber": 8,
+                                "startTime": "00:02:55.708",
+                                "label": "Rute 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.201",
+                                "verseNumber": 9,
+                                "startTime": "00:03:13.493",
+                                "label": "Rute 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.950",
+                                "verseNumber": 10,
+                                "startTime": "00:03:48.695",
+                                "label": "Rute 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.593",
+                                "verseNumber": 11,
+                                "startTime": "00:04:05.645",
+                                "label": "Rute 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.488",
+                                "verseNumber": 12,
+                                "startTime": "00:04:32.238",
+                                "label": "Rute 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.772",
+                                "verseNumber": 13,
+                                "startTime": "00:04:53.726",
+                                "label": "Rute 2:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:03.296",
+                                "verseNumber": 14,
+                                "startTime": "00:05:32.498",
+                                "label": "Rute 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.860",
+                                "verseNumber": 15,
+                                "startTime": "00:06:35.795",
+                                "label": "Rute 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.490",
+                                "verseNumber": 16,
+                                "startTime": "00:07:02.655",
+                                "label": "Rute 2:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:38.805",
+                                "verseNumber": 17,
+                                "startTime": "00:07:26.145",
+                                "label": "Rute 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.896",
+                                "verseNumber": 18,
+                                "startTime": "00:08:04.951",
+                                "label": "Rute 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.425",
+                                "verseNumber": 19,
+                                "startTime": "00:08:34.847",
+                                "label": "Rute 2:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.629",
+                                "verseNumber": 20,
+                                "startTime": "00:09:00.273",
+                                "label": "Rute 2:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.652",
+                                "verseNumber": 21,
+                                "startTime": "00:09:29.902",
+                                "label": "Rute 2:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.055",
+                                "verseNumber": 22,
+                                "startTime": "00:09:49.555",
+                                "label": "Rute 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.970",
+                                "verseNumber": 23,
+                                "startTime": "00:10:11.611",
+                                "label": "Rute 2:23",
+                                "endTransitionDuration": "00:00:06.339"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.501",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 648.581,
+                    "bitRate": 834.4449989669756
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0d/nwt_08_Ru_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:34:57",
+                        "checksum": "7dca618791794a8735d1628cf11a30df"
+                    },
+                    "filesize": 40915052,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0b/nwt_08_Ru_LSB_03.jpg",
+                        "modifiedDatetime": "2021-09-09T13:36:09+00:00",
+                        "checksum": "f96f0be42caa3f1184158350ed918929"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 8,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:12.846",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.434",
+                                "label": "Rute 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.035",
+                                "verseNumber": 2,
+                                "startTime": "00:00:14.280",
+                                "label": "Rute 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.288",
+                                "verseNumber": 3,
+                                "startTime": "00:00:49.315",
+                                "label": "Rute 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.529",
+                                "verseNumber": 4,
+                                "startTime": "00:01:11.604",
+                                "label": "Rute 3:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:04.938",
+                                "verseNumber": 5,
+                                "startTime": "00:01:41.134",
+                                "label": "Rute 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.340",
+                                "verseNumber": 6,
+                                "startTime": "00:01:46.072",
+                                "label": "Rute 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.123",
+                                "verseNumber": 7,
+                                "startTime": "00:01:53.413",
+                                "label": "Rute 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.078",
+                                "verseNumber": 8,
+                                "startTime": "00:02:16.536",
+                                "label": "Rute 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.655",
+                                "verseNumber": 9,
+                                "startTime": "00:02:28.615",
+                                "label": "Rute 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.195",
+                                "verseNumber": 10,
+                                "startTime": "00:02:51.271",
+                                "label": "Rute 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.150",
+                                "verseNumber": 11,
+                                "startTime": "00:03:20.466",
+                                "label": "Rute 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.219",
+                                "verseNumber": 12,
+                                "startTime": "00:03:37.617",
+                                "label": "Rute 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.899",
+                                "verseNumber": 13,
+                                "startTime": "00:03:56.836",
+                                "label": "Rute 3:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.260",
+                                "verseNumber": 14,
+                                "startTime": "00:04:29.736",
+                                "label": "Rute 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.931",
+                                "verseNumber": 15,
+                                "startTime": "00:04:56.996",
+                                "label": "Rute 3:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.911",
+                                "verseNumber": 16,
+                                "startTime": "00:05:28.928",
+                                "label": "Rute 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.923",
+                                "verseNumber": 17,
+                                "startTime": "00:05:40.840",
+                                "label": "Rute 3:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.856",
+                                "verseNumber": 18,
+                                "startTime": "00:06:04.764",
+                                "label": "Rute 3:18",
+                                "endTransitionDuration": "00:00:05.338"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.434",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 387.62,
+                    "bitRate": 824.6448680408647
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e4/nwt_08_Ru_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2021-09-09 13:35:16",
+                        "checksum": "655301db02b7c5c6d5eb6c5ae0b5ba2b"
+                    },
+                    "filesize": 63064069,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d7/nwt_08_Ru_LSB_04.jpg",
+                        "modifiedDatetime": "2021-09-09T13:35:00+00:00",
+                        "checksum": "12c59756bb591095bbe8ebcfd5089d28"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 8,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:42.275",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.501",
+                                "label": "Rute 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.582",
+                                "verseNumber": 2,
+                                "startTime": "00:00:43.777",
+                                "label": "Rute 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.201",
+                                "verseNumber": 3,
+                                "startTime": "00:00:59.359",
+                                "label": "Rute 4:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.401",
+                                "verseNumber": 4,
+                                "startTime": "00:01:34.561",
+                                "label": "Rute 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.915",
+                                "verseNumber": 5,
+                                "startTime": "00:02:08.962",
+                                "label": "Rute 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.287",
+                                "verseNumber": 6,
+                                "startTime": "00:02:57.877",
+                                "label": "Rute 4:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.827",
+                                "verseNumber": 7,
+                                "startTime": "00:03:19.165",
+                                "label": "Rute 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.106",
+                                "verseNumber": 8,
+                                "startTime": "00:03:46.993",
+                                "label": "Rute 4:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.874",
+                                "verseNumber": 9,
+                                "startTime": "00:03:53.099",
+                                "label": "Rute 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:52.118",
+                                "verseNumber": 10,
+                                "startTime": "00:04:33.973",
+                                "label": "Rute 4:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.721",
+                                "verseNumber": 11,
+                                "startTime": "00:05:26.092",
+                                "label": "Rute 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.060",
+                                "verseNumber": 12,
+                                "startTime": "00:06:20.813",
+                                "label": "Rute 4:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:14.781",
+                                "verseNumber": 13,
+                                "startTime": "00:06:47.874",
+                                "label": "Rute 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.328",
+                                "verseNumber": 14,
+                                "startTime": "00:07:02.655",
+                                "label": "Rute 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.078",
+                                "verseNumber": 15,
+                                "startTime": "00:07:30.983",
+                                "label": "Rute 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.812",
+                                "verseNumber": 16,
+                                "startTime": "00:08:16.062",
+                                "label": "Rute 4:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.360",
+                                "verseNumber": 17,
+                                "startTime": "00:08:28.875",
+                                "label": "Rute 4:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:14.814",
+                                "verseNumber": 18,
+                                "startTime": "00:08:56.235",
+                                "label": "Rute 4:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.108",
+                                "verseNumber": 19,
+                                "startTime": "00:09:11.050",
+                                "label": "Rute 4:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.474",
+                                "verseNumber": 20,
+                                "startTime": "00:09:19.158",
+                                "label": "Rute 4:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.673",
+                                "verseNumber": 21,
+                                "startTime": "00:09:26.632",
+                                "label": "Rute 4:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.380",
+                                "verseNumber": 22,
+                                "startTime": "00:09:33.306",
+                                "label": "Rute 4:22",
+                                "endTransitionDuration": "00:00:06.006"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.501",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 8,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 586.686,
+                    "bitRate": 839.7814828758484
+                }
+            ]
+        }
+    }
+}

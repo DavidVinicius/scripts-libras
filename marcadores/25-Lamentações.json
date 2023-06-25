@@ -1,0 +1,1874 @@
+{
+    "pubName": "Lamenta\u00e7\u00f5es",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 25,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/63/nwt_25_La_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 09:25:57",
+                        "checksum": "b0525ac6e2bd8657d5f0dd22053e7513"
+                    },
+                    "filesize": 13359160,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.383,
+                    "duration": 876.676,
+                    "bitRate": 119.05018216536097
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/7b/nwt_25_La_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 01:32:16",
+                        "checksum": "fcc5cc529153f0cc0a2a19c80c8e529d"
+                    },
+                    "filesize": 13874527,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.703,
+                    "duration": 957.723,
+                    "bitRate": 113.17963773189116
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/56/nwt_25_La_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 09:26:01",
+                        "checksum": "3d8d1cce1e38ff16a5d1cc002dde4907"
+                    },
+                    "filesize": 15486603,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.441,
+                    "duration": 1052.418,
+                    "bitRate": 114.96295762472707
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/71/nwt_25_La_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 01:32:19",
+                        "checksum": "f2a8c4c3add8db283fa2396572bac855"
+                    },
+                    "filesize": 12843671,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.499,
+                    "duration": 902.168,
+                    "bitRate": 111.22227754420463
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/92/nwt_25_La_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-11 01:20:03",
+                        "checksum": "1cd60aa001ec47607d1ad41b55ca07db"
+                    },
+                    "filesize": 6842775,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.211,
+                    "duration": 458.491,
+                    "bitRate": 116.59810048070737
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/94/nwt_25_La_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:09",
+                        "checksum": "119c49433fdcc4f00a826f6d2129baf9"
+                    },
+                    "filesize": 22689837,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 876.676,
+                    "bitRate": 202.20052968542538
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e9/nwt_25_La_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:02",
+                        "checksum": "0901397957a01035d664fcd7f636dabf"
+                    },
+                    "filesize": 23681901,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 957.723,
+                    "bitRate": 193.18200728446536
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/64/nwt_25_La_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:55",
+                        "checksum": "fb12717ce07b7ed175de73af513e89c7"
+                    },
+                    "filesize": 26373301,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1052.418,
+                    "bitRate": 195.77906693205554
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cd/nwt_25_La_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:22:08",
+                        "checksum": "54aefd15f93a8dfc894ca0eaef625910"
+                    },
+                    "filesize": 21904057,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 902.168,
+                    "bitRate": 189.68245971094075
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/92/nwt_25_La_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:37",
+                        "checksum": "7c51009c581d6d368ec41d39ef259b56"
+                    },
+                    "filesize": 11495102,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 458.491,
+                    "bitRate": 195.871858716965
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/90/nwt_25_La_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:06",
+                        "checksum": "ea7882fcc5b2df2b61551c62d531b576"
+                    },
+                    "filesize": 44046395,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 876.676,
+                    "bitRate": 392.5195407853072
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6f/nwt_25_La_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:34",
+                        "checksum": "c5b494ae808b198305f046c0eba00a6a"
+                    },
+                    "filesize": 45970262,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 957.723,
+                    "bitRate": 374.99639444286083
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4d/nwt_25_La_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:19",
+                        "checksum": "3609ee2a4720e7388078190e1091adac"
+                    },
+                    "filesize": 51298616,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1052.418,
+                    "bitRate": 380.80918180798886
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d5/nwt_25_La_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:39",
+                        "checksum": "f3ff83bd296af27aeebc192078954a28"
+                    },
+                    "filesize": 42584169,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 902.168,
+                    "bitRate": 368.76592864355644
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/78/nwt_25_La_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:58",
+                        "checksum": "6a572956e93a20c41be4cc8fc41e5589"
+                    },
+                    "filesize": 22189167,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 458.491,
+                    "bitRate": 378.09437303567574
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4f/nwt_25_La_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:13",
+                        "checksum": "7b7f75989c0c19484d723a0661c6fe30"
+                    },
+                    "filesize": 77199968,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 25,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:51.851",
+                                "verseNumber": 1,
+                                "startTime": "00:00:09.075",
+                                "label": "Lamenta\u00e7\u00f5es 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.288",
+                                "verseNumber": 2,
+                                "startTime": "00:01:00.927",
+                                "label": "Lamenta\u00e7\u00f5es 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.631",
+                                "verseNumber": 3,
+                                "startTime": "00:01:23.216",
+                                "label": "Lamenta\u00e7\u00f5es 1:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:06.299",
+                                "verseNumber": 4,
+                                "startTime": "00:01:54.848",
+                                "label": "Lamenta\u00e7\u00f5es 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.611",
+                                "verseNumber": 5,
+                                "startTime": "00:03:01.147",
+                                "label": "Lamenta\u00e7\u00f5es 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.978",
+                                "verseNumber": 6,
+                                "startTime": "00:03:45.758",
+                                "label": "Lamenta\u00e7\u00f5es 1:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:48.915",
+                                "verseNumber": 7,
+                                "startTime": "00:04:30.737",
+                                "label": "Lamenta\u00e7\u00f5es 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.199",
+                                "verseNumber": 8,
+                                "startTime": "00:05:19.652",
+                                "label": "Lamenta\u00e7\u00f5es 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.980",
+                                "verseNumber": 9,
+                                "startTime": "00:05:52.852",
+                                "label": "Lamenta\u00e7\u00f5es 1:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:19.919",
+                                "verseNumber": 10,
+                                "startTime": "00:06:39.832",
+                                "label": "Lamenta\u00e7\u00f5es 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.778",
+                                "verseNumber": 11,
+                                "startTime": "00:06:59.752",
+                                "label": "Lamenta\u00e7\u00f5es 1:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.294",
+                                "verseNumber": 12,
+                                "startTime": "00:07:44.530",
+                                "label": "Lamenta\u00e7\u00f5es 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.137",
+                                "verseNumber": 13,
+                                "startTime": "00:08:12.825",
+                                "label": "Lamenta\u00e7\u00f5es 1:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.596",
+                                "verseNumber": 14,
+                                "startTime": "00:08:49.962",
+                                "label": "Lamenta\u00e7\u00f5es 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.182",
+                                "verseNumber": 15,
+                                "startTime": "00:09:19.559",
+                                "label": "Lamenta\u00e7\u00f5es 1:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.194",
+                                "verseNumber": 16,
+                                "startTime": "00:10:08.741",
+                                "label": "Lamenta\u00e7\u00f5es 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.477",
+                                "verseNumber": 17,
+                                "startTime": "00:10:36.936",
+                                "label": "Lamenta\u00e7\u00f5es 1:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:32.932",
+                                "verseNumber": 18,
+                                "startTime": "00:11:21.414",
+                                "label": "Lamenta\u00e7\u00f5es 1:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.271",
+                                "verseNumber": 19,
+                                "startTime": "00:11:54.346",
+                                "label": "Lamenta\u00e7\u00f5es 1:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.801",
+                                "verseNumber": 20,
+                                "startTime": "00:12:32.618",
+                                "label": "Lamenta\u00e7\u00f5es 1:20",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:51.885",
+                                "verseNumber": 21,
+                                "startTime": "00:13:07.419",
+                                "label": "Lamenta\u00e7\u00f5es 1:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.370",
+                                "verseNumber": 22,
+                                "startTime": "00:13:59.305",
+                                "label": "Lamenta\u00e7\u00f5es 1:22",
+                                "endTransitionDuration": "00:00:11.678"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:09.075",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 876.676,
+                    "bitRate": 687.9676756293088
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ab/nwt_25_La_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:43",
+                        "checksum": "6fca26d2bf4de794938eb76e5aedaaec"
+                    },
+                    "filesize": 80851831,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 25,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:47.914",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.034",
+                                "label": "Lamenta\u00e7\u00f5es 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:01.227",
+                                "verseNumber": 2,
+                                "startTime": "00:00:48.948",
+                                "label": "Lamenta\u00e7\u00f5es 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.744",
+                                "verseNumber": 3,
+                                "startTime": "00:01:50.176",
+                                "label": "Lamenta\u00e7\u00f5es 2:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:55.088",
+                                "verseNumber": 4,
+                                "startTime": "00:02:34.921",
+                                "label": "Lamenta\u00e7\u00f5es 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.049",
+                                "verseNumber": 5,
+                                "startTime": "00:03:30.009",
+                                "label": "Lamenta\u00e7\u00f5es 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.493",
+                                "verseNumber": 6,
+                                "startTime": "00:04:19.058",
+                                "label": "Lamenta\u00e7\u00f5es 2:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:52.752",
+                                "verseNumber": 7,
+                                "startTime": "00:05:19.552",
+                                "label": "Lamenta\u00e7\u00f5es 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:56.456",
+                                "verseNumber": 8,
+                                "startTime": "00:06:12.305",
+                                "label": "Lamenta\u00e7\u00f5es 2:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:44.744",
+                                "verseNumber": 9,
+                                "startTime": "00:07:08.761",
+                                "label": "Lamenta\u00e7\u00f5es 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.371",
+                                "verseNumber": 10,
+                                "startTime": "00:07:53.506",
+                                "label": "Lamenta\u00e7\u00f5es 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.470",
+                                "verseNumber": 11,
+                                "startTime": "00:08:31.878",
+                                "label": "Lamenta\u00e7\u00f5es 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.278",
+                                "verseNumber": 12,
+                                "startTime": "00:09:09.348",
+                                "label": "Lamenta\u00e7\u00f5es 2:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:46.513",
+                                "verseNumber": 13,
+                                "startTime": "00:09:54.627",
+                                "label": "Lamenta\u00e7\u00f5es 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.501",
+                                "verseNumber": 14,
+                                "startTime": "00:10:41.140",
+                                "label": "Lamenta\u00e7\u00f5es 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.463",
+                                "verseNumber": 15,
+                                "startTime": "00:11:15.641",
+                                "label": "Lamenta\u00e7\u00f5es 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.857",
+                                "verseNumber": 16,
+                                "startTime": "00:11:46.105",
+                                "label": "Lamenta\u00e7\u00f5es 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.728",
+                                "verseNumber": 17,
+                                "startTime": "00:12:09.962",
+                                "label": "Lamenta\u00e7\u00f5es 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.526",
+                                "verseNumber": 18,
+                                "startTime": "00:12:38.691",
+                                "label": "Lamenta\u00e7\u00f5es 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.749",
+                                "verseNumber": 19,
+                                "startTime": "00:13:05.217",
+                                "label": "Lamenta\u00e7\u00f5es 2:19",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:44.778",
+                                "verseNumber": 20,
+                                "startTime": "00:13:54.967",
+                                "label": "Lamenta\u00e7\u00f5es 2:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.595",
+                                "verseNumber": 21,
+                                "startTime": "00:14:39.745",
+                                "label": "Lamenta\u00e7\u00f5es 2:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.382",
+                                "verseNumber": 22,
+                                "startTime": "00:15:08.340",
+                                "label": "Lamenta\u00e7\u00f5es 2:22",
+                                "endTransitionDuration": "00:00:07.707"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.034",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 957.723,
+                    "bitRate": 659.5382273240801
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8d/nwt_25_La_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:23",
+                        "checksum": "fa5d32ac5916b61e815f8b213c11c526"
+                    },
+                    "filesize": 90334615,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 25,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:12.846",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.234",
+                                "label": "Lamenta\u00e7\u00f5es 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.077",
+                                "verseNumber": 2,
+                                "startTime": "00:00:14.080",
+                                "label": "Lamenta\u00e7\u00f5es 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.908",
+                                "verseNumber": 3,
+                                "startTime": "00:00:25.158",
+                                "label": "Lamenta\u00e7\u00f5es 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.018",
+                                "verseNumber": 4,
+                                "startTime": "00:00:34.067",
+                                "label": "Lamenta\u00e7\u00f5es 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.056",
+                                "verseNumber": 5,
+                                "startTime": "00:00:52.085",
+                                "label": "Lamenta\u00e7\u00f5es 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.889",
+                                "verseNumber": 6,
+                                "startTime": "00:01:15.141",
+                                "label": "Lamenta\u00e7\u00f5es 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.388",
+                                "verseNumber": 7,
+                                "startTime": "00:01:38.031",
+                                "label": "Lamenta\u00e7\u00f5es 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.012",
+                                "verseNumber": 8,
+                                "startTime": "00:01:59.419",
+                                "label": "Lamenta\u00e7\u00f5es 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.986",
+                                "verseNumber": 9,
+                                "startTime": "00:02:11.431",
+                                "label": "Lamenta\u00e7\u00f5es 3:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:11.945",
+                                "verseNumber": 10,
+                                "startTime": "00:02:31.417",
+                                "label": "Lamenta\u00e7\u00f5es 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.318",
+                                "verseNumber": 11,
+                                "startTime": "00:02:43.363",
+                                "label": "Lamenta\u00e7\u00f5es 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.147",
+                                "verseNumber": 12,
+                                "startTime": "00:03:01.681",
+                                "label": "Lamenta\u00e7\u00f5es 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.545",
+                                "verseNumber": 13,
+                                "startTime": "00:03:15.828",
+                                "label": "Lamenta\u00e7\u00f5es 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.257",
+                                "verseNumber": 14,
+                                "startTime": "00:03:28.374",
+                                "label": "Lamenta\u00e7\u00f5es 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.829",
+                                "verseNumber": 15,
+                                "startTime": "00:03:52.632",
+                                "label": "Lamenta\u00e7\u00f5es 3:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.394",
+                                "verseNumber": 16,
+                                "startTime": "00:04:22.462",
+                                "label": "Lamenta\u00e7\u00f5es 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.848",
+                                "verseNumber": 17,
+                                "startTime": "00:04:49.856",
+                                "label": "Lamenta\u00e7\u00f5es 3:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.084",
+                                "verseNumber": 18,
+                                "startTime": "00:05:04.704",
+                                "label": "Lamenta\u00e7\u00f5es 3:18",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.527",
+                                "verseNumber": 19,
+                                "startTime": "00:05:22.789",
+                                "label": "Lamenta\u00e7\u00f5es 3:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.274",
+                                "verseNumber": 20,
+                                "startTime": "00:05:50.316",
+                                "label": "Lamenta\u00e7\u00f5es 3:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.408",
+                                "verseNumber": 21,
+                                "startTime": "00:05:58.591",
+                                "label": "Lamenta\u00e7\u00f5es 3:21",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.391",
+                                "verseNumber": 22,
+                                "startTime": "00:06:06.999",
+                                "label": "Lamenta\u00e7\u00f5es 3:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.550",
+                                "verseNumber": 23,
+                                "startTime": "00:06:31.391",
+                                "label": "Lamenta\u00e7\u00f5es 3:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.812",
+                                "verseNumber": 24,
+                                "startTime": "00:06:48.941",
+                                "label": "Lamenta\u00e7\u00f5es 3:24",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.816",
+                                "verseNumber": 25,
+                                "startTime": "00:07:01.754",
+                                "label": "Lamenta\u00e7\u00f5es 3:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.713",
+                                "verseNumber": 26,
+                                "startTime": "00:07:18.571",
+                                "label": "Lamenta\u00e7\u00f5es 3:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.715",
+                                "verseNumber": 27,
+                                "startTime": "00:07:32.285",
+                                "label": "Lamenta\u00e7\u00f5es 3:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.843",
+                                "verseNumber": 28,
+                                "startTime": "00:07:48.000",
+                                "label": "Lamenta\u00e7\u00f5es 3:28",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.442",
+                                "verseNumber": 29,
+                                "startTime": "00:07:57.844",
+                                "label": "Lamenta\u00e7\u00f5es 3:29",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.481",
+                                "verseNumber": 30,
+                                "startTime": "00:08:07.286",
+                                "label": "Lamenta\u00e7\u00f5es 3:30",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.311",
+                                "verseNumber": 31,
+                                "startTime": "00:08:21.767",
+                                "label": "Lamenta\u00e7\u00f5es 3:31",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.419",
+                                "verseNumber": 32,
+                                "startTime": "00:08:33.079",
+                                "label": "Lamenta\u00e7\u00f5es 3:32",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.885",
+                                "verseNumber": 33,
+                                "startTime": "00:08:52.498",
+                                "label": "Lamenta\u00e7\u00f5es 3:33",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:10.910",
+                                "verseNumber": 34,
+                                "startTime": "00:09:11.384",
+                                "label": "Lamenta\u00e7\u00f5es 3:34",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.614",
+                                "verseNumber": 35,
+                                "startTime": "00:09:22.295",
+                                "label": "Lamenta\u00e7\u00f5es 3:35",
+                                "endTransitionDuration": "00:00:14.547"
+                            },
+                            {
+                                "duration": "00:00:31.664",
+                                "verseNumber": 36,
+                                "startTime": "00:09:36.909",
+                                "label": "Lamenta\u00e7\u00f5es 3:36",
+                                "endTransitionDuration": "00:00:31.598"
+                            },
+                            {
+                                "duration": "00:00:20.086",
+                                "verseNumber": 37,
+                                "startTime": "00:10:08.574",
+                                "label": "Lamenta\u00e7\u00f5es 3:37",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.484",
+                                "verseNumber": 38,
+                                "startTime": "00:10:28.661",
+                                "label": "Lamenta\u00e7\u00f5es 3:38",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.286",
+                                "verseNumber": 39,
+                                "startTime": "00:10:46.145",
+                                "label": "Lamenta\u00e7\u00f5es 3:39",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:14.748",
+                                "verseNumber": 40,
+                                "startTime": "00:11:06.432",
+                                "label": "Lamenta\u00e7\u00f5es 3:40",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.347",
+                                "verseNumber": 41,
+                                "startTime": "00:11:21.180",
+                                "label": "Lamenta\u00e7\u00f5es 3:41",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.641",
+                                "verseNumber": 42,
+                                "startTime": "00:11:35.528",
+                                "label": "Lamenta\u00e7\u00f5es 3:42",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.319",
+                                "verseNumber": 43,
+                                "startTime": "00:11:44.170",
+                                "label": "Lamenta\u00e7\u00f5es 3:43",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.854",
+                                "verseNumber": 44,
+                                "startTime": "00:12:03.489",
+                                "label": "Lamenta\u00e7\u00f5es 3:44",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.649",
+                                "verseNumber": 45,
+                                "startTime": "00:12:24.343",
+                                "label": "Lamenta\u00e7\u00f5es 3:45",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:10.944",
+                                "verseNumber": 46,
+                                "startTime": "00:12:40.993",
+                                "label": "Lamenta\u00e7\u00f5es 3:46",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.959",
+                                "verseNumber": 47,
+                                "startTime": "00:12:51.937",
+                                "label": "Lamenta\u00e7\u00f5es 3:47",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.610",
+                                "verseNumber": 48,
+                                "startTime": "00:13:17.897",
+                                "label": "Lamenta\u00e7\u00f5es 3:48",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.840",
+                                "verseNumber": 49,
+                                "startTime": "00:13:28.507",
+                                "label": "Lamenta\u00e7\u00f5es 3:49",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.010",
+                                "verseNumber": 50,
+                                "startTime": "00:13:35.347",
+                                "label": "Lamenta\u00e7\u00f5es 3:50",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.918",
+                                "verseNumber": 51,
+                                "startTime": "00:13:45.357",
+                                "label": "Lamenta\u00e7\u00f5es 3:51",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.758",
+                                "verseNumber": 52,
+                                "startTime": "00:14:04.276",
+                                "label": "Lamenta\u00e7\u00f5es 3:52",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.820",
+                                "verseNumber": 53,
+                                "startTime": "00:14:29.034",
+                                "label": "Lamenta\u00e7\u00f5es 3:53",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.475",
+                                "verseNumber": 54,
+                                "startTime": "00:14:49.855",
+                                "label": "Lamenta\u00e7\u00f5es 3:54",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:01.267",
+                                "verseNumber": 55,
+                                "startTime": "00:14:58.330",
+                                "label": "Lamenta\u00e7\u00f5es 3:55",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.308",
+                                "verseNumber": 56,
+                                "startTime": "00:14:59.598",
+                                "label": "Lamenta\u00e7\u00f5es 3:56",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.948",
+                                "verseNumber": 57,
+                                "startTime": "00:15:07.907",
+                                "label": "Lamenta\u00e7\u00f5es 3:57",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.050",
+                                "verseNumber": 58,
+                                "startTime": "00:15:22.855",
+                                "label": "Lamenta\u00e7\u00f5es 3:58",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.380",
+                                "verseNumber": 59,
+                                "startTime": "00:15:39.905",
+                                "label": "Lamenta\u00e7\u00f5es 3:59",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.381",
+                                "verseNumber": 60,
+                                "startTime": "00:15:53.285",
+                                "label": "Lamenta\u00e7\u00f5es 3:60",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.847",
+                                "verseNumber": 61,
+                                "startTime": "00:16:07.666",
+                                "label": "Lamenta\u00e7\u00f5es 3:61",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.678",
+                                "verseNumber": 62,
+                                "startTime": "00:16:21.513",
+                                "label": "Lamenta\u00e7\u00f5es 3:62",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.317",
+                                "verseNumber": 63,
+                                "startTime": "00:16:33.192",
+                                "label": "Lamenta\u00e7\u00f5es 3:63",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.041",
+                                "verseNumber": 64,
+                                "startTime": "00:16:50.509",
+                                "label": "Lamenta\u00e7\u00f5es 3:64",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.275",
+                                "verseNumber": 65,
+                                "startTime": "00:16:58.550",
+                                "label": "Lamenta\u00e7\u00f5es 3:65",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.591",
+                                "verseNumber": 66,
+                                "startTime": "00:17:07.826",
+                                "label": "Lamenta\u00e7\u00f5es 3:66",
+                                "endTransitionDuration": "00:00:06.740"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.234",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1052.418,
+                    "bitRate": 670.5882830657591
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3b/nwt_25_La_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:22:02",
+                        "checksum": "7fec51c2fdca40f065b292477d87125c"
+                    },
+                    "filesize": 75202901,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 25,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:27.260",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.034",
+                                "label": "Lamenta\u00e7\u00f5es 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.388",
+                                "verseNumber": 2,
+                                "startTime": "00:00:28.294",
+                                "label": "Lamenta\u00e7\u00f5es 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.621",
+                                "verseNumber": 3,
+                                "startTime": "00:01:23.683",
+                                "label": "Lamenta\u00e7\u00f5es 4:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.430",
+                                "verseNumber": 4,
+                                "startTime": "00:02:18.304",
+                                "label": "Lamenta\u00e7\u00f5es 4:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:00.126",
+                                "verseNumber": 5,
+                                "startTime": "00:02:48.735",
+                                "label": "Lamenta\u00e7\u00f5es 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.199",
+                                "verseNumber": 6,
+                                "startTime": "00:03:48.861",
+                                "label": "Lamenta\u00e7\u00f5es 4:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:31.357",
+                                "verseNumber": 7,
+                                "startTime": "00:04:22.061",
+                                "label": "Lamenta\u00e7\u00f5es 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:04.731",
+                                "verseNumber": 8,
+                                "startTime": "00:05:53.419",
+                                "label": "Lamenta\u00e7\u00f5es 4:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:33.533",
+                                "verseNumber": 9,
+                                "startTime": "00:06:58.151",
+                                "label": "Lamenta\u00e7\u00f5es 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.036",
+                                "verseNumber": 10,
+                                "startTime": "00:07:31.684",
+                                "label": "Lamenta\u00e7\u00f5es 4:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.527",
+                                "verseNumber": 11,
+                                "startTime": "00:08:07.720",
+                                "label": "Lamenta\u00e7\u00f5es 4:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.224",
+                                "verseNumber": 12,
+                                "startTime": "00:08:35.248",
+                                "label": "Lamenta\u00e7\u00f5es 4:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.234",
+                                "verseNumber": 13,
+                                "startTime": "00:08:59.472",
+                                "label": "Lamenta\u00e7\u00f5es 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.359",
+                                "verseNumber": 14,
+                                "startTime": "00:09:33.706",
+                                "label": "Lamenta\u00e7\u00f5es 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.167",
+                                "verseNumber": 15,
+                                "startTime": "00:10:00.066",
+                                "label": "Lamenta\u00e7\u00f5es 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.758",
+                                "verseNumber": 16,
+                                "startTime": "00:10:34.233",
+                                "label": "Lamenta\u00e7\u00f5es 4:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:32.298",
+                                "verseNumber": 17,
+                                "startTime": "00:10:58.991",
+                                "label": "Lamenta\u00e7\u00f5es 4:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.484",
+                                "verseNumber": 18,
+                                "startTime": "00:11:31.290",
+                                "label": "Lamenta\u00e7\u00f5es 4:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.910",
+                                "verseNumber": 19,
+                                "startTime": "00:11:48.774",
+                                "label": "Lamenta\u00e7\u00f5es 4:19",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:43.610",
+                                "verseNumber": 20,
+                                "startTime": "00:12:32.685",
+                                "label": "Lamenta\u00e7\u00f5es 4:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.179",
+                                "verseNumber": 21,
+                                "startTime": "00:13:16.295",
+                                "label": "Lamenta\u00e7\u00f5es 4:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:59.692",
+                                "verseNumber": 22,
+                                "startTime": "00:14:02.474",
+                                "label": "Lamenta\u00e7\u00f5es 4:22",
+                                "endTransitionDuration": "00:00:06.840"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.034",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 902.168,
+                    "bitRate": 651.2342092187929
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/54/nwt_25_La_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-11-26 19:20:50",
+                        "checksum": "58a1a85721d799f6f35e7e7039a25f76"
+                    },
+                    "filesize": 38924173,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 25,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:13.546",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.034",
+                                "label": "Lamenta\u00e7\u00f5es 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.847",
+                                "verseNumber": 2,
+                                "startTime": "00:00:14.581",
+                                "label": "Lamenta\u00e7\u00f5es 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.575",
+                                "verseNumber": 3,
+                                "startTime": "00:00:28.428",
+                                "label": "Lamenta\u00e7\u00f5es 5:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.025",
+                                "verseNumber": 4,
+                                "startTime": "00:00:37.003",
+                                "label": "Lamenta\u00e7\u00f5es 5:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.320",
+                                "verseNumber": 5,
+                                "startTime": "00:01:02.028",
+                                "label": "Lamenta\u00e7\u00f5es 5:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.586",
+                                "verseNumber": 6,
+                                "startTime": "00:01:22.348",
+                                "label": "Lamenta\u00e7\u00f5es 5:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.389",
+                                "verseNumber": 7,
+                                "startTime": "00:01:41.935",
+                                "label": "Lamenta\u00e7\u00f5es 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.854",
+                                "verseNumber": 8,
+                                "startTime": "00:02:04.324",
+                                "label": "Lamenta\u00e7\u00f5es 5:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.662",
+                                "verseNumber": 9,
+                                "startTime": "00:02:25.178",
+                                "label": "Lamenta\u00e7\u00f5es 5:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.856",
+                                "verseNumber": 10,
+                                "startTime": "00:02:54.841",
+                                "label": "Lamenta\u00e7\u00f5es 5:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.397",
+                                "verseNumber": 11,
+                                "startTime": "00:03:17.697",
+                                "label": "Lamenta\u00e7\u00f5es 5:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.994",
+                                "verseNumber": 12,
+                                "startTime": "00:03:48.094",
+                                "label": "Lamenta\u00e7\u00f5es 5:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:47.414",
+                                "verseNumber": 13,
+                                "startTime": "00:04:16.089",
+                                "label": "Lamenta\u00e7\u00f5es 5:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.919",
+                                "verseNumber": 14,
+                                "startTime": "00:05:03.503",
+                                "label": "Lamenta\u00e7\u00f5es 5:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.747",
+                                "verseNumber": 15,
+                                "startTime": "00:05:23.423",
+                                "label": "Lamenta\u00e7\u00f5es 5:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.309",
+                                "verseNumber": 16,
+                                "startTime": "00:05:37.170",
+                                "label": "Lamenta\u00e7\u00f5es 5:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.413",
+                                "verseNumber": 17,
+                                "startTime": "00:05:46.479",
+                                "label": "Lamenta\u00e7\u00f5es 5:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:15.248",
+                                "verseNumber": 18,
+                                "startTime": "00:05:59.892",
+                                "label": "Lamenta\u00e7\u00f5es 5:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.720",
+                                "verseNumber": 19,
+                                "startTime": "00:06:15.141",
+                                "label": "Lamenta\u00e7\u00f5es 5:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.916",
+                                "verseNumber": 20,
+                                "startTime": "00:06:35.862",
+                                "label": "Lamenta\u00e7\u00f5es 5:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.092",
+                                "verseNumber": 21,
+                                "startTime": "00:06:52.779",
+                                "label": "Lamenta\u00e7\u00f5es 5:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.619",
+                                "verseNumber": 22,
+                                "startTime": "00:07:18.871",
+                                "label": "Lamenta\u00e7\u00f5es 5:22",
+                                "endTransitionDuration": "00:00:07.140"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.034",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 25,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 458.491,
+                    "bitRate": 663.252062881278
+                }
+            ]
+        }
+    }
+}

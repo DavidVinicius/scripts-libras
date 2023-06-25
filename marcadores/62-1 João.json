@@ -1,0 +1,1529 @@
+{
+    "pubName": "1 Jo\u00e3o",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 62,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "https://download-a.akamaihd.net/files/media_publication/df/nwt_62_1Jo_LSB.jpg",
+        "modifiedDatetime": "2019-02-05T11:58:03+00:00",
+        "checksum": "be17f06045fc23f80e2dcc110be9e942"
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/76/nwt_62_1Jo_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 03:33:39",
+                        "checksum": "ab5ff1e18161a000fbdc1b3c23ad8a1a"
+                    },
+                    "filesize": 4428562,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/44/nwt_62_1Jo_LSB_01.jpg",
+                        "modifiedDatetime": "2020-09-29T20:01:57+00:00",
+                        "checksum": "0d9ad0a2ae9ed99e9686fb5b0898bc43"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.47,
+                    "duration": 269.803,
+                    "bitRate": 128.23482550231094
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/32/nwt_62_1Jo_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 13:14:02",
+                        "checksum": "d850a58b019802d7d206971b57d008f3"
+                    },
+                    "filesize": 11722013,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9d/nwt_62_1Jo_LSB_02.jpg",
+                        "modifiedDatetime": "2020-09-29T20:02:24+00:00",
+                        "checksum": "642c1a4cd2c76fb2da2987610ce3c90c"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.47,
+                    "duration": 693.793,
+                    "bitRate": 131.9964694981068
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1c/nwt_62_1Jo_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-28 02:28:06",
+                        "checksum": "77338548509f4ecac3cfaf54f179c7c9"
+                    },
+                    "filesize": 9717065,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8b/nwt_62_1Jo_LSB_03.jpg",
+                        "modifiedDatetime": "2020-09-29T20:03:14+00:00",
+                        "checksum": "497007fb77d742119b45bad946ef7deb"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.586,
+                    "duration": 606.272,
+                    "bitRate": 125.21536589600046
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4a/nwt_62_1Jo_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 12:52:41",
+                        "checksum": "ec4eed3106f362861212de053108b7a6"
+                    },
+                    "filesize": 8247396,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/93/nwt_62_1Jo_LSB_04.jpg",
+                        "modifiedDatetime": "2020-09-29T20:03:55+00:00",
+                        "checksum": "2147dfbaa871c91d831499bd971c545f"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 518.585,
+                    "bitRate": 124.24729070451323
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/78/nwt_62_1Jo_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 03:33:43",
+                        "checksum": "023b13cde0050a2e4a2e0271aa0dee83"
+                    },
+                    "filesize": 7407452,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e9/nwt_62_1Jo_LSB_05.jpg",
+                        "modifiedDatetime": "2020-09-29T20:04:38+00:00",
+                        "checksum": "1016154d668baff77acaf88e7e19280b"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.383,
+                    "duration": 446.68,
+                    "bitRate": 129.55744324796274
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/35/nwt_62_1Jo_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:02:07",
+                        "checksum": "47990e2d917727614d6b47ecbd1e69f1"
+                    },
+                    "filesize": 7646007,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/44/nwt_62_1Jo_LSB_01.jpg",
+                        "modifiedDatetime": "2020-09-29T20:01:57+00:00",
+                        "checksum": "0d9ad0a2ae9ed99e9686fb5b0898bc43"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 269.803,
+                    "bitRate": 221.4001685952343
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/59/nwt_62_1Jo_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:02:43",
+                        "checksum": "069b75b1fa052053b8ebe13bfd2ef910"
+                    },
+                    "filesize": 21085818,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9d/nwt_62_1Jo_LSB_02.jpg",
+                        "modifiedDatetime": "2020-09-29T20:02:24+00:00",
+                        "checksum": "642c1a4cd2c76fb2da2987610ce3c90c"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 693.793,
+                    "bitRate": 237.43818851588298
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/71/nwt_62_1Jo_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:03:24",
+                        "checksum": "f82ee15a8374ed4522442bd07705186e"
+                    },
+                    "filesize": 17482476,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8b/nwt_62_1Jo_LSB_03.jpg",
+                        "modifiedDatetime": "2020-09-29T20:03:14+00:00",
+                        "checksum": "497007fb77d742119b45bad946ef7deb"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 606.272,
+                    "bitRate": 225.2814640128523
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/68/nwt_62_1Jo_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:04:13",
+                        "checksum": "3a23a1643328613a99cbd60af22755ea"
+                    },
+                    "filesize": 14812245,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/93/nwt_62_1Jo_LSB_04.jpg",
+                        "modifiedDatetime": "2020-09-29T20:03:55+00:00",
+                        "checksum": "2147dfbaa871c91d831499bd971c545f"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 518.585,
+                    "bitRate": 223.1469557787055
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b5/nwt_62_1Jo_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:04:52",
+                        "checksum": "302ba8827fe076de06c05578adaa24a0"
+                    },
+                    "filesize": 13267458,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e9/nwt_62_1Jo_LSB_05.jpg",
+                        "modifiedDatetime": "2020-09-29T20:04:38+00:00",
+                        "checksum": "1016154d668baff77acaf88e7e19280b"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 446.68,
+                    "bitRate": 232.04982453881973
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/93/nwt_62_1Jo_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:02:11",
+                        "checksum": "8493b41f484e75a8543cb44cf06a0fde"
+                    },
+                    "filesize": 16336538,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/44/nwt_62_1Jo_LSB_01.jpg",
+                        "modifiedDatetime": "2020-09-29T20:01:57+00:00",
+                        "checksum": "0d9ad0a2ae9ed99e9686fb5b0898bc43"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 269.803,
+                    "bitRate": 473.0459006200821
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b5/nwt_62_1Jo_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:02:50",
+                        "checksum": "f88dc6a1859307242a908db3b22b89b0"
+                    },
+                    "filesize": 46134096,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9d/nwt_62_1Jo_LSB_02.jpg",
+                        "modifiedDatetime": "2020-09-29T20:02:24+00:00",
+                        "checksum": "642c1a4cd2c76fb2da2987610ce3c90c"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 693.793,
+                    "bitRate": 519.495908722054
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/86/nwt_62_1Jo_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:03:31",
+                        "checksum": "991cdca6502c596581042463780bd5de"
+                    },
+                    "filesize": 38308826,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8b/nwt_62_1Jo_LSB_03.jpg",
+                        "modifiedDatetime": "2020-09-29T20:03:14+00:00",
+                        "checksum": "497007fb77d742119b45bad946ef7deb"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 606.272,
+                    "bitRate": 493.65252415582444
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/69/nwt_62_1Jo_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:04:20",
+                        "checksum": "c7c500e3b66d24cb878ce384c5d25be7"
+                    },
+                    "filesize": 32354379,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/93/nwt_62_1Jo_LSB_04.jpg",
+                        "modifiedDatetime": "2020-09-29T20:03:55+00:00",
+                        "checksum": "2147dfbaa871c91d831499bd971c545f"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 518.585,
+                    "bitRate": 487.41977870069513
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/63/nwt_62_1Jo_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:04:58",
+                        "checksum": "fa8cd9bf403a911a08c57be20e32beed"
+                    },
+                    "filesize": 29063994,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e9/nwt_62_1Jo_LSB_05.jpg",
+                        "modifiedDatetime": "2020-09-29T20:04:38+00:00",
+                        "checksum": "1016154d668baff77acaf88e7e19280b"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 446.68,
+                    "bitRate": 508.3336015156264
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/83/nwt_62_1Jo_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:02:18",
+                        "checksum": "57d511188b5fc99e187e819091a7091a"
+                    },
+                    "filesize": 33057821,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/44/nwt_62_1Jo_LSB_01.jpg",
+                        "modifiedDatetime": "2020-09-29T20:01:57+00:00",
+                        "checksum": "0d9ad0a2ae9ed99e9686fb5b0898bc43"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 62,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:40.507",
+                                "verseNumber": 1,
+                                "startTime": "00:00:13.480",
+                                "label": "1 Jo\u00e3o 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.711",
+                                "verseNumber": 2,
+                                "startTime": "00:00:53.987",
+                                "label": "1 Jo\u00e3o 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.653",
+                                "verseNumber": 3,
+                                "startTime": "00:01:05.698",
+                                "label": "1 Jo\u00e3o 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.116",
+                                "verseNumber": 4,
+                                "startTime": "00:01:26.352",
+                                "label": "1 Jo\u00e3o 1:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.791",
+                                "verseNumber": 5,
+                                "startTime": "00:01:42.469",
+                                "label": "1 Jo\u00e3o 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.751",
+                                "verseNumber": 6,
+                                "startTime": "00:02:07.260",
+                                "label": "1 Jo\u00e3o 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.902",
+                                "verseNumber": 7,
+                                "startTime": "00:02:25.011",
+                                "label": "1 Jo\u00e3o 1:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:30.997",
+                                "verseNumber": 8,
+                                "startTime": "00:03:00.914",
+                                "label": "1 Jo\u00e3o 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.293",
+                                "verseNumber": 9,
+                                "startTime": "00:03:31.911",
+                                "label": "1 Jo\u00e3o 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.630",
+                                "verseNumber": 10,
+                                "startTime": "00:03:59.205",
+                                "label": "1 Jo\u00e3o 1:10",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:13.480",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 269.803,
+                    "bitRate": 957.2325977194472
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e3/nwt_62_1Jo_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:03:02",
+                        "checksum": "ef6f9ca995df6c02e31b7e2931317b26"
+                    },
+                    "filesize": 93401541,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9d/nwt_62_1Jo_LSB_02.jpg",
+                        "modifiedDatetime": "2020-09-29T20:02:24+00:00",
+                        "checksum": "642c1a4cd2c76fb2da2987610ce3c90c"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 62,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:36.970",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "1 Jo\u00e3o 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.821",
+                                "verseNumber": 2,
+                                "startTime": "00:00:38.972",
+                                "label": "1 Jo\u00e3o 2:2",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:11.611",
+                                "verseNumber": 3,
+                                "startTime": "00:01:00.794",
+                                "label": "1 Jo\u00e3o 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.116",
+                                "verseNumber": 4,
+                                "startTime": "00:01:12.405",
+                                "label": "1 Jo\u00e3o 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.044",
+                                "verseNumber": 5,
+                                "startTime": "00:01:28.521",
+                                "label": "1 Jo\u00e3o 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.386",
+                                "verseNumber": 6,
+                                "startTime": "00:01:39.566",
+                                "label": "1 Jo\u00e3o 2:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.483",
+                                "verseNumber": 7,
+                                "startTime": "00:01:58.952",
+                                "label": "1 Jo\u00e3o 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.393",
+                                "verseNumber": 8,
+                                "startTime": "00:02:15.435",
+                                "label": "1 Jo\u00e3o 2:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.483",
+                                "verseNumber": 9,
+                                "startTime": "00:02:41.828",
+                                "label": "1 Jo\u00e3o 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.550",
+                                "verseNumber": 10,
+                                "startTime": "00:02:58.311",
+                                "label": "1 Jo\u00e3o 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.913",
+                                "verseNumber": 11,
+                                "startTime": "00:03:15.862",
+                                "label": "1 Jo\u00e3o 2:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:22.455",
+                                "verseNumber": 12,
+                                "startTime": "00:03:29.776",
+                                "label": "1 Jo\u00e3o 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.543",
+                                "verseNumber": 13,
+                                "startTime": "00:03:52.232",
+                                "label": "1 Jo\u00e3o 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.071",
+                                "verseNumber": 14,
+                                "startTime": "00:04:35.775",
+                                "label": "1 Jo\u00e3o 2:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.827",
+                                "verseNumber": 15,
+                                "startTime": "00:05:13.846",
+                                "label": "1 Jo\u00e3o 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.596",
+                                "verseNumber": 16,
+                                "startTime": "00:05:41.674",
+                                "label": "1 Jo\u00e3o 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.222",
+                                "verseNumber": 17,
+                                "startTime": "00:06:11.270",
+                                "label": "1 Jo\u00e3o 2:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.224",
+                                "verseNumber": 18,
+                                "startTime": "00:06:33.493",
+                                "label": "1 Jo\u00e3o 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.603",
+                                "verseNumber": 19,
+                                "startTime": "00:06:57.717",
+                                "label": "1 Jo\u00e3o 2:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.943",
+                                "verseNumber": 20,
+                                "startTime": "00:07:34.320",
+                                "label": "1 Jo\u00e3o 2:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.696",
+                                "verseNumber": 21,
+                                "startTime": "00:07:44.263",
+                                "label": "1 Jo\u00e3o 2:21",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:36.403",
+                                "verseNumber": 22,
+                                "startTime": "00:08:13.960",
+                                "label": "1 Jo\u00e3o 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.923",
+                                "verseNumber": 23,
+                                "startTime": "00:08:50.363",
+                                "label": "1 Jo\u00e3o 2:23",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.324",
+                                "verseNumber": 24,
+                                "startTime": "00:09:14.287",
+                                "label": "1 Jo\u00e3o 2:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.646",
+                                "verseNumber": 25,
+                                "startTime": "00:09:38.611",
+                                "label": "1 Jo\u00e3o 2:25",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.950",
+                                "verseNumber": 26,
+                                "startTime": "00:09:52.258",
+                                "label": "1 Jo\u00e3o 2:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.901",
+                                "verseNumber": 27,
+                                "startTime": "00:10:09.208",
+                                "label": "1 Jo\u00e3o 2:27",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:31.264",
+                                "verseNumber": 28,
+                                "startTime": "00:10:44.110",
+                                "label": "1 Jo\u00e3o 2:28",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.418",
+                                "verseNumber": 29,
+                                "startTime": "00:11:15.374",
+                                "label": "1 Jo\u00e3o 2:29",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 693.793,
+                    "bitRate": 1051.7539656100594
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/07/nwt_62_1Jo_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:03:46",
+                        "checksum": "50d90793d34691c33ad4e33c815259ca"
+                    },
+                    "filesize": 78461716,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8b/nwt_62_1Jo_LSB_03.jpg",
+                        "modifiedDatetime": "2020-09-29T20:03:14+00:00",
+                        "checksum": "497007fb77d742119b45bad946ef7deb"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 62,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:34.034",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "1 Jo\u00e3o 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.367",
+                                "verseNumber": 2,
+                                "startTime": "00:00:36.036",
+                                "label": "1 Jo\u00e3o 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.615",
+                                "verseNumber": 3,
+                                "startTime": "00:01:10.403",
+                                "label": "1 Jo\u00e3o 3:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.354",
+                                "verseNumber": 4,
+                                "startTime": "00:01:26.019",
+                                "label": "1 Jo\u00e3o 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.231",
+                                "verseNumber": 5,
+                                "startTime": "00:01:47.373",
+                                "label": "1 Jo\u00e3o 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.289",
+                                "verseNumber": 6,
+                                "startTime": "00:02:18.605",
+                                "label": "1 Jo\u00e3o 3:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:31.331",
+                                "verseNumber": 7,
+                                "startTime": "00:02:41.895",
+                                "label": "1 Jo\u00e3o 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.273",
+                                "verseNumber": 8,
+                                "startTime": "00:03:13.226",
+                                "label": "1 Jo\u00e3o 3:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:18.818",
+                                "verseNumber": 9,
+                                "startTime": "00:03:53.499",
+                                "label": "1 Jo\u00e3o 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.596",
+                                "verseNumber": 10,
+                                "startTime": "00:04:12.318",
+                                "label": "1 Jo\u00e3o 3:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:13.279",
+                                "verseNumber": 11,
+                                "startTime": "00:04:41.914",
+                                "label": "1 Jo\u00e3o 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.429",
+                                "verseNumber": 12,
+                                "startTime": "00:04:55.194",
+                                "label": "1 Jo\u00e3o 3:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:13.680",
+                                "verseNumber": 13,
+                                "startTime": "00:05:24.624",
+                                "label": "1 Jo\u00e3o 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.867",
+                                "verseNumber": 14,
+                                "startTime": "00:05:38.304",
+                                "label": "1 Jo\u00e3o 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.518",
+                                "verseNumber": 15,
+                                "startTime": "00:06:12.171",
+                                "label": "1 Jo\u00e3o 3:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:39.439",
+                                "verseNumber": 16,
+                                "startTime": "00:06:30.690",
+                                "label": "1 Jo\u00e3o 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.732",
+                                "verseNumber": 17,
+                                "startTime": "00:07:10.129",
+                                "label": "1 Jo\u00e3o 3:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.087",
+                                "verseNumber": 18,
+                                "startTime": "00:07:42.862",
+                                "label": "1 Jo\u00e3o 3:18",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:23.323",
+                                "verseNumber": 19,
+                                "startTime": "00:08:03.950",
+                                "label": "1 Jo\u00e3o 3:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.532",
+                                "verseNumber": 20,
+                                "startTime": "00:08:27.273",
+                                "label": "1 Jo\u00e3o 3:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.707",
+                                "verseNumber": 21,
+                                "startTime": "00:08:59.805",
+                                "label": "1 Jo\u00e3o 3:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.819",
+                                "verseNumber": 22,
+                                "startTime": "00:09:07.513",
+                                "label": "1 Jo\u00e3o 3:22",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:19.219",
+                                "verseNumber": 23,
+                                "startTime": "00:09:27.333",
+                                "label": "1 Jo\u00e3o 3:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.719",
+                                "verseNumber": 24,
+                                "startTime": "00:09:46.552",
+                                "label": "1 Jo\u00e3o 3:24",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 606.272,
+                    "bitRate": 1011.0678973299113
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/21/nwt_62_1Jo_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:04:30",
+                        "checksum": "0f0e06bd88c848f2f4d72ee56acf9163"
+                    },
+                    "filesize": 66659726,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/93/nwt_62_1Jo_LSB_04.jpg",
+                        "modifiedDatetime": "2020-09-29T20:03:55+00:00",
+                        "checksum": "2147dfbaa871c91d831499bd971c545f"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 62,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:26.226",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "1 Jo\u00e3o 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.384",
+                                "verseNumber": 2,
+                                "startTime": "00:00:28.228",
+                                "label": "1 Jo\u00e3o 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.596",
+                                "verseNumber": 3,
+                                "startTime": "00:00:45.612",
+                                "label": "1 Jo\u00e3o 4:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:32.031",
+                                "verseNumber": 4,
+                                "startTime": "00:01:15.208",
+                                "label": "1 Jo\u00e3o 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.126",
+                                "verseNumber": 5,
+                                "startTime": "00:01:47.240",
+                                "label": "1 Jo\u00e3o 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.373",
+                                "verseNumber": 6,
+                                "startTime": "00:02:13.366",
+                                "label": "1 Jo\u00e3o 4:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:28.795",
+                                "verseNumber": 7,
+                                "startTime": "00:02:53.740",
+                                "label": "1 Jo\u00e3o 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.985",
+                                "verseNumber": 8,
+                                "startTime": "00:03:22.535",
+                                "label": "1 Jo\u00e3o 4:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.621",
+                                "verseNumber": 9,
+                                "startTime": "00:03:41.521",
+                                "label": "1 Jo\u00e3o 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.767",
+                                "verseNumber": 10,
+                                "startTime": "00:04:03.142",
+                                "label": "1 Jo\u00e3o 4:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:33.666",
+                                "verseNumber": 11,
+                                "startTime": "00:04:36.909",
+                                "label": "1 Jo\u00e3o 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.726",
+                                "verseNumber": 12,
+                                "startTime": "00:05:10.576",
+                                "label": "1 Jo\u00e3o 4:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.141",
+                                "verseNumber": 13,
+                                "startTime": "00:05:37.303",
+                                "label": "1 Jo\u00e3o 4:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.149",
+                                "verseNumber": 14,
+                                "startTime": "00:05:45.445",
+                                "label": "1 Jo\u00e3o 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.247",
+                                "verseNumber": 15,
+                                "startTime": "00:06:01.594",
+                                "label": "1 Jo\u00e3o 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.858",
+                                "verseNumber": 16,
+                                "startTime": "00:06:15.842",
+                                "label": "1 Jo\u00e3o 4:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.282",
+                                "verseNumber": 17,
+                                "startTime": "00:06:40.700",
+                                "label": "1 Jo\u00e3o 4:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.997",
+                                "verseNumber": 18,
+                                "startTime": "00:06:56.983",
+                                "label": "1 Jo\u00e3o 4:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.316",
+                                "verseNumber": 19,
+                                "startTime": "00:07:27.980",
+                                "label": "1 Jo\u00e3o 4:19",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:35.402",
+                                "verseNumber": 20,
+                                "startTime": "00:07:44.297",
+                                "label": "1 Jo\u00e3o 4:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.918",
+                                "verseNumber": 21,
+                                "startTime": "00:08:19.699",
+                                "label": "1 Jo\u00e3o 4:21",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 518.585,
+                    "bitRate": 1004.2309541830172
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c9/nwt_62_1Jo_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-09-29 20:05:11",
+                        "checksum": "d1579c2ed454a046885dd900fef60b74"
+                    },
+                    "filesize": 59111596,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e9/nwt_62_1Jo_LSB_05.jpg",
+                        "modifiedDatetime": "2020-09-29T20:04:38+00:00",
+                        "checksum": "1016154d668baff77acaf88e7e19280b"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 62,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:23.590",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "1 Jo\u00e3o 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.777",
+                                "verseNumber": 2,
+                                "startTime": "00:00:25.592",
+                                "label": "1 Jo\u00e3o 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.384",
+                                "verseNumber": 3,
+                                "startTime": "00:00:36.369",
+                                "label": "1 Jo\u00e3o 5:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.848",
+                                "verseNumber": 4,
+                                "startTime": "00:00:53.753",
+                                "label": "1 Jo\u00e3o 5:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:12.812",
+                                "verseNumber": 5,
+                                "startTime": "00:01:08.601",
+                                "label": "1 Jo\u00e3o 5:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.497",
+                                "verseNumber": 6,
+                                "startTime": "00:01:21.414",
+                                "label": "1 Jo\u00e3o 5:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.244",
+                                "verseNumber": 7,
+                                "startTime": "00:01:51.911",
+                                "label": "1 Jo\u00e3o 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.346",
+                                "verseNumber": 8,
+                                "startTime": "00:02:03.156",
+                                "label": "1 Jo\u00e3o 5:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:19.119",
+                                "verseNumber": 9,
+                                "startTime": "00:02:16.503",
+                                "label": "1 Jo\u00e3o 5:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.458",
+                                "verseNumber": 10,
+                                "startTime": "00:02:35.622",
+                                "label": "1 Jo\u00e3o 5:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.577",
+                                "verseNumber": 11,
+                                "startTime": "00:03:01.080",
+                                "label": "1 Jo\u00e3o 5:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.022",
+                                "verseNumber": 12,
+                                "startTime": "00:03:11.658",
+                                "label": "1 Jo\u00e3o 5:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:25.825",
+                                "verseNumber": 13,
+                                "startTime": "00:03:33.680",
+                                "label": "1 Jo\u00e3o 5:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.692",
+                                "verseNumber": 14,
+                                "startTime": "00:03:59.505",
+                                "label": "1 Jo\u00e3o 5:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.009",
+                                "verseNumber": 15,
+                                "startTime": "00:04:25.198",
+                                "label": "1 Jo\u00e3o 5:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:43.977",
+                                "verseNumber": 16,
+                                "startTime": "00:04:34.207",
+                                "label": "1 Jo\u00e3o 5:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.783",
+                                "verseNumber": 17,
+                                "startTime": "00:05:18.184",
+                                "label": "1 Jo\u00e3o 5:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.827",
+                                "verseNumber": 18,
+                                "startTime": "00:05:34.967",
+                                "label": "1 Jo\u00e3o 5:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.956",
+                                "verseNumber": 19,
+                                "startTime": "00:06:02.795",
+                                "label": "1 Jo\u00e3o 5:19",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:36.970",
+                                "verseNumber": 20,
+                                "startTime": "00:06:25.752",
+                                "label": "1 Jo\u00e3o 5:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.990",
+                                "verseNumber": 21,
+                                "startTime": "00:07:02.722",
+                                "label": "1 Jo\u00e3o 5:21",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 62,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 446.68,
+                    "bitRate": 1033.8706540476403
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,882 @@
+{
+    "pubName": "Habacuque",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 35,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cb/nwt_35_Hab_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 03:37:42",
+                        "checksum": "2e6d90ef2bd9282e7a03cd5ce941c27d"
+                    },
+                    "filesize": 7037736,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.412,
+                    "duration": 495.061,
+                    "bitRate": 111.06169239750254
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/04/nwt_35_Hab_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-28 00:22:15",
+                        "checksum": "a421020a81b92a720e04524577483fa9"
+                    },
+                    "filesize": 6766829,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.762,
+                    "duration": 474.441,
+                    "bitRate": 111.42766237003126
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/82/nwt_35_Hab_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-11 01:38:41",
+                        "checksum": "318e26c9b911de21ee0533af722485d7"
+                    },
+                    "filesize": 7129299,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 501.601,
+                    "bitRate": 111.03974760317463
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/29/nwt_35_Hab_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-19 11:02:08",
+                        "checksum": "c780875ab1f955ee00aba725fef2095c"
+                    },
+                    "filesize": 12022967,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 495.061,
+                    "bitRate": 189.73304236750624
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/45/nwt_35_Hab_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-19 11:01:20",
+                        "checksum": "6eeeecb40db634abdda1525cfc6d2c1f"
+                    },
+                    "filesize": 11554434,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 474.441,
+                    "bitRate": 190.26394351457822
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/66/nwt_35_Hab_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-19 11:00:47",
+                        "checksum": "03cbf5bdb40b1917a856d0f61cf93faf"
+                    },
+                    "filesize": 12120956,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 501.601,
+                    "bitRate": 188.78544650030602
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b8/nwt_35_Hab_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-19 11:02:06",
+                        "checksum": "365a8f2c1a06f5500f0c2452e8769701"
+                    },
+                    "filesize": 23470444,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 495.061,
+                    "bitRate": 370.3843440505312
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e0/nwt_35_Hab_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-19 11:01:17",
+                        "checksum": "349b02a6eb9f73713f84ec0e1071f98a"
+                    },
+                    "filesize": 22640104,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 474.441,
+                    "bitRate": 372.80886875291134
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/25/nwt_35_Hab_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-19 11:00:27",
+                        "checksum": "5b34d3252be645996613e8952124c268"
+                    },
+                    "filesize": 23692182,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 501.601,
+                    "bitRate": 369.008777643984
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f8/nwt_35_Hab_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-19 11:00:52",
+                        "checksum": "769b09d366f634d8d09aafed7c7b339a"
+                    },
+                    "filesize": 42701631,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 35,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:13.446",
+                                "verseNumber": 1,
+                                "startTime": "00:00:14.948",
+                                "label": "Habacuque 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.026",
+                                "verseNumber": 2,
+                                "startTime": "00:00:28.395",
+                                "label": "Habacuque 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.355",
+                                "verseNumber": 3,
+                                "startTime": "00:00:54.421",
+                                "label": "Habacuque 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.162",
+                                "verseNumber": 4,
+                                "startTime": "00:01:16.776",
+                                "label": "Habacuque 1:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:23.556",
+                                "verseNumber": 5,
+                                "startTime": "00:01:45.939",
+                                "label": "Habacuque 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.460",
+                                "verseNumber": 6,
+                                "startTime": "00:02:09.496",
+                                "label": "Habacuque 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.549",
+                                "verseNumber": 7,
+                                "startTime": "00:02:36.956",
+                                "label": "Habacuque 1:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:49.282",
+                                "verseNumber": 8,
+                                "startTime": "00:02:53.506",
+                                "label": "Habacuque 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.028",
+                                "verseNumber": 9,
+                                "startTime": "00:03:42.789",
+                                "label": "Habacuque 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.493",
+                                "verseNumber": 10,
+                                "startTime": "00:04:10.817",
+                                "label": "Habacuque 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.536",
+                                "verseNumber": 11,
+                                "startTime": "00:04:37.310",
+                                "label": "Habacuque 1:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:38.204",
+                                "verseNumber": 12,
+                                "startTime": "00:05:13.846",
+                                "label": "Habacuque 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.062",
+                                "verseNumber": 13,
+                                "startTime": "00:05:52.051",
+                                "label": "Habacuque 1:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:13.646",
+                                "verseNumber": 14,
+                                "startTime": "00:06:21.114",
+                                "label": "Habacuque 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.070",
+                                "verseNumber": 15,
+                                "startTime": "00:06:34.761",
+                                "label": "Habacuque 1:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.260",
+                                "verseNumber": 16,
+                                "startTime": "00:07:11.831",
+                                "label": "Habacuque 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.969",
+                                "verseNumber": 17,
+                                "startTime": "00:07:39.091",
+                                "label": "Habacuque 1:17",
+                                "endTransitionDuration": "00:00:08.341"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:14.948",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 495.061,
+                    "bitRate": 673.869466969727
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a8/nwt_35_Hab_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-19 11:00:29",
+                        "checksum": "ccba59626272a2673af1dfa5a3b5ff44"
+                    },
+                    "filesize": 41220799,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 35,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:16.316",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.034",
+                                "label": "Habacuque 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.488",
+                                "verseNumber": 2,
+                                "startTime": "00:00:17.350",
+                                "label": "Habacuque 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.063",
+                                "verseNumber": 3,
+                                "startTime": "00:00:38.838",
+                                "label": "Habacuque 2:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:20.787",
+                                "verseNumber": 4,
+                                "startTime": "00:01:08.902",
+                                "label": "Habacuque 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.009",
+                                "verseNumber": 5,
+                                "startTime": "00:01:29.689",
+                                "label": "Habacuque 2:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:25.592",
+                                "verseNumber": 6,
+                                "startTime": "00:02:12.699",
+                                "label": "Habacuque 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.246",
+                                "verseNumber": 7,
+                                "startTime": "00:02:38.291",
+                                "label": "Habacuque 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.793",
+                                "verseNumber": 8,
+                                "startTime": "00:02:51.538",
+                                "label": "Habacuque 2:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:26.459",
+                                "verseNumber": 9,
+                                "startTime": "00:03:18.331",
+                                "label": "Habacuque 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.522",
+                                "verseNumber": 10,
+                                "startTime": "00:03:44.791",
+                                "label": "Habacuque 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.680",
+                                "verseNumber": 11,
+                                "startTime": "00:04:07.313",
+                                "label": "Habacuque 2:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:22.922",
+                                "verseNumber": 12,
+                                "startTime": "00:04:20.994",
+                                "label": "Habacuque 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.256",
+                                "verseNumber": 13,
+                                "startTime": "00:04:43.916",
+                                "label": "Habacuque 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.484",
+                                "verseNumber": 14,
+                                "startTime": "00:05:07.173",
+                                "label": "Habacuque 2:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.354",
+                                "verseNumber": 15,
+                                "startTime": "00:05:24.657",
+                                "label": "Habacuque 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.502",
+                                "verseNumber": 16,
+                                "startTime": "00:05:46.012",
+                                "label": "Habacuque 2:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:28.028",
+                                "verseNumber": 17,
+                                "startTime": "00:06:21.514",
+                                "label": "Habacuque 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.086",
+                                "verseNumber": 18,
+                                "startTime": "00:06:49.542",
+                                "label": "Habacuque 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.126",
+                                "verseNumber": 19,
+                                "startTime": "00:07:09.629",
+                                "label": "Habacuque 2:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.685",
+                                "verseNumber": 20,
+                                "startTime": "00:07:35.755",
+                                "label": "Habacuque 2:20",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.034",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 474.441,
+                    "bitRate": 678.7724757925644
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/59/nwt_35_Hab_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-19 11:01:14",
+                        "checksum": "6a620baf0255073dc6a61efd8e04b223"
+                    },
+                    "filesize": 43252038,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 35,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:15.915",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.034",
+                                "label": "Habacuque 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.627",
+                                "verseNumber": 2,
+                                "startTime": "00:00:16.950",
+                                "label": "Habacuque 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.926",
+                                "verseNumber": 3,
+                                "startTime": "00:00:44.577",
+                                "label": "Habacuque 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.854",
+                                "verseNumber": 4,
+                                "startTime": "00:01:11.504",
+                                "label": "Habacuque 3:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:20.754",
+                                "verseNumber": 5,
+                                "startTime": "00:01:32.358",
+                                "label": "Habacuque 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.340",
+                                "verseNumber": 6,
+                                "startTime": "00:01:53.113",
+                                "label": "Habacuque 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.351",
+                                "verseNumber": 7,
+                                "startTime": "00:02:33.453",
+                                "label": "Habacuque 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.756",
+                                "verseNumber": 8,
+                                "startTime": "00:02:51.804",
+                                "label": "Habacuque 3:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:28.194",
+                                "verseNumber": 9,
+                                "startTime": "00:03:14.561",
+                                "label": "Habacuque 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.957",
+                                "verseNumber": 10,
+                                "startTime": "00:03:42.755",
+                                "label": "Habacuque 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.825",
+                                "verseNumber": 11,
+                                "startTime": "00:04:06.713",
+                                "label": "Habacuque 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.185",
+                                "verseNumber": 12,
+                                "startTime": "00:04:32.538",
+                                "label": "Habacuque 3:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:28.228",
+                                "verseNumber": 13,
+                                "startTime": "00:04:51.724",
+                                "label": "Habacuque 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.499",
+                                "verseNumber": 14,
+                                "startTime": "00:05:19.952",
+                                "label": "Habacuque 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.184",
+                                "verseNumber": 15,
+                                "startTime": "00:05:52.452",
+                                "label": "Habacuque 3:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.829",
+                                "verseNumber": 16,
+                                "startTime": "00:06:10.636",
+                                "label": "Habacuque 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.401",
+                                "verseNumber": 17,
+                                "startTime": "00:06:40.466",
+                                "label": "Habacuque 3:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.844",
+                                "verseNumber": 18,
+                                "startTime": "00:07:14.867",
+                                "label": "Habacuque 3:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.792",
+                                "verseNumber": 19,
+                                "startTime": "00:07:25.711",
+                                "label": "Habacuque 3:19",
+                                "endTransitionDuration": "00:00:01.000"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.034",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 35,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 501.601,
+                    "bitRate": 673.6560470872267
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1837 @@
+{
+    "pubName": "Miqueias",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 33,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/16/nwt_33_Mic_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-28 00:11:32",
+                        "checksum": "80cec9a7081a11b4d7e463d0a78df4ed"
+                    },
+                    "filesize": 7129715,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.326,
+                    "duration": 536.97,
+                    "bitRate": 103.73186292995884
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3c/nwt_33_Mic_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-04 20:33:21",
+                        "checksum": "e5f8c5bdfc84d3e110d35f0cd1081327"
+                    },
+                    "filesize": 5156746,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.155,
+                    "duration": 372.739,
+                    "bitRate": 108.0838820863929
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cf/nwt_33_Mic_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 03:34:59",
+                        "checksum": "4e66f6c1c4efff7b1d850575687c09cf"
+                    },
+                    "filesize": 4324238,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.94,
+                    "duration": 311.678,
+                    "bitRate": 108.39106184908785
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2d/nwt_33_Mic_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 10:52:28",
+                        "checksum": "cd5fc078d622e04b494ef2e303641057"
+                    },
+                    "filesize": 5617909,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.155,
+                    "duration": 422.756,
+                    "bitRate": 103.81854796265459
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b2/nwt_33_Mic_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 05:37:15",
+                        "checksum": "dc31438e4e91d81c44995e6e73adfced"
+                    },
+                    "filesize": 5692155,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.674,
+                    "duration": 412.345,
+                    "bitRate": 107.84649004474407
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a8/nwt_33_Mic_LSB_06_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 05:37:18",
+                        "checksum": "f90d97748455b3be24c61ed3caeacdba"
+                    },
+                    "filesize": 6488528,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.326,
+                    "duration": 463.964,
+                    "bitRate": 109.2576686984335
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8c/nwt_33_Mic_LSB_07_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-11 01:37:05",
+                        "checksum": "60b56ff5feadeedb4c7dd85e2e71665c"
+                    },
+                    "filesize": 8289705,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.155,
+                    "duration": 586.753,
+                    "bitRate": 110.37578046043224
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cc/nwt_33_Mic_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:14:11",
+                        "checksum": "382d2be71795b079e7260e130808848b"
+                    },
+                    "filesize": 13151892,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 536.97,
+                    "bitRate": 191.34990083244872
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/49/nwt_33_Mic_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:14:08",
+                        "checksum": "960acf508b91003b0f4d2ba22daac169"
+                    },
+                    "filesize": 9505064,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 372.739,
+                    "bitRate": 199.22335065555257
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a0/nwt_33_Mic_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:14:19",
+                        "checksum": "6dfca1b0f2c80b0b1f2642661bd4ffef"
+                    },
+                    "filesize": 7983034,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 311.678,
+                    "bitRate": 200.1021988237861
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/05/nwt_33_Mic_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:15:34",
+                        "checksum": "d9264a62187b61dfa3cbdd8f4f04392d"
+                    },
+                    "filesize": 10575822,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 422.756,
+                    "bitRate": 195.440418054386
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/76/nwt_33_Mic_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:15:55",
+                        "checksum": "a8a0670acbdc68146a7ed40f68f07d5e"
+                    },
+                    "filesize": 10710229,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 412.345,
+                    "bitRate": 202.92149550133988
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1b/nwt_33_Mic_LSB_06_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:15:07",
+                        "checksum": "a9a4894c72dca1698a4764e0e60066b9"
+                    },
+                    "filesize": 12030914,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 463.964,
+                    "bitRate": 202.58363930175616
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2c/nwt_33_Mic_LSB_07_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:16:04",
+                        "checksum": "1c24fa04d3662124f91fae0932324826"
+                    },
+                    "filesize": 15372304,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 586.753,
+                    "bitRate": 204.67918357468986
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d5/nwt_33_Mic_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:14:02",
+                        "checksum": "62ec1772c9575ba896d17894785396e0"
+                    },
+                    "filesize": 27872906,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 536.97,
+                    "bitRate": 405.52931844423335
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8c/nwt_33_Mic_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:14:17",
+                        "checksum": "8c06a0e6b08522d51c651ad9abd985b7"
+                    },
+                    "filesize": 20024867,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 372.739,
+                    "bitRate": 419.7153328133091
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/45/nwt_33_Mic_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:16:42",
+                        "checksum": "45c77a2bd0fddd1c90ed5d4f157c2408"
+                    },
+                    "filesize": 16880814,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 311.678,
+                    "bitRate": 423.13335999011804
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/99/nwt_33_Mic_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:15:32",
+                        "checksum": "91cc066d158a4b65997d68c46ff19728"
+                    },
+                    "filesize": 22522431,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 422.756,
+                    "bitRate": 416.21287974032305
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b7/nwt_33_Mic_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:15:49",
+                        "checksum": "167be7c09c3514155dd299e88fc57826"
+                    },
+                    "filesize": 22648696,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 412.345,
+                    "bitRate": 429.113818525749
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2a/nwt_33_Mic_LSB_06_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:15:22",
+                        "checksum": "11f6c7a030f920ecfcc80a3311880dd4"
+                    },
+                    "filesize": 25495868,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 463.964,
+                    "bitRate": 429.3144915338259
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c5/nwt_33_Mic_LSB_07_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:16:01",
+                        "checksum": "44c0b007cdd5c0dee123b9d24ed31827"
+                    },
+                    "filesize": 32606150,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 586.753,
+                    "bitRate": 434.1444302372548
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d2/nwt_33_Mic_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:14:04",
+                        "checksum": "e22dd478580d866bd10e18a8ef8f011e"
+                    },
+                    "filesize": 64358898,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 33,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:50.550",
+                                "verseNumber": 1,
+                                "startTime": "00:00:12.545",
+                                "label": "Miqueias 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.226",
+                                "verseNumber": 2,
+                                "startTime": "00:01:03.096",
+                                "label": "Miqueias 1:2",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.283",
+                                "verseNumber": 3,
+                                "startTime": "00:01:29.322",
+                                "label": "Miqueias 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.030",
+                                "verseNumber": 4,
+                                "startTime": "00:01:46.606",
+                                "label": "Miqueias 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.704",
+                                "verseNumber": 5,
+                                "startTime": "00:02:16.636",
+                                "label": "Miqueias 1:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:43.443",
+                                "verseNumber": 6,
+                                "startTime": "00:02:54.340",
+                                "label": "Miqueias 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.898",
+                                "verseNumber": 7,
+                                "startTime": "00:03:37.784",
+                                "label": "Miqueias 1:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:37.237",
+                                "verseNumber": 8,
+                                "startTime": "00:04:09.682",
+                                "label": "Miqueias 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.400",
+                                "verseNumber": 9,
+                                "startTime": "00:04:46.919",
+                                "label": "Miqueias 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.656",
+                                "verseNumber": 10,
+                                "startTime": "00:05:20.320",
+                                "label": "Miqueias 1:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:38.104",
+                                "verseNumber": 11,
+                                "startTime": "00:05:43.976",
+                                "label": "Miqueias 1:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.719",
+                                "verseNumber": 12,
+                                "startTime": "00:06:22.081",
+                                "label": "Miqueias 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.481",
+                                "verseNumber": 13,
+                                "startTime": "00:06:41.801",
+                                "label": "Miqueias 1:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.095",
+                                "verseNumber": 14,
+                                "startTime": "00:07:30.283",
+                                "label": "Miqueias 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.690",
+                                "verseNumber": 15,
+                                "startTime": "00:07:59.378",
+                                "label": "Miqueias 1:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.900",
+                                "verseNumber": 16,
+                                "startTime": "00:08:23.069",
+                                "label": "Miqueias 1:16",
+                                "endTransitionDuration": "00:00:08.675"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:12.545",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 536.97,
+                    "bitRate": 936.3724055813174
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e8/nwt_33_Mic_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:14:13",
+                        "checksum": "a03c7aec8ff2defa85da7036bbe6fef0"
+                    },
+                    "filesize": 44316100,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 33,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:34.634",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Miqueias 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.162",
+                                "verseNumber": 2,
+                                "startTime": "00:00:36.603",
+                                "label": "Miqueias 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.091",
+                                "verseNumber": 3,
+                                "startTime": "00:01:05.765",
+                                "label": "Miqueias 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.339",
+                                "verseNumber": 4,
+                                "startTime": "00:01:30.857",
+                                "label": "Miqueias 2:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:19.052",
+                                "verseNumber": 5,
+                                "startTime": "00:02:10.196",
+                                "label": "Miqueias 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.978",
+                                "verseNumber": 6,
+                                "startTime": "00:02:29.249",
+                                "label": "Miqueias 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.222",
+                                "verseNumber": 7,
+                                "startTime": "00:02:41.227",
+                                "label": "Miqueias 2:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:41.975",
+                                "verseNumber": 8,
+                                "startTime": "00:03:03.449",
+                                "label": "Miqueias 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.392",
+                                "verseNumber": 9,
+                                "startTime": "00:03:45.425",
+                                "label": "Miqueias 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.983",
+                                "verseNumber": 10,
+                                "startTime": "00:04:10.817",
+                                "label": "Miqueias 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.628",
+                                "verseNumber": 11,
+                                "startTime": "00:04:27.800",
+                                "label": "Miqueias 2:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:42.776",
+                                "verseNumber": 12,
+                                "startTime": "00:04:56.429",
+                                "label": "Miqueias 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.533",
+                                "verseNumber": 13,
+                                "startTime": "00:05:39.205",
+                                "label": "Miqueias 2:13",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 372.739,
+                    "bitRate": 928.852444337727
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/dd/nwt_33_Mic_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:15:03",
+                        "checksum": "5ca4fdbbd1a3a0c5c31569307a241758"
+                    },
+                    "filesize": 37332163,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 33,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:16.116",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Miqueias 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.231",
+                                "verseNumber": 2,
+                                "startTime": "00:00:18.084",
+                                "label": "Miqueias 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.065",
+                                "verseNumber": 3,
+                                "startTime": "00:00:49.315",
+                                "label": "Miqueias 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.049",
+                                "verseNumber": 4,
+                                "startTime": "00:01:21.381",
+                                "label": "Miqueias 3:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.195",
+                                "verseNumber": 5,
+                                "startTime": "00:01:37.430",
+                                "label": "Miqueias 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.321",
+                                "verseNumber": 6,
+                                "startTime": "00:02:06.626",
+                                "label": "Miqueias 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.279",
+                                "verseNumber": 7,
+                                "startTime": "00:02:27.947",
+                                "label": "Miqueias 3:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:13.146",
+                                "verseNumber": 8,
+                                "startTime": "00:02:41.227",
+                                "label": "Miqueias 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.658",
+                                "verseNumber": 9,
+                                "startTime": "00:02:54.374",
+                                "label": "Miqueias 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.225",
+                                "verseNumber": 10,
+                                "startTime": "00:03:20.033",
+                                "label": "Miqueias 3:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:41.074",
+                                "verseNumber": 11,
+                                "startTime": "00:03:45.258",
+                                "label": "Miqueias 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.345",
+                                "verseNumber": 12,
+                                "startTime": "00:04:26.332",
+                                "label": "Miqueias 3:12",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 311.678,
+                    "bitRate": 935.7655126043545
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/41/nwt_33_Mic_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:16:44",
+                        "checksum": "1274c3073d7f87114d6a5854de7d24cb"
+                    },
+                    "filesize": 50468034,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 33,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:28.228",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Miqueias 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.134",
+                                "verseNumber": 2,
+                                "startTime": "00:00:30.196",
+                                "label": "Miqueias 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.048",
+                                "verseNumber": 3,
+                                "startTime": "00:01:04.330",
+                                "label": "Miqueias 4:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.296",
+                                "verseNumber": 4,
+                                "startTime": "00:01:52.378",
+                                "label": "Miqueias 4:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.083",
+                                "verseNumber": 5,
+                                "startTime": "00:02:22.675",
+                                "label": "Miqueias 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.084",
+                                "verseNumber": 6,
+                                "startTime": "00:02:39.759",
+                                "label": "Miqueias 4:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.399",
+                                "verseNumber": 7,
+                                "startTime": "00:02:57.844",
+                                "label": "Miqueias 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.235",
+                                "verseNumber": 8,
+                                "startTime": "00:03:30.243",
+                                "label": "Miqueias 4:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.454",
+                                "verseNumber": 9,
+                                "startTime": "00:04:05.478",
+                                "label": "Miqueias 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.711",
+                                "verseNumber": 10,
+                                "startTime": "00:04:26.933",
+                                "label": "Miqueias 4:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.983",
+                                "verseNumber": 11,
+                                "startTime": "00:05:11.644",
+                                "label": "Miqueias 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.894",
+                                "verseNumber": 12,
+                                "startTime": "00:05:28.628",
+                                "label": "Miqueias 4:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:06.232",
+                                "verseNumber": 13,
+                                "startTime": "00:05:56.522",
+                                "label": "Miqueias 4:13",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 422.756,
+                    "bitRate": 932.6455819077672
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5d/nwt_33_Mic_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:15:52",
+                        "checksum": "da2abfc9625cf39ddbd21a2c1f390ff3"
+                    },
+                    "filesize": 49943856,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 33,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:31.297",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Miqueias 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.428",
+                                "verseNumber": 2,
+                                "startTime": "00:00:33.266",
+                                "label": "Miqueias 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.729",
+                                "verseNumber": 3,
+                                "startTime": "00:01:01.694",
+                                "label": "Miqueias 5:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.696",
+                                "verseNumber": 4,
+                                "startTime": "00:01:31.424",
+                                "label": "Miqueias 5:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.534",
+                                "verseNumber": 5,
+                                "startTime": "00:02:01.121",
+                                "label": "Miqueias 5:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.071",
+                                "verseNumber": 6,
+                                "startTime": "00:02:35.655",
+                                "label": "Miqueias 5:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:44.711",
+                                "verseNumber": 7,
+                                "startTime": "00:03:13.726",
+                                "label": "Miqueias 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.407",
+                                "verseNumber": 8,
+                                "startTime": "00:03:58.438",
+                                "label": "Miqueias 5:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.177",
+                                "verseNumber": 9,
+                                "startTime": "00:04:38.845",
+                                "label": "Miqueias 5:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.483",
+                                "verseNumber": 10,
+                                "startTime": "00:04:50.023",
+                                "label": "Miqueias 5:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.321",
+                                "verseNumber": 11,
+                                "startTime": "00:05:06.506",
+                                "label": "Miqueias 5:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.410",
+                                "verseNumber": 12,
+                                "startTime": "00:05:27.827",
+                                "label": "Miqueias 5:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.699",
+                                "verseNumber": 13,
+                                "startTime": "00:05:38.237",
+                                "label": "Miqueias 5:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.525",
+                                "verseNumber": 14,
+                                "startTime": "00:06:10.937",
+                                "label": "Miqueias 5:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.882",
+                                "verseNumber": 15,
+                                "startTime": "00:06:36.462",
+                                "label": "Miqueias 5:15",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 412.345,
+                    "bitRate": 946.2619287247329
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f2/nwt_33_Mic_LSB_06_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:15:57",
+                        "checksum": "e0e1520f7c869bb25a3d3712fc07dbc1"
+                    },
+                    "filesize": 59352373,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 6,
+                        "bibleBookNumber": 33,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:18.118",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Miqueias 6:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.520",
+                                "verseNumber": 2,
+                                "startTime": "00:00:20.086",
+                                "label": "Miqueias 6:2",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:10.777",
+                                "verseNumber": 3,
+                                "startTime": "00:00:40.607",
+                                "label": "Miqueias 6:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.455",
+                                "verseNumber": 4,
+                                "startTime": "00:00:51.384",
+                                "label": "Miqueias 6:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.008",
+                                "verseNumber": 5,
+                                "startTime": "00:01:13.840",
+                                "label": "Miqueias 6:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.560",
+                                "verseNumber": 6,
+                                "startTime": "00:01:55.849",
+                                "label": "Miqueias 6:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:51.584",
+                                "verseNumber": 7,
+                                "startTime": "00:02:23.409",
+                                "label": "Miqueias 6:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.694",
+                                "verseNumber": 8,
+                                "startTime": "00:03:14.994",
+                                "label": "Miqueias 6:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:28.561",
+                                "verseNumber": 9,
+                                "startTime": "00:03:42.689",
+                                "label": "Miqueias 6:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.003",
+                                "verseNumber": 10,
+                                "startTime": "00:04:11.251",
+                                "label": "Miqueias 6:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.527",
+                                "verseNumber": 11,
+                                "startTime": "00:04:48.254",
+                                "label": "Miqueias 6:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.821",
+                                "verseNumber": 12,
+                                "startTime": "00:05:15.782",
+                                "label": "Miqueias 6:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:13.446",
+                                "verseNumber": 13,
+                                "startTime": "00:05:37.603",
+                                "label": "Miqueias 6:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.863",
+                                "verseNumber": 14,
+                                "startTime": "00:05:51.050",
+                                "label": "Miqueias 6:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:35.235",
+                                "verseNumber": 15,
+                                "startTime": "00:06:20.913",
+                                "label": "Miqueias 6:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.814",
+                                "verseNumber": 16,
+                                "startTime": "00:06:56.149",
+                                "label": "Miqueias 6:16",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 463.964,
+                    "bitRate": 999.4103293843918
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/72/nwt_33_Mic_LSB_07_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-09-17 19:15:10",
+                        "checksum": "60601a3389ecc8593eec954d650ff886"
+                    },
+                    "filesize": 76699979,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 7,
+                        "bibleBookNumber": 33,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:45.612",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Miqueias 7:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.438",
+                                "verseNumber": 2,
+                                "startTime": "00:00:47.580",
+                                "label": "Miqueias 7:2",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:31.698",
+                                "verseNumber": 3,
+                                "startTime": "00:01:26.019",
+                                "label": "Miqueias 7:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.187",
+                                "verseNumber": 4,
+                                "startTime": "00:01:57.717",
+                                "label": "Miqueias 7:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:15.448",
+                                "verseNumber": 5,
+                                "startTime": "00:02:51.905",
+                                "label": "Miqueias 7:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.189",
+                                "verseNumber": 6,
+                                "startTime": "00:03:07.353",
+                                "label": "Miqueias 7:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.420",
+                                "verseNumber": 7,
+                                "startTime": "00:03:30.543",
+                                "label": "Miqueias 7:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.187",
+                                "verseNumber": 8,
+                                "startTime": "00:03:50.964",
+                                "label": "Miqueias 7:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.564",
+                                "verseNumber": 9,
+                                "startTime": "00:04:12.151",
+                                "label": "Miqueias 7:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.695",
+                                "verseNumber": 10,
+                                "startTime": "00:04:43.716",
+                                "label": "Miqueias 7:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.848",
+                                "verseNumber": 11,
+                                "startTime": "00:05:12.412",
+                                "label": "Miqueias 7:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:39.439",
+                                "verseNumber": 12,
+                                "startTime": "00:05:27.260",
+                                "label": "Miqueias 7:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.683",
+                                "verseNumber": 13,
+                                "startTime": "00:06:06.699",
+                                "label": "Miqueias 7:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:02.295",
+                                "verseNumber": 14,
+                                "startTime": "00:06:23.383",
+                                "label": "Miqueias 7:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:15.482",
+                                "verseNumber": 15,
+                                "startTime": "00:07:25.678",
+                                "label": "Miqueias 7:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.040",
+                                "verseNumber": 16,
+                                "startTime": "00:07:41.160",
+                                "label": "Miqueias 7:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.930",
+                                "verseNumber": 17,
+                                "startTime": "00:07:48.201",
+                                "label": "Miqueias 7:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:30.730",
+                                "verseNumber": 18,
+                                "startTime": "00:08:19.131",
+                                "label": "Miqueias 7:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.925",
+                                "verseNumber": 19,
+                                "startTime": "00:08:49.862",
+                                "label": "Miqueias 7:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.964",
+                                "verseNumber": 20,
+                                "startTime": "00:09:15.788",
+                                "label": "Miqueias 7:20",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 33,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 586.753,
+                    "bitRate": 1021.245031448497
+                }
+            ]
+        }
+    }
+}

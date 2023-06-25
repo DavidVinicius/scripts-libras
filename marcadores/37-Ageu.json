@@ -1,0 +1,603 @@
+{
+    "pubName": "Ageu",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 37,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/fb/nwt_37_Hag_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 12:54:13",
+                        "checksum": "6a17adf992b27c518927e31d4c054310"
+                    },
+                    "filesize": 6008280,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/04/nwt_37_Hag_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:57+00:00",
+                        "checksum": "7a13cce70bc924b37adb8432bf69f2bd"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 37,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.557,
+                    "duration": 445.879,
+                    "bitRate": 105.27449711693082
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/86/nwt_37_Hag_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-11 01:40:08",
+                        "checksum": "daba90bd1f22491473541f216a24cf92"
+                    },
+                    "filesize": 8677280,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b9/nwt_37_Hag_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:44+00:00",
+                        "checksum": "3ba5db487211b80668d68dc5a2542c5a"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 37,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.126,
+                    "duration": 628.394,
+                    "bitRate": 107.88016753820055
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e3/nwt_37_Hag_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-21 20:39:02",
+                        "checksum": "8d55cdd9e1a3812a6e606c535927cb96"
+                    },
+                    "filesize": 10710881,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/04/nwt_37_Hag_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:57+00:00",
+                        "checksum": "7a13cce70bc924b37adb8432bf69f2bd"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 37,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 445.879,
+                    "bitRate": 187.67144856003534
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b7/nwt_37_Hag_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-21 20:41:03",
+                        "checksum": "172828604b69736276716867bef8488f"
+                    },
+                    "filesize": 15614664,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b9/nwt_37_Hag_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:44+00:00",
+                        "checksum": "3ba5db487211b80668d68dc5a2542c5a"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 37,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 628.394,
+                    "bitRate": 194.1291013281476
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e0/nwt_37_Hag_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-21 20:40:03",
+                        "checksum": "444fa2c42b9c408310ea4a859af52176"
+                    },
+                    "filesize": 22389192,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/04/nwt_37_Hag_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:57+00:00",
+                        "checksum": "7a13cce70bc924b37adb8432bf69f2bd"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 37,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 445.879,
+                    "bitRate": 392.293789346437
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c1/nwt_37_Hag_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-21 20:40:11",
+                        "checksum": "7978eae19a2edfac9d7bcf754a7a896c"
+                    },
+                    "filesize": 32695509,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b9/nwt_37_Hag_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:44+00:00",
+                        "checksum": "3ba5db487211b80668d68dc5a2542c5a"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 37,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 628.394,
+                    "bitRate": 406.4864783280872
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/20/nwt_37_Hag_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-21 20:40:09",
+                        "checksum": "bb156d09be1aea72f142f3972b3528f2"
+                    },
+                    "filesize": 45697498,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/04/nwt_37_Hag_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:57+00:00",
+                        "checksum": "7a13cce70bc924b37adb8432bf69f2bd"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 37,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:51.985",
+                                "verseNumber": 1,
+                                "startTime": "00:00:11.544",
+                                "label": "Ageu 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.313",
+                                "verseNumber": 2,
+                                "startTime": "00:01:03.530",
+                                "label": "Ageu 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:02.469",
+                                "verseNumber": 3,
+                                "startTime": "00:01:16.843",
+                                "label": "Ageu 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.777",
+                                "verseNumber": 4,
+                                "startTime": "00:01:19.312",
+                                "label": "Ageu 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.712",
+                                "verseNumber": 5,
+                                "startTime": "00:01:30.090",
+                                "label": "Ageu 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.024",
+                                "verseNumber": 6,
+                                "startTime": "00:01:42.802",
+                                "label": "Ageu 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.782",
+                                "verseNumber": 7,
+                                "startTime": "00:02:40.827",
+                                "label": "Ageu 1:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:19.519",
+                                "verseNumber": 8,
+                                "startTime": "00:02:56.609",
+                                "label": "Ageu 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.548",
+                                "verseNumber": 9,
+                                "startTime": "00:03:16.129",
+                                "label": "Ageu 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.383",
+                                "verseNumber": 10,
+                                "startTime": "00:04:04.677",
+                                "label": "Ageu 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:59.325",
+                                "verseNumber": 11,
+                                "startTime": "00:04:21.060",
+                                "label": "Ageu 1:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:45.278",
+                                "verseNumber": 12,
+                                "startTime": "00:05:20.386",
+                                "label": "Ageu 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.910",
+                                "verseNumber": 13,
+                                "startTime": "00:06:05.665",
+                                "label": "Ageu 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.313",
+                                "verseNumber": 14,
+                                "startTime": "00:06:16.576",
+                                "label": "Ageu 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.988",
+                                "verseNumber": 15,
+                                "startTime": "00:07:03.890",
+                                "label": "Ageu 1:15",
+                                "endTransitionDuration": "00:00:08.675"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:11.544",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 37,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 445.879,
+                    "bitRate": 800.6918987550433
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/79/nwt_37_Hag_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-21 20:40:05",
+                        "checksum": "fd0ea15a384b4b90ef15a7164cfc1593"
+                    },
+                    "filesize": 66274061,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b9/nwt_37_Hag_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:44+00:00",
+                        "checksum": "3ba5db487211b80668d68dc5a2542c5a"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 37,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:16.616",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.035",
+                                "label": "Ageu 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.368",
+                                "verseNumber": 2,
+                                "startTime": "00:00:18.651",
+                                "label": "Ageu 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.120",
+                                "verseNumber": 3,
+                                "startTime": "00:00:54.020",
+                                "label": "Ageu 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.901",
+                                "verseNumber": 4,
+                                "startTime": "00:01:14.140",
+                                "label": "Ageu 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.525",
+                                "verseNumber": 5,
+                                "startTime": "00:01:49.042",
+                                "label": "Ageu 2:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:20.920",
+                                "verseNumber": 6,
+                                "startTime": "00:02:14.567",
+                                "label": "Ageu 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.058",
+                                "verseNumber": 7,
+                                "startTime": "00:02:35.488",
+                                "label": "Ageu 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.576",
+                                "verseNumber": 8,
+                                "startTime": "00:03:00.547",
+                                "label": "Ageu 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.000",
+                                "verseNumber": 9,
+                                "startTime": "00:03:10.123",
+                                "label": "Ageu 2:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:12.445",
+                                "verseNumber": 10,
+                                "startTime": "00:03:44.123",
+                                "label": "Ageu 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.676",
+                                "verseNumber": 11,
+                                "startTime": "00:03:56.569",
+                                "label": "Ageu 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.773",
+                                "verseNumber": 12,
+                                "startTime": "00:04:06.246",
+                                "label": "Ageu 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.321",
+                                "verseNumber": 13,
+                                "startTime": "00:04:46.019",
+                                "label": "Ageu 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.760",
+                                "verseNumber": 14,
+                                "startTime": "00:05:07.340",
+                                "label": "Ageu 2:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:11.711",
+                                "verseNumber": 15,
+                                "startTime": "00:05:34.100",
+                                "label": "Ageu 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.772",
+                                "verseNumber": 16,
+                                "startTime": "00:05:45.812",
+                                "label": "Ageu 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.412",
+                                "verseNumber": 17,
+                                "startTime": "00:06:24.584",
+                                "label": "Ageu 2:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:20.687",
+                                "verseNumber": 18,
+                                "startTime": "00:07:09.996",
+                                "label": "Ageu 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.591",
+                                "verseNumber": 19,
+                                "startTime": "00:07:30.683",
+                                "label": "Ageu 2:19",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:07.240",
+                                "verseNumber": 20,
+                                "startTime": "00:08:29.275",
+                                "label": "Ageu 2:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.418",
+                                "verseNumber": 21,
+                                "startTime": "00:08:36.516",
+                                "label": "Ageu 2:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.983",
+                                "verseNumber": 22,
+                                "startTime": "00:08:54.934",
+                                "label": "Ageu 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.476",
+                                "verseNumber": 23,
+                                "startTime": "00:09:44.917",
+                                "label": "Ageu 2:23",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.035",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 37,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 628.394,
+                    "bitRate": 823.9513769426507
+                }
+            ]
+        }
+    }
+}

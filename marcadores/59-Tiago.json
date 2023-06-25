@@ -1,0 +1,1550 @@
+{
+    "pubName": "Tiago",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 59,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "https://download-a.akamaihd.net/files/media_publication/6a/nwt_59_Jas_LSB.jpg",
+        "modifiedDatetime": "2019-02-05T11:58:04+00:00",
+        "checksum": "de8b3604594c91d956b11e36c2fd9bd2"
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a0/nwt_59_Jas_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 07:56:56",
+                        "checksum": "eb298771c80c0e02aa1a02a1004ed829"
+                    },
+                    "filesize": 27235227,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b7/nwt_59_Jas_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:16+00:00",
+                        "checksum": "a6022b40c9eea2b69cef1679f9de20b4"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 1320.586,
+                    "bitRate": 161.12181329917172
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/fd/nwt_59_Jas_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 16:52:26",
+                        "checksum": "8b3fbe1eb57fe14e70d9d2c729f1a6e2"
+                    },
+                    "filesize": 17581795,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/84/nwt_59_Jas_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:15+00:00",
+                        "checksum": "e492f9412ada5e57a2c64c13e8015ef0"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.91,
+                    "duration": 852.285,
+                    "bitRate": 161.16413340314566
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ad/nwt_59_Jas_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 07:57:01",
+                        "checksum": "eeff67ba83c1693af8e38bb8777c6bd0"
+                    },
+                    "filesize": 16372237,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/36/nwt_59_Jas_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:53:32+00:00",
+                        "checksum": "cc103e2402479dae8017649b2f19e772"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.586,
+                    "duration": 787.253,
+                    "bitRate": 162.4739461932822
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e2/nwt_59_Jas_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 16:52:30",
+                        "checksum": "01d7bf0332eeffc16813b8faaa7c71be"
+                    },
+                    "filesize": 13274423,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/95/nwt_59_Jas_LSB_04.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:13+00:00",
+                        "checksum": "9050ca3a928a659fc0cfbb052c4f1d10"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 674.574,
+                    "bitRate": 153.73617970378342
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/86/nwt_59_Jas_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-11 02:39:17",
+                        "checksum": "a9006452922c365a82111a3d4e087354"
+                    },
+                    "filesize": 21483284,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/aa/nwt_59_Jas_LSB_05.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:14+00:00",
+                        "checksum": "ea584ea0cd0629cd9132eefc925a3e3d"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.91,
+                    "duration": 1045.278,
+                    "bitRate": 160.56796015031406
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1b/nwt_59_Jas_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:07:20",
+                        "checksum": "4da84a09b3b6dcdd519dd84bdf08d910"
+                    },
+                    "filesize": 48219289,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b7/nwt_59_Jas_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:16+00:00",
+                        "checksum": "a6022b40c9eea2b69cef1679f9de20b4"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1320.586,
+                    "bitRate": 285.262145223787
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d0/nwt_59_Jas_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:06:42",
+                        "checksum": "c758bcc142ffda2a84e047096699f794"
+                    },
+                    "filesize": 31003519,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/84/nwt_59_Jas_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:15+00:00",
+                        "checksum": "e492f9412ada5e57a2c64c13e8015ef0"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 852.285,
+                    "bitRate": 284.1948317610893
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a2/nwt_59_Jas_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:06:35",
+                        "checksum": "81c8818b9dd4dbb754a50193ed726abc"
+                    },
+                    "filesize": 28819536,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/36/nwt_59_Jas_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:53:32+00:00",
+                        "checksum": "cc103e2402479dae8017649b2f19e772"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 787.253,
+                    "bitRate": 285.9977986746319
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/83/nwt_59_Jas_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:05:50",
+                        "checksum": "d42406fe49958a33b8ec9d41b31f9296"
+                    },
+                    "filesize": 23265117,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/95/nwt_59_Jas_LSB_04.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:13+00:00",
+                        "checksum": "9050ca3a928a659fc0cfbb052c4f1d10"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 674.574,
+                    "bitRate": 269.4422354886195
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6c/nwt_59_Jas_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:07:05",
+                        "checksum": "eaf9df60857e1ba121d35a6f5ef9169c"
+                    },
+                    "filesize": 37912509,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/aa/nwt_59_Jas_LSB_05.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:14+00:00",
+                        "checksum": "ea584ea0cd0629cd9132eefc925a3e3d"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1045.278,
+                    "bitRate": 283.361437399907
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e8/nwt_59_Jas_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:06:50",
+                        "checksum": "18fa5e0f30ec709172d10ad7a640d883"
+                    },
+                    "filesize": 103970035,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b7/nwt_59_Jas_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:16+00:00",
+                        "checksum": "a6022b40c9eea2b69cef1679f9de20b4"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1320.586,
+                    "bitRate": 615.0798951658581
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0d/nwt_59_Jas_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:06:02",
+                        "checksum": "243e326d149c27c3582b9898ed806adb"
+                    },
+                    "filesize": 67046366,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/84/nwt_59_Jas_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:15+00:00",
+                        "checksum": "e492f9412ada5e57a2c64c13e8015ef0"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 852.285,
+                    "bitRate": 614.5828383404613
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/49/nwt_59_Jas_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:07:00",
+                        "checksum": "a4f708ef2ab9194e4f2fbacea0f213ca"
+                    },
+                    "filesize": 61995383,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/36/nwt_59_Jas_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:53:32+00:00",
+                        "checksum": "cc103e2402479dae8017649b2f19e772"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 787.253,
+                    "bitRate": 615.2265277966549
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4b/nwt_59_Jas_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:04:30",
+                        "checksum": "a2d41aca53f8ad5dce121541ce1d34bc"
+                    },
+                    "filesize": 50368750,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/95/nwt_59_Jas_LSB_04.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:13+00:00",
+                        "checksum": "9050ca3a928a659fc0cfbb052c4f1d10"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 674.574,
+                    "bitRate": 583.3397957451666
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/78/nwt_59_Jas_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:07:08",
+                        "checksum": "aeec1435a779878c2431304aaef57d17"
+                    },
+                    "filesize": 81828095,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/aa/nwt_59_Jas_LSB_05.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:14+00:00",
+                        "checksum": "ea584ea0cd0629cd9132eefc925a3e3d"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1045.278,
+                    "bitRate": 611.5904019672279
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c3/nwt_59_Jas_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:06:10",
+                        "checksum": "def70d5b29dab449e2e8a949c0ef645e"
+                    },
+                    "filesize": 207841159,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b7/nwt_59_Jas_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:16+00:00",
+                        "checksum": "a6022b40c9eea2b69cef1679f9de20b4"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 59,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:15.275",
+                                "verseNumber": 1,
+                                "startTime": "00:00:19.953",
+                                "label": "Tiago 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.968",
+                                "verseNumber": 2,
+                                "startTime": "00:01:35.228",
+                                "label": "Tiago 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.023",
+                                "verseNumber": 3,
+                                "startTime": "00:02:10.196",
+                                "label": "Tiago 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.054",
+                                "verseNumber": 4,
+                                "startTime": "00:02:33.219",
+                                "label": "Tiago 1:4",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:12.472",
+                                "verseNumber": 5,
+                                "startTime": "00:02:54.274",
+                                "label": "Tiago 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.209",
+                                "verseNumber": 6,
+                                "startTime": "00:04:06.746",
+                                "label": "Tiago 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:03.370",
+                                "verseNumber": 7,
+                                "startTime": "00:04:49.956",
+                                "label": "Tiago 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.455",
+                                "verseNumber": 8,
+                                "startTime": "00:04:53.326",
+                                "label": "Tiago 1:8",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:33.800",
+                                "verseNumber": 9,
+                                "startTime": "00:05:15.782",
+                                "label": "Tiago 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:52.085",
+                                "verseNumber": 10,
+                                "startTime": "00:05:49.582",
+                                "label": "Tiago 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:08.835",
+                                "verseNumber": 11,
+                                "startTime": "00:06:41.667",
+                                "label": "Tiago 1:11",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:24.684",
+                                "verseNumber": 12,
+                                "startTime": "00:07:50.503",
+                                "label": "Tiago 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:07.067",
+                                "verseNumber": 13,
+                                "startTime": "00:09:15.187",
+                                "label": "Tiago 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.357",
+                                "verseNumber": 14,
+                                "startTime": "00:10:22.254",
+                                "label": "Tiago 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:51.451",
+                                "verseNumber": 15,
+                                "startTime": "00:10:46.612",
+                                "label": "Tiago 1:15",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:14.514",
+                                "verseNumber": 16,
+                                "startTime": "00:11:38.064",
+                                "label": "Tiago 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:35.328",
+                                "verseNumber": 17,
+                                "startTime": "00:11:52.578",
+                                "label": "Tiago 1:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.681",
+                                "verseNumber": 18,
+                                "startTime": "00:13:27.907",
+                                "label": "Tiago 1:18",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:05.865",
+                                "verseNumber": 19,
+                                "startTime": "00:14:16.589",
+                                "label": "Tiago 1:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.780",
+                                "verseNumber": 20,
+                                "startTime": "00:15:22.454",
+                                "label": "Tiago 1:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:14.340",
+                                "verseNumber": 21,
+                                "startTime": "00:15:36.235",
+                                "label": "Tiago 1:21",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:38.438",
+                                "verseNumber": 22,
+                                "startTime": "00:16:50.576",
+                                "label": "Tiago 1:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.030",
+                                "verseNumber": 23,
+                                "startTime": "00:17:29.014",
+                                "label": "Tiago 1:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.486",
+                                "verseNumber": 24,
+                                "startTime": "00:17:59.044",
+                                "label": "Tiago 1:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:08.635",
+                                "verseNumber": 25,
+                                "startTime": "00:18:18.530",
+                                "label": "Tiago 1:25",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:51.851",
+                                "verseNumber": 26,
+                                "startTime": "00:19:27.166",
+                                "label": "Tiago 1:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:41.601",
+                                "verseNumber": 27,
+                                "startTime": "00:20:19.017",
+                                "label": "Tiago 1:27",
+                                "endTransitionDuration": "00:00:11.678"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:19.953",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1320.586,
+                    "bitRate": 1229.5746393551801
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9a/nwt_59_Jas_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:05:17",
+                        "checksum": "f4594a44d2bf7c91655bc93a91ed992f"
+                    },
+                    "filesize": 134099779,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/84/nwt_59_Jas_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:15+00:00",
+                        "checksum": "e492f9412ada5e57a2c64c13e8015ef0"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 59,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:30.830",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Tiago 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.029",
+                                "verseNumber": 2,
+                                "startTime": "00:00:32.832",
+                                "label": "Tiago 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.761",
+                                "verseNumber": 3,
+                                "startTime": "00:01:01.861",
+                                "label": "Tiago 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.361",
+                                "verseNumber": 4,
+                                "startTime": "00:01:29.622",
+                                "label": "Tiago 2:4",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:45.645",
+                                "verseNumber": 5,
+                                "startTime": "00:01:57.984",
+                                "label": "Tiago 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.196",
+                                "verseNumber": 6,
+                                "startTime": "00:02:43.630",
+                                "label": "Tiago 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.650",
+                                "verseNumber": 7,
+                                "startTime": "00:03:13.826",
+                                "label": "Tiago 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.997",
+                                "verseNumber": 8,
+                                "startTime": "00:03:31.477",
+                                "label": "Tiago 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.289",
+                                "verseNumber": 9,
+                                "startTime": "00:04:02.475",
+                                "label": "Tiago 2:9",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:30.363",
+                                "verseNumber": 10,
+                                "startTime": "00:04:25.765",
+                                "label": "Tiago 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.601",
+                                "verseNumber": 11,
+                                "startTime": "00:04:56.129",
+                                "label": "Tiago 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.882",
+                                "verseNumber": 12,
+                                "startTime": "00:05:30.730",
+                                "label": "Tiago 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.070",
+                                "verseNumber": 13,
+                                "startTime": "00:06:19.612",
+                                "label": "Tiago 2:13",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:24.057",
+                                "verseNumber": 14,
+                                "startTime": "00:06:56.682",
+                                "label": "Tiago 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.426",
+                                "verseNumber": 15,
+                                "startTime": "00:07:20.740",
+                                "label": "Tiago 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.106",
+                                "verseNumber": 16,
+                                "startTime": "00:07:47.166",
+                                "label": "Tiago 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.357",
+                                "verseNumber": 17,
+                                "startTime": "00:08:27.273",
+                                "label": "Tiago 2:17",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:36.836",
+                                "verseNumber": 18,
+                                "startTime": "00:08:51.631",
+                                "label": "Tiago 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.694",
+                                "verseNumber": 19,
+                                "startTime": "00:09:28.467",
+                                "label": "Tiago 2:19",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:21.955",
+                                "verseNumber": 20,
+                                "startTime": "00:09:56.162",
+                                "label": "Tiago 2:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.544",
+                                "verseNumber": 21,
+                                "startTime": "00:10:18.117",
+                                "label": "Tiago 2:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.001",
+                                "verseNumber": 22,
+                                "startTime": "00:11:02.662",
+                                "label": "Tiago 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.170",
+                                "verseNumber": 23,
+                                "startTime": "00:11:37.663",
+                                "label": "Tiago 2:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.318",
+                                "verseNumber": 24,
+                                "startTime": "00:12:14.834",
+                                "label": "Tiago 2:24",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:48.548",
+                                "verseNumber": 25,
+                                "startTime": "00:12:33.152",
+                                "label": "Tiago 2:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.617",
+                                "verseNumber": 26,
+                                "startTime": "00:13:21.700",
+                                "label": "Tiago 2:26",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 852.285,
+                    "bitRate": 1229.230273250732
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d2/nwt_59_Jas_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:07:25",
+                        "checksum": "18ad3aaaaf6af32e254080ea54bd3225"
+                    },
+                    "filesize": 123775826,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/36/nwt_59_Jas_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:53:32+00:00",
+                        "checksum": "cc103e2402479dae8017649b2f19e772"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 59,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:55.588",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Tiago 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.168",
+                                "verseNumber": 2,
+                                "startTime": "00:00:57.590",
+                                "label": "Tiago 3:2",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:34.334",
+                                "verseNumber": 3,
+                                "startTime": "00:01:32.759",
+                                "label": "Tiago 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.149",
+                                "verseNumber": 4,
+                                "startTime": "00:02:07.093",
+                                "label": "Tiago 3:4",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:56.322",
+                                "verseNumber": 5,
+                                "startTime": "00:02:56.242",
+                                "label": "Tiago 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.892",
+                                "verseNumber": 6,
+                                "startTime": "00:03:52.565",
+                                "label": "Tiago 3:6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:40.673",
+                                "verseNumber": 7,
+                                "startTime": "00:04:51.457",
+                                "label": "Tiago 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.616",
+                                "verseNumber": 8,
+                                "startTime": "00:05:32.131",
+                                "label": "Tiago 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.742",
+                                "verseNumber": 9,
+                                "startTime": "00:06:21.748",
+                                "label": "Tiago 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.253",
+                                "verseNumber": 10,
+                                "startTime": "00:07:04.490",
+                                "label": "Tiago 3:10",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:34.200",
+                                "verseNumber": 11,
+                                "startTime": "00:07:24.744",
+                                "label": "Tiago 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:26.286",
+                                "verseNumber": 12,
+                                "startTime": "00:07:58.945",
+                                "label": "Tiago 3:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:34.768",
+                                "verseNumber": 13,
+                                "startTime": "00:09:25.231",
+                                "label": "Tiago 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.670",
+                                "verseNumber": 14,
+                                "startTime": "00:09:59.999",
+                                "label": "Tiago 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.729",
+                                "verseNumber": 15,
+                                "startTime": "00:10:37.670",
+                                "label": "Tiago 3:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.397",
+                                "verseNumber": 16,
+                                "startTime": "00:11:07.400",
+                                "label": "Tiago 3:16",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:02.362",
+                                "verseNumber": 17,
+                                "startTime": "00:11:37.797",
+                                "label": "Tiago 3:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.093",
+                                "verseNumber": 18,
+                                "startTime": "00:12:40.159",
+                                "label": "Tiago 3:18",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 787.253,
+                    "bitRate": 1228.3200453030981
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b3/nwt_59_Jas_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:05:03",
+                        "checksum": "d83ec683016d9584faa3e4f4e1b57434"
+                    },
+                    "filesize": 101918008,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/95/nwt_59_Jas_LSB_04.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:13+00:00",
+                        "checksum": "9050ca3a928a659fc0cfbb052c4f1d10"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 59,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:55.688",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Tiago 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:09.369",
+                                "verseNumber": 2,
+                                "startTime": "00:00:57.690",
+                                "label": "Tiago 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.579",
+                                "verseNumber": 3,
+                                "startTime": "00:02:07.060",
+                                "label": "Tiago 4:3",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:42.842",
+                                "verseNumber": 4,
+                                "startTime": "00:02:53.640",
+                                "label": "Tiago 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.095",
+                                "verseNumber": 5,
+                                "startTime": "00:03:36.482",
+                                "label": "Tiago 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:01.594",
+                                "verseNumber": 6,
+                                "startTime": "00:04:05.578",
+                                "label": "Tiago 4:6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:31.698",
+                                "verseNumber": 7,
+                                "startTime": "00:05:07.173",
+                                "label": "Tiago 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.809",
+                                "verseNumber": 8,
+                                "startTime": "00:05:38.871",
+                                "label": "Tiago 4:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.982",
+                                "verseNumber": 9,
+                                "startTime": "00:06:21.681",
+                                "label": "Tiago 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.456",
+                                "verseNumber": 10,
+                                "startTime": "00:06:37.663",
+                                "label": "Tiago 4:10",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:45.745",
+                                "verseNumber": 11,
+                                "startTime": "00:07:01.120",
+                                "label": "Tiago 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:02.429",
+                                "verseNumber": 12,
+                                "startTime": "00:07:46.866",
+                                "label": "Tiago 4:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:29.029",
+                                "verseNumber": 13,
+                                "startTime": "00:08:49.295",
+                                "label": "Tiago 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.075",
+                                "verseNumber": 14,
+                                "startTime": "00:09:18.324",
+                                "label": "Tiago 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.388",
+                                "verseNumber": 15,
+                                "startTime": "00:10:00.399",
+                                "label": "Tiago 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.490",
+                                "verseNumber": 16,
+                                "startTime": "00:10:21.787",
+                                "label": "Tiago 4:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.295",
+                                "verseNumber": 17,
+                                "startTime": "00:10:45.277",
+                                "label": "Tiago 4:17",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 674.574,
+                    "bitRate": 1180.3515070251744
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5a/nwt_59_Jas_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-12-10 19:07:31",
+                        "checksum": "b463ddcc01dcfc80db7fd01608e9993e"
+                    },
+                    "filesize": 164442856,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/aa/nwt_59_Jas_LSB_05.jpg",
+                        "modifiedDatetime": "2019-12-31T01:59:14+00:00",
+                        "checksum": "ea584ea0cd0629cd9132eefc925a3e3d"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 59,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:43.343",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Tiago 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:56.990",
+                                "verseNumber": 2,
+                                "startTime": "00:00:45.345",
+                                "label": "Tiago 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:25.218",
+                                "verseNumber": 3,
+                                "startTime": "00:01:42.335",
+                                "label": "Tiago 5:3",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:40.900",
+                                "verseNumber": 4,
+                                "startTime": "00:03:07.554",
+                                "label": "Tiago 5:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:03.596",
+                                "verseNumber": 5,
+                                "startTime": "00:04:48.454",
+                                "label": "Tiago 5:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.420",
+                                "verseNumber": 6,
+                                "startTime": "00:05:52.051",
+                                "label": "Tiago 5:6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:46.139",
+                                "verseNumber": 7,
+                                "startTime": "00:06:12.472",
+                                "label": "Tiago 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.856",
+                                "verseNumber": 8,
+                                "startTime": "00:07:58.611",
+                                "label": "Tiago 5:8",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:04.197",
+                                "verseNumber": 9,
+                                "startTime": "00:08:21.467",
+                                "label": "Tiago 5:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.190",
+                                "verseNumber": 10,
+                                "startTime": "00:09:25.665",
+                                "label": "Tiago 5:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:56.222",
+                                "verseNumber": 11,
+                                "startTime": "00:10:22.855",
+                                "label": "Tiago 5:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:46.312",
+                                "verseNumber": 12,
+                                "startTime": "00:11:19.078",
+                                "label": "Tiago 5:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:26.893",
+                                "verseNumber": 13,
+                                "startTime": "00:12:05.391",
+                                "label": "Tiago 5:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.135",
+                                "verseNumber": 14,
+                                "startTime": "00:12:32.284",
+                                "label": "Tiago 5:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.708",
+                                "verseNumber": 15,
+                                "startTime": "00:13:07.419",
+                                "label": "Tiago 5:15",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:53.720",
+                                "verseNumber": 16,
+                                "startTime": "00:13:49.128",
+                                "label": "Tiago 5:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.037",
+                                "verseNumber": 17,
+                                "startTime": "00:14:42.848",
+                                "label": "Tiago 5:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.344",
+                                "verseNumber": 18,
+                                "startTime": "00:15:19.885",
+                                "label": "Tiago 5:18",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:41.107",
+                                "verseNumber": 19,
+                                "startTime": "00:16:04.229",
+                                "label": "Tiago 5:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.973",
+                                "verseNumber": 20,
+                                "startTime": "00:16:45.337",
+                                "label": "Tiago 5:20",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 59,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1045.278,
+                    "bitRate": 1229.0604150283466
+                }
+            ]
+        }
+    }
+}

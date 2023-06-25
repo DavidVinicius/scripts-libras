@@ -1,0 +1,1419 @@
+{
+    "pubName": "1 Tessalonicenses",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 52,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "https://download-a.akamaihd.net/files/media_publication/8e/nwt_52_1Th_LSB.jpg",
+        "modifiedDatetime": "2019-02-05T11:57:57+00:00",
+        "checksum": "96924735d8b8af7c84f387bc81acca57"
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d4/nwt_52_1Th_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 04:50:10",
+                        "checksum": "d663c488b25f4fa4a67729597ce335c6"
+                    },
+                    "filesize": 10809577,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/73/nwt_52_1Th_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:09:43+00:00",
+                        "checksum": "bb86d11af9b2c7bd0b2656a72cae415d"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.155,
+                    "duration": 491.758,
+                    "bitRate": 171.73044528507924
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bd/nwt_52_1Th_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 07:38:03",
+                        "checksum": "4b0bf03dca536cb298c08d40efda5996"
+                    },
+                    "filesize": 17134596,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_52_1Th_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:26+00:00",
+                        "checksum": "ae58ab34c3f7701757fc43413e1b23e2"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.762,
+                    "duration": 797.463,
+                    "bitRate": 167.86237261164467
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/79/nwt_52_1Th_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 03:08:19",
+                        "checksum": "551f952f117f0126262ba0d8bee7d455"
+                    },
+                    "filesize": 9453426,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ad/nwt_52_1Th_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:50+00:00",
+                        "checksum": "1421210f133513b09898d22ea83f2f1d"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.183,
+                    "duration": 423.123,
+                    "bitRate": 174.54709534816118
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/99/nwt_52_1Th_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 07:38:06",
+                        "checksum": "3d72dc2ba9250f05a4582a8eb7cd94a3"
+                    },
+                    "filesize": 12812769,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/21/nwt_52_1Th_LSB_04.jpg",
+                        "modifiedDatetime": "2019-12-31T01:09:40+00:00",
+                        "checksum": "a6d59af589fc29b8d83780f800e74681"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.88,
+                    "duration": 580.914,
+                    "bitRate": 172.31424584792242
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4f/nwt_52_1Th_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 12:17:25",
+                        "checksum": "e537c303e11c774e68924394f4e5e21a"
+                    },
+                    "filesize": 19630240,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b5/nwt_52_1Th_LSB_05.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:51+00:00",
+                        "checksum": "17d7571e86b48266479602a7c066b0f9"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.499,
+                    "duration": 890.156,
+                    "bitRate": 172.28581282381967
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/23/nwt_52_1Th_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:52:29",
+                        "checksum": "67c0d41998d5047102fdbc27b3fddd1c"
+                    },
+                    "filesize": 19497812,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/73/nwt_52_1Th_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:09:43+00:00",
+                        "checksum": "bb86d11af9b2c7bd0b2656a72cae415d"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 491.758,
+                    "bitRate": 309.75938622249157
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f9/nwt_52_1Th_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:53:08",
+                        "checksum": "8d4d6e06a1fb2a4eb0b06d9805fe6fcb"
+                    },
+                    "filesize": 31005559,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_52_1Th_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:26+00:00",
+                        "checksum": "ae58ab34c3f7701757fc43413e1b23e2"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 797.463,
+                    "bitRate": 303.75193543462206
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/25/nwt_52_1Th_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:53:46",
+                        "checksum": "c3888d52e10984e16a4ac9a904b1b920"
+                    },
+                    "filesize": 16914444,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ad/nwt_52_1Th_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:50+00:00",
+                        "checksum": "1421210f133513b09898d22ea83f2f1d"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 423.123,
+                    "bitRate": 312.30657220240926
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8a/nwt_52_1Th_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:54:15",
+                        "checksum": "b966a356df40ea3c44bc1432aac95250"
+                    },
+                    "filesize": 23069303,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/21/nwt_52_1Th_LSB_04.jpg",
+                        "modifiedDatetime": "2019-12-31T01:09:40+00:00",
+                        "checksum": "a6d59af589fc29b8d83780f800e74681"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 580.914,
+                    "bitRate": 310.25062175726526
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/50/nwt_52_1Th_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:52:52",
+                        "checksum": "fbf475d077f956558a4b0fd40c677e61"
+                    },
+                    "filesize": 35448890,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b5/nwt_52_1Th_LSB_05.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:51+00:00",
+                        "checksum": "17d7571e86b48266479602a7c066b0f9"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 890.156,
+                    "bitRate": 311.1190096174154
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/18/nwt_52_1Th_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:52:25",
+                        "checksum": "9d6cc4eb41c8d2b4f8dde97142051063"
+                    },
+                    "filesize": 43501439,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/73/nwt_52_1Th_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:09:43+00:00",
+                        "checksum": "bb86d11af9b2c7bd0b2656a72cae415d"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 491.758,
+                    "bitRate": 691.102111582323
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c6/nwt_52_1Th_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:53:11",
+                        "checksum": "4ad148ae7e1b44930e93bf6d488152e7"
+                    },
+                    "filesize": 69555199,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_52_1Th_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:26+00:00",
+                        "checksum": "ae58ab34c3f7701757fc43413e1b23e2"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 797.463,
+                    "bitRate": 681.4109145972917
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cc/nwt_52_1Th_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:53:32",
+                        "checksum": "0b9194e1aa1707e52a08c680b7995ca7"
+                    },
+                    "filesize": 37677170,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ad/nwt_52_1Th_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:50+00:00",
+                        "checksum": "1421210f133513b09898d22ea83f2f1d"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 423.123,
+                    "bitRate": 695.6674315151859
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/97/nwt_52_1Th_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:53:17",
+                        "checksum": "cfa15c06727920ff38d6041e4a9c0665"
+                    },
+                    "filesize": 51604215,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/21/nwt_52_1Th_LSB_04.jpg",
+                        "modifiedDatetime": "2019-12-31T01:09:40+00:00",
+                        "checksum": "a6d59af589fc29b8d83780f800e74681"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 580.914,
+                    "bitRate": 694.006220692736
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/22/nwt_52_1Th_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:52:17",
+                        "checksum": "0775f7690834b3ea29ab38a39d92815c"
+                    },
+                    "filesize": 79626430,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b5/nwt_52_1Th_LSB_05.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:51+00:00",
+                        "checksum": "17d7571e86b48266479602a7c066b0f9"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 890.156,
+                    "bitRate": 698.8454657105048
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b1/nwt_52_1Th_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:53:40",
+                        "checksum": "124ece415b27e2c40dff8611cf5ba717"
+                    },
+                    "filesize": 90178047,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/73/nwt_52_1Th_LSB_01.jpg",
+                        "modifiedDatetime": "2019-12-31T01:09:43+00:00",
+                        "checksum": "bb86d11af9b2c7bd0b2656a72cae415d"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 52,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:07.434",
+                                "verseNumber": 1,
+                                "startTime": "00:00:22.122",
+                                "label": "1 Tessalonicenses 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.021",
+                                "verseNumber": 2,
+                                "startTime": "00:01:29.556",
+                                "label": "1 Tessalonicenses 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.177",
+                                "verseNumber": 3,
+                                "startTime": "00:01:50.577",
+                                "label": "1 Tessalonicenses 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.950",
+                                "verseNumber": 4,
+                                "startTime": "00:02:34.754",
+                                "label": "1 Tessalonicenses 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.832",
+                                "verseNumber": 5,
+                                "startTime": "00:02:51.704",
+                                "label": "1 Tessalonicenses 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.249",
+                                "verseNumber": 6,
+                                "startTime": "00:03:24.537",
+                                "label": "1 Tessalonicenses 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.334",
+                                "verseNumber": 7,
+                                "startTime": "00:04:13.786",
+                                "label": "1 Tessalonicenses 1:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:03.563",
+                                "verseNumber": 8,
+                                "startTime": "00:04:48.121",
+                                "label": "1 Tessalonicenses 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:22.482",
+                                "verseNumber": 9,
+                                "startTime": "00:05:51.684",
+                                "label": "1 Tessalonicenses 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.624",
+                                "verseNumber": 10,
+                                "startTime": "00:07:14.167",
+                                "label": "1 Tessalonicenses 1:10",
+                                "endTransitionDuration": "00:00:11.678"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:22.122",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 491.758,
+                    "bitRate": 1432.6477498840893
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/35/nwt_52_1Th_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:54:07",
+                        "checksum": "2f7ff88f5cf25c3b3f305d3fb5dea1db"
+                    },
+                    "filesize": 144686079,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_52_1Th_LSB_02.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:26+00:00",
+                        "checksum": "ae58ab34c3f7701757fc43413e1b23e2"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 52,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:24.457",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "1 Tessalonicenses 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.554",
+                                "verseNumber": 2,
+                                "startTime": "00:00:26.459",
+                                "label": "1 Tessalonicenses 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.514",
+                                "verseNumber": 3,
+                                "startTime": "00:01:21.014",
+                                "label": "1 Tessalonicenses 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:05.465",
+                                "verseNumber": 4,
+                                "startTime": "00:01:35.528",
+                                "label": "1 Tessalonicenses 2:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:36.403",
+                                "verseNumber": 5,
+                                "startTime": "00:02:40.994",
+                                "label": "1 Tessalonicenses 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.725",
+                                "verseNumber": 6,
+                                "startTime": "00:03:17.397",
+                                "label": "1 Tessalonicenses 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.763",
+                                "verseNumber": 7,
+                                "startTime": "00:03:43.122",
+                                "label": "1 Tessalonicenses 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.594",
+                                "verseNumber": 8,
+                                "startTime": "00:04:12.885",
+                                "label": "1 Tessalonicenses 2:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:52.819",
+                                "verseNumber": 9,
+                                "startTime": "00:04:40.480",
+                                "label": "1 Tessalonicenses 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.068",
+                                "verseNumber": 10,
+                                "startTime": "00:05:33.299",
+                                "label": "1 Tessalonicenses 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.200",
+                                "verseNumber": 11,
+                                "startTime": "00:06:08.368",
+                                "label": "1 Tessalonicenses 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.262",
+                                "verseNumber": 12,
+                                "startTime": "00:06:42.568",
+                                "label": "1 Tessalonicenses 2:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:44.511",
+                                "verseNumber": 13,
+                                "startTime": "00:07:11.831",
+                                "label": "1 Tessalonicenses 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.090",
+                                "verseNumber": 14,
+                                "startTime": "00:07:56.342",
+                                "label": "1 Tessalonicenses 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:04.230",
+                                "verseNumber": 15,
+                                "startTime": "00:08:53.432",
+                                "label": "1 Tessalonicenses 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:53.353",
+                                "verseNumber": 16,
+                                "startTime": "00:09:57.663",
+                                "label": "1 Tessalonicenses 2:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:40.640",
+                                "verseNumber": 17,
+                                "startTime": "00:10:51.017",
+                                "label": "1 Tessalonicenses 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.066",
+                                "verseNumber": 18,
+                                "startTime": "00:11:31.657",
+                                "label": "1 Tessalonicenses 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.054",
+                                "verseNumber": 19,
+                                "startTime": "00:12:04.724",
+                                "label": "1 Tessalonicenses 2:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.685",
+                                "verseNumber": 20,
+                                "startTime": "00:12:58.778",
+                                "label": "1 Tessalonicenses 2:20",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 797.463,
+                    "bitRate": 1417.4450628900652
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2b/nwt_52_1Th_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:54:20",
+                        "checksum": "b60a45c08d3ec71f73a8f63002e9894c"
+                    },
+                    "filesize": 77619603,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ad/nwt_52_1Th_LSB_03.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:50+00:00",
+                        "checksum": "1421210f133513b09898d22ea83f2f1d"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 52,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:24.124",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "1 Tessalonicenses 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.702",
+                                "verseNumber": 2,
+                                "startTime": "00:00:26.126",
+                                "label": "1 Tessalonicenses 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.741",
+                                "verseNumber": 3,
+                                "startTime": "00:01:01.828",
+                                "label": "1 Tessalonicenses 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.530",
+                                "verseNumber": 4,
+                                "startTime": "00:01:43.570",
+                                "label": "1 Tessalonicenses 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.742",
+                                "verseNumber": 5,
+                                "startTime": "00:02:14.100",
+                                "label": "1 Tessalonicenses 3:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:48.081",
+                                "verseNumber": 6,
+                                "startTime": "00:02:56.843",
+                                "label": "1 Tessalonicenses 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.152",
+                                "verseNumber": 7,
+                                "startTime": "00:03:44.924",
+                                "label": "1 Tessalonicenses 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.482",
+                                "verseNumber": 8,
+                                "startTime": "00:04:04.077",
+                                "label": "1 Tessalonicenses 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.291",
+                                "verseNumber": 9,
+                                "startTime": "00:04:19.559",
+                                "label": "1 Tessalonicenses 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.201",
+                                "verseNumber": 10,
+                                "startTime": "00:04:44.851",
+                                "label": "1 Tessalonicenses 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.983",
+                                "verseNumber": 11,
+                                "startTime": "00:05:20.053",
+                                "label": "1 Tessalonicenses 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.268",
+                                "verseNumber": 12,
+                                "startTime": "00:05:37.036",
+                                "label": "1 Tessalonicenses 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.850",
+                                "verseNumber": 13,
+                                "startTime": "00:06:12.305",
+                                "label": "1 Tessalonicenses 3:13",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 423.123,
+                    "bitRate": 1433.160448468885
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_52_1Th_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:52:33",
+                        "checksum": "90d64fd4fe6ac765ff72c5a341dac6b4"
+                    },
+                    "filesize": 106659611,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/21/nwt_52_1Th_LSB_04.jpg",
+                        "modifiedDatetime": "2019-12-31T01:09:40+00:00",
+                        "checksum": "a6d59af589fc29b8d83780f800e74681"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 52,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:48.081",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "1 Tessalonicenses 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.215",
+                                "verseNumber": 2,
+                                "startTime": "00:00:50.083",
+                                "label": "1 Tessalonicenses 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.683",
+                                "verseNumber": 3,
+                                "startTime": "00:01:05.298",
+                                "label": "1 Tessalonicenses 4:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.754",
+                                "verseNumber": 4,
+                                "startTime": "00:01:21.981",
+                                "label": "1 Tessalonicenses 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.891",
+                                "verseNumber": 5,
+                                "startTime": "00:01:42.735",
+                                "label": "1 Tessalonicenses 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.083",
+                                "verseNumber": 6,
+                                "startTime": "00:02:07.627",
+                                "label": "1 Tessalonicenses 4:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.356",
+                                "verseNumber": 7,
+                                "startTime": "00:02:57.710",
+                                "label": "1 Tessalonicenses 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.288",
+                                "verseNumber": 8,
+                                "startTime": "00:03:21.067",
+                                "label": "1 Tessalonicenses 4:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:35.435",
+                                "verseNumber": 9,
+                                "startTime": "00:03:43.356",
+                                "label": "1 Tessalonicenses 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.962",
+                                "verseNumber": 10,
+                                "startTime": "00:04:18.791",
+                                "label": "1 Tessalonicenses 4:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.826",
+                                "verseNumber": 11,
+                                "startTime": "00:04:47.754",
+                                "label": "1 Tessalonicenses 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.391",
+                                "verseNumber": 12,
+                                "startTime": "00:05:14.580",
+                                "label": "1 Tessalonicenses 4:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:51.017",
+                                "verseNumber": 13,
+                                "startTime": "00:05:38.971",
+                                "label": "1 Tessalonicenses 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.140",
+                                "verseNumber": 14,
+                                "startTime": "00:06:29.989",
+                                "label": "1 Tessalonicenses 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:59.426",
+                                "verseNumber": 15,
+                                "startTime": "00:07:10.129",
+                                "label": "1 Tessalonicenses 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.937",
+                                "verseNumber": 16,
+                                "startTime": "00:08:09.555",
+                                "label": "1 Tessalonicenses 4:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.694",
+                                "verseNumber": 17,
+                                "startTime": "00:08:47.493",
+                                "label": "1 Tessalonicenses 4:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.759",
+                                "verseNumber": 18,
+                                "startTime": "00:09:15.187",
+                                "label": "1 Tessalonicenses 4:18",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 580.914,
+                    "bitRate": 1434.4261128798755
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6b/nwt_52_1Th_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 19:52:44",
+                        "checksum": "2a1b2c1bf2057df14d841fd8bf2637fa"
+                    },
+                    "filesize": 165748219,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b5/nwt_52_1Th_LSB_05.jpg",
+                        "modifiedDatetime": "2019-12-31T01:10:51+00:00",
+                        "checksum": "17d7571e86b48266479602a7c066b0f9"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 52,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:33.400",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "1 Tessalonicenses 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.792",
+                                "verseNumber": 2,
+                                "startTime": "00:00:35.402",
+                                "label": "1 Tessalonicenses 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.283",
+                                "verseNumber": 3,
+                                "startTime": "00:01:34.194",
+                                "label": "1 Tessalonicenses 5:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.733",
+                                "verseNumber": 4,
+                                "startTime": "00:02:24.477",
+                                "label": "1 Tessalonicenses 5:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.749",
+                                "verseNumber": 5,
+                                "startTime": "00:02:58.211",
+                                "label": "1 Tessalonicenses 5:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:34.734",
+                                "verseNumber": 6,
+                                "startTime": "00:03:13.960",
+                                "label": "1 Tessalonicenses 5:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.509",
+                                "verseNumber": 7,
+                                "startTime": "00:03:48.695",
+                                "label": "1 Tessalonicenses 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.755",
+                                "verseNumber": 8,
+                                "startTime": "00:04:31.204",
+                                "label": "1 Tessalonicenses 5:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.827",
+                                "verseNumber": 9,
+                                "startTime": "00:05:26.959",
+                                "label": "1 Tessalonicenses 5:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.897",
+                                "verseNumber": 10,
+                                "startTime": "00:05:54.787",
+                                "label": "1 Tessalonicenses 5:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.356",
+                                "verseNumber": 11,
+                                "startTime": "00:06:25.685",
+                                "label": "1 Tessalonicenses 5:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.894",
+                                "verseNumber": 12,
+                                "startTime": "00:06:49.041",
+                                "label": "1 Tessalonicenses 5:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.405",
+                                "verseNumber": 13,
+                                "startTime": "00:07:16.936",
+                                "label": "1 Tessalonicenses 5:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.724",
+                                "verseNumber": 14,
+                                "startTime": "00:07:55.341",
+                                "label": "1 Tessalonicenses 5:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.702",
+                                "verseNumber": 15,
+                                "startTime": "00:08:53.065",
+                                "label": "1 Tessalonicenses 5:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:09.442",
+                                "verseNumber": 16,
+                                "startTime": "00:09:28.768",
+                                "label": "1 Tessalonicenses 5:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.273",
+                                "verseNumber": 17,
+                                "startTime": "00:09:38.210",
+                                "label": "1 Tessalonicenses 5:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.175",
+                                "verseNumber": 18,
+                                "startTime": "00:09:45.484",
+                                "label": "1 Tessalonicenses 5:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.697",
+                                "verseNumber": 19,
+                                "startTime": "00:10:27.660",
+                                "label": "1 Tessalonicenses 5:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.582",
+                                "verseNumber": 20,
+                                "startTime": "00:10:58.357",
+                                "label": "1 Tessalonicenses 5:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.164",
+                                "verseNumber": 21,
+                                "startTime": "00:11:13.939",
+                                "label": "1 Tessalonicenses 5:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.976",
+                                "verseNumber": 22,
+                                "startTime": "00:11:45.104",
+                                "label": "1 Tessalonicenses 5:22",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:08.001",
+                                "verseNumber": 23,
+                                "startTime": "00:11:55.081",
+                                "label": "1 Tessalonicenses 5:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.282",
+                                "verseNumber": 24,
+                                "startTime": "00:13:03.082",
+                                "label": "1 Tessalonicenses 5:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.881",
+                                "verseNumber": 25,
+                                "startTime": "00:13:19.365",
+                                "label": "1 Tessalonicenses 5:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.045",
+                                "verseNumber": 26,
+                                "startTime": "00:13:34.246",
+                                "label": "1 Tessalonicenses 5:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.144",
+                                "verseNumber": 27,
+                                "startTime": "00:13:46.292",
+                                "label": "1 Tessalonicenses 5:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.753",
+                                "verseNumber": 28,
+                                "startTime": "00:14:30.436",
+                                "label": "1 Tessalonicenses 5:28",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 52,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 890.156,
+                    "bitRate": 1454.697784363078
+                }
+            ]
+        }
+    }
+}

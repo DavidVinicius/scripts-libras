@@ -1,0 +1,513 @@
+{
+    "pubName": "Lev\u00edtico",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 3,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/36/nwt_03_Le_LSB_11_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 09:01:14",
+                        "checksum": "ffeb9752ead92904c43eefbac3821020"
+                    },
+                    "filesize": 13850840,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 3,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.674,
+                    "duration": 1005.371,
+                    "bitRate": 107.63159818614223
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/80/nwt_03_Le_LSB_11_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-05-06 12:07:12",
+                        "checksum": "ec415ea04e230cfed3eac06bbdc8f392"
+                    },
+                    "filesize": 23734412,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 3,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1005.371,
+                    "bitRate": 184.43449607159945
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/fe/nwt_03_Le_LSB_11_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-05-06 12:07:17",
+                        "checksum": "a23f5c7ea1534441f0fe328ae7370ccb"
+                    },
+                    "filesize": 45381888,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 3,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1005.371,
+                    "bitRate": 352.65190660959985
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9b/nwt_03_Le_LSB_11_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-05-06 12:22:52",
+                        "checksum": "63d910c3655b7c339bb1d5809896dfc8"
+                    },
+                    "filesize": 80500457,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 11,
+                        "bibleBookNumber": 3,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:07.173",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Lev\u00edtico 11:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.946",
+                                "verseNumber": 2,
+                                "startTime": "00:00:09.175",
+                                "label": "Lev\u00edtico 11:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.752",
+                                "verseNumber": 3,
+                                "startTime": "00:00:22.122",
+                                "label": "Lev\u00edtico 11:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.622",
+                                "verseNumber": 4,
+                                "startTime": "00:00:40.874",
+                                "label": "Lev\u00edtico 11:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.994",
+                                "verseNumber": 5,
+                                "startTime": "00:01:03.496",
+                                "label": "Lev\u00edtico 11:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.746",
+                                "verseNumber": 6,
+                                "startTime": "00:01:31.491",
+                                "label": "Lev\u00edtico 11:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.079",
+                                "verseNumber": 7,
+                                "startTime": "00:01:44.237",
+                                "label": "Lev\u00edtico 11:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.283",
+                                "verseNumber": 8,
+                                "startTime": "00:01:57.317",
+                                "label": "Lev\u00edtico 11:8",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:23.990",
+                                "verseNumber": 9,
+                                "startTime": "00:02:14.601",
+                                "label": "Lev\u00edtico 11:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.153",
+                                "verseNumber": 10,
+                                "startTime": "00:02:38.591",
+                                "label": "Lev\u00edtico 11:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.776",
+                                "verseNumber": 11,
+                                "startTime": "00:02:58.745",
+                                "label": "Lev\u00edtico 11:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.615",
+                                "verseNumber": 12,
+                                "startTime": "00:03:08.521",
+                                "label": "Lev\u00edtico 11:12",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:39.672",
+                                "verseNumber": 13,
+                                "startTime": "00:03:24.137",
+                                "label": "Lev\u00edtico 11:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.682",
+                                "verseNumber": 14,
+                                "startTime": "00:04:03.810",
+                                "label": "Lev\u00edtico 11:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.539",
+                                "verseNumber": 15,
+                                "startTime": "00:04:19.492",
+                                "label": "Lev\u00edtico 11:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.734",
+                                "verseNumber": 16,
+                                "startTime": "00:04:26.032",
+                                "label": "Lev\u00edtico 11:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.080",
+                                "verseNumber": 17,
+                                "startTime": "00:05:00.767",
+                                "label": "Lev\u00edtico 11:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.992",
+                                "verseNumber": 18,
+                                "startTime": "00:05:14.847",
+                                "label": "Lev\u00edtico 11:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.674",
+                                "verseNumber": 19,
+                                "startTime": "00:05:40.840",
+                                "label": "Lev\u00edtico 11:19",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:11.511",
+                                "verseNumber": 20,
+                                "startTime": "00:06:22.515",
+                                "label": "Lev\u00edtico 11:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.582",
+                                "verseNumber": 21,
+                                "startTime": "00:06:34.026",
+                                "label": "Lev\u00edtico 11:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.826",
+                                "verseNumber": 22,
+                                "startTime": "00:06:49.609",
+                                "label": "Lev\u00edtico 11:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.310",
+                                "verseNumber": 23,
+                                "startTime": "00:07:16.436",
+                                "label": "Lev\u00edtico 11:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.552",
+                                "verseNumber": 24,
+                                "startTime": "00:07:26.746",
+                                "label": "Lev\u00edtico 11:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.089",
+                                "verseNumber": 25,
+                                "startTime": "00:07:46.299",
+                                "label": "Lev\u00edtico 11:25",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:26.559",
+                                "verseNumber": 26,
+                                "startTime": "00:08:09.388",
+                                "label": "Lev\u00edtico 11:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.258",
+                                "verseNumber": 27,
+                                "startTime": "00:08:35.948",
+                                "label": "Lev\u00edtico 11:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.021",
+                                "verseNumber": 28,
+                                "startTime": "00:09:01.207",
+                                "label": "Lev\u00edtico 11:28",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:28.361",
+                                "verseNumber": 29,
+                                "startTime": "00:09:22.228",
+                                "label": "Lev\u00edtico 11:29",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.629",
+                                "verseNumber": 30,
+                                "startTime": "00:09:50.590",
+                                "label": "Lev\u00edtico 11:30",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.417",
+                                "verseNumber": 31,
+                                "startTime": "00:10:20.219",
+                                "label": "Lev\u00edtico 11:31",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:41.174",
+                                "verseNumber": 32,
+                                "startTime": "00:10:37.637",
+                                "label": "Lev\u00edtico 11:32",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.722",
+                                "verseNumber": 33,
+                                "startTime": "00:11:18.811",
+                                "label": "Lev\u00edtico 11:33",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.056",
+                                "verseNumber": 34,
+                                "startTime": "00:11:41.534",
+                                "label": "Lev\u00edtico 11:34",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.638",
+                                "verseNumber": 35,
+                                "startTime": "00:12:04.590",
+                                "label": "Lev\u00edtico 11:35",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.729",
+                                "verseNumber": 36,
+                                "startTime": "00:12:43.229",
+                                "label": "Lev\u00edtico 11:36",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.047",
+                                "verseNumber": 37,
+                                "startTime": "00:13:12.958",
+                                "label": "Lev\u00edtico 11:37",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.709",
+                                "verseNumber": 38,
+                                "startTime": "00:13:27.006",
+                                "label": "Lev\u00edtico 11:38",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:22.288",
+                                "verseNumber": 39,
+                                "startTime": "00:13:36.715",
+                                "label": "Lev\u00edtico 11:39",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.360",
+                                "verseNumber": 40,
+                                "startTime": "00:13:59.004",
+                                "label": "Lev\u00edtico 11:40",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.611",
+                                "verseNumber": 41,
+                                "startTime": "00:14:26.365",
+                                "label": "Lev\u00edtico 11:41",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.226",
+                                "verseNumber": 42,
+                                "startTime": "00:14:37.977",
+                                "label": "Lev\u00edtico 11:42",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:04.838",
+                                "verseNumber": 43,
+                                "startTime": "00:15:04.203",
+                                "label": "Lev\u00edtico 11:43",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.320",
+                                "verseNumber": 44,
+                                "startTime": "00:15:09.041",
+                                "label": "Lev\u00edtico 11:44",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.823",
+                                "verseNumber": 45,
+                                "startTime": "00:15:29.361",
+                                "label": "Lev\u00edtico 11:45",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:19.252",
+                                "verseNumber": 46,
+                                "startTime": "00:15:53.185",
+                                "label": "Lev\u00edtico 11:46",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.966",
+                                "verseNumber": 47,
+                                "startTime": "00:16:12.438",
+                                "label": "Lev\u00edtico 11:47",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 3,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1005.371,
+                    "bitRate": 625.5499913091784
+                }
+            ]
+        }
+    }
+}

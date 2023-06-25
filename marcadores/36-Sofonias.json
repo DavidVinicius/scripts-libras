@@ -1,0 +1,861 @@
+{
+    "pubName": "Sofonias",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 36,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a3/nwt_36_Zep_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 05:40:57",
+                        "checksum": "d55d59d3024dba0a040ebb873ed5ca85"
+                    },
+                    "filesize": 7464029,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f4/nwt_36_Zep_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:03+00:00",
+                        "checksum": "ed82f2e79bc4bc8f834c81653bb98610"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.441,
+                    "duration": 479.412,
+                    "bitRate": 121.63384846958358
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e3/nwt_36_Zep_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 12:53:10",
+                        "checksum": "6cf673200706dfcf8df3369b9bd716f5"
+                    },
+                    "filesize": 6682428,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/99/nwt_36_Zep_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:11:46+00:00",
+                        "checksum": "7ce41ab01d5d11b11e12f2d1e9f11738"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.24,
+                    "duration": 439.873,
+                    "bitRate": 118.68532224073768
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8a/nwt_36_Zep_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-11 01:39:32",
+                        "checksum": "3bb422eb8e5940c67dd2a8b07d37437c"
+                    },
+                    "filesize": 8044887,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/16/nwt_36_Zep_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:13:50+00:00",
+                        "checksum": "49e0eb1e834b7579178b11e7b93fea6b"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.851,
+                    "duration": 511.578,
+                    "bitRate": 122.85649439088468
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/06/nwt_36_Zep_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:49:13",
+                        "checksum": "fd1590f36cfe98c76921efb816d00746"
+                    },
+                    "filesize": 13503839,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f4/nwt_36_Zep_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:03+00:00",
+                        "checksum": "ed82f2e79bc4bc8f834c81653bb98610"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 479.412,
+                    "bitRate": 220.05861803104636
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e3/nwt_36_Zep_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:59:04",
+                        "checksum": "0224914a345540b5b809d2bd2f8c9f43"
+                    },
+                    "filesize": 12158777,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/99/nwt_36_Zep_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:11:46+00:00",
+                        "checksum": "7ce41ab01d5d11b11e12f2d1e9f11738"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 439.873,
+                    "bitRate": 215.94970664828259
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c3/nwt_36_Zep_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:58:11",
+                        "checksum": "09c982dda97cc4cbbd561a22aee38afa"
+                    },
+                    "filesize": 14631917,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/16/nwt_36_Zep_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:13:50+00:00",
+                        "checksum": "49e0eb1e834b7579178b11e7b93fea6b"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 511.578,
+                    "bitRate": 223.44950635582452
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/43/nwt_36_Zep_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:49:27",
+                        "checksum": "b3c540adc6cb9aa4307c644724a12f08"
+                    },
+                    "filesize": 28307922,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f4/nwt_36_Zep_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:03+00:00",
+                        "checksum": "ed82f2e79bc4bc8f834c81653bb98610"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 479.412,
+                    "bitRate": 461.30601784060474
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5b/nwt_36_Zep_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:58:04",
+                        "checksum": "6608db9bba660c74ebfda4d98da71fe7"
+                    },
+                    "filesize": 25501862,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/99/nwt_36_Zep_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:11:46+00:00",
+                        "checksum": "7ce41ab01d5d11b11e12f2d1e9f11738"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 439.873,
+                    "bitRate": 452.93368057371106
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1d/nwt_36_Zep_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:58:06",
+                        "checksum": "ab76a8408deb7f68a9096a90f5ff85ea"
+                    },
+                    "filesize": 30629469,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/16/nwt_36_Zep_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:13:50+00:00",
+                        "checksum": "49e0eb1e834b7579178b11e7b93fea6b"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 511.578,
+                    "bitRate": 467.7541382985586
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5b/nwt_36_Zep_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:49:02",
+                        "checksum": "f45e312006fe76ca988acb4cb09f38a7"
+                    },
+                    "filesize": 63609966,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f4/nwt_36_Zep_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:03+00:00",
+                        "checksum": "ed82f2e79bc4bc8f834c81653bb98610"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 36,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:49.783",
+                                "verseNumber": 1,
+                                "startTime": "00:00:13.680",
+                                "label": "Sofonias 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.074",
+                                "verseNumber": 2,
+                                "startTime": "00:01:03.463",
+                                "label": "Sofonias 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.405",
+                                "verseNumber": 3,
+                                "startTime": "00:01:11.538",
+                                "label": "Sofonias 1:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:37.303",
+                                "verseNumber": 4,
+                                "startTime": "00:01:49.943",
+                                "label": "Sofonias 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.193",
+                                "verseNumber": 5,
+                                "startTime": "00:02:27.247",
+                                "label": "Sofonias 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.883",
+                                "verseNumber": 6,
+                                "startTime": "00:02:54.440",
+                                "label": "Sofonias 1:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:18.585",
+                                "verseNumber": 7,
+                                "startTime": "00:03:11.324",
+                                "label": "Sofonias 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.493",
+                                "verseNumber": 8,
+                                "startTime": "00:03:29.909",
+                                "label": "Sofonias 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.689",
+                                "verseNumber": 9,
+                                "startTime": "00:03:56.402",
+                                "label": "Sofonias 1:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:23.690",
+                                "verseNumber": 10,
+                                "startTime": "00:04:19.092",
+                                "label": "Sofonias 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.757",
+                                "verseNumber": 11,
+                                "startTime": "00:04:42.782",
+                                "label": "Sofonias 1:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:25.625",
+                                "verseNumber": 12,
+                                "startTime": "00:05:06.539",
+                                "label": "Sofonias 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.431",
+                                "verseNumber": 13,
+                                "startTime": "00:05:32.165",
+                                "label": "Sofonias 1:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.851",
+                                "verseNumber": 14,
+                                "startTime": "00:06:03.596",
+                                "label": "Sofonias 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.188",
+                                "verseNumber": 15,
+                                "startTime": "00:06:21.447",
+                                "label": "Sofonias 1:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:14.447",
+                                "verseNumber": 16,
+                                "startTime": "00:06:43.636",
+                                "label": "Sofonias 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.629",
+                                "verseNumber": 17,
+                                "startTime": "00:06:58.084",
+                                "label": "Sofonias 1:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.698",
+                                "verseNumber": 18,
+                                "startTime": "00:07:27.713",
+                                "label": "Sofonias 1:18",
+                                "endTransitionDuration": "00:00:09.009"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:13.680",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 479.412,
+                    "bitRate": 1036.5882776713975
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a0/nwt_36_Zep_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:58:14",
+                        "checksum": "23e391d6daf24c0c8b6ced94b8e04ff3"
+                    },
+                    "filesize": 58160319,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/99/nwt_36_Zep_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:11:46+00:00",
+                        "checksum": "7ce41ab01d5d11b11e12f2d1e9f11738"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 36,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:09.042",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Sofonias 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.189",
+                                "verseNumber": 2,
+                                "startTime": "00:00:11.011",
+                                "label": "Sofonias 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.593",
+                                "verseNumber": 3,
+                                "startTime": "00:00:34.200",
+                                "label": "Sofonias 2:3",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:34.334",
+                                "verseNumber": 4,
+                                "startTime": "00:01:00.794",
+                                "label": "Sofonias 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.327",
+                                "verseNumber": 5,
+                                "startTime": "00:01:35.128",
+                                "label": "Sofonias 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.259",
+                                "verseNumber": 6,
+                                "startTime": "00:02:02.455",
+                                "label": "Sofonias 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.697",
+                                "verseNumber": 7,
+                                "startTime": "00:02:28.715",
+                                "label": "Sofonias 2:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.190",
+                                "verseNumber": 8,
+                                "startTime": "00:02:59.412",
+                                "label": "Sofonias 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:02.295",
+                                "verseNumber": 9,
+                                "startTime": "00:03:23.603",
+                                "label": "Sofonias 2:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.583",
+                                "verseNumber": 10,
+                                "startTime": "00:04:25.898",
+                                "label": "Sofonias 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.063",
+                                "verseNumber": 11,
+                                "startTime": "00:04:42.482",
+                                "label": "Sofonias 2:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:08.708",
+                                "verseNumber": 12,
+                                "startTime": "00:05:12.545",
+                                "label": "Sofonias 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.123",
+                                "verseNumber": 13,
+                                "startTime": "00:05:21.254",
+                                "label": "Sofonias 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.847",
+                                "verseNumber": 14,
+                                "startTime": "00:05:44.377",
+                                "label": "Sofonias 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.647",
+                                "verseNumber": 15,
+                                "startTime": "00:06:32.225",
+                                "label": "Sofonias 2:15",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 439.873,
+                    "bitRate": 1032.974272545712
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4a/nwt_36_Zep_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-10-10 19:58:18",
+                        "checksum": "2280a8734da4f94be5442a363e060885"
+                    },
+                    "filesize": 68514694,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/16/nwt_36_Zep_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:13:50+00:00",
+                        "checksum": "49e0eb1e834b7579178b11e7b93fea6b"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 36,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:18.218",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Sofonias 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.952",
+                                "verseNumber": 2,
+                                "startTime": "00:00:20.186",
+                                "label": "Sofonias 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.193",
+                                "verseNumber": 3,
+                                "startTime": "00:00:39.139",
+                                "label": "Sofonias 3:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.496",
+                                "verseNumber": 4,
+                                "startTime": "00:01:06.332",
+                                "label": "Sofonias 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.840",
+                                "verseNumber": 5,
+                                "startTime": "00:01:35.829",
+                                "label": "Sofonias 3:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:11.611",
+                                "verseNumber": 6,
+                                "startTime": "00:02:16.669",
+                                "label": "Sofonias 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.372",
+                                "verseNumber": 7,
+                                "startTime": "00:02:28.281",
+                                "label": "Sofonias 3:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:32.465",
+                                "verseNumber": 8,
+                                "startTime": "00:03:07.654",
+                                "label": "Sofonias 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.487",
+                                "verseNumber": 9,
+                                "startTime": "00:03:40.119",
+                                "label": "Sofonias 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.026",
+                                "verseNumber": 10,
+                                "startTime": "00:04:00.607",
+                                "label": "Sofonias 3:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:25.892",
+                                "verseNumber": 11,
+                                "startTime": "00:04:26.633",
+                                "label": "Sofonias 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.241",
+                                "verseNumber": 12,
+                                "startTime": "00:04:52.525",
+                                "label": "Sofonias 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.325",
+                                "verseNumber": 13,
+                                "startTime": "00:05:00.767",
+                                "label": "Sofonias 3:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:23.790",
+                                "verseNumber": 14,
+                                "startTime": "00:05:26.092",
+                                "label": "Sofonias 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.625",
+                                "verseNumber": 15,
+                                "startTime": "00:05:49.882",
+                                "label": "Sofonias 3:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:15.548",
+                                "verseNumber": 16,
+                                "startTime": "00:06:15.508",
+                                "label": "Sofonias 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.058",
+                                "verseNumber": 17,
+                                "startTime": "00:06:31.057",
+                                "label": "Sofonias 3:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.758",
+                                "verseNumber": 18,
+                                "startTime": "00:06:56.115",
+                                "label": "Sofonias 3:18",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:35.402",
+                                "verseNumber": 19,
+                                "startTime": "00:07:20.873",
+                                "label": "Sofonias 3:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.301",
+                                "verseNumber": 20,
+                                "startTime": "00:07:56.275",
+                                "label": "Sofonias 3:20",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 36,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 511.578,
+                    "bitRate": 1046.313654760369
+                }
+            ]
+        }
+    }
+}

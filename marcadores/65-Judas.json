@@ -1,0 +1,357 @@
+{
+    "pubName": "Judas",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 65,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "https://download-a.akamaihd.net/files/media_publication/5e/nwt_65_Jude_LSB.jpg",
+        "modifiedDatetime": "2019-01-19T23:16:07+00:00",
+        "checksum": "a9ca21e4de0d9c1cbd1b9e710455597f"
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "M4V": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e8/nwt_65_Jude_LSB_01_r240P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 04:49:14",
+                        "checksum": "9073b6b6268efa19273b8ceec4664bef"
+                    },
+                    "filesize": 67998411,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4c/nwt_65_Jude_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:01+00:00",
+                        "checksum": "ebc3965c3e3b3b2885447850fb3d760f"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 65,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 320,
+                    "frameHeight": 180,
+                    "frameRate": 29.97,
+                    "duration": 1747.9462,
+                    "bitRate": 303.92101652642395
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8e/nwt_65_Jude_LSB_01_r360P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-04 23:06:21",
+                        "checksum": "ddf2445d043c1d5646e43e416dda5628"
+                    },
+                    "filesize": 155092738,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4c/nwt_65_Jude_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:01+00:00",
+                        "checksum": "ebc3965c3e3b3b2885447850fb3d760f"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 65,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1747.9462,
+                    "bitRate": 693.1918245681703
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/11/nwt_65_Jude_LSB_01_r480P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 00:51:48",
+                        "checksum": "afb624daafd3d285f9b852d98e7fd8a6"
+                    },
+                    "filesize": 220946896,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4c/nwt_65_Jude_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:01+00:00",
+                        "checksum": "ebc3965c3e3b3b2885447850fb3d760f"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 65,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 854,
+                    "frameHeight": 480,
+                    "frameRate": 29.97,
+                    "duration": 1747.9462,
+                    "bitRate": 987.5290355046396
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6d/nwt_65_Jude_LSB_01_r720P.m4v",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-02-05 02:29:50",
+                        "checksum": "249aadebe80d2788ddf62df4cfaee8e5"
+                    },
+                    "filesize": 331359975,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4c/nwt_65_Jude_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:01+00:00",
+                        "checksum": "ebc3965c3e3b3b2885447850fb3d760f"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 65,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:06.299",
+                                "verseNumber": 1,
+                                "startTime": "00:00:23.456",
+                                "label": "Judas 1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.162",
+                                "verseNumber": 2,
+                                "startTime": "00:01:29.756",
+                                "label": "Judas 2",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:29.789",
+                                "verseNumber": 3,
+                                "startTime": "00:01:58.918",
+                                "label": "Judas 3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:13.740",
+                                "verseNumber": 4,
+                                "startTime": "00:03:28.708",
+                                "label": "Judas 4",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:10.770",
+                                "verseNumber": 5,
+                                "startTime": "00:04:42.448",
+                                "label": "Judas 5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.488",
+                                "verseNumber": 6,
+                                "startTime": "00:05:53.219",
+                                "label": "Judas 6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:46.673",
+                                "verseNumber": 7,
+                                "startTime": "00:06:48.708",
+                                "label": "Judas 7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:08.068",
+                                "verseNumber": 8,
+                                "startTime": "00:08:35.381",
+                                "label": "Judas 8",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:58.725",
+                                "verseNumber": 9,
+                                "startTime": "00:09:43.449",
+                                "label": "Judas 9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:26.186",
+                                "verseNumber": 10,
+                                "startTime": "00:10:42.174",
+                                "label": "Judas 10",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:45.772",
+                                "verseNumber": 11,
+                                "startTime": "00:12:08.360",
+                                "label": "Judas 11",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:02:55.575",
+                                "verseNumber": 12,
+                                "startTime": "00:13:54.133",
+                                "label": "Judas 12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:37.897",
+                                "verseNumber": 13,
+                                "startTime": "00:16:49.708",
+                                "label": "Judas 13",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:07.667",
+                                "verseNumber": 14,
+                                "startTime": "00:18:27.606",
+                                "label": "Judas 14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.592",
+                                "verseNumber": 15,
+                                "startTime": "00:19:35.274",
+                                "label": "Judas 15",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:30.790",
+                                "verseNumber": 16,
+                                "startTime": "00:20:00.866",
+                                "label": "Judas 16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.289",
+                                "verseNumber": 17,
+                                "startTime": "00:21:31.657",
+                                "label": "Judas 17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.038",
+                                "verseNumber": 18,
+                                "startTime": "00:21:54.946",
+                                "label": "Judas 18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:16.976",
+                                "verseNumber": 19,
+                                "startTime": "00:22:32.984",
+                                "label": "Judas 19",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:36.169",
+                                "verseNumber": 20,
+                                "startTime": "00:23:49.961",
+                                "label": "Judas 20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:13.873",
+                                "verseNumber": 21,
+                                "startTime": "00:24:26.131",
+                                "label": "Judas 21",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:30.997",
+                                "verseNumber": 22,
+                                "startTime": "00:25:40.005",
+                                "label": "Judas 22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:08.601",
+                                "verseNumber": 23,
+                                "startTime": "00:26:11.002",
+                                "label": "Judas 23",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:28.661",
+                                "verseNumber": 24,
+                                "startTime": "00:27:19.604",
+                                "label": "Judas 24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:19.679",
+                                "verseNumber": 25,
+                                "startTime": "00:27:48.266",
+                                "label": "Judas 25",
+                                "endTransitionDuration": "00:00:12.012"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:23.456",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 65,
+                    "mimetype": "video/x-m4v",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1747.9462,
+                    "bitRate": 1481.0237321306
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,3650 @@
+{
+    "pubName": "Zacarias",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 38,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4c/nwt_38_Zec_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 10:15:44",
+                        "checksum": "0cbf13e6f367440520892c935a130e14"
+                    },
+                    "filesize": 7225208,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.211,
+                    "duration": 534.501,
+                    "bitRate": 105.60679493583736
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/74/nwt_38_Zec_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 01:48:04",
+                        "checksum": "5cec223a53b1acda39f6de26cd695728"
+                    },
+                    "filesize": 3737156,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.557,
+                    "duration": 262.896,
+                    "bitRate": 111.05734301777127
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6e/nwt_38_Zec_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 01:48:08",
+                        "checksum": "796d990c1be3316076413fc245bdd84e"
+                    },
+                    "filesize": 3900580,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.183,
+                    "duration": 265.132,
+                    "bitRate": 114.93626288037656
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c5/nwt_38_Zec_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 03:39:48",
+                        "checksum": "edab016376ec82573bb741c94806f963"
+                    },
+                    "filesize": 3619826,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.155,
+                    "duration": 261.762,
+                    "bitRate": 108.0366540024908
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5d/nwt_38_Zec_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 10:15:49",
+                        "checksum": "a2e9e58eb95e2646147752bfdf1a391b"
+                    },
+                    "filesize": 3762949,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.383,
+                    "duration": 249.683,
+                    "bitRate": 117.74145241165799
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5e/nwt_38_Zec_LSB_06_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 10:15:56",
+                        "checksum": "80db18290d7e065f9c4bbf0cefff2115"
+                    },
+                    "filesize": 4545067,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.644,
+                    "duration": 318.985,
+                    "bitRate": 111.31663224759784
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/93/nwt_38_Zec_LSB_07_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 05:44:33",
+                        "checksum": "d59b412e3e5db0fe0bec24635a1ea000"
+                    },
+                    "filesize": 5405812,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 365.599,
+                    "bitRate": 115.51701796230296
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5d/nwt_38_Zec_LSB_08_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 10:16:03",
+                        "checksum": "9a847e53dceeea0e227f3f37293ce197"
+                    },
+                    "filesize": 8377428,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.791,
+                    "duration": 547.814,
+                    "bitRate": 119.47240532370476
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/38/nwt_38_Zec_LSB_09_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 10:55:30",
+                        "checksum": "1b355c38fd1cddab8881123b53f9e301"
+                    },
+                    "filesize": 8090979,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.326,
+                    "duration": 572.939,
+                    "bitRate": 110.32723106212006
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3c/nwt_38_Zec_LSB_10_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-04 20:34:24",
+                        "checksum": "83b0fe927e9cdb8c1781b047a483a7e4"
+                    },
+                    "filesize": 6647713,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.644,
+                    "duration": 460.994,
+                    "bitRate": 112.65929233894583
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/85/nwt_38_Zec_LSB_11_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-11 01:42:14",
+                        "checksum": "50e5edac4016439ada9284659e1b5396"
+                    },
+                    "filesize": 7079729,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 491.591,
+                    "bitRate": 112.51300941738153
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/31/nwt_38_Zec_LSB_12_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 10:55:35",
+                        "checksum": "6eb5bfb49a8f88aae207c215c1175313"
+                    },
+                    "filesize": 7516586,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.586,
+                    "duration": 497.263,
+                    "bitRate": 118.09309786772795
+                },
+                {
+                    "title": "Cap\u00edtulo 13",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c8/nwt_38_Zec_LSB_13_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 03:39:50",
+                        "checksum": "c7803b4427cf766b5d5910d8fec97479"
+                    },
+                    "filesize": 3896352,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 13,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.97,
+                    "duration": 250.016,
+                    "bitRate": 121.75320779470114
+                },
+                {
+                    "title": "Cap\u00edtulo 14",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6d/nwt_38_Zec_LSB_14_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 01:48:16",
+                        "checksum": "f6c8ecade590b1027b8bbf559f398e6e"
+                    },
+                    "filesize": 8887497,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 14,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.47,
+                    "duration": 635.802,
+                    "bitRate": 109.206278546623
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/12/nwt_38_Zec_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:58:49",
+                        "checksum": "a37c9fbe03ba047df493c1cd3004ed71"
+                    },
+                    "filesize": 11916601,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 534.501,
+                    "bitRate": 174.17824346914225
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c1/nwt_38_Zec_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:55:39",
+                        "checksum": "a9db1bf5195f754445d7e4ed2d4b0e8a"
+                    },
+                    "filesize": 6028495,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 262.896,
+                    "bitRate": 179.14923463080456
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/da/nwt_38_Zec_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:38",
+                        "checksum": "061d44eb02afced9d21cbdb2e6308f13"
+                    },
+                    "filesize": 6296221,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 265.132,
+                    "bitRate": 185.5273092742483
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a2/nwt_38_Zec_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:57:22",
+                        "checksum": "fa6736d06336fa713bce05a8b61d6607"
+                    },
+                    "filesize": 5802301,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 261.762,
+                    "bitRate": 173.17439721006104
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b8/nwt_38_Zec_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:57:25",
+                        "checksum": "6c1c6f2eabf353b4dabf196376c4f5d5"
+                    },
+                    "filesize": 6071082,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 249.683,
+                    "bitRate": 189.96218455000943
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/82/nwt_38_Zec_LSB_06_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:55:40",
+                        "checksum": "8bf12250eaacdd5215b29a9d536d0bec"
+                    },
+                    "filesize": 7386247,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 318.985,
+                    "bitRate": 180.90209473015972
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/73/nwt_38_Zec_LSB_07_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:55:44",
+                        "checksum": "d696dde4d3b30e88e48c009f79db18df"
+                    },
+                    "filesize": 8848180,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 365.599,
+                    "bitRate": 189.07712069781374
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/87/nwt_38_Zec_LSB_08_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:58:55",
+                        "checksum": "09a9b4e9ddd84c53fd87fb7dc78ddf9a"
+                    },
+                    "filesize": 13823051,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 547.814,
+                    "bitRate": 197.1336729939359
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e4/nwt_38_Zec_LSB_09_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:55:51",
+                        "checksum": "3ef274ae564870bd6c87d87b233dbf08"
+                    },
+                    "filesize": 13394113,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 572.939,
+                    "bitRate": 182.6398758201135
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a2/nwt_38_Zec_LSB_10_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:55:55",
+                        "checksum": "3f1a0044bdb7da1c328f45756efc23ee"
+                    },
+                    "filesize": 10940573,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 460.994,
+                    "bitRate": 185.4107137240398
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/41/nwt_38_Zec_LSB_11_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:49",
+                        "checksum": "97acd1ab7c3bfb898336535f417a0ff3"
+                    },
+                    "filesize": 11655921,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 491.591,
+                    "bitRate": 185.239117096326
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/68/nwt_38_Zec_LSB_12_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:57:33",
+                        "checksum": "2956b4449b1e08011b818501634db0bd"
+                    },
+                    "filesize": 12394916,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 497.263,
+                    "bitRate": 194.7365503767624
+                },
+                {
+                    "title": "Cap\u00edtulo 13",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/db/nwt_38_Zec_LSB_13_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:57:37",
+                        "checksum": "49216799f483c2f5094ec3589ff39499"
+                    },
+                    "filesize": 6298314,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 13,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 250.016,
+                    "bitRate": 196.80971667813262
+                },
+                {
+                    "title": "Cap\u00edtulo 14",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cd/nwt_38_Zec_LSB_14_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:59:01",
+                        "checksum": "cd8120b53ec6309972e215d21d1de4ed"
+                    },
+                    "filesize": 14734471,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 14,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 635.802,
+                    "bitRate": 181.05173416802714
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/09/nwt_38_Zec_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:54:55",
+                        "checksum": "d5ce9f82726989bc05f326a9e291885b"
+                    },
+                    "filesize": 22546760,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 534.501,
+                    "bitRate": 329.5532889554931
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e2/nwt_38_Zec_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:33",
+                        "checksum": "251d25926b13dab60c35cf962452506e"
+                    },
+                    "filesize": 11259630,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 262.896,
+                    "bitRate": 334.6032627921307
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6e/nwt_38_Zec_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:57:19",
+                        "checksum": "271fc0e9783bb0e25eb4add8f218951f"
+                    },
+                    "filesize": 11753960,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 265.132,
+                    "bitRate": 346.34752689226497
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e7/nwt_38_Zec_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:57:20",
+                        "checksum": "f5e6948d00dbe64a26dd504e861d4715"
+                    },
+                    "filesize": 10799108,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 261.762,
+                    "bitRate": 322.3081702080516
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_38_Zec_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:39",
+                        "checksum": "c412f33f14228e16e7fb11e60f463686"
+                    },
+                    "filesize": 11316548,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 249.683,
+                    "bitRate": 354.0911125306889
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/50/nwt_38_Zec_LSB_06_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:57:26",
+                        "checksum": "01bc0d3c61d6ab73f7d496a66907b411"
+                    },
+                    "filesize": 13826105,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 318.985,
+                    "bitRate": 338.6254692618775
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d1/nwt_38_Zec_LSB_07_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:43",
+                        "checksum": "2e57b83f2f70841b0dbf59fb9fdc14e9"
+                    },
+                    "filesize": 16691710,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 365.599,
+                    "bitRate": 356.6858344114727
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/51/nwt_38_Zec_LSB_08_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:58:53",
+                        "checksum": "f3c82a1619260c8ab51d8ab70e2b5ef9"
+                    },
+                    "filesize": 26179810,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 547.814,
+                    "bitRate": 373.3562224130818
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/7f/nwt_38_Zec_LSB_09_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:55:57",
+                        "checksum": "71cc2c26b7b1c983361404e7e2a10caa"
+                    },
+                    "filesize": 25289886,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 572.939,
+                    "bitRate": 344.84863899123644
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e6/nwt_38_Zec_LSB_10_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:45",
+                        "checksum": "7124077beef91b38271b5a2fec176fc2"
+                    },
+                    "filesize": 20621784,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 460.994,
+                    "bitRate": 349.4789248883933
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/87/nwt_38_Zec_LSB_11_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:01",
+                        "checksum": "e9b7caa86f03c45dbc7360639bb529c1"
+                    },
+                    "filesize": 22021390,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 491.591,
+                    "bitRate": 349.97001445307177
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/21/nwt_38_Zec_LSB_12_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:51",
+                        "checksum": "6ffcd754a6800d1ee16dfa1d12ff14cd"
+                    },
+                    "filesize": 23411905,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 497.263,
+                    "bitRate": 367.8244868661051
+                },
+                {
+                    "title": "Cap\u00edtulo 13",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4c/nwt_38_Zec_LSB_13_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:53",
+                        "checksum": "3fc67e02eca7cfbad00c9f21e7e027ba"
+                    },
+                    "filesize": 11774719,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 13,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 250.016,
+                    "bitRate": 367.9364208190676
+                },
+                {
+                    "title": "Cap\u00edtulo 14",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8c/nwt_38_Zec_LSB_14_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:58:59",
+                        "checksum": "bee7473a1f8b053c814d232fe7b0927f"
+                    },
+                    "filesize": 27902457,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 14,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 635.802,
+                    "bitRate": 342.85507958845676
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9b/nwt_38_Zec_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:58:47",
+                        "checksum": "20824609f0da348313ea4dda739dc4f7"
+                    },
+                    "filesize": 38926615,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:31.064",
+                                "verseNumber": 1,
+                                "startTime": "00:00:13.446",
+                                "label": "Zacarias 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.473",
+                                "verseNumber": 2,
+                                "startTime": "00:00:44.511",
+                                "label": "Zacarias 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.454",
+                                "verseNumber": 3,
+                                "startTime": "00:00:50.984",
+                                "label": "Zacarias 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.530",
+                                "verseNumber": 4,
+                                "startTime": "00:01:12.439",
+                                "label": "Zacarias 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.815",
+                                "verseNumber": 5,
+                                "startTime": "00:01:42.969",
+                                "label": "Zacarias 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.699",
+                                "verseNumber": 6,
+                                "startTime": "00:01:58.785",
+                                "label": "Zacarias 1:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:30.730",
+                                "verseNumber": 7,
+                                "startTime": "00:02:31.484",
+                                "label": "Zacarias 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.099",
+                                "verseNumber": 8,
+                                "startTime": "00:03:02.215",
+                                "label": "Zacarias 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.709",
+                                "verseNumber": 9,
+                                "startTime": "00:03:35.315",
+                                "label": "Zacarias 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.448",
+                                "verseNumber": 10,
+                                "startTime": "00:03:45.024",
+                                "label": "Zacarias 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.619",
+                                "verseNumber": 11,
+                                "startTime": "00:04:00.473",
+                                "label": "Zacarias 1:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.830",
+                                "verseNumber": 12,
+                                "startTime": "00:04:20.093",
+                                "label": "Zacarias 1:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:13.580",
+                                "verseNumber": 13,
+                                "startTime": "00:04:50.923",
+                                "label": "Zacarias 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.189",
+                                "verseNumber": 14,
+                                "startTime": "00:05:04.504",
+                                "label": "Zacarias 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.954",
+                                "verseNumber": 15,
+                                "startTime": "00:05:27.694",
+                                "label": "Zacarias 1:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.332",
+                                "verseNumber": 16,
+                                "startTime": "00:05:48.648",
+                                "label": "Zacarias 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.774",
+                                "verseNumber": 17,
+                                "startTime": "00:06:20.980",
+                                "label": "Zacarias 1:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:15.081",
+                                "verseNumber": 18,
+                                "startTime": "00:07:01.754",
+                                "label": "Zacarias 1:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.361",
+                                "verseNumber": 19,
+                                "startTime": "00:07:16.836",
+                                "label": "Zacarias 1:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.846",
+                                "verseNumber": 20,
+                                "startTime": "00:07:45.198",
+                                "label": "Zacarias 1:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:56.456",
+                                "verseNumber": 21,
+                                "startTime": "00:07:58.044",
+                                "label": "Zacarias 1:21",
+                                "endTransitionDuration": "00:00:08.675"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:13.446",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 534.501,
+                    "bitRate": 568.9684017195478
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a8/nwt_38_Zec_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:34",
+                        "checksum": "43f360622fb5e25a6f4caa6b21ceb75e"
+                    },
+                    "filesize": 19229067,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:17.283",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.915",
+                                "verseNumber": 2,
+                                "startTime": "00:00:19.252",
+                                "label": "Zacarias 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.774",
+                                "verseNumber": 3,
+                                "startTime": "00:00:35.168",
+                                "label": "Zacarias 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.524",
+                                "verseNumber": 4,
+                                "startTime": "00:00:42.942",
+                                "label": "Zacarias 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.988",
+                                "verseNumber": 5,
+                                "startTime": "00:01:07.467",
+                                "label": "Zacarias 2:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.015",
+                                "verseNumber": 6,
+                                "startTime": "00:01:29.456",
+                                "label": "Zacarias 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.848",
+                                "verseNumber": 7,
+                                "startTime": "00:01:45.472",
+                                "label": "Zacarias 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.097",
+                                "verseNumber": 8,
+                                "startTime": "00:02:00.320",
+                                "label": "Zacarias 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.132",
+                                "verseNumber": 9,
+                                "startTime": "00:02:31.417",
+                                "label": "Zacarias 2:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:14.981",
+                                "verseNumber": 10,
+                                "startTime": "00:03:03.550",
+                                "label": "Zacarias 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.260",
+                                "verseNumber": 11,
+                                "startTime": "00:03:18.531",
+                                "label": "Zacarias 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.384",
+                                "verseNumber": 12,
+                                "startTime": "00:03:45.792",
+                                "label": "Zacarias 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.719",
+                                "verseNumber": 13,
+                                "startTime": "00:04:03.176",
+                                "label": "Zacarias 2:13",
+                                "endTransitionDuration": "00:00:06.339"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 262.896,
+                    "bitRate": 571.4316153060525
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a1/nwt_38_Zec_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:57:17",
+                        "checksum": "ff91235d182277f171fdb7a89ed1f9c6"
+                    },
+                    "filesize": 20036531,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:25.091",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.734",
+                                "verseNumber": 2,
+                                "startTime": "00:00:27.060",
+                                "label": "Zacarias 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.479",
+                                "verseNumber": 3,
+                                "startTime": "00:01:01.795",
+                                "label": "Zacarias 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.260",
+                                "verseNumber": 4,
+                                "startTime": "00:01:14.274",
+                                "label": "Zacarias 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.328",
+                                "verseNumber": 5,
+                                "startTime": "00:01:41.534",
+                                "label": "Zacarias 3:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:04.070",
+                                "verseNumber": 6,
+                                "startTime": "00:02:09.863",
+                                "label": "Zacarias 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.130",
+                                "verseNumber": 7,
+                                "startTime": "00:02:13.933",
+                                "label": "Zacarias 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.364",
+                                "verseNumber": 8,
+                                "startTime": "00:02:44.063",
+                                "label": "Zacarias 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.904",
+                                "verseNumber": 9,
+                                "startTime": "00:03:15.428",
+                                "label": "Zacarias 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.798",
+                                "verseNumber": 10,
+                                "startTime": "00:03:53.333",
+                                "label": "Zacarias 3:10",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 265.132,
+                    "bitRate": 590.4055279540003
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/10/nwt_38_Zec_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:58:52",
+                        "checksum": "b0894d33e7a77d87f90af000b9f146f9"
+                    },
+                    "filesize": 18497974,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:10.844",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.956",
+                                "verseNumber": 2,
+                                "startTime": "00:00:12.812",
+                                "label": "Zacarias 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.442",
+                                "verseNumber": 3,
+                                "startTime": "00:00:35.769",
+                                "label": "Zacarias 4:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.706",
+                                "verseNumber": 4,
+                                "startTime": "00:00:45.211",
+                                "label": "Zacarias 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:04.137",
+                                "verseNumber": 5,
+                                "startTime": "00:00:51.918",
+                                "label": "Zacarias 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.260",
+                                "verseNumber": 6,
+                                "startTime": "00:00:56.056",
+                                "label": "Zacarias 4:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.864",
+                                "verseNumber": 7,
+                                "startTime": "00:01:23.316",
+                                "label": "Zacarias 4:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:03.036",
+                                "verseNumber": 8,
+                                "startTime": "00:01:54.180",
+                                "label": "Zacarias 4:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.364",
+                                "verseNumber": 9,
+                                "startTime": "00:01:57.217",
+                                "label": "Zacarias 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.941",
+                                "verseNumber": 10,
+                                "startTime": "00:02:28.581",
+                                "label": "Zacarias 4:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:12.946",
+                                "verseNumber": 11,
+                                "startTime": "00:03:10.523",
+                                "label": "Zacarias 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.534",
+                                "verseNumber": 12,
+                                "startTime": "00:03:23.469",
+                                "label": "Zacarias 4:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:04.504",
+                                "verseNumber": 13,
+                                "startTime": "00:03:58.004",
+                                "label": "Zacarias 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.252",
+                                "verseNumber": 14,
+                                "startTime": "00:04:02.508",
+                                "label": "Zacarias 4:14",
+                                "endTransitionDuration": "00:00:06.339"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 261.762,
+                    "bitRate": 552.0870939059146
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/31/nwt_38_Zec_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:57:23",
+                        "checksum": "273271d4c097a22df09024ce6efe47f0"
+                    },
+                    "filesize": 19254717,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:14.314",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.457",
+                                "verseNumber": 2,
+                                "startTime": "00:00:16.282",
+                                "label": "Zacarias 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.145",
+                                "verseNumber": 3,
+                                "startTime": "00:00:40.740",
+                                "label": "Zacarias 5:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.206",
+                                "verseNumber": 4,
+                                "startTime": "00:01:25.885",
+                                "label": "Zacarias 5:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:08.108",
+                                "verseNumber": 5,
+                                "startTime": "00:02:06.092",
+                                "label": "Zacarias 5:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.185",
+                                "verseNumber": 6,
+                                "startTime": "00:02:14.200",
+                                "label": "Zacarias 5:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.480",
+                                "verseNumber": 7,
+                                "startTime": "00:02:33.386",
+                                "label": "Zacarias 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.412",
+                                "verseNumber": 8,
+                                "startTime": "00:02:46.866",
+                                "label": "Zacarias 5:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.573",
+                                "verseNumber": 9,
+                                "startTime": "00:02:59.279",
+                                "label": "Zacarias 5:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.239",
+                                "verseNumber": 10,
+                                "startTime": "00:03:39.852",
+                                "label": "Zacarias 5:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.590",
+                                "verseNumber": 11,
+                                "startTime": "00:03:46.092",
+                                "label": "Zacarias 5:11",
+                                "endTransitionDuration": "00:00:06.339"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 249.683,
+                    "bitRate": 602.4738430830294
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/83/nwt_38_Zec_LSB_06_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:41",
+                        "checksum": "e2073a534de40e1d8906f68f451ac9cd"
+                    },
+                    "filesize": 23593866,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 6,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:26.526",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 6:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.845",
+                                "verseNumber": 2,
+                                "startTime": "00:00:28.495",
+                                "label": "Zacarias 6:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.383",
+                                "verseNumber": 3,
+                                "startTime": "00:00:40.340",
+                                "label": "Zacarias 6:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.308",
+                                "verseNumber": 4,
+                                "startTime": "00:00:56.723",
+                                "label": "Zacarias 6:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.584",
+                                "verseNumber": 5,
+                                "startTime": "00:01:05.031",
+                                "label": "Zacarias 6:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.029",
+                                "verseNumber": 6,
+                                "startTime": "00:01:22.615",
+                                "label": "Zacarias 6:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.852",
+                                "verseNumber": 7,
+                                "startTime": "00:01:51.644",
+                                "label": "Zacarias 6:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.713",
+                                "verseNumber": 8,
+                                "startTime": "00:02:10.497",
+                                "label": "Zacarias 6:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:05.338",
+                                "verseNumber": 9,
+                                "startTime": "00:02:24.210",
+                                "label": "Zacarias 6:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.617",
+                                "verseNumber": 10,
+                                "startTime": "00:02:29.549",
+                                "label": "Zacarias 6:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.924",
+                                "verseNumber": 11,
+                                "startTime": "00:03:20.166",
+                                "label": "Zacarias 6:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.613",
+                                "verseNumber": 12,
+                                "startTime": "00:03:45.091",
+                                "label": "Zacarias 6:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.951",
+                                "verseNumber": 13,
+                                "startTime": "00:03:58.705",
+                                "label": "Zacarias 6:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.926",
+                                "verseNumber": 14,
+                                "startTime": "00:04:16.656",
+                                "label": "Zacarias 6:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.402",
+                                "verseNumber": 15,
+                                "startTime": "00:04:43.583",
+                                "label": "Zacarias 6:15",
+                                "endTransitionDuration": "00:00:06.339"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 318.985,
+                    "bitRate": 577.8550029781965
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e0/nwt_38_Zec_LSB_07_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:55:42",
+                        "checksum": "4a25455e305c24905343a8bc7a73dc05"
+                    },
+                    "filesize": 28680107,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 7,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:22.655",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 7:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.556",
+                                "verseNumber": 2,
+                                "startTime": "00:00:24.624",
+                                "label": "Zacarias 7:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.808",
+                                "verseNumber": 3,
+                                "startTime": "00:00:48.181",
+                                "label": "Zacarias 7:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:09.042",
+                                "verseNumber": 4,
+                                "startTime": "00:01:29.989",
+                                "label": "Zacarias 7:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:51.584",
+                                "verseNumber": 5,
+                                "startTime": "00:01:39.032",
+                                "label": "Zacarias 7:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.408",
+                                "verseNumber": 6,
+                                "startTime": "00:02:30.617",
+                                "label": "Zacarias 7:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.867",
+                                "verseNumber": 7,
+                                "startTime": "00:02:39.025",
+                                "label": "Zacarias 7:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:06.773",
+                                "verseNumber": 8,
+                                "startTime": "00:03:12.892",
+                                "label": "Zacarias 7:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.284",
+                                "verseNumber": 9,
+                                "startTime": "00:03:19.666",
+                                "label": "Zacarias 7:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.268",
+                                "verseNumber": 10,
+                                "startTime": "00:03:37.951",
+                                "label": "Zacarias 7:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.707",
+                                "verseNumber": 11,
+                                "startTime": "00:04:13.219",
+                                "label": "Zacarias 7:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.064",
+                                "verseNumber": 12,
+                                "startTime": "00:04:20.927",
+                                "label": "Zacarias 7:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:20.420",
+                                "verseNumber": 13,
+                                "startTime": "00:04:51.991",
+                                "label": "Zacarias 7:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:53.186",
+                                "verseNumber": 14,
+                                "startTime": "00:05:12.412",
+                                "label": "Zacarias 7:14",
+                                "endTransitionDuration": "00:00:06.339"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 365.599,
+                    "bitRate": 612.8663807545972
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/59/nwt_38_Zec_LSB_08_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:57:29",
+                        "checksum": "da7c6a704fbcae70d33a992791563451"
+                    },
+                    "filesize": 44986152,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 8,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:06.172",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 8:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.986",
+                                "verseNumber": 2,
+                                "startTime": "00:00:08.141",
+                                "label": "Zacarias 8:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.365",
+                                "verseNumber": 3,
+                                "startTime": "00:00:28.128",
+                                "label": "Zacarias 8:3",
+                                "endTransitionDuration": "00:00:00.967"
+                            },
+                            {
+                                "duration": "00:00:29.095",
+                                "verseNumber": 4,
+                                "startTime": "00:01:00.493",
+                                "label": "Zacarias 8:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.973",
+                                "verseNumber": 5,
+                                "startTime": "00:01:29.589",
+                                "label": "Zacarias 8:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.992",
+                                "verseNumber": 6,
+                                "startTime": "00:01:36.563",
+                                "label": "Zacarias 8:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.320",
+                                "verseNumber": 7,
+                                "startTime": "00:02:02.555",
+                                "label": "Zacarias 8:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.092",
+                                "verseNumber": 8,
+                                "startTime": "00:02:22.876",
+                                "label": "Zacarias 8:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.562",
+                                "verseNumber": 9,
+                                "startTime": "00:02:48.968",
+                                "label": "Zacarias 8:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.439",
+                                "verseNumber": 10,
+                                "startTime": "00:03:18.531",
+                                "label": "Zacarias 8:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.181",
+                                "verseNumber": 11,
+                                "startTime": "00:03:57.971",
+                                "label": "Zacarias 8:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.630",
+                                "verseNumber": 12,
+                                "startTime": "00:04:13.152",
+                                "label": "Zacarias 8:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.398",
+                                "verseNumber": 13,
+                                "startTime": "00:04:43.783",
+                                "label": "Zacarias 8:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:25.725",
+                                "verseNumber": 14,
+                                "startTime": "00:05:15.181",
+                                "label": "Zacarias 8:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.217",
+                                "verseNumber": 15,
+                                "startTime": "00:05:40.907",
+                                "label": "Zacarias 8:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.716",
+                                "verseNumber": 16,
+                                "startTime": "00:05:58.124",
+                                "label": "Zacarias 8:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.719",
+                                "verseNumber": 17,
+                                "startTime": "00:06:14.841",
+                                "label": "Zacarias 8:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:05.238",
+                                "verseNumber": 18,
+                                "startTime": "00:06:34.560",
+                                "label": "Zacarias 8:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.511",
+                                "verseNumber": 19,
+                                "startTime": "00:06:39.799",
+                                "label": "Zacarias 8:19",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:19.953",
+                                "verseNumber": 20,
+                                "startTime": "00:07:24.310",
+                                "label": "Zacarias 8:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.383",
+                                "verseNumber": 21,
+                                "startTime": "00:07:44.263",
+                                "label": "Zacarias 8:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.189",
+                                "verseNumber": 22,
+                                "startTime": "00:08:00.646",
+                                "label": "Zacarias 8:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.977",
+                                "verseNumber": 23,
+                                "startTime": "00:08:23.836",
+                                "label": "Zacarias 8:23",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 547.814,
+                    "bitRate": 641.5577413136576
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c3/nwt_38_Zec_LSB_09_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:55:48",
+                        "checksum": "84fa81f07bf3d89e710992772f5b3705"
+                    },
+                    "filesize": 43546052,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 9,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:31.765",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 9:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.318",
+                                "verseNumber": 2,
+                                "startTime": "00:00:33.733",
+                                "label": "Zacarias 9:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.903",
+                                "verseNumber": 3,
+                                "startTime": "00:00:52.052",
+                                "label": "Zacarias 9:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.127",
+                                "verseNumber": 4,
+                                "startTime": "00:01:28.955",
+                                "label": "Zacarias 9:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:36.069",
+                                "verseNumber": 5,
+                                "startTime": "00:01:56.082",
+                                "label": "Zacarias 9:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.720",
+                                "verseNumber": 6,
+                                "startTime": "00:02:32.152",
+                                "label": "Zacarias 9:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.711",
+                                "verseNumber": 7,
+                                "startTime": "00:02:52.872",
+                                "label": "Zacarias 9:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.099",
+                                "verseNumber": 8,
+                                "startTime": "00:03:37.584",
+                                "label": "Zacarias 9:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:36.536",
+                                "verseNumber": 9,
+                                "startTime": "00:04:10.683",
+                                "label": "Zacarias 9:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.648",
+                                "verseNumber": 10,
+                                "startTime": "00:04:47.220",
+                                "label": "Zacarias 9:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.786",
+                                "verseNumber": 11,
+                                "startTime": "00:05:35.868",
+                                "label": "Zacarias 9:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.455",
+                                "verseNumber": 12,
+                                "startTime": "00:05:55.655",
+                                "label": "Zacarias 9:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:42.242",
+                                "verseNumber": 13,
+                                "startTime": "00:06:18.111",
+                                "label": "Zacarias 9:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.695",
+                                "verseNumber": 14,
+                                "startTime": "00:07:00.353",
+                                "label": "Zacarias 9:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.688",
+                                "verseNumber": 15,
+                                "startTime": "00:07:29.048",
+                                "label": "Zacarias 9:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:28.595",
+                                "verseNumber": 16,
+                                "startTime": "00:08:24.737",
+                                "label": "Zacarias 9:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.606",
+                                "verseNumber": 17,
+                                "startTime": "00:08:53.332",
+                                "label": "Zacarias 9:17",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 572.939,
+                    "bitRate": 593.7866531166494
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2b/nwt_38_Zec_LSB_10_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:55:45",
+                        "checksum": "f5e0e5384d024f8b6bb45de067bdeb80"
+                    },
+                    "filesize": 35483971,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 10,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:49.816",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 10:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.113",
+                                "verseNumber": 2,
+                                "startTime": "00:00:51.785",
+                                "label": "Zacarias 10:2",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:56.322",
+                                "verseNumber": 3,
+                                "startTime": "00:01:38.898",
+                                "label": "Zacarias 10:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.988",
+                                "verseNumber": 4,
+                                "startTime": "00:02:35.221",
+                                "label": "Zacarias 10:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.523",
+                                "verseNumber": 5,
+                                "startTime": "00:02:57.210",
+                                "label": "Zacarias 10:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:43.543",
+                                "verseNumber": 6,
+                                "startTime": "00:03:20.733",
+                                "label": "Zacarias 10:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.894",
+                                "verseNumber": 7,
+                                "startTime": "00:04:04.277",
+                                "label": "Zacarias 10:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:33.900",
+                                "verseNumber": 8,
+                                "startTime": "00:04:32.171",
+                                "label": "Zacarias 10:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.265",
+                                "verseNumber": 9,
+                                "startTime": "00:05:06.072",
+                                "label": "Zacarias 10:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:41.241",
+                                "verseNumber": 10,
+                                "startTime": "00:05:38.338",
+                                "label": "Zacarias 10:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.921",
+                                "verseNumber": 11,
+                                "startTime": "00:06:19.579",
+                                "label": "Zacarias 10:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.493",
+                                "verseNumber": 12,
+                                "startTime": "00:07:14.500",
+                                "label": "Zacarias 10:12",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 460.994,
+                    "bitRate": 601.3495261055458
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/aa/nwt_38_Zec_LSB_11_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:28",
+                        "checksum": "59c1ad08ca75595416c76513175fc9f4"
+                    },
+                    "filesize": 37959649,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 11,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:25.725",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 11:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.074",
+                                "verseNumber": 2,
+                                "startTime": "00:00:27.694",
+                                "label": "Zacarias 11:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.214",
+                                "verseNumber": 3,
+                                "startTime": "00:01:08.768",
+                                "label": "Zacarias 11:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:15.148",
+                                "verseNumber": 4,
+                                "startTime": "00:01:56.983",
+                                "label": "Zacarias 11:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.409",
+                                "verseNumber": 5,
+                                "startTime": "00:02:12.132",
+                                "label": "Zacarias 11:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.765",
+                                "verseNumber": 6,
+                                "startTime": "00:02:54.541",
+                                "label": "Zacarias 11:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:30.697",
+                                "verseNumber": 7,
+                                "startTime": "00:03:26.306",
+                                "label": "Zacarias 11:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.868",
+                                "verseNumber": 8,
+                                "startTime": "00:03:57.003",
+                                "label": "Zacarias 11:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.624",
+                                "verseNumber": 9,
+                                "startTime": "00:04:31.871",
+                                "label": "Zacarias 11:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.786",
+                                "verseNumber": 10,
+                                "startTime": "00:04:56.496",
+                                "label": "Zacarias 11:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.810",
+                                "verseNumber": 11,
+                                "startTime": "00:05:16.282",
+                                "label": "Zacarias 11:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.347",
+                                "verseNumber": 12,
+                                "startTime": "00:05:27.093",
+                                "label": "Zacarias 11:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.121",
+                                "verseNumber": 13,
+                                "startTime": "00:05:41.441",
+                                "label": "Zacarias 11:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.419",
+                                "verseNumber": 14,
+                                "startTime": "00:06:02.562",
+                                "label": "Zacarias 11:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:14.681",
+                                "verseNumber": 15,
+                                "startTime": "00:06:21.981",
+                                "label": "Zacarias 11:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:05.331",
+                                "verseNumber": 16,
+                                "startTime": "00:06:36.662",
+                                "label": "Zacarias 11:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.596",
+                                "verseNumber": 17,
+                                "startTime": "00:07:41.994",
+                                "label": "Zacarias 11:17",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 491.591,
+                    "bitRate": 603.2652302676412
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4a/nwt_38_Zec_LSB_12_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:56:30",
+                        "checksum": "d3ca41c7386c36963db2a819dc0d8f1a"
+                    },
+                    "filesize": 40209548,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 12,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:53.119",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 12:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.134",
+                                "verseNumber": 2,
+                                "startTime": "00:00:55.088",
+                                "label": "Zacarias 12:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.596",
+                                "verseNumber": 3,
+                                "startTime": "00:01:29.222",
+                                "label": "Zacarias 12:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.509",
+                                "verseNumber": 4,
+                                "startTime": "00:01:58.818",
+                                "label": "Zacarias 12:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:23.656",
+                                "verseNumber": 5,
+                                "startTime": "00:02:41.327",
+                                "label": "Zacarias 12:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:07.167",
+                                "verseNumber": 6,
+                                "startTime": "00:03:04.984",
+                                "label": "Zacarias 12:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:26.493",
+                                "verseNumber": 7,
+                                "startTime": "00:04:12.151",
+                                "label": "Zacarias 12:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.231",
+                                "verseNumber": 8,
+                                "startTime": "00:04:38.645",
+                                "label": "Zacarias 12:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.884",
+                                "verseNumber": 9,
+                                "startTime": "00:05:09.876",
+                                "label": "Zacarias 12:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:55.221",
+                                "verseNumber": 10,
+                                "startTime": "00:05:27.760",
+                                "label": "Zacarias 12:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.126",
+                                "verseNumber": 11,
+                                "startTime": "00:06:22.982",
+                                "label": "Zacarias 12:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:43.176",
+                                "verseNumber": 12,
+                                "startTime": "00:06:49.108",
+                                "label": "Zacarias 12:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.324",
+                                "verseNumber": 13,
+                                "startTime": "00:07:32.285",
+                                "label": "Zacarias 12:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.653",
+                                "verseNumber": 14,
+                                "startTime": "00:07:56.609",
+                                "label": "Zacarias 12:14",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 497.263,
+                    "bitRate": 631.7322900557652
+                },
+                {
+                    "title": "Cap\u00edtulo 13",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b8/nwt_38_Zec_LSB_13_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:58:57",
+                        "checksum": "4eacf5286f1290e5ade9b4290f2aafaf"
+                    },
+                    "filesize": 20147119,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 13,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:34.868",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 13:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.874",
+                                "verseNumber": 2,
+                                "startTime": "00:00:36.836",
+                                "label": "Zacarias 13:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.456",
+                                "verseNumber": 3,
+                                "startTime": "00:01:17.710",
+                                "label": "Zacarias 13:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:18.985",
+                                "verseNumber": 4,
+                                "startTime": "00:01:41.167",
+                                "label": "Zacarias 13:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.781",
+                                "verseNumber": 5,
+                                "startTime": "00:02:00.153",
+                                "label": "Zacarias 13:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.281",
+                                "verseNumber": 6,
+                                "startTime": "00:02:14.934",
+                                "label": "Zacarias 13:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:36.403",
+                                "verseNumber": 7,
+                                "startTime": "00:02:30.216",
+                                "label": "Zacarias 13:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.682",
+                                "verseNumber": 8,
+                                "startTime": "00:03:06.619",
+                                "label": "Zacarias 13:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.714",
+                                "verseNumber": 9,
+                                "startTime": "00:03:22.302",
+                                "label": "Zacarias 13:9",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 13,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 250.016,
+                    "bitRate": 629.5571770906662
+                },
+                {
+                    "title": "Cap\u00edtulo 14",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a4/nwt_38_Zec_LSB_14_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-05 17:58:39",
+                        "checksum": "73d8a11c843f69b820530a5b0d48a8de"
+                    },
+                    "filesize": 48150090,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 14,
+                        "bibleBookNumber": 38,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:22.155",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Zacarias 14:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.041",
+                                "verseNumber": 2,
+                                "startTime": "00:00:24.124",
+                                "label": "Zacarias 14:2",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.850",
+                                "verseNumber": 3,
+                                "startTime": "00:01:05.165",
+                                "label": "Zacarias 14:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.804",
+                                "verseNumber": 4,
+                                "startTime": "00:01:22.015",
+                                "label": "Zacarias 14:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.321",
+                                "verseNumber": 5,
+                                "startTime": "00:01:59.819",
+                                "label": "Zacarias 14:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:18.051",
+                                "verseNumber": 6,
+                                "startTime": "00:02:55.141",
+                                "label": "Zacarias 14:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.881",
+                                "verseNumber": 7,
+                                "startTime": "00:03:13.193",
+                                "label": "Zacarias 14:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.099",
+                                "verseNumber": 8,
+                                "startTime": "00:03:28.074",
+                                "label": "Zacarias 14:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.781",
+                                "verseNumber": 9,
+                                "startTime": "00:04:01.174",
+                                "label": "Zacarias 14:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:24.117",
+                                "verseNumber": 10,
+                                "startTime": "00:04:15.955",
+                                "label": "Zacarias 14:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.985",
+                                "verseNumber": 11,
+                                "startTime": "00:05:40.073",
+                                "label": "Zacarias 14:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:30.864",
+                                "verseNumber": 12,
+                                "startTime": "00:05:59.058",
+                                "label": "Zacarias 14:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.344",
+                                "verseNumber": 13,
+                                "startTime": "00:06:29.922",
+                                "label": "Zacarias 14:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.126",
+                                "verseNumber": 14,
+                                "startTime": "00:06:41.267",
+                                "label": "Zacarias 14:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.021",
+                                "verseNumber": 15,
+                                "startTime": "00:07:07.393",
+                                "label": "Zacarias 14:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:42.175",
+                                "verseNumber": 16,
+                                "startTime": "00:07:28.414",
+                                "label": "Zacarias 14:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.485",
+                                "verseNumber": 17,
+                                "startTime": "00:08:10.590",
+                                "label": "Zacarias 14:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.947",
+                                "verseNumber": 18,
+                                "startTime": "00:08:29.075",
+                                "label": "Zacarias 14:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.384",
+                                "verseNumber": 19,
+                                "startTime": "00:08:43.022",
+                                "label": "Zacarias 14:19",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:44.778",
+                                "verseNumber": 20,
+                                "startTime": "00:09:00.406",
+                                "label": "Zacarias 14:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.617",
+                                "verseNumber": 21,
+                                "startTime": "00:09:45.184",
+                                "label": "Zacarias 14:21",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 14,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 38,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 635.802,
+                    "bitRate": 591.6505108901828
+                }
+            ]
+        }
+    }
+}

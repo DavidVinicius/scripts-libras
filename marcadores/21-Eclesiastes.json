@@ -1,0 +1,3421 @@
+{
+    "pubName": "Eclesiastes",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 21,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1f/nwt_21_Ec_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-27 22:44:50",
+                        "checksum": "f5c604f5ea45deda468ffa8a745d4480"
+                    },
+                    "filesize": 8937393,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.586,
+                    "duration": 578.244,
+                    "bitRate": 120.75072601272127
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f2/nwt_21_Ec_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 10:38:58",
+                        "checksum": "6d65d0948d987f3c225994e4bfc705a7"
+                    },
+                    "filesize": 14476374,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 937.603,
+                    "bitRate": 120.62319753136455
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/88/nwt_21_Ec_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-11 01:00:16",
+                        "checksum": "ef05b3578f5eceb99869a70952e9b924"
+                    },
+                    "filesize": 8956056,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.851,
+                    "duration": 596.563,
+                    "bitRate": 117.28717251991827
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/46/nwt_21_Ec_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 08:42:57",
+                        "checksum": "3cc5a5fa16d94ede2abfa5c1108260ce"
+                    },
+                    "filesize": 7519287,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.703,
+                    "duration": 479.713,
+                    "bitRate": 122.45744786466074
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a1/nwt_21_Ec_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 04:27:43",
+                        "checksum": "666e803d82ac28d3a9663b76e80d7dc5"
+                    },
+                    "filesize": 10823996,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.703,
+                    "duration": 684.717,
+                    "bitRate": 123.49988206806609
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2c/nwt_21_Ec_LSB_06_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 10:27:29",
+                        "checksum": "2714b76c62b22bb3e533af4d042376ef"
+                    },
+                    "filesize": 6159479,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.557,
+                    "duration": 390.891,
+                    "bitRate": 123.10574990854228
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d7/nwt_21_Ec_LSB_07_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-16 20:48:49",
+                        "checksum": "3476182872baffdf949e16b1f92c76f4"
+                    },
+                    "filesize": 13674639,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.703,
+                    "duration": 933.733,
+                    "bitRate": 114.41505996628587
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3e/nwt_21_Ec_LSB_08_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-04 20:24:50",
+                        "checksum": "f72fdf79f9bfcd3a8894d0e8b1c45239"
+                    },
+                    "filesize": 8418799,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.354,
+                    "duration": 531.331,
+                    "bitRate": 123.78699377130263
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/52/nwt_21_Ec_LSB_09_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 08:43:04",
+                        "checksum": "0555fea04c764145d56dfacdf1b03527"
+                    },
+                    "filesize": 9764550,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.762,
+                    "duration": 626.459,
+                    "bitRate": 121.77260902150022
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/24/nwt_21_Ec_LSB_10_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-27 22:44:54",
+                        "checksum": "617af8028c1db896a77b132297124701"
+                    },
+                    "filesize": 8174771,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.586,
+                    "duration": 534.267,
+                    "bitRate": 119.53835523717541
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c7/nwt_21_Ec_LSB_11_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 02:43:31",
+                        "checksum": "83a71da576be594084863a74dc33fc7b"
+                    },
+                    "filesize": 5107515,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.326,
+                    "duration": 327.961,
+                    "bitRate": 121.6683109805739
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f4/nwt_21_Ec_LSB_12_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 10:39:03",
+                        "checksum": "fb1f0d3f4f137da6cb6c3505b4a62185"
+                    },
+                    "filesize": 8686298,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.644,
+                    "duration": 586.986,
+                    "bitRate": 115.61042874106026
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1b/nwt_21_Ec_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:24",
+                        "checksum": "7f1b2231fd43862652f6cdd142aedac0"
+                    },
+                    "filesize": 16571360,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 578.244,
+                    "bitRate": 223.89121201430538
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/97/nwt_21_Ec_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:06:25",
+                        "checksum": "cad99710fa78a41d35e5b0e8a7cb11b7"
+                    },
+                    "filesize": 27206725,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 937.603,
+                    "bitRate": 226.69780180150875
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/dc/nwt_21_Ec_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:06:22",
+                        "checksum": "dfd095c9981409d38faeb21123962281"
+                    },
+                    "filesize": 16629302,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 596.563,
+                    "bitRate": 217.77485676282305
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/32/nwt_21_Ec_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:26",
+                        "checksum": "1bb00326f9333029e0ec07bf2bbdf81b"
+                    },
+                    "filesize": 13855876,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 479.713,
+                    "bitRate": 225.65373723455482
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bc/nwt_21_Ec_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:06:15",
+                        "checksum": "6a5303ceec96f15dc8b840727bc3cd05"
+                    },
+                    "filesize": 20208084,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 684.717,
+                    "bitRate": 230.57066824688155
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/89/nwt_21_Ec_LSB_06_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:05:45",
+                        "checksum": "3dcb3f17dcaad7bbc77cb9f577a00df8"
+                    },
+                    "filesize": 11407969,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 390.891,
+                    "bitRate": 228.0041183155918
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e2/nwt_21_Ec_LSB_07_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:36",
+                        "checksum": "04286dfa118923ea9f2952a23d695003"
+                    },
+                    "filesize": 25665971,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 933.733,
+                    "bitRate": 214.74596960533688
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/10/nwt_21_Ec_LSB_08_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:08",
+                        "checksum": "671295bb86a0e2afed20dc0eed0de1e3"
+                    },
+                    "filesize": 15528712,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 531.331,
+                    "bitRate": 228.3285983690016
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/30/nwt_21_Ec_LSB_09_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:05:09",
+                        "checksum": "9a91004e8767e2cf1ba9c8beb061ef49"
+                    },
+                    "filesize": 18124129,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 626.459,
+                    "bitRate": 226.0239821161481
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/01/nwt_21_Ec_LSB_10_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:05:05",
+                        "checksum": "e1048bab9d27b60ee8e510a60773e4f5"
+                    },
+                    "filesize": 15058698,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 534.267,
+                    "bitRate": 220.20090727108354
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/34/nwt_21_Ec_LSB_11_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:05:01",
+                        "checksum": "9c42cbcaf7ab3083755bab18b3087d9c"
+                    },
+                    "filesize": 9212777,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 327.961,
+                    "bitRate": 219.46152229228474
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/27/nwt_21_Ec_LSB_12_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:54",
+                        "checksum": "ade70e691b55e08d67db2b434757bb30"
+                    },
+                    "filesize": 16156100,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 586.986,
+                    "bitRate": 215.0298835917722
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bb/nwt_21_Ec_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:06:30",
+                        "checksum": "329dc5ff53fc6b503cc41f49b57a7f69"
+                    },
+                    "filesize": 35472265,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 578.244,
+                    "bitRate": 479.2562833552964
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ef/nwt_21_Ec_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:05:54",
+                        "checksum": "1656ce4e18fbb830c21d3452378a4754"
+                    },
+                    "filesize": 57953218,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 937.603,
+                    "bitRate": 482.89042977144913
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/89/nwt_21_Ec_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:06:17",
+                        "checksum": "c5c44a0af0bc69a7b8dcca12806949c0"
+                    },
+                    "filesize": 35167317,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 596.563,
+                    "bitRate": 460.54593406312495
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3e/nwt_21_Ec_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:19",
+                        "checksum": "b614ee19edb3f57cad64c47e9434e04f"
+                    },
+                    "filesize": 29323817,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 479.713,
+                    "bitRate": 477.56120912399706
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/71/nwt_21_Ec_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:43",
+                        "checksum": "4598aa43d477d5fa9116f3c8b231b55c"
+                    },
+                    "filesize": 42964109,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 684.717,
+                    "bitRate": 490.2128931551283
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6a/nwt_21_Ec_LSB_06_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:03:34",
+                        "checksum": "0595d1e86b3b48d40a9bf55274df69fc"
+                    },
+                    "filesize": 24234238,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 390.891,
+                    "bitRate": 484.3549336643719
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a9/nwt_21_Ec_LSB_07_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:03:24",
+                        "checksum": "86224ddf2db46f83ad03f683d49e6848"
+                    },
+                    "filesize": 55227500,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 933.733,
+                    "bitRate": 462.0858893816541
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/30/nwt_21_Ec_LSB_08_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:33",
+                        "checksum": "050dd73e322b6875fda1bc24f78bd25e"
+                    },
+                    "filesize": 32903414,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 531.331,
+                    "bitRate": 483.7999700280992
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c7/nwt_21_Ec_LSB_09_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:05",
+                        "checksum": "1a948592cdd13496e697708c03ad879f"
+                    },
+                    "filesize": 38513653,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 626.459,
+                    "bitRate": 480.2994514605106
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/db/nwt_21_Ec_LSB_10_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:28",
+                        "checksum": "f7541272db774386b43272fe12c730f7"
+                    },
+                    "filesize": 32108934,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 534.267,
+                    "bitRate": 469.5237528707556
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/65/nwt_21_Ec_LSB_11_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:57",
+                        "checksum": "d23df10c82698480e5707bbbf92f23a4"
+                    },
+                    "filesize": 19455242,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 327.961,
+                    "bitRate": 463.4516851851287
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/fd/nwt_21_Ec_LSB_12_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:03:55",
+                        "checksum": "5bc9c32c881dd5d5e0f0353f067cf8ad"
+                    },
+                    "filesize": 34552681,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 586.986,
+                    "bitRate": 459.8794865848589
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/01/nwt_21_Ec_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:05:59",
+                        "checksum": "5595670b438d360008598e90d594c495"
+                    },
+                    "filesize": 85548601,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:30.830",
+                                "verseNumber": 1,
+                                "startTime": "00:00:16.883",
+                                "label": "Eclesiastes 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.078",
+                                "verseNumber": 2,
+                                "startTime": "00:00:47.714",
+                                "label": "Eclesiastes 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.624",
+                                "verseNumber": 3,
+                                "startTime": "00:00:59.793",
+                                "label": "Eclesiastes 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.067",
+                                "verseNumber": 4,
+                                "startTime": "00:01:24.417",
+                                "label": "Eclesiastes 1:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.057",
+                                "verseNumber": 5,
+                                "startTime": "00:01:58.485",
+                                "label": "Eclesiastes 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.325",
+                                "verseNumber": 6,
+                                "startTime": "00:02:22.542",
+                                "label": "Eclesiastes 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.196",
+                                "verseNumber": 7,
+                                "startTime": "00:02:47.867",
+                                "label": "Eclesiastes 1:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:43.276",
+                                "verseNumber": 8,
+                                "startTime": "00:03:18.064",
+                                "label": "Eclesiastes 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.065",
+                                "verseNumber": 9,
+                                "startTime": "00:04:01.341",
+                                "label": "Eclesiastes 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.893",
+                                "verseNumber": 10,
+                                "startTime": "00:04:33.406",
+                                "label": "Eclesiastes 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:53.420",
+                                "verseNumber": 11,
+                                "startTime": "00:05:00.300",
+                                "label": "Eclesiastes 1:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.888",
+                                "verseNumber": 12,
+                                "startTime": "00:05:53.720",
+                                "label": "Eclesiastes 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.587",
+                                "verseNumber": 13,
+                                "startTime": "00:06:15.608",
+                                "label": "Eclesiastes 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.896",
+                                "verseNumber": 14,
+                                "startTime": "00:06:36.195",
+                                "label": "Eclesiastes 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.693",
+                                "verseNumber": 15,
+                                "startTime": "00:07:06.092",
+                                "label": "Eclesiastes 1:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:33.666",
+                                "verseNumber": 16,
+                                "startTime": "00:07:32.785",
+                                "label": "Eclesiastes 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.088",
+                                "verseNumber": 17,
+                                "startTime": "00:08:06.452",
+                                "label": "Eclesiastes 1:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.703",
+                                "verseNumber": 18,
+                                "startTime": "00:09:01.541",
+                                "label": "Eclesiastes 1:18",
+                                "endTransitionDuration": "00:00:08.975"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:16.883",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 578.244,
+                    "bitRate": 1155.8242633083958
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6e/nwt_21_Ec_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:03:45",
+                        "checksum": "575b4439ee513751fab7c95df1369683"
+                    },
+                    "filesize": 137763142,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:29.629",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.917",
+                                "verseNumber": 2,
+                                "startTime": "00:00:31.598",
+                                "label": "Eclesiastes 2:2",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:58.825",
+                                "verseNumber": 3,
+                                "startTime": "00:00:49.516",
+                                "label": "Eclesiastes 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.595",
+                                "verseNumber": 4,
+                                "startTime": "00:01:48.341",
+                                "label": "Eclesiastes 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.055",
+                                "verseNumber": 5,
+                                "startTime": "00:02:16.936",
+                                "label": "Eclesiastes 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.533",
+                                "verseNumber": 6,
+                                "startTime": "00:02:38.992",
+                                "label": "Eclesiastes 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.324",
+                                "verseNumber": 7,
+                                "startTime": "00:03:12.525",
+                                "label": "Eclesiastes 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.093",
+                                "verseNumber": 8,
+                                "startTime": "00:04:10.850",
+                                "label": "Eclesiastes 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.526",
+                                "verseNumber": 9,
+                                "startTime": "00:05:10.943",
+                                "label": "Eclesiastes 2:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:46.279",
+                                "verseNumber": 10,
+                                "startTime": "00:05:37.470",
+                                "label": "Eclesiastes 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.942",
+                                "verseNumber": 11,
+                                "startTime": "00:06:23.750",
+                                "label": "Eclesiastes 2:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:55.388",
+                                "verseNumber": 12,
+                                "startTime": "00:07:06.692",
+                                "label": "Eclesiastes 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.059",
+                                "verseNumber": 13,
+                                "startTime": "00:08:02.081",
+                                "label": "Eclesiastes 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.446",
+                                "verseNumber": 14,
+                                "startTime": "00:08:28.140",
+                                "label": "Eclesiastes 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.555",
+                                "verseNumber": 15,
+                                "startTime": "00:09:14.587",
+                                "label": "Eclesiastes 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.990",
+                                "verseNumber": 16,
+                                "startTime": "00:09:37.143",
+                                "label": "Eclesiastes 2:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:45.378",
+                                "verseNumber": 17,
+                                "startTime": "00:10:01.133",
+                                "label": "Eclesiastes 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.522",
+                                "verseNumber": 18,
+                                "startTime": "00:10:46.512",
+                                "label": "Eclesiastes 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.759",
+                                "verseNumber": 19,
+                                "startTime": "00:11:09.035",
+                                "label": "Eclesiastes 2:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.984",
+                                "verseNumber": 20,
+                                "startTime": "00:11:34.794",
+                                "label": "Eclesiastes 2:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.839",
+                                "verseNumber": 21,
+                                "startTime": "00:11:52.778",
+                                "label": "Eclesiastes 2:21",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:23.990",
+                                "verseNumber": 22,
+                                "startTime": "00:12:32.618",
+                                "label": "Eclesiastes 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.070",
+                                "verseNumber": 23,
+                                "startTime": "00:12:56.609",
+                                "label": "Eclesiastes 2:23",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:32.832",
+                                "verseNumber": 24,
+                                "startTime": "00:13:33.679",
+                                "label": "Eclesiastes 2:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.923",
+                                "verseNumber": 25,
+                                "startTime": "00:14:06.512",
+                                "label": "Eclesiastes 2:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:07.167",
+                                "verseNumber": 26,
+                                "startTime": "00:14:30.436",
+                                "label": "Eclesiastes 2:26",
+                                "endTransitionDuration": "00:00:06.940"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 937.603,
+                    "bitRate": 1147.900067379264
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d9/nwt_21_Ec_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:05:47",
+                        "checksum": "05df2c2dced1d457a149908849ef81f6"
+                    },
+                    "filesize": 85463396,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:05.271",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.850",
+                                "verseNumber": 2,
+                                "startTime": "00:00:07.240",
+                                "label": "Eclesiastes 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.192",
+                                "verseNumber": 3,
+                                "startTime": "00:00:24.090",
+                                "label": "Eclesiastes 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.125",
+                                "verseNumber": 4,
+                                "startTime": "00:00:50.283",
+                                "label": "Eclesiastes 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.257",
+                                "verseNumber": 5,
+                                "startTime": "00:01:15.408",
+                                "label": "Eclesiastes 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.486",
+                                "verseNumber": 6,
+                                "startTime": "00:01:39.666",
+                                "label": "Eclesiastes 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.419",
+                                "verseNumber": 7,
+                                "startTime": "00:01:59.152",
+                                "label": "Eclesiastes 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.817",
+                                "verseNumber": 8,
+                                "startTime": "00:02:18.571",
+                                "label": "Eclesiastes 3:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:15.648",
+                                "verseNumber": 9,
+                                "startTime": "00:02:36.389",
+                                "label": "Eclesiastes 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.549",
+                                "verseNumber": 10,
+                                "startTime": "00:02:52.038",
+                                "label": "Eclesiastes 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:53.319",
+                                "verseNumber": 11,
+                                "startTime": "00:03:08.588",
+                                "label": "Eclesiastes 3:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:16.850",
+                                "verseNumber": 12,
+                                "startTime": "00:04:01.908",
+                                "label": "Eclesiastes 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.650",
+                                "verseNumber": 13,
+                                "startTime": "00:04:18.758",
+                                "label": "Eclesiastes 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.946",
+                                "verseNumber": 14,
+                                "startTime": "00:04:36.409",
+                                "label": "Eclesiastes 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.962",
+                                "verseNumber": 15,
+                                "startTime": "00:05:23.356",
+                                "label": "Eclesiastes 3:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:34.467",
+                                "verseNumber": 16,
+                                "startTime": "00:05:52.318",
+                                "label": "Eclesiastes 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.997",
+                                "verseNumber": 17,
+                                "startTime": "00:06:26.786",
+                                "label": "Eclesiastes 3:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:26.159",
+                                "verseNumber": 18,
+                                "startTime": "00:06:57.784",
+                                "label": "Eclesiastes 3:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.734",
+                                "verseNumber": 19,
+                                "startTime": "00:07:23.943",
+                                "label": "Eclesiastes 3:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.465",
+                                "verseNumber": 20,
+                                "startTime": "00:07:58.678",
+                                "label": "Eclesiastes 3:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.107",
+                                "verseNumber": 21,
+                                "startTime": "00:08:31.143",
+                                "label": "Eclesiastes 3:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.310",
+                                "verseNumber": 22,
+                                "startTime": "00:09:12.251",
+                                "label": "Eclesiastes 3:22",
+                                "endTransitionDuration": "00:00:06.873"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 596.563,
+                    "bitRate": 1119.2158770322665
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b2/nwt_21_Ec_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:48",
+                        "checksum": "a0c21953abd9ec5849f13d3dacd389f9"
+                    },
+                    "filesize": 71001211,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:29.062",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.881",
+                                "verseNumber": 2,
+                                "startTime": "00:00:31.031",
+                                "label": "Eclesiastes 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.857",
+                                "verseNumber": 3,
+                                "startTime": "00:00:45.912",
+                                "label": "Eclesiastes 4:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.716",
+                                "verseNumber": 4,
+                                "startTime": "00:01:09.769",
+                                "label": "Eclesiastes 4:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:19.052",
+                                "verseNumber": 5,
+                                "startTime": "00:01:59.486",
+                                "label": "Eclesiastes 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.282",
+                                "verseNumber": 6,
+                                "startTime": "00:02:18.538",
+                                "label": "Eclesiastes 4:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:12.612",
+                                "verseNumber": 7,
+                                "startTime": "00:03:07.820",
+                                "label": "Eclesiastes 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.293",
+                                "verseNumber": 8,
+                                "startTime": "00:03:20.433",
+                                "label": "Eclesiastes 4:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:14.381",
+                                "verseNumber": 9,
+                                "startTime": "00:04:20.727",
+                                "label": "Eclesiastes 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.116",
+                                "verseNumber": 10,
+                                "startTime": "00:04:35.108",
+                                "label": "Eclesiastes 4:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.357",
+                                "verseNumber": 11,
+                                "startTime": "00:04:51.224",
+                                "label": "Eclesiastes 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.974",
+                                "verseNumber": 12,
+                                "startTime": "00:05:15.581",
+                                "label": "Eclesiastes 4:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:30.463",
+                                "verseNumber": 13,
+                                "startTime": "00:05:56.556",
+                                "label": "Eclesiastes 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.990",
+                                "verseNumber": 14,
+                                "startTime": "00:06:27.019",
+                                "label": "Eclesiastes 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.549",
+                                "verseNumber": 15,
+                                "startTime": "00:06:51.010",
+                                "label": "Eclesiastes 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:52.152",
+                                "verseNumber": 16,
+                                "startTime": "00:07:07.560",
+                                "label": "Eclesiastes 4:16",
+                                "endTransitionDuration": "00:00:06.906"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 479.713,
+                    "bitRate": 1156.3100456679306
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/fb/nwt_21_Ec_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:03:37",
+                        "checksum": "259e521a3e1b0c0deea3c60fef3fe3d8"
+                    },
+                    "filesize": 101944523,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:39.172",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.345",
+                                "verseNumber": 2,
+                                "startTime": "00:00:41.141",
+                                "label": "Eclesiastes 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.477",
+                                "verseNumber": 3,
+                                "startTime": "00:01:26.486",
+                                "label": "Eclesiastes 5:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.293",
+                                "verseNumber": 4,
+                                "startTime": "00:02:10.964",
+                                "label": "Eclesiastes 5:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.215",
+                                "verseNumber": 5,
+                                "startTime": "00:02:38.258",
+                                "label": "Eclesiastes 5:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.599",
+                                "verseNumber": 6,
+                                "startTime": "00:02:53.473",
+                                "label": "Eclesiastes 5:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.216",
+                                "verseNumber": 7,
+                                "startTime": "00:03:26.072",
+                                "label": "Eclesiastes 5:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:40.440",
+                                "verseNumber": 8,
+                                "startTime": "00:04:16.289",
+                                "label": "Eclesiastes 5:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.729",
+                                "verseNumber": 9,
+                                "startTime": "00:04:56.729",
+                                "label": "Eclesiastes 5:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:38.705",
+                                "verseNumber": 10,
+                                "startTime": "00:05:26.459",
+                                "label": "Eclesiastes 5:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.560",
+                                "verseNumber": 11,
+                                "startTime": "00:06:05.164",
+                                "label": "Eclesiastes 5:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:40.440",
+                                "verseNumber": 12,
+                                "startTime": "00:06:32.725",
+                                "label": "Eclesiastes 5:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.752",
+                                "verseNumber": 13,
+                                "startTime": "00:07:13.166",
+                                "label": "Eclesiastes 5:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.560",
+                                "verseNumber": 14,
+                                "startTime": "00:07:31.918",
+                                "label": "Eclesiastes 5:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.538",
+                                "verseNumber": 15,
+                                "startTime": "00:07:59.479",
+                                "label": "Eclesiastes 5:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.408",
+                                "verseNumber": 16,
+                                "startTime": "00:08:38.017",
+                                "label": "Eclesiastes 5:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.095",
+                                "verseNumber": 17,
+                                "startTime": "00:09:19.425",
+                                "label": "Eclesiastes 5:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:37.203",
+                                "verseNumber": 18,
+                                "startTime": "00:09:48.521",
+                                "label": "Eclesiastes 5:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.060",
+                                "verseNumber": 19,
+                                "startTime": "00:10:25.725",
+                                "label": "Eclesiastes 5:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.931",
+                                "verseNumber": 20,
+                                "startTime": "00:10:52.785",
+                                "label": "Eclesiastes 5:20",
+                                "endTransitionDuration": "00:00:06.906"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 684.717,
+                    "bitRate": 1163.1689967351476
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/01/nwt_21_Ec_LSB_06_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:03:30",
+                        "checksum": "90b06daaec887f0ebb188f064e429be0"
+                    },
+                    "filesize": 57799065,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 6,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:09.743",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 6:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.840",
+                                "verseNumber": 2,
+                                "startTime": "00:00:11.711",
+                                "label": "Eclesiastes 6:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.772",
+                                "verseNumber": 3,
+                                "startTime": "00:00:52.552",
+                                "label": "Eclesiastes 6:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.975",
+                                "verseNumber": 4,
+                                "startTime": "00:01:31.324",
+                                "label": "Eclesiastes 6:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.452",
+                                "verseNumber": 5,
+                                "startTime": "00:02:13.299",
+                                "label": "Eclesiastes 6:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.570",
+                                "verseNumber": 6,
+                                "startTime": "00:02:32.752",
+                                "label": "Eclesiastes 6:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.724",
+                                "verseNumber": 7,
+                                "startTime": "00:03:10.323",
+                                "label": "Eclesiastes 6:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.131",
+                                "verseNumber": 8,
+                                "startTime": "00:03:35.048",
+                                "label": "Eclesiastes 6:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.836",
+                                "verseNumber": 9,
+                                "startTime": "00:04:06.179",
+                                "label": "Eclesiastes 6:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:39.239",
+                                "verseNumber": 10,
+                                "startTime": "00:04:43.016",
+                                "label": "Eclesiastes 6:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.615",
+                                "verseNumber": 11,
+                                "startTime": "00:05:22.255",
+                                "label": "Eclesiastes 6:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:53.019",
+                                "verseNumber": 12,
+                                "startTime": "00:05:37.870",
+                                "label": "Eclesiastes 6:12",
+                                "endTransitionDuration": "00:00:06.606"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 390.891,
+                    "bitRate": 1155.1946586452489
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/28/nwt_21_Ec_LSB_07_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:05:36",
+                        "checksum": "c921b9ba489b238f7ae65ea533da2db1"
+                    },
+                    "filesize": 134425015,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 7,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:31.131",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 7:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.249",
+                                "verseNumber": 2,
+                                "startTime": "00:00:33.099",
+                                "label": "Eclesiastes 7:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.419",
+                                "verseNumber": 3,
+                                "startTime": "00:01:22.348",
+                                "label": "Eclesiastes 7:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.197",
+                                "verseNumber": 4,
+                                "startTime": "00:01:41.768",
+                                "label": "Eclesiastes 7:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:31.364",
+                                "verseNumber": 5,
+                                "startTime": "00:02:12.966",
+                                "label": "Eclesiastes 7:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.931",
+                                "verseNumber": 6,
+                                "startTime": "00:02:44.330",
+                                "label": "Eclesiastes 7:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.507",
+                                "verseNumber": 7,
+                                "startTime": "00:03:16.262",
+                                "label": "Eclesiastes 7:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.894",
+                                "verseNumber": 8,
+                                "startTime": "00:03:56.769",
+                                "label": "Eclesiastes 7:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.155",
+                                "verseNumber": 9,
+                                "startTime": "00:04:24.664",
+                                "label": "Eclesiastes 7:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:26.626",
+                                "verseNumber": 10,
+                                "startTime": "00:04:46.819",
+                                "label": "Eclesiastes 7:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.981",
+                                "verseNumber": 11,
+                                "startTime": "00:05:13.446",
+                                "label": "Eclesiastes 7:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.389",
+                                "verseNumber": 12,
+                                "startTime": "00:05:28.428",
+                                "label": "Eclesiastes 7:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:18.752",
+                                "verseNumber": 13,
+                                "startTime": "00:05:50.817",
+                                "label": "Eclesiastes 7:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.510",
+                                "verseNumber": 14,
+                                "startTime": "00:06:09.569",
+                                "label": "Eclesiastes 7:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:42.108",
+                                "verseNumber": 15,
+                                "startTime": "00:06:53.079",
+                                "label": "Eclesiastes 7:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.779",
+                                "verseNumber": 16,
+                                "startTime": "00:07:35.188",
+                                "label": "Eclesiastes 7:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.502",
+                                "verseNumber": 17,
+                                "startTime": "00:08:20.967",
+                                "label": "Eclesiastes 7:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.452",
+                                "verseNumber": 18,
+                                "startTime": "00:08:56.469",
+                                "label": "Eclesiastes 7:18",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:25.425",
+                                "verseNumber": 19,
+                                "startTime": "00:09:15.922",
+                                "label": "Eclesiastes 7:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.482",
+                                "verseNumber": 20,
+                                "startTime": "00:09:41.347",
+                                "label": "Eclesiastes 7:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.062",
+                                "verseNumber": 21,
+                                "startTime": "00:09:56.829",
+                                "label": "Eclesiastes 7:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.025",
+                                "verseNumber": 22,
+                                "startTime": "00:10:25.891",
+                                "label": "Eclesiastes 7:22",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.724",
+                                "verseNumber": 23,
+                                "startTime": "00:10:50.916",
+                                "label": "Eclesiastes 7:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.147",
+                                "verseNumber": 24,
+                                "startTime": "00:11:15.641",
+                                "label": "Eclesiastes 7:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.514",
+                                "verseNumber": 25,
+                                "startTime": "00:11:29.789",
+                                "label": "Eclesiastes 7:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:37.297",
+                                "verseNumber": 26,
+                                "startTime": "00:12:17.303",
+                                "label": "Eclesiastes 7:26",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:18.785",
+                                "verseNumber": 27,
+                                "startTime": "00:13:54.600",
+                                "label": "Eclesiastes 7:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.544",
+                                "verseNumber": 28,
+                                "startTime": "00:14:13.385",
+                                "label": "Eclesiastes 7:28",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.802",
+                                "verseNumber": 29,
+                                "startTime": "00:14:57.930",
+                                "label": "Eclesiastes 7:29",
+                                "endTransitionDuration": "00:00:06.806"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 933.733,
+                    "bitRate": 1124.7277644546139
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/14/nwt_21_Ec_LSB_08_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:05:13",
+                        "checksum": "00214d2093c287ae34f517988b677072"
+                    },
+                    "filesize": 77714660,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 8,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:42.342",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 8:1",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.054",
+                                "verseNumber": 2,
+                                "startTime": "00:00:44.310",
+                                "label": "Eclesiastes 8:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.367",
+                                "verseNumber": 3,
+                                "startTime": "00:01:05.365",
+                                "label": "Eclesiastes 8:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.281",
+                                "verseNumber": 4,
+                                "startTime": "00:01:39.732",
+                                "label": "Eclesiastes 8:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.025",
+                                "verseNumber": 5,
+                                "startTime": "00:01:55.014",
+                                "label": "Eclesiastes 8:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.712",
+                                "verseNumber": 6,
+                                "startTime": "00:02:20.039",
+                                "label": "Eclesiastes 8:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.049",
+                                "verseNumber": 7,
+                                "startTime": "00:02:32.752",
+                                "label": "Eclesiastes 8:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:08.501",
+                                "verseNumber": 8,
+                                "startTime": "00:02:48.801",
+                                "label": "Eclesiastes 8:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:19.019",
+                                "verseNumber": 9,
+                                "startTime": "00:03:57.303",
+                                "label": "Eclesiastes 8:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.669",
+                                "verseNumber": 10,
+                                "startTime": "00:04:16.322",
+                                "label": "Eclesiastes 8:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.216",
+                                "verseNumber": 11,
+                                "startTime": "00:04:52.992",
+                                "label": "Eclesiastes 8:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.074",
+                                "verseNumber": 12,
+                                "startTime": "00:05:09.208",
+                                "label": "Eclesiastes 8:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.972",
+                                "verseNumber": 13,
+                                "startTime": "00:05:50.283",
+                                "label": "Eclesiastes 8:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:35.168",
+                                "verseNumber": 14,
+                                "startTime": "00:06:29.255",
+                                "label": "Eclesiastes 8:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.870",
+                                "verseNumber": 15,
+                                "startTime": "00:07:04.424",
+                                "label": "Eclesiastes 8:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:23.990",
+                                "verseNumber": 16,
+                                "startTime": "00:07:41.294",
+                                "label": "Eclesiastes 8:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.046",
+                                "verseNumber": 17,
+                                "startTime": "00:08:05.284",
+                                "label": "Eclesiastes 8:17",
+                                "endTransitionDuration": "00:00:06.906"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 531.331,
+                    "bitRate": 1142.6884206831523
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d3/nwt_21_Ec_LSB_09_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:14",
+                        "checksum": "0b8404fe6285c6bf43c8235728fcbddf"
+                    },
+                    "filesize": 91971250,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 9,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:51.251",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 9:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.848",
+                                "verseNumber": 2,
+                                "startTime": "00:00:53.219",
+                                "label": "Eclesiastes 9:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.506",
+                                "verseNumber": 3,
+                                "startTime": "00:01:42.068",
+                                "label": "Eclesiastes 9:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:39.439",
+                                "verseNumber": 4,
+                                "startTime": "00:02:21.574",
+                                "label": "Eclesiastes 9:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.237",
+                                "verseNumber": 5,
+                                "startTime": "00:03:01.014",
+                                "label": "Eclesiastes 9:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.365",
+                                "verseNumber": 6,
+                                "startTime": "00:03:38.251",
+                                "label": "Eclesiastes 9:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:19.419",
+                                "verseNumber": 7,
+                                "startTime": "00:04:10.617",
+                                "label": "Eclesiastes 9:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.075",
+                                "verseNumber": 8,
+                                "startTime": "00:04:30.036",
+                                "label": "Eclesiastes 9:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.929",
+                                "verseNumber": 9,
+                                "startTime": "00:04:39.112",
+                                "label": "Eclesiastes 9:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.664",
+                                "verseNumber": 10,
+                                "startTime": "00:05:09.042",
+                                "label": "Eclesiastes 9:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:03.630",
+                                "verseNumber": 11,
+                                "startTime": "00:05:40.707",
+                                "label": "Eclesiastes 9:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.348",
+                                "verseNumber": 12,
+                                "startTime": "00:06:44.337",
+                                "label": "Eclesiastes 9:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:10.944",
+                                "verseNumber": 13,
+                                "startTime": "00:07:32.685",
+                                "label": "Eclesiastes 9:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.989",
+                                "verseNumber": 14,
+                                "startTime": "00:07:43.629",
+                                "label": "Eclesiastes 9:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.835",
+                                "verseNumber": 15,
+                                "startTime": "00:08:06.619",
+                                "label": "Eclesiastes 9:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.365",
+                                "verseNumber": 16,
+                                "startTime": "00:08:42.455",
+                                "label": "Eclesiastes 9:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:31.231",
+                                "verseNumber": 17,
+                                "startTime": "00:09:14.820",
+                                "label": "Eclesiastes 9:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.407",
+                                "verseNumber": 18,
+                                "startTime": "00:09:46.052",
+                                "label": "Eclesiastes 9:18",
+                                "endTransitionDuration": "00:00:06.873"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 626.459,
+                    "bitRate": 1146.9631542128056
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1e/nwt_21_Ec_LSB_10_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:04:00",
+                        "checksum": "ebd74792ad14ebff2a7f71097c4c16c2"
+                    },
+                    "filesize": 77784404,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 10,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:38.838",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 10:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.250",
+                                "verseNumber": 2,
+                                "startTime": "00:00:40.807",
+                                "label": "Eclesiastes 10:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.346",
+                                "verseNumber": 3,
+                                "startTime": "00:00:58.058",
+                                "label": "Eclesiastes 10:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.624",
+                                "verseNumber": 4,
+                                "startTime": "00:01:11.404",
+                                "label": "Eclesiastes 10:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.578",
+                                "verseNumber": 5,
+                                "startTime": "00:01:36.029",
+                                "label": "Eclesiastes 10:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.350",
+                                "verseNumber": 6,
+                                "startTime": "00:01:47.607",
+                                "label": "Eclesiastes 10:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.770",
+                                "verseNumber": 7,
+                                "startTime": "00:02:04.958",
+                                "label": "Eclesiastes 10:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:30.930",
+                                "verseNumber": 8,
+                                "startTime": "00:02:41.728",
+                                "label": "Eclesiastes 10:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.286",
+                                "verseNumber": 9,
+                                "startTime": "00:03:12.659",
+                                "label": "Eclesiastes 10:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.932",
+                                "verseNumber": 10,
+                                "startTime": "00:03:32.946",
+                                "label": "Eclesiastes 10:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:20.353",
+                                "verseNumber": 11,
+                                "startTime": "00:04:05.878",
+                                "label": "Eclesiastes 10:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.956",
+                                "verseNumber": 12,
+                                "startTime": "00:04:26.232",
+                                "label": "Eclesiastes 10:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.781",
+                                "verseNumber": 13,
+                                "startTime": "00:04:49.188",
+                                "label": "Eclesiastes 10:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.958",
+                                "verseNumber": 14,
+                                "startTime": "00:05:03.970",
+                                "label": "Eclesiastes 10:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.293",
+                                "verseNumber": 15,
+                                "startTime": "00:05:28.928",
+                                "label": "Eclesiastes 10:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.095",
+                                "verseNumber": 16,
+                                "startTime": "00:05:56.222",
+                                "label": "Eclesiastes 10:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.240",
+                                "verseNumber": 17,
+                                "startTime": "00:06:25.318",
+                                "label": "Eclesiastes 10:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.360",
+                                "verseNumber": 18,
+                                "startTime": "00:07:05.558",
+                                "label": "Eclesiastes 10:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.889",
+                                "verseNumber": 19,
+                                "startTime": "00:07:32.919",
+                                "label": "Eclesiastes 10:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.458",
+                                "verseNumber": 20,
+                                "startTime": "00:07:55.808",
+                                "label": "Eclesiastes 10:20",
+                                "endTransitionDuration": "00:00:06.873"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 534.267,
+                    "bitRate": 1137.4287692296173
+                },
+                {
+                    "title": "Cap\u00edtulo 11",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/85/nwt_21_Ec_LSB_11_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:03:02",
+                        "checksum": "ccc74572b9370269b8ddf702748d9ad9"
+                    },
+                    "filesize": 46817466,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 11,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:31.698",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 11:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.626",
+                                "verseNumber": 2,
+                                "startTime": "00:00:33.666",
+                                "label": "Eclesiastes 11:2",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:28.828",
+                                "verseNumber": 3,
+                                "startTime": "00:01:00.293",
+                                "label": "Eclesiastes 11:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.208",
+                                "verseNumber": 4,
+                                "startTime": "00:01:29.122",
+                                "label": "Eclesiastes 11:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.605",
+                                "verseNumber": 5,
+                                "startTime": "00:02:11.331",
+                                "label": "Eclesiastes 11:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:39.639",
+                                "verseNumber": 6,
+                                "startTime": "00:02:49.936",
+                                "label": "Eclesiastes 11:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.911",
+                                "verseNumber": 7,
+                                "startTime": "00:03:29.576",
+                                "label": "Eclesiastes 11:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.797",
+                                "verseNumber": 8,
+                                "startTime": "00:03:41.487",
+                                "label": "Eclesiastes 11:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.929",
+                                "verseNumber": 9,
+                                "startTime": "00:04:12.285",
+                                "label": "Eclesiastes 11:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.745",
+                                "verseNumber": 10,
+                                "startTime": "00:04:42.215",
+                                "label": "Eclesiastes 11:10",
+                                "endTransitionDuration": "00:00:06.906"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 11,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 327.961,
+                    "bitRate": 1115.2589884925342
+                },
+                {
+                    "title": "Cap\u00edtulo 12",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5a/nwt_21_Ec_LSB_12_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-12-05 20:03:17",
+                        "checksum": "8c4d3ceff540f0d4d260f03b78d706e6"
+                    },
+                    "filesize": 84630354,
+                    "trackImage": {
+                        "url": "",
+                        "modifiedDatetime": "",
+                        "checksum": null
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 12,
+                        "bibleBookNumber": 21,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:35.468",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Eclesiastes 12:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.363",
+                                "verseNumber": 2,
+                                "startTime": "00:00:37.437",
+                                "label": "Eclesiastes 12:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:03.296",
+                                "verseNumber": 3,
+                                "startTime": "00:01:07.801",
+                                "label": "Eclesiastes 12:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.948",
+                                "verseNumber": 4,
+                                "startTime": "00:02:11.097",
+                                "label": "Eclesiastes 12:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:30.190",
+                                "verseNumber": 5,
+                                "startTime": "00:03:00.046",
+                                "label": "Eclesiastes 12:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.422",
+                                "verseNumber": 6,
+                                "startTime": "00:04:30.236",
+                                "label": "Eclesiastes 12:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.266",
+                                "verseNumber": 7,
+                                "startTime": "00:05:25.658",
+                                "label": "Eclesiastes 12:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.521",
+                                "verseNumber": 8,
+                                "startTime": "00:05:58.925",
+                                "label": "Eclesiastes 12:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.515",
+                                "verseNumber": 9,
+                                "startTime": "00:06:20.446",
+                                "label": "Eclesiastes 12:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.821",
+                                "verseNumber": 10,
+                                "startTime": "00:07:08.961",
+                                "label": "Eclesiastes 12:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.955",
+                                "verseNumber": 11,
+                                "startTime": "00:07:30.783",
+                                "label": "Eclesiastes 12:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:33.533",
+                                "verseNumber": 12,
+                                "startTime": "00:08:26.739",
+                                "label": "Eclesiastes 12:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.321",
+                                "verseNumber": 13,
+                                "startTime": "00:09:00.273",
+                                "label": "Eclesiastes 12:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.392",
+                                "verseNumber": 14,
+                                "startTime": "00:09:21.594",
+                                "label": "Eclesiastes 12:14",
+                                "endTransitionDuration": "00:00:06.906"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 12,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 21,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 586.986,
+                    "bitRate": 1126.3891142633727
+                }
+            ]
+        }
+    }
+}

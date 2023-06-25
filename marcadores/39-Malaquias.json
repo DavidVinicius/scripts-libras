@@ -1,0 +1,1028 @@
+{
+    "pubName": "Malaquias",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 39,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9e/nwt_39_Mal_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 05:50:02",
+                        "checksum": "e01afb1efac1cad1a59f49e2b195cea9"
+                    },
+                    "filesize": 7503476,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9f/nwt_39_Mal_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:15:51+00:00",
+                        "checksum": "804c49c67c18d5e6985d784ac7976ce3"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.557,
+                    "duration": 567.901,
+                    "bitRate": 103.22381233700945
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1d/nwt_39_Mal_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-28 00:27:52",
+                        "checksum": "a1c71ab2f3f80de4fdaecf6af41ccfa1"
+                    },
+                    "filesize": 7849369,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/51/nwt_39_Mal_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:06:49+00:00",
+                        "checksum": "21b8367772b44d013618ccb8863988e0"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.791,
+                    "duration": 594.828,
+                    "bitRate": 103.09399576432179
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6f/nwt_39_Mal_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 01:50:05",
+                        "checksum": "1858771a7b8d7324f09a88e48b885e87"
+                    },
+                    "filesize": 9587465,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f2/nwt_39_Mal_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:25+00:00",
+                        "checksum": "38405ef40ee3fd3a974fcaa8ad6ac169"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.586,
+                    "duration": 742.242,
+                    "bitRate": 100.91327398948053
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a4/nwt_39_Mal_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 05:50:07",
+                        "checksum": "1e588277564a490ae2bd9c0625b19b53"
+                    },
+                    "filesize": 3680794,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/77/nwt_39_Mal_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:08+00:00",
+                        "checksum": "0839e78b2c644bff6dbcc61a87e7ac3a"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.155,
+                    "duration": 262.763,
+                    "bitRate": 109.43779422902007
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/98/nwt_39_Mal_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:03:51",
+                        "checksum": "3daf66a6466da935481bd146c00a8bcf"
+                    },
+                    "filesize": 13507751,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9f/nwt_39_Mal_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:15:51+00:00",
+                        "checksum": "804c49c67c18d5e6985d784ac7976ce3"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 567.901,
+                    "bitRate": 185.82341761592252
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/db/nwt_39_Mal_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:03:15",
+                        "checksum": "8e85a30699415a4b8fd7953e0b3347f7"
+                    },
+                    "filesize": 14034149,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/51/nwt_39_Mal_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:06:49+00:00",
+                        "checksum": "21b8367772b44d013618ccb8863988e0"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 594.828,
+                    "bitRate": 184.32519831363015
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5d/nwt_39_Mal_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:03:26",
+                        "checksum": "49ef19cb976519e26b862d82b37c2683"
+                    },
+                    "filesize": 17393840,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f2/nwt_39_Mal_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:25+00:00",
+                        "checksum": "38405ef40ee3fd3a974fcaa8ad6ac169"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 742.242,
+                    "bitRate": 183.0796088068312
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/98/nwt_39_Mal_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:04:03",
+                        "checksum": "0db4bdf7ec354542218fb32605a46138"
+                    },
+                    "filesize": 6454609,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/77/nwt_39_Mal_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:08+00:00",
+                        "checksum": "0839e78b2c644bff6dbcc61a87e7ac3a"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 262.763,
+                    "bitRate": 191.9091836084228
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/14/nwt_39_Mal_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:03:23",
+                        "checksum": "8a80b23ea5e4aaa7f390794e997b70fd"
+                    },
+                    "filesize": 28158227,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9f/nwt_39_Mal_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:15:51+00:00",
+                        "checksum": "804c49c67c18d5e6985d784ac7976ce3"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 567.901,
+                    "bitRate": 387.3670735524326
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0c/nwt_39_Mal_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:03:13",
+                        "checksum": "e4885228589677ddc717e0319897a00a"
+                    },
+                    "filesize": 29305483,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/51/nwt_39_Mal_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:06:49+00:00",
+                        "checksum": "21b8367772b44d013618ccb8863988e0"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 594.828,
+                    "bitRate": 384.89964483430504
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/98/nwt_39_Mal_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:03:54",
+                        "checksum": "434d2123c3a1c9cd99be7a0007d68d6d"
+                    },
+                    "filesize": 36328880,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f2/nwt_39_Mal_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:25+00:00",
+                        "checksum": "38405ef40ee3fd3a974fcaa8ad6ac169"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 742.242,
+                    "bitRate": 382.3811843037716
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5e/nwt_39_Mal_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:04:01",
+                        "checksum": "85e32efff5bffdb78f5cf9d75c187af0"
+                    },
+                    "filesize": 13292090,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/77/nwt_39_Mal_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:08+00:00",
+                        "checksum": "0839e78b2c644bff6dbcc61a87e7ac3a"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 262.763,
+                    "bitRate": 395.20196193908583
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/11/nwt_39_Mal_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:03:48",
+                        "checksum": "01c28ab6e1fcc02d88f29b227b0634dd"
+                    },
+                    "filesize": 61233599,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9f/nwt_39_Mal_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:15:51+00:00",
+                        "checksum": "804c49c67c18d5e6985d784ac7976ce3"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 39,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:10.710",
+                                "verseNumber": 1,
+                                "startTime": "00:00:12.645",
+                                "label": "Malaquias 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.366",
+                                "verseNumber": 2,
+                                "startTime": "00:00:23.356",
+                                "label": "Malaquias 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.098",
+                                "verseNumber": 3,
+                                "startTime": "00:00:56.723",
+                                "label": "Malaquias 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.857",
+                                "verseNumber": 4,
+                                "startTime": "00:01:28.822",
+                                "label": "Malaquias 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.010",
+                                "verseNumber": 5,
+                                "startTime": "00:02:26.679",
+                                "label": "Malaquias 1:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:55.388",
+                                "verseNumber": 6,
+                                "startTime": "00:02:36.689",
+                                "label": "Malaquias 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.059",
+                                "verseNumber": 7,
+                                "startTime": "00:03:32.078",
+                                "label": "Malaquias 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:07.901",
+                                "verseNumber": 8,
+                                "startTime": "00:03:58.137",
+                                "label": "Malaquias 1:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:32.332",
+                                "verseNumber": 9,
+                                "startTime": "00:05:06.039",
+                                "label": "Malaquias 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.772",
+                                "verseNumber": 10,
+                                "startTime": "00:05:38.371",
+                                "label": "Malaquias 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.922",
+                                "verseNumber": 11,
+                                "startTime": "00:06:17.143",
+                                "label": "Malaquias 1:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:12.712",
+                                "verseNumber": 12,
+                                "startTime": "00:07:13.065",
+                                "label": "Malaquias 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.183",
+                                "verseNumber": 13,
+                                "startTime": "00:07:25.778",
+                                "label": "Malaquias 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:11.938",
+                                "verseNumber": 14,
+                                "startTime": "00:08:15.962",
+                                "label": "Malaquias 1:14",
+                                "endTransitionDuration": "00:00:08.675"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:12.645",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 567.901,
+                    "bitRate": 842.378323312514
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/83/nwt_39_Mal_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:03:10",
+                        "checksum": "ffaf5fb723edc65b40a88c37d7f78716"
+                    },
+                    "filesize": 63407227,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/51/nwt_39_Mal_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:06:49+00:00",
+                        "checksum": "21b8367772b44d013618ccb8863988e0"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 39,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:08.441",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Malaquias 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.168",
+                                "verseNumber": 2,
+                                "startTime": "00:00:10.410",
+                                "label": "Malaquias 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.393",
+                                "verseNumber": 3,
+                                "startTime": "00:00:45.578",
+                                "label": "Malaquias 2:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:32.699",
+                                "verseNumber": 4,
+                                "startTime": "00:01:45.972",
+                                "label": "Malaquias 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.283",
+                                "verseNumber": 5,
+                                "startTime": "00:02:18.671",
+                                "label": "Malaquias 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.719",
+                                "verseNumber": 6,
+                                "startTime": "00:02:35.955",
+                                "label": "Malaquias 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.495",
+                                "verseNumber": 7,
+                                "startTime": "00:02:55.675",
+                                "label": "Malaquias 2:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:28.228",
+                                "verseNumber": 8,
+                                "startTime": "00:03:24.170",
+                                "label": "Malaquias 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.660",
+                                "verseNumber": 9,
+                                "startTime": "00:03:52.398",
+                                "label": "Malaquias 2:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:31.664",
+                                "verseNumber": 10,
+                                "startTime": "00:04:20.059",
+                                "label": "Malaquias 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.740",
+                                "verseNumber": 11,
+                                "startTime": "00:04:51.724",
+                                "label": "Malaquias 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.807",
+                                "verseNumber": 12,
+                                "startTime": "00:05:32.465",
+                                "label": "Malaquias 2:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:43.910",
+                                "verseNumber": 13,
+                                "startTime": "00:06:13.272",
+                                "label": "Malaquias 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.495",
+                                "verseNumber": 14,
+                                "startTime": "00:06:57.183",
+                                "label": "Malaquias 2:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:45.945",
+                                "verseNumber": 15,
+                                "startTime": "00:07:25.678",
+                                "label": "Malaquias 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.341",
+                                "verseNumber": 16,
+                                "startTime": "00:08:11.624",
+                                "label": "Malaquias 2:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:01.861",
+                                "verseNumber": 17,
+                                "startTime": "00:08:52.965",
+                                "label": "Malaquias 2:17",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 594.828,
+                    "bitRate": 832.7936158645861
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/14/nwt_39_Mal_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:03:57",
+                        "checksum": "7d94d473c989f15ea06576f9caffd8d9"
+                    },
+                    "filesize": 77844559,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f2/nwt_39_Mal_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:25+00:00",
+                        "checksum": "38405ef40ee3fd3a974fcaa8ad6ac169"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 39,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:14.474",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Malaquias 3:1",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:09.402",
+                                "verseNumber": 2,
+                                "startTime": "00:01:16.443",
+                                "label": "Malaquias 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.508",
+                                "verseNumber": 3,
+                                "startTime": "00:02:25.845",
+                                "label": "Malaquias 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.129",
+                                "verseNumber": 4,
+                                "startTime": "00:03:07.353",
+                                "label": "Malaquias 3:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:13.907",
+                                "verseNumber": 5,
+                                "startTime": "00:03:36.482",
+                                "label": "Malaquias 3:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.457",
+                                "verseNumber": 6,
+                                "startTime": "00:04:50.390",
+                                "label": "Malaquias 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.213",
+                                "verseNumber": 7,
+                                "startTime": "00:05:14.847",
+                                "label": "Malaquias 3:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:56.456",
+                                "verseNumber": 8,
+                                "startTime": "00:06:02.061",
+                                "label": "Malaquias 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.241",
+                                "verseNumber": 9,
+                                "startTime": "00:06:58.518",
+                                "label": "Malaquias 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:06.166",
+                                "verseNumber": 10,
+                                "startTime": "00:07:06.759",
+                                "label": "Malaquias 3:10",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:39.539",
+                                "verseNumber": 11,
+                                "startTime": "00:08:12.925",
+                                "label": "Malaquias 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.883",
+                                "verseNumber": 12,
+                                "startTime": "00:08:52.465",
+                                "label": "Malaquias 3:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:18.184",
+                                "verseNumber": 13,
+                                "startTime": "00:09:09.348",
+                                "label": "Malaquias 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.665",
+                                "verseNumber": 14,
+                                "startTime": "00:09:27.533",
+                                "label": "Malaquias 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.702",
+                                "verseNumber": 15,
+                                "startTime": "00:10:00.199",
+                                "label": "Malaquias 3:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:50.583",
+                                "verseNumber": 16,
+                                "startTime": "00:10:35.901",
+                                "label": "Malaquias 3:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.996",
+                                "verseNumber": 17,
+                                "startTime": "00:11:26.485",
+                                "label": "Malaquias 3:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.759",
+                                "verseNumber": 18,
+                                "startTime": "00:11:56.482",
+                                "label": "Malaquias 3:18",
+                                "endTransitionDuration": "00:00:06.339"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 742.242,
+                    "bitRate": 819.3562439036056
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c9/nwt_39_Mal_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-04 20:03:19",
+                        "checksum": "d201d06a75951d2dafc8a3f469f02003"
+                    },
+                    "filesize": 28049908,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/77/nwt_39_Mal_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:08+00:00",
+                        "checksum": "0839e78b2c644bff6dbcc61a87e7ac3a"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 39,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:12.839",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Malaquias 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.959",
+                                "verseNumber": 2,
+                                "startTime": "00:01:14.808",
+                                "label": "Malaquias 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.159",
+                                "verseNumber": 3,
+                                "startTime": "00:01:40.767",
+                                "label": "Malaquias 4:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:50.984",
+                                "verseNumber": 4,
+                                "startTime": "00:02:06.926",
+                                "label": "Malaquias 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.489",
+                                "verseNumber": 5,
+                                "startTime": "00:02:57.911",
+                                "label": "Malaquias 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:02.362",
+                                "verseNumber": 6,
+                                "startTime": "00:03:20.400",
+                                "label": "Malaquias 4:6",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 39,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 262.763,
+                    "bitRate": 833.9831188180985
+                }
+            ]
+        }
+    }
+}

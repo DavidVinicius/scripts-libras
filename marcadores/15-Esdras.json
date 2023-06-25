@@ -1,0 +1,3521 @@
+{
+    "pubName": "Esdras",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 15,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2f/nwt_15_Ezr_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 09:19:29",
+                        "checksum": "65d29400ce06b549a4c7660dc60d45c9"
+                    },
+                    "filesize": 5681225,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwt_15_Ezr_univ_01.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:29+00:00",
+                        "checksum": "b59191eb8196374a989cd907fdf36f13"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.674,
+                    "duration": 459.358,
+                    "bitRate": 96.62304849920977
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/50/nwt_15_Ezr_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 07:19:53",
+                        "checksum": "474e9606cb284938928fb5db4bae70f3"
+                    },
+                    "filesize": 14557697,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/45/nwt_15_Ezr_univ_02.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:39+00:00",
+                        "checksum": "923f1edf47b37eb1d90af2767b685cc1"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.94,
+                    "duration": 1355.654,
+                    "bitRate": 83.89456882987842
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ae/nwt_15_Ezr_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 02:55:02",
+                        "checksum": "6a059d71b71df1583eaa97eb70f0c3a9"
+                    },
+                    "filesize": 8694720,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9e/nwt_15_Ezr_univ_03.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:34+00:00",
+                        "checksum": "6f0a23cc254173af30555d299d3e983c"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.821,
+                    "duration": 728.194,
+                    "bitRate": 93.28214733985725
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1c/nwt_15_Ezr_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-27 20:19:39",
+                        "checksum": "0d63be391232b616472accf7143532e6"
+                    },
+                    "filesize": 10534280,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/81/nwt_15_Ezr_univ_04.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:46+00:00",
+                        "checksum": "2f9185d134447111214128cb23d45d3a"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.851,
+                    "duration": 883.549,
+                    "bitRate": 93.1460083141965
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/66/nwt_15_Ezr_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 07:19:56",
+                        "checksum": "cdd4052b02907d3d13e6458a7ceda7b8"
+                    },
+                    "filesize": 6323143,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/7a/nwt_15_Ezr_univ_05.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:54+00:00",
+                        "checksum": "0b02235bdc9198cd544b928f2cbd41fb"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.732,
+                    "duration": 508.107,
+                    "bitRate": 97.22273987073588
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/02/nwt_15_Ezr_LSB_06_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-27 20:19:45",
+                        "checksum": "f67a61296ca7a05d6beb6a893422667a"
+                    },
+                    "filesize": 11767990,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bd/nwt_15_Ezr_univ_06.jpg",
+                        "modifiedDatetime": "2021-08-04T14:36:00+00:00",
+                        "checksum": "60790bdabf322e051ba16d25a4224102"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.94,
+                    "duration": 906.672,
+                    "bitRate": 101.40097176818077
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d0/nwt_15_Ezr_LSB_07_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 01:56:16",
+                        "checksum": "1f3cd41fbf1c6dcc0b59de7ce5314bfa"
+                    },
+                    "filesize": 12978277,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3f/nwt_15_Ezr_univ_07.jpg",
+                        "modifiedDatetime": "2021-08-04T14:36:08+00:00",
+                        "checksum": "92630d34b4a3b0e24bf131a41452c961"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.441,
+                    "duration": 1027.426,
+                    "bitRate": 98.68622077161763
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3a/nwt_15_Ezr_LSB_08_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-03 09:19:36",
+                        "checksum": "febcaf04d1339b7157aeb1d4a30a1461"
+                    },
+                    "filesize": 14979736,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ea/nwt_15_Ezr_univ_08.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:39+00:00",
+                        "checksum": "91660d53564324cde2ec76ba1baa8aaa"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.155,
+                    "duration": 1241.773,
+                    "bitRate": 94.24362383463001
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9e/nwt_15_Ezr_LSB_09_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 02:55:07",
+                        "checksum": "4a63b46d9c696fa90a0597424eb9de1d"
+                    },
+                    "filesize": 7762911,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2d/nwt_15_Ezr_univ_09.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:47+00:00",
+                        "checksum": "cd1827f9142d41a54c45dd7d299595b1"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.615,
+                    "duration": 606.639,
+                    "bitRate": 99.9733650284601
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/55/nwt_15_Ezr_LSB_10_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 07:19:59",
+                        "checksum": "92bfedc2a660defc28d8d44a6dc30e6a"
+                    },
+                    "filesize": 14921790,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/92/nwt_15_Ezr_univ_10.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:51+00:00",
+                        "checksum": "1b1d7df7620c6979a40fb8621c827242"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.268,
+                    "duration": 1237.236,
+                    "bitRate": 94.2233206720464
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b8/nwt_15_Ezr_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:39:11",
+                        "checksum": "8b738d67e8b596e0721e81d534d5ba3c"
+                    },
+                    "filesize": 9750055,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwt_15_Ezr_univ_01.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:29+00:00",
+                        "checksum": "b59191eb8196374a989cd907fdf36f13"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 459.358,
+                    "bitRate": 165.82339849855668
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a9/nwt_15_Ezr_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-03 12:27:18",
+                        "checksum": "6fab316dbd16ae3e7e963847fc07b422"
+                    },
+                    "filesize": 25355486,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/45/nwt_15_Ezr_univ_02.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:39+00:00",
+                        "checksum": "923f1edf47b37eb1d90af2767b685cc1"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1355.654,
+                    "bitRate": 146.12115951046505
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6d/nwt_15_Ezr_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:39:41",
+                        "checksum": "b9ae089bdf34441b6f5d9182886ba5e5"
+                    },
+                    "filesize": 15123669,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9e/nwt_15_Ezr_univ_03.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:34+00:00",
+                        "checksum": "6f0a23cc254173af30555d299d3e983c"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 728.194,
+                    "bitRate": 162.25575061384743
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/7f/nwt_15_Ezr_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:39:25",
+                        "checksum": "87cbc3829261276f62f886b9480db5fe"
+                    },
+                    "filesize": 18362102,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/81/nwt_15_Ezr_univ_04.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:46+00:00",
+                        "checksum": "2f9185d134447111214128cb23d45d3a"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 883.549,
+                    "bitRate": 162.36102567599534
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3f/nwt_15_Ezr_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:07",
+                        "checksum": "8e64b58806e81d8e83f278526dc62694"
+                    },
+                    "filesize": 10898235,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/7a/nwt_15_Ezr_univ_05.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:54+00:00",
+                        "checksum": "0b02235bdc9198cd544b928f2cbd41fb"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 508.107,
+                    "bitRate": 167.56797473268423
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/49/nwt_15_Ezr_LSB_06_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:15",
+                        "checksum": "2c70dee63000f36e15c63b20410f01fb"
+                    },
+                    "filesize": 20503924,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bd/nwt_15_Ezr_univ_06.jpg",
+                        "modifiedDatetime": "2021-08-04T14:36:00+00:00",
+                        "checksum": "60790bdabf322e051ba16d25a4224102"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 906.672,
+                    "bitRate": 176.67569556576137
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/85/nwt_15_Ezr_LSB_07_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:41:20",
+                        "checksum": "003cb958fcbcfd8a6bf2125959d71cb1"
+                    },
+                    "filesize": 22586611,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3f/nwt_15_Ezr_univ_07.jpg",
+                        "modifiedDatetime": "2021-08-04T14:36:08+00:00",
+                        "checksum": "92630d34b4a3b0e24bf131a41452c961"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1027.426,
+                    "bitRate": 171.74755012769776
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/96/nwt_15_Ezr_LSB_08_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:42:02",
+                        "checksum": "b400d02d8e6b6adf54b80315d7f4447a"
+                    },
+                    "filesize": 26149774,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ea/nwt_15_Ezr_univ_08.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:39+00:00",
+                        "checksum": "91660d53564324cde2ec76ba1baa8aaa"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1241.773,
+                    "bitRate": 164.51888499347305
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/84/nwt_15_Ezr_LSB_09_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:41:12",
+                        "checksum": "88b864edf2194df466a3a6d082713acc"
+                    },
+                    "filesize": 13435788,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2d/nwt_15_Ezr_univ_09.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:47+00:00",
+                        "checksum": "cd1827f9142d41a54c45dd7d299595b1"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 606.639,
+                    "bitRate": 173.03057296019543
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/56/nwt_15_Ezr_LSB_10_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:51",
+                        "checksum": "4e32029c577dd04ef22bfbb50e9caebf"
+                    },
+                    "filesize": 26001313,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/92/nwt_15_Ezr_univ_10.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:51+00:00",
+                        "checksum": "1b1d7df7620c6979a40fb8621c827242"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1237.236,
+                    "bitRate": 164.18472935842473
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/32/nwt_15_Ezr_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:39:03",
+                        "checksum": "88af00f08caec2d20354bfc2d9158a3c"
+                    },
+                    "filesize": 18960632,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwt_15_Ezr_univ_01.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:29+00:00",
+                        "checksum": "b59191eb8196374a989cd907fdf36f13"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 459.358,
+                    "bitRate": 322.4716615363181
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/83/nwt_15_Ezr_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-03 12:38:11",
+                        "checksum": "66896c9bd4c9a47f82ac92b6d61470e9"
+                    },
+                    "filesize": 49855000,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/45/nwt_15_Ezr_univ_02.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:39+00:00",
+                        "checksum": "923f1edf47b37eb1d90af2767b685cc1"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1355.654,
+                    "bitRate": 287.30943699498545
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/af/nwt_15_Ezr_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:39:09",
+                        "checksum": "3731b00796e7e3b12ded8fe7c571731f"
+                    },
+                    "filesize": 29442541,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9e/nwt_15_Ezr_univ_03.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:34+00:00",
+                        "checksum": "6f0a23cc254173af30555d299d3e983c"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 728.194,
+                    "bitRate": 315.87715850789766
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/55/nwt_15_Ezr_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:39:21",
+                        "checksum": "3f987ea7b8000ff667a01b14743bbe74"
+                    },
+                    "filesize": 35902410,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/81/nwt_15_Ezr_univ_04.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:46+00:00",
+                        "checksum": "2f9185d134447111214128cb23d45d3a"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 883.549,
+                    "bitRate": 317.45560022703893
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6b/nwt_15_Ezr_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:09",
+                        "checksum": "aa30e2681496b1bfee7eccf7d7dc59f6"
+                    },
+                    "filesize": 21249482,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/7a/nwt_15_Ezr_univ_05.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:54+00:00",
+                        "checksum": "0b02235bdc9198cd544b928f2cbd41fb"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 508.107,
+                    "bitRate": 326.7256269348779
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e6/nwt_15_Ezr_LSB_06_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:12",
+                        "checksum": "0efd6fedfc9f1ef6f17d3594f31474a0"
+                    },
+                    "filesize": 40188470,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bd/nwt_15_Ezr_univ_06.jpg",
+                        "modifiedDatetime": "2021-08-04T14:36:00+00:00",
+                        "checksum": "60790bdabf322e051ba16d25a4224102"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 906.672,
+                    "bitRate": 346.2910753558067
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/11/nwt_15_Ezr_LSB_07_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:18",
+                        "checksum": "12b6eaa7bb6cb63af5d37d6de46b4f22"
+                    },
+                    "filesize": 44341642,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3f/nwt_15_Ezr_univ_07.jpg",
+                        "modifiedDatetime": "2021-08-04T14:36:08+00:00",
+                        "checksum": "92630d34b4a3b0e24bf131a41452c961"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1027.426,
+                    "bitRate": 337.1718042223966
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/03/nwt_15_Ezr_LSB_08_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:41:00",
+                        "checksum": "79f0cbdd185efc20bab4d38503aeb2b2"
+                    },
+                    "filesize": 51979237,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ea/nwt_15_Ezr_univ_08.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:39+00:00",
+                        "checksum": "91660d53564324cde2ec76ba1baa8aaa"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1241.773,
+                    "bitRate": 327.0225629503138
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ff/nwt_15_Ezr_LSB_09_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:41:23",
+                        "checksum": "f5e2cb1323a881c0511876bd9d5add77"
+                    },
+                    "filesize": 26237112,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2d/nwt_15_Ezr_univ_09.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:47+00:00",
+                        "checksum": "cd1827f9142d41a54c45dd7d299595b1"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 606.639,
+                    "bitRate": 337.8903062612196
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3a/nwt_15_Ezr_LSB_10_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:41:15",
+                        "checksum": "70ea384aad15c2db61c9d5b4057e66f7"
+                    },
+                    "filesize": 51693013,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/92/nwt_15_Ezr_univ_10.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:51+00:00",
+                        "checksum": "1b1d7df7620c6979a40fb8621c827242"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1237.236,
+                    "bitRate": 326.4144141154153
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/88/nwt_15_Ezr_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:39:37",
+                        "checksum": "25f050f505397bd0e78d0055fea8a4ad"
+                    },
+                    "filesize": 35281128,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwt_15_Ezr_univ_01.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:29+00:00",
+                        "checksum": "b59191eb8196374a989cd907fdf36f13"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 15,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:05.098",
+                                "verseNumber": 1,
+                                "startTime": "00:00:11.144",
+                                "label": "Esdras 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.607",
+                                "verseNumber": 2,
+                                "startTime": "00:01:16.242",
+                                "label": "Esdras 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.899",
+                                "verseNumber": 3,
+                                "startTime": "00:01:56.850",
+                                "label": "Esdras 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.988",
+                                "verseNumber": 4,
+                                "startTime": "00:02:29.749",
+                                "label": "Esdras 1:4",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:51.351",
+                                "verseNumber": 5,
+                                "startTime": "00:03:24.737",
+                                "label": "Esdras 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.597",
+                                "verseNumber": 6,
+                                "startTime": "00:04:16.089",
+                                "label": "Esdras 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.113",
+                                "verseNumber": 7,
+                                "startTime": "00:04:46.686",
+                                "label": "Esdras 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.103",
+                                "verseNumber": 8,
+                                "startTime": "00:05:33.800",
+                                "label": "Esdras 1:8",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:25.291",
+                                "verseNumber": 9,
+                                "startTime": "00:06:10.903",
+                                "label": "Esdras 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.189",
+                                "verseNumber": 10,
+                                "startTime": "00:06:36.195",
+                                "label": "Esdras 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.006",
+                                "verseNumber": 11,
+                                "startTime": "00:06:59.385",
+                                "label": "Esdras 1:11",
+                                "endTransitionDuration": "00:00:12.012"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:11.144",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 459.358,
+                    "bitRate": 600.0413892867872
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/82/nwt_15_Ezr_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-03 12:13:30",
+                        "checksum": "c584f0ce27b044c1aafe19c0e9eccf74"
+                    },
+                    "filesize": 94785079,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/45/nwt_15_Ezr_univ_02.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:39+00:00",
+                        "checksum": "923f1edf47b37eb1d90af2767b685cc1"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 15,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:48.448",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Esdras 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.488",
+                                "verseNumber": 2,
+                                "startTime": "00:00:50.450",
+                                "label": "Esdras 2:2",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:10.610",
+                                "verseNumber": 3,
+                                "startTime": "00:01:45.939",
+                                "label": "Esdras 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.042",
+                                "verseNumber": 4,
+                                "startTime": "00:01:56.549",
+                                "label": "Esdras 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.741",
+                                "verseNumber": 5,
+                                "startTime": "00:02:05.592",
+                                "label": "Esdras 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.727",
+                                "verseNumber": 6,
+                                "startTime": "00:02:13.333",
+                                "label": "Esdras 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.043",
+                                "verseNumber": 7,
+                                "startTime": "00:02:41.060",
+                                "label": "Esdras 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.009",
+                                "verseNumber": 8,
+                                "startTime": "00:02:51.104",
+                                "label": "Esdras 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.441",
+                                "verseNumber": 9,
+                                "startTime": "00:03:00.113",
+                                "label": "Esdras 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.774",
+                                "verseNumber": 10,
+                                "startTime": "00:03:08.555",
+                                "label": "Esdras 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.408",
+                                "verseNumber": 11,
+                                "startTime": "00:03:16.329",
+                                "label": "Esdras 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.343",
+                                "verseNumber": 12,
+                                "startTime": "00:03:24.737",
+                                "label": "Esdras 2:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:10.076",
+                                "verseNumber": 13,
+                                "startTime": "00:03:35.081",
+                                "label": "Esdras 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.241",
+                                "verseNumber": 14,
+                                "startTime": "00:03:45.158",
+                                "label": "Esdras 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.040",
+                                "verseNumber": 15,
+                                "startTime": "00:03:53.399",
+                                "label": "Esdras 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.245",
+                                "verseNumber": 16,
+                                "startTime": "00:04:00.440",
+                                "label": "Esdras 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.941",
+                                "verseNumber": 17,
+                                "startTime": "00:04:12.685",
+                                "label": "Esdras 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.773",
+                                "verseNumber": 18,
+                                "startTime": "00:04:20.627",
+                                "label": "Esdras 2:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.774",
+                                "verseNumber": 19,
+                                "startTime": "00:04:27.400",
+                                "label": "Esdras 2:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.575",
+                                "verseNumber": 20,
+                                "startTime": "00:04:35.174",
+                                "label": "Esdras 2:20",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:08.775",
+                                "verseNumber": 21,
+                                "startTime": "00:04:43.750",
+                                "label": "Esdras 2:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.975",
+                                "verseNumber": 22,
+                                "startTime": "00:04:52.525",
+                                "label": "Esdras 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.642",
+                                "verseNumber": 23,
+                                "startTime": "00:05:01.501",
+                                "label": "Esdras 2:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.377",
+                                "verseNumber": 24,
+                                "startTime": "00:05:11.144",
+                                "label": "Esdras 2:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.628",
+                                "verseNumber": 25,
+                                "startTime": "00:05:21.521",
+                                "label": "Esdras 2:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.548",
+                                "verseNumber": 26,
+                                "startTime": "00:05:50.149",
+                                "label": "Esdras 2:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.274",
+                                "verseNumber": 27,
+                                "startTime": "00:06:05.698",
+                                "label": "Esdras 2:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.948",
+                                "verseNumber": 28,
+                                "startTime": "00:06:13.973",
+                                "label": "Esdras 2:28",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:08.842",
+                                "verseNumber": 29,
+                                "startTime": "00:06:28.921",
+                                "label": "Esdras 2:29",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.943",
+                                "verseNumber": 30,
+                                "startTime": "00:06:37.764",
+                                "label": "Esdras 2:30",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.353",
+                                "verseNumber": 31,
+                                "startTime": "00:06:47.707",
+                                "label": "Esdras 2:31",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.976",
+                                "verseNumber": 32,
+                                "startTime": "00:07:08.060",
+                                "label": "Esdras 2:32",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.654",
+                                "verseNumber": 33,
+                                "startTime": "00:07:18.037",
+                                "label": "Esdras 2:33",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.043",
+                                "verseNumber": 34,
+                                "startTime": "00:07:39.692",
+                                "label": "Esdras 2:34",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.412",
+                                "verseNumber": 35,
+                                "startTime": "00:07:49.735",
+                                "label": "Esdras 2:35",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:27.060",
+                                "verseNumber": 36,
+                                "startTime": "00:08:02.148",
+                                "label": "Esdras 2:36",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.807",
+                                "verseNumber": 37,
+                                "startTime": "00:08:29.208",
+                                "label": "Esdras 2:37",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.642",
+                                "verseNumber": 38,
+                                "startTime": "00:08:37.016",
+                                "label": "Esdras 2:38",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.312",
+                                "verseNumber": 39,
+                                "startTime": "00:08:46.659",
+                                "label": "Esdras 2:39",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.990",
+                                "verseNumber": 40,
+                                "startTime": "00:08:58.971",
+                                "label": "Esdras 2:40",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.243",
+                                "verseNumber": 41,
+                                "startTime": "00:09:22.962",
+                                "label": "Esdras 2:41",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.144",
+                                "verseNumber": 42,
+                                "startTime": "00:09:33.205",
+                                "label": "Esdras 2:42",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:24.624",
+                                "verseNumber": 43,
+                                "startTime": "00:10:17.350",
+                                "label": "Esdras 2:43",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.117",
+                                "verseNumber": 44,
+                                "startTime": "00:10:41.974",
+                                "label": "Esdras 2:44",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.017",
+                                "verseNumber": 45,
+                                "startTime": "00:10:59.091",
+                                "label": "Esdras 2:45",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.350",
+                                "verseNumber": 46,
+                                "startTime": "00:11:16.108",
+                                "label": "Esdras 2:46",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.383",
+                                "verseNumber": 47,
+                                "startTime": "00:11:33.459",
+                                "label": "Esdras 2:47",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.784",
+                                "verseNumber": 48,
+                                "startTime": "00:11:49.842",
+                                "label": "Esdras 2:48",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.849",
+                                "verseNumber": 49,
+                                "startTime": "00:12:07.626",
+                                "label": "Esdras 2:49",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.083",
+                                "verseNumber": 50,
+                                "startTime": "00:12:23.476",
+                                "label": "Esdras 2:50",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.416",
+                                "verseNumber": 51,
+                                "startTime": "00:12:40.559",
+                                "label": "Esdras 2:51",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.615",
+                                "verseNumber": 52,
+                                "startTime": "00:12:56.976",
+                                "label": "Esdras 2:52",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.980",
+                                "verseNumber": 53,
+                                "startTime": "00:13:12.591",
+                                "label": "Esdras 2:53",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.285",
+                                "verseNumber": 54,
+                                "startTime": "00:13:26.572",
+                                "label": "Esdras 2:54",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:26.760",
+                                "verseNumber": 55,
+                                "startTime": "00:13:45.858",
+                                "label": "Esdras 2:55",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.848",
+                                "verseNumber": 56,
+                                "startTime": "00:14:12.618",
+                                "label": "Esdras 2:56",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.863",
+                                "verseNumber": 57,
+                                "startTime": "00:14:27.466",
+                                "label": "Esdras 2:57",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.589",
+                                "verseNumber": 58,
+                                "startTime": "00:14:57.329",
+                                "label": "Esdras 2:58",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:07.801",
+                                "verseNumber": 59,
+                                "startTime": "00:15:19.919",
+                                "label": "Esdras 2:59",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.419",
+                                "verseNumber": 60,
+                                "startTime": "00:16:27.720",
+                                "label": "Esdras 2:60",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.750",
+                                "verseNumber": 61,
+                                "startTime": "00:16:47.139",
+                                "label": "Esdras 2:61",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.161",
+                                "verseNumber": 62,
+                                "startTime": "00:17:37.890",
+                                "label": "Esdras 2:62",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.940",
+                                "verseNumber": 63,
+                                "startTime": "00:18:06.051",
+                                "label": "Esdras 2:63",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:21.521",
+                                "verseNumber": 64,
+                                "startTime": "00:18:46.992",
+                                "label": "Esdras 2:64",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.019",
+                                "verseNumber": 65,
+                                "startTime": "00:19:08.514",
+                                "label": "Esdras 2:65",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.048",
+                                "verseNumber": 66,
+                                "startTime": "00:19:27.533",
+                                "label": "Esdras 2:66",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.815",
+                                "verseNumber": 67,
+                                "startTime": "00:19:42.581",
+                                "label": "Esdras 2:67",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.658",
+                                "verseNumber": 68,
+                                "startTime": "00:19:58.397",
+                                "label": "Esdras 2:68",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:30.657",
+                                "verseNumber": 69,
+                                "startTime": "00:20:24.056",
+                                "label": "Esdras 2:69",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.974",
+                                "verseNumber": 70,
+                                "startTime": "00:21:54.713",
+                                "label": "Esdras 2:70",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1355.654,
+                    "bitRate": 546.2370410794347
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a2/nwt_15_Ezr_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:33",
+                        "checksum": "5c4bc775169f8333e29f4094521ddf52"
+                    },
+                    "filesize": 54851566,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9e/nwt_15_Ezr_univ_03.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:34+00:00",
+                        "checksum": "6f0a23cc254173af30555d299d3e983c"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 15,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:31.031",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Esdras 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:10.103",
+                                "verseNumber": 2,
+                                "startTime": "00:00:33.033",
+                                "label": "Esdras 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:56.523",
+                                "verseNumber": 3,
+                                "startTime": "00:01:43.136",
+                                "label": "Esdras 3:3",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:57.057",
+                                "verseNumber": 4,
+                                "startTime": "00:02:39.659",
+                                "label": "Esdras 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.460",
+                                "verseNumber": 5,
+                                "startTime": "00:03:36.716",
+                                "label": "Esdras 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.809",
+                                "verseNumber": 6,
+                                "startTime": "00:04:37.176",
+                                "label": "Esdras 3:6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:43.636",
+                                "verseNumber": 7,
+                                "startTime": "00:05:19.986",
+                                "label": "Esdras 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:06.599",
+                                "verseNumber": 8,
+                                "startTime": "00:07:03.623",
+                                "label": "Esdras 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.311",
+                                "verseNumber": 9,
+                                "startTime": "00:08:10.223",
+                                "label": "Esdras 3:9",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:04.798",
+                                "verseNumber": 10,
+                                "startTime": "00:08:55.535",
+                                "label": "Esdras 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.647",
+                                "verseNumber": 11,
+                                "startTime": "00:10:00.333",
+                                "label": "Esdras 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.550",
+                                "verseNumber": 12,
+                                "startTime": "00:10:47.980",
+                                "label": "Esdras 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.696",
+                                "verseNumber": 13,
+                                "startTime": "00:11:38.531",
+                                "label": "Esdras 3:13",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 728.194,
+                    "bitRate": 588.4803491583287
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/46/nwt_15_Ezr_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:39:17",
+                        "checksum": "17e8a44c40385b17cf7c75e885e036e6"
+                    },
+                    "filesize": 67069553,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/81/nwt_15_Ezr_univ_04.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:46+00:00",
+                        "checksum": "2f9185d134447111214128cb23d45d3a"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 15,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:32.165",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Esdras 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.782",
+                                "verseNumber": 2,
+                                "startTime": "00:00:34.167",
+                                "label": "Esdras 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.137",
+                                "verseNumber": 3,
+                                "startTime": "00:01:22.949",
+                                "label": "Esdras 4:3",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:27.427",
+                                "verseNumber": 4,
+                                "startTime": "00:02:00.086",
+                                "label": "Esdras 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:08.001",
+                                "verseNumber": 5,
+                                "startTime": "00:02:27.514",
+                                "label": "Esdras 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.665",
+                                "verseNumber": 6,
+                                "startTime": "00:03:35.515",
+                                "label": "Esdras 4:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.154",
+                                "verseNumber": 7,
+                                "startTime": "00:04:08.181",
+                                "label": "Esdras 4:7",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:29.596",
+                                "verseNumber": 8,
+                                "startTime": "00:05:02.335",
+                                "label": "Esdras 4:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.724",
+                                "verseNumber": 9,
+                                "startTime": "00:05:31.931",
+                                "label": "Esdras 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.644",
+                                "verseNumber": 10,
+                                "startTime": "00:06:29.655",
+                                "label": "Esdras 4:10",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:29.162",
+                                "verseNumber": 11,
+                                "startTime": "00:07:14.300",
+                                "label": "Esdras 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.927",
+                                "verseNumber": 12,
+                                "startTime": "00:07:43.463",
+                                "label": "Esdras 4:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.787",
+                                "verseNumber": 13,
+                                "startTime": "00:08:44.390",
+                                "label": "Esdras 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.321",
+                                "verseNumber": 14,
+                                "startTime": "00:09:05.177",
+                                "label": "Esdras 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.581",
+                                "verseNumber": 15,
+                                "startTime": "00:09:26.499",
+                                "label": "Esdras 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.639",
+                                "verseNumber": 16,
+                                "startTime": "00:10:15.081",
+                                "label": "Esdras 4:16",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:56.923",
+                                "verseNumber": 17,
+                                "startTime": "00:10:54.720",
+                                "label": "Esdras 4:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.641",
+                                "verseNumber": 18,
+                                "startTime": "00:11:51.644",
+                                "label": "Esdras 4:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.919",
+                                "verseNumber": 19,
+                                "startTime": "00:12:00.286",
+                                "label": "Esdras 4:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.599",
+                                "verseNumber": 20,
+                                "startTime": "00:12:20.206",
+                                "label": "Esdras 4:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.385",
+                                "verseNumber": 21,
+                                "startTime": "00:12:52.805",
+                                "label": "Esdras 4:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.389",
+                                "verseNumber": 22,
+                                "startTime": "00:13:11.190",
+                                "label": "Esdras 4:22",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:43.143",
+                                "verseNumber": 23,
+                                "startTime": "00:13:33.579",
+                                "label": "Esdras 4:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.860",
+                                "verseNumber": 24,
+                                "startTime": "00:14:16.722",
+                                "label": "Esdras 4:24",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 883.549,
+                    "bitRate": 593.0411135234152
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0a/nwt_15_Ezr_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:02",
+                        "checksum": "b60469f09d71214e60d43125003003c6"
+                    },
+                    "filesize": 39576055,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/7a/nwt_15_Ezr_univ_05.jpg",
+                        "modifiedDatetime": "2021-08-04T14:35:54+00:00",
+                        "checksum": "0b02235bdc9198cd544b928f2cbd41fb"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 15,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:41.541",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Esdras 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.736",
+                                "verseNumber": 2,
+                                "startTime": "00:00:43.543",
+                                "label": "Esdras 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.442",
+                                "verseNumber": 3,
+                                "startTime": "00:01:20.280",
+                                "label": "Esdras 5:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.975",
+                                "verseNumber": 4,
+                                "startTime": "00:02:02.722",
+                                "label": "Esdras 5:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.668",
+                                "verseNumber": 5,
+                                "startTime": "00:02:11.698",
+                                "label": "Esdras 5:5",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:37.637",
+                                "verseNumber": 6,
+                                "startTime": "00:02:47.367",
+                                "label": "Esdras 5:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.478",
+                                "verseNumber": 7,
+                                "startTime": "00:03:25.004",
+                                "label": "Esdras 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.369",
+                                "verseNumber": 8,
+                                "startTime": "00:03:36.482",
+                                "label": "Esdras 5:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.014",
+                                "verseNumber": 9,
+                                "startTime": "00:04:12.852",
+                                "label": "Esdras 5:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.812",
+                                "verseNumber": 10,
+                                "startTime": "00:04:26.866",
+                                "label": "Esdras 5:10",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:27.227",
+                                "verseNumber": 11,
+                                "startTime": "00:04:39.679",
+                                "label": "Esdras 5:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.045",
+                                "verseNumber": 12,
+                                "startTime": "00:05:06.906",
+                                "label": "Esdras 5:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.019",
+                                "verseNumber": 13,
+                                "startTime": "00:05:51.951",
+                                "label": "Esdras 5:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.306",
+                                "verseNumber": 14,
+                                "startTime": "00:06:10.970",
+                                "label": "Esdras 5:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.450",
+                                "verseNumber": 15,
+                                "startTime": "00:06:51.277",
+                                "label": "Esdras 5:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.087",
+                                "verseNumber": 16,
+                                "startTime": "00:07:08.728",
+                                "label": "Esdras 5:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.324",
+                                "verseNumber": 17,
+                                "startTime": "00:07:29.816",
+                                "label": "Esdras 5:17",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 508.107,
+                    "bitRate": 608.5094865599175
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/7d/nwt_15_Ezr_LSB_06_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:40",
+                        "checksum": "098aa4adbe73d98efd2ed89236ad67aa"
+                    },
+                    "filesize": 74581831,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bd/nwt_15_Ezr_univ_06.jpg",
+                        "modifiedDatetime": "2021-08-04T14:36:00+00:00",
+                        "checksum": "60790bdabf322e051ba16d25a4224102"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 6,
+                        "bibleBookNumber": 15,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:28.194",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Esdras 6:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.072",
+                                "verseNumber": 2,
+                                "startTime": "00:00:30.196",
+                                "label": "Esdras 6:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:56.022",
+                                "verseNumber": 3,
+                                "startTime": "00:01:09.269",
+                                "label": "Esdras 6:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.407",
+                                "verseNumber": 4,
+                                "startTime": "00:02:05.291",
+                                "label": "Esdras 6:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:03.830",
+                                "verseNumber": 5,
+                                "startTime": "00:02:45.698",
+                                "label": "Esdras 6:5",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:08.401",
+                                "verseNumber": 6,
+                                "startTime": "00:03:49.529",
+                                "label": "Esdras 6:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.464",
+                                "verseNumber": 7,
+                                "startTime": "00:04:57.930",
+                                "label": "Esdras 6:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.237",
+                                "verseNumber": 8,
+                                "startTime": "00:05:29.395",
+                                "label": "Esdras 6:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:56.823",
+                                "verseNumber": 9,
+                                "startTime": "00:06:06.632",
+                                "label": "Esdras 6:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.294",
+                                "verseNumber": 10,
+                                "startTime": "00:07:03.456",
+                                "label": "Esdras 6:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.304",
+                                "verseNumber": 11,
+                                "startTime": "00:07:31.751",
+                                "label": "Esdras 6:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.916",
+                                "verseNumber": 12,
+                                "startTime": "00:08:10.056",
+                                "label": "Esdras 6:12",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:39.639",
+                                "verseNumber": 13,
+                                "startTime": "00:08:59.972",
+                                "label": "Esdras 6:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.458",
+                                "verseNumber": 14,
+                                "startTime": "00:09:39.612",
+                                "label": "Esdras 6:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.052",
+                                "verseNumber": 15,
+                                "startTime": "00:10:38.070",
+                                "label": "Esdras 6:15",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:18.284",
+                                "verseNumber": 16,
+                                "startTime": "00:10:57.123",
+                                "label": "Esdras 6:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:51.518",
+                                "verseNumber": 17,
+                                "startTime": "00:11:15.408",
+                                "label": "Esdras 6:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.473",
+                                "verseNumber": 18,
+                                "startTime": "00:12:06.926",
+                                "label": "Esdras 6:18",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:22.555",
+                                "verseNumber": 19,
+                                "startTime": "00:12:47.399",
+                                "label": "Esdras 6:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.201",
+                                "verseNumber": 20,
+                                "startTime": "00:13:09.955",
+                                "label": "Esdras 6:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.792",
+                                "verseNumber": 21,
+                                "startTime": "00:13:45.157",
+                                "label": "Esdras 6:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.755",
+                                "verseNumber": 22,
+                                "startTime": "00:14:10.950",
+                                "label": "Esdras 6:22",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 906.672,
+                    "bitRate": 642.6475668019967
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/10/nwt_15_Ezr_LSB_07_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:23",
+                        "checksum": "6a46ca255661046c929246ffbaed5b98"
+                    },
+                    "filesize": 82659252,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3f/nwt_15_Ezr_univ_07.jpg",
+                        "modifiedDatetime": "2021-08-04T14:36:08+00:00",
+                        "checksum": "92630d34b4a3b0e24bf131a41452c961"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 7,
+                        "bibleBookNumber": 15,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:32.132",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Esdras 7:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.144",
+                                "verseNumber": 2,
+                                "startTime": "00:00:34.134",
+                                "label": "Esdras 7:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.644",
+                                "verseNumber": 3,
+                                "startTime": "00:00:45.278",
+                                "label": "Esdras 7:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.744",
+                                "verseNumber": 4,
+                                "startTime": "00:00:56.923",
+                                "label": "Esdras 7:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.122",
+                                "verseNumber": 5,
+                                "startTime": "00:01:07.667",
+                                "label": "Esdras 7:5",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:47.914",
+                                "verseNumber": 6,
+                                "startTime": "00:01:29.789",
+                                "label": "Esdras 7:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.640",
+                                "verseNumber": 7,
+                                "startTime": "00:02:17.704",
+                                "label": "Esdras 7:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.218",
+                                "verseNumber": 8,
+                                "startTime": "00:02:58.344",
+                                "label": "Esdras 7:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.788",
+                                "verseNumber": 9,
+                                "startTime": "00:03:16.563",
+                                "label": "Esdras 7:9",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:43.209",
+                                "verseNumber": 10,
+                                "startTime": "00:03:38.351",
+                                "label": "Esdras 7:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.577",
+                                "verseNumber": 11,
+                                "startTime": "00:04:21.561",
+                                "label": "Esdras 7:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.729",
+                                "verseNumber": 12,
+                                "startTime": "00:05:06.139",
+                                "label": "Esdras 7:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.059",
+                                "verseNumber": 13,
+                                "startTime": "00:05:35.868",
+                                "label": "Esdras 7:13",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:41.508",
+                                "verseNumber": 14,
+                                "startTime": "00:06:01.928",
+                                "label": "Esdras 7:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.955",
+                                "verseNumber": 15,
+                                "startTime": "00:06:43.436",
+                                "label": "Esdras 7:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.821",
+                                "verseNumber": 16,
+                                "startTime": "00:07:05.391",
+                                "label": "Esdras 7:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.948",
+                                "verseNumber": 17,
+                                "startTime": "00:07:27.213",
+                                "label": "Esdras 7:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.924",
+                                "verseNumber": 18,
+                                "startTime": "00:08:16.162",
+                                "label": "Esdras 7:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.182",
+                                "verseNumber": 19,
+                                "startTime": "00:08:41.087",
+                                "label": "Esdras 7:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.923",
+                                "verseNumber": 20,
+                                "startTime": "00:08:57.270",
+                                "label": "Esdras 7:20",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:09.302",
+                                "verseNumber": 21,
+                                "startTime": "00:09:21.193",
+                                "label": "Esdras 7:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:02:18.872",
+                                "verseNumber": 22,
+                                "startTime": "00:10:30.496",
+                                "label": "Esdras 7:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.966",
+                                "verseNumber": 23,
+                                "startTime": "00:12:49.368",
+                                "label": "Esdras 7:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.332",
+                                "verseNumber": 24,
+                                "startTime": "00:13:22.334",
+                                "label": "Esdras 7:24",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:01:06.266",
+                                "verseNumber": 25,
+                                "startTime": "00:13:54.667",
+                                "label": "Esdras 7:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.281",
+                                "verseNumber": 26,
+                                "startTime": "00:15:00.933",
+                                "label": "Esdras 7:26",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:38.671",
+                                "verseNumber": 27,
+                                "startTime": "00:15:49.214",
+                                "label": "Esdras 7:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.572",
+                                "verseNumber": 28,
+                                "startTime": "00:16:27.886",
+                                "label": "Esdras 7:28",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1027.426,
+                    "bitRate": 628.5371464708894
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a2/nwt_15_Ezr_LSB_08_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:40:55",
+                        "checksum": "c66605258a317800d4aba5ce52937049"
+                    },
+                    "filesize": 102465782,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ea/nwt_15_Ezr_univ_08.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:39+00:00",
+                        "checksum": "91660d53564324cde2ec76ba1baa8aaa"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 8,
+                        "bibleBookNumber": 15,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:37.070",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Esdras 8:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.330",
+                                "verseNumber": 2,
+                                "startTime": "00:00:39.072",
+                                "label": "Esdras 8:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.218",
+                                "verseNumber": 3,
+                                "startTime": "00:01:09.402",
+                                "label": "Esdras 8:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.490",
+                                "verseNumber": 4,
+                                "startTime": "00:01:27.620",
+                                "label": "Esdras 8:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.288",
+                                "verseNumber": 5,
+                                "startTime": "00:01:51.111",
+                                "label": "Esdras 8:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.984",
+                                "verseNumber": 6,
+                                "startTime": "00:02:13.399",
+                                "label": "Esdras 8:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.185",
+                                "verseNumber": 7,
+                                "startTime": "00:02:31.384",
+                                "label": "Esdras 8:7",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:19.586",
+                                "verseNumber": 8,
+                                "startTime": "00:02:50.570",
+                                "label": "Esdras 8:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.449",
+                                "verseNumber": 9,
+                                "startTime": "00:03:10.156",
+                                "label": "Esdras 8:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.084",
+                                "verseNumber": 10,
+                                "startTime": "00:03:26.606",
+                                "label": "Esdras 8:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.082",
+                                "verseNumber": 11,
+                                "startTime": "00:03:44.691",
+                                "label": "Esdras 8:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.021",
+                                "verseNumber": 12,
+                                "startTime": "00:04:00.773",
+                                "label": "Esdras 8:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.798",
+                                "verseNumber": 13,
+                                "startTime": "00:04:21.794",
+                                "label": "Esdras 8:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.390",
+                                "verseNumber": 14,
+                                "startTime": "00:04:53.593",
+                                "label": "Esdras 8:14",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:45.979",
+                                "verseNumber": 15,
+                                "startTime": "00:05:16.983",
+                                "label": "Esdras 8:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:04.330",
+                                "verseNumber": 16,
+                                "startTime": "00:06:02.962",
+                                "label": "Esdras 8:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.164",
+                                "verseNumber": 17,
+                                "startTime": "00:07:07.293",
+                                "label": "Esdras 8:17",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:42.976",
+                                "verseNumber": 18,
+                                "startTime": "00:07:38.458",
+                                "label": "Esdras 8:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.798",
+                                "verseNumber": 19,
+                                "startTime": "00:08:21.434",
+                                "label": "Esdras 8:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.069",
+                                "verseNumber": 20,
+                                "startTime": "00:08:53.232",
+                                "label": "Esdras 8:20",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:45.712",
+                                "verseNumber": 21,
+                                "startTime": "00:09:29.302",
+                                "label": "Esdras 8:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:53.620",
+                                "verseNumber": 22,
+                                "startTime": "00:10:15.014",
+                                "label": "Esdras 8:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.483",
+                                "verseNumber": 23,
+                                "startTime": "00:11:08.634",
+                                "label": "Esdras 8:23",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:29.863",
+                                "verseNumber": 24,
+                                "startTime": "00:11:25.117",
+                                "label": "Esdras 8:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.387",
+                                "verseNumber": 25,
+                                "startTime": "00:11:54.980",
+                                "label": "Esdras 8:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:01.694",
+                                "verseNumber": 26,
+                                "startTime": "00:12:49.368",
+                                "label": "Esdras 8:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.706",
+                                "verseNumber": 27,
+                                "startTime": "00:13:51.063",
+                                "label": "Esdras 8:27",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:41.975",
+                                "verseNumber": 28,
+                                "startTime": "00:14:30.769",
+                                "label": "Esdras 8:28",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:07.734",
+                                "verseNumber": 29,
+                                "startTime": "00:15:12.745",
+                                "label": "Esdras 8:29",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.287",
+                                "verseNumber": 30,
+                                "startTime": "00:16:20.479",
+                                "label": "Esdras 8:30",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:33.433",
+                                "verseNumber": 31,
+                                "startTime": "00:16:41.767",
+                                "label": "Esdras 8:31",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.573",
+                                "verseNumber": 32,
+                                "startTime": "00:17:15.200",
+                                "label": "Esdras 8:32",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:02.829",
+                                "verseNumber": 33,
+                                "startTime": "00:17:21.774",
+                                "label": "Esdras 8:33",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.873",
+                                "verseNumber": 34,
+                                "startTime": "00:18:24.603",
+                                "label": "Esdras 8:34",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:21.414",
+                                "verseNumber": 35,
+                                "startTime": "00:18:31.477",
+                                "label": "Esdras 8:35",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.915",
+                                "verseNumber": 36,
+                                "startTime": "00:19:52.891",
+                                "label": "Esdras 8:36",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1241.773,
+                    "bitRate": 644.6539922151634
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1f/nwt_15_Ezr_LSB_09_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:41:09",
+                        "checksum": "ca26e0e10992cfb91041587b918774cb"
+                    },
+                    "filesize": 48529977,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2d/nwt_15_Ezr_univ_09.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:47+00:00",
+                        "checksum": "cd1827f9142d41a54c45dd7d299595b1"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 9,
+                        "bibleBookNumber": 15,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:10.837",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Esdras 9:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.711",
+                                "verseNumber": 2,
+                                "startTime": "00:01:12.839",
+                                "label": "Esdras 9:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.170",
+                                "verseNumber": 3,
+                                "startTime": "00:01:57.550",
+                                "label": "Esdras 9:3",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:56.923",
+                                "verseNumber": 4,
+                                "startTime": "00:02:34.721",
+                                "label": "Esdras 9:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.789",
+                                "verseNumber": 5,
+                                "startTime": "00:03:31.644",
+                                "label": "Esdras 9:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.196",
+                                "verseNumber": 6,
+                                "startTime": "00:03:54.434",
+                                "label": "Esdras 9:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.780",
+                                "verseNumber": 7,
+                                "startTime": "00:04:24.631",
+                                "label": "Esdras 9:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.725",
+                                "verseNumber": 8,
+                                "startTime": "00:05:11.411",
+                                "label": "Esdras 9:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.049",
+                                "verseNumber": 9,
+                                "startTime": "00:05:37.136",
+                                "label": "Esdras 9:9",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:16.182",
+                                "verseNumber": 10,
+                                "startTime": "00:06:26.185",
+                                "label": "Esdras 9:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.000",
+                                "verseNumber": 11,
+                                "startTime": "00:06:42.368",
+                                "label": "Esdras 9:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:07.867",
+                                "verseNumber": 12,
+                                "startTime": "00:07:16.369",
+                                "label": "Esdras 9:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.871",
+                                "verseNumber": 13,
+                                "startTime": "00:08:24.237",
+                                "label": "Esdras 9:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.326",
+                                "verseNumber": 14,
+                                "startTime": "00:09:02.108",
+                                "label": "Esdras 9:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.238",
+                                "verseNumber": 15,
+                                "startTime": "00:09:28.434",
+                                "label": "Esdras 9:15",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 606.639,
+                    "bitRate": 624.9852800635963
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/8b/nwt_15_Ezr_LSB_10_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-06-18 14:41:27",
+                        "checksum": "0979eefe74b64edd8e2278a87d360137"
+                    },
+                    "filesize": 101493252,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/92/nwt_15_Ezr_univ_10.jpg",
+                        "modifiedDatetime": "2021-08-04T16:19:51+00:00",
+                        "checksum": "1b1d7df7620c6979a40fb8621c827242"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 10,
+                        "bibleBookNumber": 15,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:33.867",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Esdras 10:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.499",
+                                "verseNumber": 2,
+                                "startTime": "00:00:35.869",
+                                "label": "Esdras 10:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.893",
+                                "verseNumber": 3,
+                                "startTime": "00:01:08.368",
+                                "label": "Esdras 10:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.442",
+                                "verseNumber": 4,
+                                "startTime": "00:01:35.261",
+                                "label": "Esdras 10:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.403",
+                                "verseNumber": 5,
+                                "startTime": "00:01:44.704",
+                                "label": "Esdras 10:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.479",
+                                "verseNumber": 6,
+                                "startTime": "00:02:21.107",
+                                "label": "Esdras 10:6",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:18.218",
+                                "verseNumber": 7,
+                                "startTime": "00:03:07.587",
+                                "label": "Esdras 10:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.255",
+                                "verseNumber": 8,
+                                "startTime": "00:03:25.805",
+                                "label": "Esdras 10:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.560",
+                                "verseNumber": 9,
+                                "startTime": "00:03:48.061",
+                                "label": "Esdras 10:9",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:30.096",
+                                "verseNumber": 10,
+                                "startTime": "00:04:48.621",
+                                "label": "Esdras 10:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.767",
+                                "verseNumber": 11,
+                                "startTime": "00:05:18.718",
+                                "label": "Esdras 10:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.376",
+                                "verseNumber": 12,
+                                "startTime": "00:05:52.485",
+                                "label": "Esdras 10:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.141",
+                                "verseNumber": 13,
+                                "startTime": "00:06:01.861",
+                                "label": "Esdras 10:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:07.967",
+                                "verseNumber": 14,
+                                "startTime": "00:06:43.002",
+                                "label": "Esdras 10:14",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:47.747",
+                                "verseNumber": 15,
+                                "startTime": "00:07:50.970",
+                                "label": "Esdras 10:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.609",
+                                "verseNumber": 16,
+                                "startTime": "00:08:38.718",
+                                "label": "Esdras 10:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.189",
+                                "verseNumber": 17,
+                                "startTime": "00:09:21.327",
+                                "label": "Esdras 10:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.455",
+                                "verseNumber": 18,
+                                "startTime": "00:09:44.517",
+                                "label": "Esdras 10:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.691",
+                                "verseNumber": 19,
+                                "startTime": "00:10:39.972",
+                                "label": "Esdras 10:19",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:20.520",
+                                "verseNumber": 20,
+                                "startTime": "00:11:04.664",
+                                "label": "Esdras 10:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.128",
+                                "verseNumber": 21,
+                                "startTime": "00:11:25.184",
+                                "label": "Esdras 10:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.437",
+                                "verseNumber": 22,
+                                "startTime": "00:11:53.312",
+                                "label": "Esdras 10:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.808",
+                                "verseNumber": 23,
+                                "startTime": "00:12:30.750",
+                                "label": "Esdras 10:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.492",
+                                "verseNumber": 24,
+                                "startTime": "00:13:12.558",
+                                "label": "Esdras 10:24",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:42.308",
+                                "verseNumber": 25,
+                                "startTime": "00:13:38.050",
+                                "label": "Esdras 10:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.559",
+                                "verseNumber": 26,
+                                "startTime": "00:14:20.359",
+                                "label": "Esdras 10:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.497",
+                                "verseNumber": 27,
+                                "startTime": "00:14:46.919",
+                                "label": "Esdras 10:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.286",
+                                "verseNumber": 28,
+                                "startTime": "00:15:17.416",
+                                "label": "Esdras 10:28",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.761",
+                                "verseNumber": 29,
+                                "startTime": "00:15:37.703",
+                                "label": "Esdras 10:29",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.238",
+                                "verseNumber": 30,
+                                "startTime": "00:16:05.464",
+                                "label": "Esdras 10:30",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:25.725",
+                                "verseNumber": 31,
+                                "startTime": "00:16:43.702",
+                                "label": "Esdras 10:31",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.079",
+                                "verseNumber": 32,
+                                "startTime": "00:17:09.428",
+                                "label": "Esdras 10:32",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.100",
+                                "verseNumber": 33,
+                                "startTime": "00:17:22.508",
+                                "label": "Esdras 10:33",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.448",
+                                "verseNumber": 34,
+                                "startTime": "00:17:56.608",
+                                "label": "Esdras 10:34",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.378",
+                                "verseNumber": 35,
+                                "startTime": "00:18:12.057",
+                                "label": "Esdras 10:35",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.411",
+                                "verseNumber": 36,
+                                "startTime": "00:18:23.435",
+                                "label": "Esdras 10:36",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.910",
+                                "verseNumber": 37,
+                                "startTime": "00:18:34.847",
+                                "label": "Esdras 10:37",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.175",
+                                "verseNumber": 38,
+                                "startTime": "00:18:45.757",
+                                "label": "Esdras 10:38",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.876",
+                                "verseNumber": 39,
+                                "startTime": "00:18:54.933",
+                                "label": "Esdras 10:39",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.045",
+                                "verseNumber": 40,
+                                "startTime": "00:19:04.810",
+                                "label": "Esdras 10:40",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.177",
+                                "verseNumber": 41,
+                                "startTime": "00:19:16.855",
+                                "label": "Esdras 10:41",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.377",
+                                "verseNumber": 42,
+                                "startTime": "00:19:28.033",
+                                "label": "Esdras 10:42",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.797",
+                                "verseNumber": 43,
+                                "startTime": "00:19:38.410",
+                                "label": "Esdras 10:43",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.061",
+                                "verseNumber": 44,
+                                "startTime": "00:20:09.208",
+                                "label": "Esdras 10:44",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 15,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1237.236,
+                    "bitRate": 640.876947688234
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1371 @@
+{
+    "pubName": "Filipenses",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 50,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "https://download-a.akamaihd.net/files/media_publication/69/nwt_50_Php_LSB.jpg",
+        "modifiedDatetime": "2019-02-05T11:58:01+00:00",
+        "checksum": "ba992587134f8d9e1c3298046e56c7ef"
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b9/nwt_50_Php_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 07:32:24",
+                        "checksum": "82d39d28b3a45773075c435d4de526aa"
+                    },
+                    "filesize": 19416219,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/90/nwt_50_Php_LSB_01.jpg",
+                        "modifiedDatetime": "2019-11-26T13:21:12+00:00",
+                        "checksum": "97a1d0cda34613c727103627698edd15"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.183,
+                    "duration": 1187.119,
+                    "bitRate": 127.77927986789868
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ea/nwt_50_Php_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 15:53:42",
+                        "checksum": "7a7b1a3b233c0920e10fd0f25da922c9"
+                    },
+                    "filesize": 13381800,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/12/nwt_50_Php_LSB_02.jpg",
+                        "modifiedDatetime": "2019-11-26T13:20:48+00:00",
+                        "checksum": "3ac0df08b6b891cedf980ab4df4ef4cf"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.441,
+                    "duration": 841.441,
+                    "bitRate": 124.24556504852984
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a0/nwt_50_Php_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 07:32:26",
+                        "checksum": "08f171d5b891296856de3374f83dd0d9"
+                    },
+                    "filesize": 14661601,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/29/nwt_50_Php_LSB_03.jpg",
+                        "modifiedDatetime": "2019-11-26T13:22:03+00:00",
+                        "checksum": "5a1031846319d98cb0c38f02f57b8fbc"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 904.604,
+                    "bitRate": 126.62309453915746
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ba/nwt_50_Php_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 07:32:33",
+                        "checksum": "a39f3babf4e1e4e16212d63356dca532"
+                    },
+                    "filesize": 10799322,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b2/nwt_50_Php_LSB_04.jpg",
+                        "modifiedDatetime": "2019-11-26T13:21:00+00:00",
+                        "checksum": "4d6f0bd57113044a97a1b659af192984"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.499,
+                    "duration": 674.14,
+                    "bitRate": 125.1516051932833
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/41/nwt_50_Php_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:20:53",
+                        "checksum": "b4fec00ba27d612b2609346442dc6253"
+                    },
+                    "filesize": 34392137,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/90/nwt_50_Php_LSB_01.jpg",
+                        "modifiedDatetime": "2019-11-26T13:21:12+00:00",
+                        "checksum": "97a1d0cda34613c727103627698edd15"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1187.119,
+                    "bitRate": 226.33667754664867
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9d/nwt_50_Php_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:22:20",
+                        "checksum": "2321f370a6aedce39efd7602333c371f"
+                    },
+                    "filesize": 23574700,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/12/nwt_50_Php_LSB_02.jpg",
+                        "modifiedDatetime": "2019-11-26T13:20:48+00:00",
+                        "checksum": "3ac0df08b6b891cedf980ab4df4ef4cf"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 841.441,
+                    "bitRate": 218.88325354956555
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ec/nwt_50_Php_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:21:42",
+                        "checksum": "2015800362123d6efc5b7ef63d75bd80"
+                    },
+                    "filesize": 25817983,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/29/nwt_50_Php_LSB_03.jpg",
+                        "modifiedDatetime": "2019-11-26T13:22:03+00:00",
+                        "checksum": "5a1031846319d98cb0c38f02f57b8fbc"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 904.604,
+                    "bitRate": 222.97380089796198
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/54/nwt_50_Php_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:20:51",
+                        "checksum": "901886342b2d9a03284acb8c6b72a892"
+                    },
+                    "filesize": 18926706,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b2/nwt_50_Php_LSB_04.jpg",
+                        "modifiedDatetime": "2019-11-26T13:21:00+00:00",
+                        "checksum": "4d6f0bd57113044a97a1b659af192984"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 674.14,
+                    "bitRate": 219.33855078322011
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5d/nwt_50_Php_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:21:38",
+                        "checksum": "5b3279a8090f0d52e4ab3b66c763fbf7"
+                    },
+                    "filesize": 75267718,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/90/nwt_50_Php_LSB_01.jpg",
+                        "modifiedDatetime": "2019-11-26T13:21:12+00:00",
+                        "checksum": "97a1d0cda34613c727103627698edd15"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1187.119,
+                    "bitRate": 495.3412816027711
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1e/nwt_50_Php_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:21:14",
+                        "checksum": "81101919a1532e7f1c18a960f6d5fbb3"
+                    },
+                    "filesize": 51544127,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/12/nwt_50_Php_LSB_02.jpg",
+                        "modifiedDatetime": "2019-11-26T13:20:48+00:00",
+                        "checksum": "3ac0df08b6b891cedf980ab4df4ef4cf"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 841.441,
+                    "bitRate": 478.5700865390443
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5a/nwt_50_Php_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:21:01",
+                        "checksum": "ca917d1e255c6f492ffed40d4f9d7013"
+                    },
+                    "filesize": 56461916,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/29/nwt_50_Php_LSB_03.jpg",
+                        "modifiedDatetime": "2019-11-26T13:22:03+00:00",
+                        "checksum": "5a1031846319d98cb0c38f02f57b8fbc"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 904.604,
+                    "bitRate": 487.62631908547826
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_50_Php_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:21:35",
+                        "checksum": "1e7c08a1e1a13e9ff416c5242043d652"
+                    },
+                    "filesize": 41366711,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b2/nwt_50_Php_LSB_04.jpg",
+                        "modifiedDatetime": "2019-11-26T13:21:00+00:00",
+                        "checksum": "4d6f0bd57113044a97a1b659af192984"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 674.14,
+                    "bitRate": 479.3921584351915
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3e/nwt_50_Php_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:22:42",
+                        "checksum": "e121eb967652d0f2ab3d7676c7c02fdc"
+                    },
+                    "filesize": 160078318,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/90/nwt_50_Php_LSB_01.jpg",
+                        "modifiedDatetime": "2019-11-26T13:21:12+00:00",
+                        "checksum": "97a1d0cda34613c727103627698edd15"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 50,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:01.161",
+                                "verseNumber": 1,
+                                "startTime": "00:00:17.550",
+                                "label": "Filipenses 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.726",
+                                "verseNumber": 2,
+                                "startTime": "00:01:18.711",
+                                "label": "Filipenses 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.314",
+                                "verseNumber": 3,
+                                "startTime": "00:01:45.438",
+                                "label": "Filipenses 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.253",
+                                "verseNumber": 4,
+                                "startTime": "00:01:59.752",
+                                "label": "Filipenses 1:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.002",
+                                "verseNumber": 5,
+                                "startTime": "00:02:20.006",
+                                "label": "Filipenses 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.740",
+                                "verseNumber": 6,
+                                "startTime": "00:02:56.009",
+                                "label": "Filipenses 1:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:02:05.758",
+                                "verseNumber": 7,
+                                "startTime": "00:03:36.749",
+                                "label": "Filipenses 1:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:33.700",
+                                "verseNumber": 8,
+                                "startTime": "00:05:42.508",
+                                "label": "Filipenses 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.106",
+                                "verseNumber": 9,
+                                "startTime": "00:06:16.209",
+                                "label": "Filipenses 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:06.699",
+                                "verseNumber": 10,
+                                "startTime": "00:06:56.315",
+                                "label": "Filipenses 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.223",
+                                "verseNumber": 11,
+                                "startTime": "00:08:03.015",
+                                "label": "Filipenses 1:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:38.204",
+                                "verseNumber": 12,
+                                "startTime": "00:08:26.239",
+                                "label": "Filipenses 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.455",
+                                "verseNumber": 13,
+                                "startTime": "00:09:04.443",
+                                "label": "Filipenses 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.232",
+                                "verseNumber": 14,
+                                "startTime": "00:09:26.899",
+                                "label": "Filipenses 1:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:31.131",
+                                "verseNumber": 15,
+                                "startTime": "00:09:59.131",
+                                "label": "Filipenses 1:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.083",
+                                "verseNumber": 16,
+                                "startTime": "00:10:30.262",
+                                "label": "Filipenses 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.879",
+                                "verseNumber": 17,
+                                "startTime": "00:11:20.346",
+                                "label": "Filipenses 1:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.268",
+                                "verseNumber": 18,
+                                "startTime": "00:12:06.225",
+                                "label": "Filipenses 1:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.855",
+                                "verseNumber": 19,
+                                "startTime": "00:12:41.494",
+                                "label": "Filipenses 1:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.449",
+                                "verseNumber": 20,
+                                "startTime": "00:13:03.349",
+                                "label": "Filipenses 1:20",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.751",
+                                "verseNumber": 21,
+                                "startTime": "00:13:52.798",
+                                "label": "Filipenses 1:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.800",
+                                "verseNumber": 22,
+                                "startTime": "00:14:10.549",
+                                "label": "Filipenses 1:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.774",
+                                "verseNumber": 23,
+                                "startTime": "00:14:44.350",
+                                "label": "Filipenses 1:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.644",
+                                "verseNumber": 24,
+                                "startTime": "00:15:25.124",
+                                "label": "Filipenses 1:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.752",
+                                "verseNumber": 25,
+                                "startTime": "00:15:36.769",
+                                "label": "Filipenses 1:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.562",
+                                "verseNumber": 26,
+                                "startTime": "00:15:55.521",
+                                "label": "Filipenses 1:26",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:22.882",
+                                "verseNumber": 27,
+                                "startTime": "00:16:25.084",
+                                "label": "Filipenses 1:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.573",
+                                "verseNumber": 28,
+                                "startTime": "00:17:47.966",
+                                "label": "Filipenses 1:28",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.568",
+                                "verseNumber": 29,
+                                "startTime": "00:18:28.540",
+                                "label": "Filipenses 1:29",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.842",
+                                "verseNumber": 30,
+                                "startTime": "00:19:04.109",
+                                "label": "Filipenses 1:30",
+                                "endTransitionDuration": "00:00:11.678"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:17.550",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1187.119,
+                    "bitRate": 1053.4848312384859
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/79/nwt_50_Php_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:22:06",
+                        "checksum": "287f599299bd0f79eaec3685bc861254"
+                    },
+                    "filesize": 110646367,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/12/nwt_50_Php_LSB_02.jpg",
+                        "modifiedDatetime": "2019-11-26T13:20:48+00:00",
+                        "checksum": "3ac0df08b6b891cedf980ab4df4ef4cf"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 50,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:26.993",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Filipenses 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.363",
+                                "verseNumber": 2,
+                                "startTime": "00:00:28.962",
+                                "label": "Filipenses 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.090",
+                                "verseNumber": 3,
+                                "startTime": "00:00:59.325",
+                                "label": "Filipenses 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.697",
+                                "verseNumber": 4,
+                                "startTime": "00:01:23.416",
+                                "label": "Filipenses 2:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:21.921",
+                                "verseNumber": 5,
+                                "startTime": "00:01:54.114",
+                                "label": "Filipenses 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.485",
+                                "verseNumber": 6,
+                                "startTime": "00:02:16.035",
+                                "label": "Filipenses 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.603",
+                                "verseNumber": 7,
+                                "startTime": "00:02:34.521",
+                                "label": "Filipenses 2:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.322",
+                                "verseNumber": 8,
+                                "startTime": "00:03:11.124",
+                                "label": "Filipenses 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.013",
+                                "verseNumber": 9,
+                                "startTime": "00:03:33.446",
+                                "label": "Filipenses 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.884",
+                                "verseNumber": 10,
+                                "startTime": "00:03:46.459",
+                                "label": "Filipenses 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.723",
+                                "verseNumber": 11,
+                                "startTime": "00:04:04.344",
+                                "label": "Filipenses 2:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:50.150",
+                                "verseNumber": 12,
+                                "startTime": "00:04:28.067",
+                                "label": "Filipenses 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.767",
+                                "verseNumber": 13,
+                                "startTime": "00:05:18.217",
+                                "label": "Filipenses 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.544",
+                                "verseNumber": 14,
+                                "startTime": "00:05:51.984",
+                                "label": "Filipenses 2:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.873",
+                                "verseNumber": 15,
+                                "startTime": "00:06:03.529",
+                                "label": "Filipenses 2:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:50.717",
+                                "verseNumber": 16,
+                                "startTime": "00:06:43.403",
+                                "label": "Filipenses 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.315",
+                                "verseNumber": 17,
+                                "startTime": "00:07:34.120",
+                                "label": "Filipenses 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.883",
+                                "verseNumber": 18,
+                                "startTime": "00:08:23.436",
+                                "label": "Filipenses 2:18",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:29.596",
+                                "verseNumber": 19,
+                                "startTime": "00:08:40.319",
+                                "label": "Filipenses 2:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.346",
+                                "verseNumber": 20,
+                                "startTime": "00:09:09.916",
+                                "label": "Filipenses 2:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.019",
+                                "verseNumber": 21,
+                                "startTime": "00:09:23.262",
+                                "label": "Filipenses 2:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.202",
+                                "verseNumber": 22,
+                                "startTime": "00:09:42.281",
+                                "label": "Filipenses 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.977",
+                                "verseNumber": 23,
+                                "startTime": "00:10:18.484",
+                                "label": "Filipenses 2:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.980",
+                                "verseNumber": 24,
+                                "startTime": "00:10:29.462",
+                                "label": "Filipenses 2:24",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:35.969",
+                                "verseNumber": 25,
+                                "startTime": "00:10:43.442",
+                                "label": "Filipenses 2:25",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.150",
+                                "verseNumber": 26,
+                                "startTime": "00:11:19.412",
+                                "label": "Filipenses 2:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.764",
+                                "verseNumber": 27,
+                                "startTime": "00:11:36.562",
+                                "label": "Filipenses 2:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.782",
+                                "verseNumber": 28,
+                                "startTime": "00:12:07.326",
+                                "label": "Filipenses 2:28",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.942",
+                                "verseNumber": 29,
+                                "startTime": "00:12:23.109",
+                                "label": "Filipenses 2:29",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.888",
+                                "verseNumber": 30,
+                                "startTime": "00:13:06.051",
+                                "label": "Filipenses 2:30",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 841.441,
+                    "bitRate": 1027.3147400560467
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/37/nwt_50_Php_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:22:28",
+                        "checksum": "236d7e44834ea38e8eb8cd201a57d2f3"
+                    },
+                    "filesize": 120416992,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/29/nwt_50_Php_LSB_03.jpg",
+                        "modifiedDatetime": "2019-11-26T13:22:03+00:00",
+                        "checksum": "5a1031846319d98cb0c38f02f57b8fbc"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 50,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:46.446",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Filipenses 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.792",
+                                "verseNumber": 2,
+                                "startTime": "00:00:48.415",
+                                "label": "Filipenses 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:00.960",
+                                "verseNumber": 3,
+                                "startTime": "00:01:47.207",
+                                "label": "Filipenses 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.263",
+                                "verseNumber": 4,
+                                "startTime": "00:02:48.168",
+                                "label": "Filipenses 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.223",
+                                "verseNumber": 5,
+                                "startTime": "00:03:18.431",
+                                "label": "Filipenses 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.537",
+                                "verseNumber": 6,
+                                "startTime": "00:04:15.655",
+                                "label": "Filipenses 3:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:32.532",
+                                "verseNumber": 7,
+                                "startTime": "00:04:53.192",
+                                "label": "Filipenses 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.691",
+                                "verseNumber": 8,
+                                "startTime": "00:05:25.725",
+                                "label": "Filipenses 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.628",
+                                "verseNumber": 9,
+                                "startTime": "00:06:24.417",
+                                "label": "Filipenses 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.306",
+                                "verseNumber": 10,
+                                "startTime": "00:06:53.045",
+                                "label": "Filipenses 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.929",
+                                "verseNumber": 11,
+                                "startTime": "00:07:33.352",
+                                "label": "Filipenses 3:11",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:45.879",
+                                "verseNumber": 12,
+                                "startTime": "00:08:03.282",
+                                "label": "Filipenses 3:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.579",
+                                "verseNumber": 13,
+                                "startTime": "00:08:49.161",
+                                "label": "Filipenses 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:53.987",
+                                "verseNumber": 14,
+                                "startTime": "00:09:35.741",
+                                "label": "Filipenses 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.638",
+                                "verseNumber": 15,
+                                "startTime": "00:10:29.729",
+                                "label": "Filipenses 3:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.657",
+                                "verseNumber": 16,
+                                "startTime": "00:11:08.367",
+                                "label": "Filipenses 3:16",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:25.692",
+                                "verseNumber": 17,
+                                "startTime": "00:11:33.025",
+                                "label": "Filipenses 3:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.888",
+                                "verseNumber": 18,
+                                "startTime": "00:11:58.718",
+                                "label": "Filipenses 3:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.778",
+                                "verseNumber": 19,
+                                "startTime": "00:12:53.606",
+                                "label": "Filipenses 3:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.793",
+                                "verseNumber": 20,
+                                "startTime": "00:13:38.384",
+                                "label": "Filipenses 3:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:58.758",
+                                "verseNumber": 21,
+                                "startTime": "00:14:05.177",
+                                "label": "Filipenses 3:21",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 904.604,
+                    "bitRate": 1039.9663830803313
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1a/nwt_50_Php_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2019-11-26 13:22:35",
+                        "checksum": "2e35932d9ed4cae9b54952d8627b007d"
+                    },
+                    "filesize": 88635118,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b2/nwt_50_Php_LSB_04.jpg",
+                        "modifiedDatetime": "2019-11-26T13:21:00+00:00",
+                        "checksum": "4d6f0bd57113044a97a1b659af192984"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 50,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:33.666",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "Filipenses 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.790",
+                                "verseNumber": 2,
+                                "startTime": "00:00:35.635",
+                                "label": "Filipenses 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:54.754",
+                                "verseNumber": 3,
+                                "startTime": "00:00:59.426",
+                                "label": "Filipenses 4:3",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:13.613",
+                                "verseNumber": 4,
+                                "startTime": "00:01:54.180",
+                                "label": "Filipenses 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.987",
+                                "verseNumber": 5,
+                                "startTime": "00:02:07.794",
+                                "label": "Filipenses 4:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.761",
+                                "verseNumber": 6,
+                                "startTime": "00:02:28.781",
+                                "label": "Filipenses 4:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.205",
+                                "verseNumber": 7,
+                                "startTime": "00:02:56.543",
+                                "label": "Filipenses 4:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:01:12.872",
+                                "verseNumber": 8,
+                                "startTime": "00:03:35.748",
+                                "label": "Filipenses 4:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.320",
+                                "verseNumber": 9,
+                                "startTime": "00:04:48.621",
+                                "label": "Filipenses 4:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:22.222",
+                                "verseNumber": 10,
+                                "startTime": "00:05:08.941",
+                                "label": "Filipenses 4:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.659",
+                                "verseNumber": 11,
+                                "startTime": "00:05:31.164",
+                                "label": "Filipenses 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.165",
+                                "verseNumber": 12,
+                                "startTime": "00:05:57.824",
+                                "label": "Filipenses 4:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.646",
+                                "verseNumber": 13,
+                                "startTime": "00:06:29.989",
+                                "label": "Filipenses 4:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:13.680",
+                                "verseNumber": 14,
+                                "startTime": "00:06:43.636",
+                                "label": "Filipenses 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.939",
+                                "verseNumber": 15,
+                                "startTime": "00:06:57.316",
+                                "label": "Filipenses 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.493",
+                                "verseNumber": 16,
+                                "startTime": "00:07:37.256",
+                                "label": "Filipenses 4:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.466",
+                                "verseNumber": 17,
+                                "startTime": "00:08:03.749",
+                                "label": "Filipenses 4:17",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:36.136",
+                                "verseNumber": 18,
+                                "startTime": "00:08:37.216",
+                                "label": "Filipenses 4:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.962",
+                                "verseNumber": 19,
+                                "startTime": "00:09:13.352",
+                                "label": "Filipenses 4:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.446",
+                                "verseNumber": 20,
+                                "startTime": "00:09:42.315",
+                                "label": "Filipenses 4:20",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:22.355",
+                                "verseNumber": 21,
+                                "startTime": "00:09:55.761",
+                                "label": "Filipenses 4:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.662",
+                                "verseNumber": 22,
+                                "startTime": "00:10:18.117",
+                                "label": "Filipenses 4:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.159",
+                                "verseNumber": 23,
+                                "startTime": "00:10:47.780",
+                                "label": "Filipenses 4:23",
+                                "endTransitionDuration": "00:00:06.673"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 50,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 674.14,
+                    "bitRate": 1027.1781223113894
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,2730 @@
+{
+    "pubName": "Ester",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 17,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/19/nwt_17_Es_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-27 20:23:34",
+                        "checksum": "53bb1fd1e8caa49e3d9b4c8a079bbf21"
+                    },
+                    "filesize": 8901772,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/34/nwt_17_Es_univ_01.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:25+00:00",
+                        "checksum": "dcba2b8532596be8bbc403e711560905"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.441,
+                    "duration": 712.412,
+                    "bitRate": 97.61920595105079
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/83/nwt_17_Es_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-10 20:16:37",
+                        "checksum": "e0e2c781770b641057c2b95542baf2f5"
+                    },
+                    "filesize": 10388453,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/58/nwt_17_Es_univ_02.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:32+00:00",
+                        "checksum": "76ef48276b61e83c2faa82381d203e96"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.126,
+                    "duration": 817.383,
+                    "bitRate": 99.29224006677408
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/1d/nwt_17_Es_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-27 20:23:39",
+                        "checksum": "fa844feb38e5bf93f17755528812cc41"
+                    },
+                    "filesize": 7060125,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9b/nwt_17_Es_univ_03.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:37+00:00",
+                        "checksum": "10c3a49be3234f198be2438fe4845b19"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.791,
+                    "duration": 537.837,
+                    "bitRate": 102.55379708443265
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a6/nwt_17_Es_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 03:00:21",
+                        "checksum": "2b5a529b3b9741ce4f67d50e142cd079"
+                    },
+                    "filesize": 6270623,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e7/nwt_17_Es_univ_04.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:45+00:00",
+                        "checksum": "623c09ac0de0f032f91a91e623fff865"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.354,
+                    "duration": 478.311,
+                    "bitRate": 102.42131623044422
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/bc/nwt_17_Es_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 03:00:26",
+                        "checksum": "eadaa8681864a02d3ae7583bc1b3e4ba"
+                    },
+                    "filesize": 4379198,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/86/nwt_17_Es_univ_05.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:53+00:00",
+                        "checksum": "5236a703047efbb00bc1da5f1dafc50e"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.674,
+                    "duration": 346.346,
+                    "bitRate": 98.78123141309557
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c8/nwt_17_Es_LSB_06_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 02:00:22",
+                        "checksum": "fc7034795468c37078d8317ccc38e34b"
+                    },
+                    "filesize": 5459071,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/07/nwt_17_Es_univ_06.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:59+00:00",
+                        "checksum": "f080aaacb9079e08ab54e39a8aa9ddde"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.183,
+                    "duration": 429.129,
+                    "bitRate": 99.38501519939226
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/71/nwt_17_Es_LSB_07_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 00:37:20",
+                        "checksum": "558f190b7ad309b9a77c5ea25d334faf"
+                    },
+                    "filesize": 3695102,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/61/nwt_17_Es_univ_07.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:06+00:00",
+                        "checksum": "e470ed959690361f35ff23d1c5de5c33"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.821,
+                    "duration": 274.174,
+                    "bitRate": 105.2907437430245
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f2/nwt_17_Es_LSB_08_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 08:53:47",
+                        "checksum": "7ab1a7189643284be110ccb6cecaeb81"
+                    },
+                    "filesize": 7608104,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9f/nwt_17_Es_univ_08.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:11+00:00",
+                        "checksum": "755a7d953e37fecf98b943e82053089f"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.24,
+                    "duration": 564.864,
+                    "bitRate": 105.22588180517788
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/99/nwt_17_Es_LSB_09_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 03:00:34",
+                        "checksum": "12750bc86fbabb6fddc96f2e4915c592"
+                    },
+                    "filesize": 13974320,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/31/nwt_17_Es_univ_09.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:18+00:00",
+                        "checksum": "aa94c8bfe2304f1b53d5c9a13290b776"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.586,
+                    "duration": 1010.276,
+                    "bitRate": 108.06391025818688
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/53/nwt_17_Es_LSB_10_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 07:23:38",
+                        "checksum": "bdef45623905866226edd5d8dfebc4b7"
+                    },
+                    "filesize": 1676969,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/73/nwt_17_Es_univ_10.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:24+00:00",
+                        "checksum": "9bed40307946b82d7aa814c028a68b9a"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.557,
+                    "duration": 109.91,
+                    "bitRate": 119.20043956418888
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/5b/nwt_17_Es_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:45:19",
+                        "checksum": "c6ccd2a4c2961fdf681122cc359d1e2d"
+                    },
+                    "filesize": 14900126,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/34/nwt_17_Es_univ_01.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:25+00:00",
+                        "checksum": "dcba2b8532596be8bbc403e711560905"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 712.412,
+                    "bitRate": 163.39875574105994
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/59/nwt_17_Es_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:48:54",
+                        "checksum": "2899796d61510aa4bf22ff1338814637"
+                    },
+                    "filesize": 17595260,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/58/nwt_17_Es_univ_02.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:32+00:00",
+                        "checksum": "76ef48276b61e83c2faa82381d203e96"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 817.383,
+                    "bitRate": 168.17448949880287
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/12/nwt_17_Es_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:45:57",
+                        "checksum": "2da7a6f73b48d3866fb34d0ede912e97"
+                    },
+                    "filesize": 12109714,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9b/nwt_17_Es_univ_03.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:37+00:00",
+                        "checksum": "10c3a49be3234f198be2438fe4845b19"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 537.837,
+                    "bitRate": 175.90299779487094
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/db/nwt_17_Es_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:52:18",
+                        "checksum": "6154e710a90f1fc5f627417b2260bd1a"
+                    },
+                    "filesize": 10579692,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e7/nwt_17_Es_univ_04.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:45+00:00",
+                        "checksum": "623c09ac0de0f032f91a91e623fff865"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 478.311,
+                    "bitRate": 172.80356034044797
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/31/nwt_17_Es_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:46:46",
+                        "checksum": "1d385a3d6fbfdf4d21dd06e63984cb94"
+                    },
+                    "filesize": 7232806,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/86/nwt_17_Es_univ_05.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:53+00:00",
+                        "checksum": "5236a703047efbb00bc1da5f1dafc50e"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 346.346,
+                    "bitRate": 163.14984690165326
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/62/nwt_17_Es_LSB_06_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:45:16",
+                        "checksum": "219bb5d173ab30f87936f2b7e77a59b3"
+                    },
+                    "filesize": 9168289,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/07/nwt_17_Es_univ_06.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:59+00:00",
+                        "checksum": "f080aaacb9079e08ab54e39a8aa9ddde"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 429.129,
+                    "bitRate": 166.91311426750462
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/cb/nwt_17_Es_LSB_07_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 11:27:29",
+                        "checksum": "2b454aed8b91024ef09c143ae30d87de"
+                    },
+                    "filesize": 6128905,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/61/nwt_17_Es_univ_07.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:06+00:00",
+                        "checksum": "e470ed959690361f35ff23d1c5de5c33"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 274.174,
+                    "bitRate": 174.64117791074284
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a6/nwt_17_Es_LSB_08_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 13:03:26",
+                        "checksum": "60bcca446996d1e778b58ddeb3a03ceb"
+                    },
+                    "filesize": 12843277,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9f/nwt_17_Es_univ_08.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:11+00:00",
+                        "checksum": "755a7d953e37fecf98b943e82053089f"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 564.864,
+                    "bitRate": 177.63231780127606
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d1/nwt_17_Es_LSB_09_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 12:44:15",
+                        "checksum": "e93b0eefd398a2ec582c4d87632e7160"
+                    },
+                    "filesize": 23686663,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/31/nwt_17_Es_univ_09.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:18+00:00",
+                        "checksum": "aa94c8bfe2304f1b53d5c9a13290b776"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 1010.276,
+                    "bitRate": 183.16980180416044
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e7/nwt_17_Es_LSB_10_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 12:49:19",
+                        "checksum": "755e7b60059e79773ce0c659e1d00754"
+                    },
+                    "filesize": 2630436,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/73/nwt_17_Es_univ_10.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:24+00:00",
+                        "checksum": "9bed40307946b82d7aa814c028a68b9a"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 109.91,
+                    "bitRate": 186.97371713219908
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e5/nwt_17_Es_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:45:51",
+                        "checksum": "83e9a36c8884e5dfbe06265bb7fd73b6"
+                    },
+                    "filesize": 28445529,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/34/nwt_17_Es_univ_01.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:25+00:00",
+                        "checksum": "dcba2b8532596be8bbc403e711560905"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 712.412,
+                    "bitRate": 311.9412577448162
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/07/nwt_17_Es_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:45:54",
+                        "checksum": "e05e8a0f0878c4443f58ab81dcf4a574"
+                    },
+                    "filesize": 33863219,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/58/nwt_17_Es_univ_02.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:32+00:00",
+                        "checksum": "76ef48276b61e83c2faa82381d203e96"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 817.383,
+                    "bitRate": 323.6627118957698
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f0/nwt_17_Es_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:52:16",
+                        "checksum": "cf2602daf61fcd67d49fe5674b2095bf"
+                    },
+                    "filesize": 23218450,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9b/nwt_17_Es_univ_03.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:37+00:00",
+                        "checksum": "10c3a49be3234f198be2438fe4845b19"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 537.837,
+                    "bitRate": 337.26601298348754
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e2/nwt_17_Es_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:46:00",
+                        "checksum": "74bc01ea36915539873ac426329e3088"
+                    },
+                    "filesize": 20304216,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e7/nwt_17_Es_univ_04.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:45+00:00",
+                        "checksum": "623c09ac0de0f032f91a91e623fff865"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 478.311,
+                    "bitRate": 331.63922113436655
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/50/nwt_17_Es_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:46:45",
+                        "checksum": "3a9a9734159463467b0ff02c636728c3"
+                    },
+                    "filesize": 13582050,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/86/nwt_17_Es_univ_05.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:53+00:00",
+                        "checksum": "5236a703047efbb00bc1da5f1dafc50e"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 346.346,
+                    "bitRate": 306.36925393970193
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ea/nwt_17_Es_LSB_06_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:48:52",
+                        "checksum": "520ae0cde5b0c4f3111cdb6ad75358e1"
+                    },
+                    "filesize": 17504069,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/07/nwt_17_Es_univ_06.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:59+00:00",
+                        "checksum": "f080aaacb9079e08ab54e39a8aa9ddde"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 429.129,
+                    "bitRate": 318.67000147391576
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/61/nwt_17_Es_LSB_07_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 11:27:27",
+                        "checksum": "aa38c676485d9423e37680ce0ac5cc55"
+                    },
+                    "filesize": 11637026,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/61/nwt_17_Es_univ_07.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:06+00:00",
+                        "checksum": "e470ed959690361f35ff23d1c5de5c33"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 274.174,
+                    "bitRate": 331.5933152851839
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/98/nwt_17_Es_LSB_08_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 12:46:42",
+                        "checksum": "8123ed1964da8473be67146dbaeb42bb"
+                    },
+                    "filesize": 24580982,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9f/nwt_17_Es_univ_08.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:11+00:00",
+                        "checksum": "755a7d953e37fecf98b943e82053089f"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 564.864,
+                    "bitRate": 339.97373150882333
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ef/nwt_17_Es_LSB_09_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 13:00:50",
+                        "checksum": "88c00fe510f09de0bff0174acdcca888"
+                    },
+                    "filesize": 45537499,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/31/nwt_17_Es_univ_09.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:18+00:00",
+                        "checksum": "aa94c8bfe2304f1b53d5c9a13290b776"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 1010.276,
+                    "bitRate": 352.14308855946297
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/35/nwt_17_Es_LSB_10_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 12:53:26",
+                        "checksum": "3c3957738779c5409ac99da7eb29dc72"
+                    },
+                    "filesize": 4864758,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/73/nwt_17_Es_univ_10.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:24+00:00",
+                        "checksum": "9bed40307946b82d7aa814c028a68b9a"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 109.91,
+                    "bitRate": 345.7913008370485
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e3/nwt_17_Es_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:51:53",
+                        "checksum": "18292f0bb58cd65f2c4451e432c72caf"
+                    },
+                    "filesize": 50923261,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/34/nwt_17_Es_univ_01.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:25+00:00",
+                        "checksum": "dcba2b8532596be8bbc403e711560905"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 17,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:23.690",
+                                "verseNumber": 1,
+                                "startTime": "00:00:09.476",
+                                "label": "Ester 1:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.782",
+                                "verseNumber": 2,
+                                "startTime": "00:00:33.166",
+                                "label": "Ester 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.655",
+                                "verseNumber": 3,
+                                "startTime": "00:00:48.948",
+                                "label": "Ester 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.529",
+                                "verseNumber": 4,
+                                "startTime": "00:01:44.604",
+                                "label": "Ester 1:4",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:39.606",
+                                "verseNumber": 5,
+                                "startTime": "00:02:14.134",
+                                "label": "Ester 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:02:08.828",
+                                "verseNumber": 6,
+                                "startTime": "00:02:53.740",
+                                "label": "Ester 1:6",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:19.953",
+                                "verseNumber": 7,
+                                "startTime": "00:05:02.568",
+                                "label": "Ester 1:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.452",
+                                "verseNumber": 8,
+                                "startTime": "00:05:22.522",
+                                "label": "Ester 1:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.317",
+                                "verseNumber": 9,
+                                "startTime": "00:05:41.974",
+                                "label": "Ester 1:9",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:48.348",
+                                "verseNumber": 10,
+                                "startTime": "00:05:59.292",
+                                "label": "Ester 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.634",
+                                "verseNumber": 11,
+                                "startTime": "00:06:47.640",
+                                "label": "Ester 1:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.232",
+                                "verseNumber": 12,
+                                "startTime": "00:07:22.275",
+                                "label": "Ester 1:12",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:21.121",
+                                "verseNumber": 13,
+                                "startTime": "00:07:54.507",
+                                "label": "Ester 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:39.672",
+                                "verseNumber": 14,
+                                "startTime": "00:08:15.628",
+                                "label": "Ester 1:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.388",
+                                "verseNumber": 15,
+                                "startTime": "00:08:55.301",
+                                "label": "Ester 1:15",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:20.453",
+                                "verseNumber": 16,
+                                "startTime": "00:09:16.689",
+                                "label": "Ester 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.278",
+                                "verseNumber": 17,
+                                "startTime": "00:09:37.143",
+                                "label": "Ester 1:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.348",
+                                "verseNumber": 18,
+                                "startTime": "00:09:49.422",
+                                "label": "Ester 1:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.902",
+                                "verseNumber": 19,
+                                "startTime": "00:10:04.770",
+                                "label": "Ester 1:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.952",
+                                "verseNumber": 20,
+                                "startTime": "00:10:40.673",
+                                "label": "Ester 1:20",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:10.443",
+                                "verseNumber": 21,
+                                "startTime": "00:10:59.625",
+                                "label": "Ester 1:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.399",
+                                "verseNumber": 22,
+                                "startTime": "00:11:10.069",
+                                "label": "Ester 1:22",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:09.476",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 712.412,
+                    "bitRate": 558.4380619115062
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/39/nwt_17_Es_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:44:55",
+                        "checksum": "22f2e5c6c788a6e42e31c5ca807374a1"
+                    },
+                    "filesize": 61287609,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/58/nwt_17_Es_univ_02.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:32+00:00",
+                        "checksum": "76ef48276b61e83c2faa82381d203e96"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 17,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:28.094",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Ester 2:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.584",
+                                "verseNumber": 2,
+                                "startTime": "00:00:30.096",
+                                "label": "Ester 2:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:59.092",
+                                "verseNumber": 3,
+                                "startTime": "00:00:47.680",
+                                "label": "Ester 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.428",
+                                "verseNumber": 4,
+                                "startTime": "00:01:46.773",
+                                "label": "Ester 2:4",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:30.296",
+                                "verseNumber": 5,
+                                "startTime": "00:02:15.201",
+                                "label": "Ester 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.542",
+                                "verseNumber": 6,
+                                "startTime": "00:02:45.498",
+                                "label": "Ester 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.563",
+                                "verseNumber": 7,
+                                "startTime": "00:03:28.041",
+                                "label": "Ester 2:7",
+                                "endTransitionDuration": "00:00:01.334"
+                            },
+                            {
+                                "duration": "00:00:38.204",
+                                "verseNumber": 8,
+                                "startTime": "00:03:58.605",
+                                "label": "Ester 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:01.694",
+                                "verseNumber": 9,
+                                "startTime": "00:04:36.809",
+                                "label": "Ester 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.919",
+                                "verseNumber": 10,
+                                "startTime": "00:05:38.504",
+                                "label": "Ester 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.529",
+                                "verseNumber": 11,
+                                "startTime": "00:05:58.424",
+                                "label": "Ester 2:11",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:39.973",
+                                "verseNumber": 12,
+                                "startTime": "00:06:27.954",
+                                "label": "Ester 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.322",
+                                "verseNumber": 13,
+                                "startTime": "00:07:07.927",
+                                "label": "Ester 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.014",
+                                "verseNumber": 14,
+                                "startTime": "00:07:30.249",
+                                "label": "Ester 2:14",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:01:14.607",
+                                "verseNumber": 15,
+                                "startTime": "00:08:18.264",
+                                "label": "Ester 2:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.619",
+                                "verseNumber": 16,
+                                "startTime": "00:09:32.872",
+                                "label": "Ester 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.031",
+                                "verseNumber": 17,
+                                "startTime": "00:09:52.491",
+                                "label": "Ester 2:17",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.581",
+                                "verseNumber": 18,
+                                "startTime": "00:10:24.523",
+                                "label": "Ester 2:18",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:18.084",
+                                "verseNumber": 19,
+                                "startTime": "00:11:13.105",
+                                "label": "Ester 2:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.227",
+                                "verseNumber": 20,
+                                "startTime": "00:11:31.190",
+                                "label": "Ester 2:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.190",
+                                "verseNumber": 21,
+                                "startTime": "00:11:58.417",
+                                "label": "Ester 2:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.822",
+                                "verseNumber": 22,
+                                "startTime": "00:12:22.608",
+                                "label": "Ester 2:22",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.013",
+                                "verseNumber": 23,
+                                "startTime": "00:12:45.431",
+                                "label": "Ester 2:23",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 817.383,
+                    "bitRate": 585.7834641930405
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/96/nwt_17_Es_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:48:56",
+                        "checksum": "70f8a91b5cfca096e3caaf50a4f924b7"
+                    },
+                    "filesize": 41574713,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9b/nwt_17_Es_univ_03.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:37+00:00",
+                        "checksum": "10c3a49be3234f198be2438fe4845b19"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 17,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:24.824",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Ester 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.177",
+                                "verseNumber": 2,
+                                "startTime": "00:00:26.826",
+                                "label": "Ester 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.547",
+                                "verseNumber": 3,
+                                "startTime": "00:01:11.004",
+                                "label": "Ester 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.763",
+                                "verseNumber": 4,
+                                "startTime": "00:01:25.552",
+                                "label": "Ester 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.120",
+                                "verseNumber": 5,
+                                "startTime": "00:01:55.315",
+                                "label": "Ester 3:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.722",
+                                "verseNumber": 6,
+                                "startTime": "00:02:15.435",
+                                "label": "Ester 3:6",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:46.112",
+                                "verseNumber": 7,
+                                "startTime": "00:02:38.158",
+                                "label": "Ester 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:46.713",
+                                "verseNumber": 8,
+                                "startTime": "00:03:24.270",
+                                "label": "Ester 3:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:11.905",
+                                "verseNumber": 9,
+                                "startTime": "00:04:10.984",
+                                "label": "Ester 3:9",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:20.053",
+                                "verseNumber": 10,
+                                "startTime": "00:05:22.889",
+                                "label": "Ester 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.209",
+                                "verseNumber": 11,
+                                "startTime": "00:05:42.942",
+                                "label": "Ester 3:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:55.955",
+                                "verseNumber": 12,
+                                "startTime": "00:05:52.151",
+                                "label": "Ester 3:12",
+                                "endTransitionDuration": "00:00:01.401"
+                            },
+                            {
+                                "duration": "00:00:43.476",
+                                "verseNumber": 13,
+                                "startTime": "00:06:48.107",
+                                "label": "Ester 3:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.716",
+                                "verseNumber": 14,
+                                "startTime": "00:07:31.584",
+                                "label": "Ester 3:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:04.597",
+                                "verseNumber": 15,
+                                "startTime": "00:07:48.301",
+                                "label": "Ester 3:15",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 537.837,
+                    "bitRate": 603.9049848048759
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9c/nwt_17_Es_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:45:28",
+                        "checksum": "95a086b5a3e1d03788005938d5a378bf"
+                    },
+                    "filesize": 36544109,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e7/nwt_17_Es_univ_04.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:45+00:00",
+                        "checksum": "623c09ac0de0f032f91a91e623fff865"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 17,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:39.339",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Ester 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.847",
+                                "verseNumber": 2,
+                                "startTime": "00:00:41.341",
+                                "label": "Ester 4:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.504",
+                                "verseNumber": 3,
+                                "startTime": "00:00:55.188",
+                                "label": "Ester 4:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.481",
+                                "verseNumber": 4,
+                                "startTime": "00:01:32.692",
+                                "label": "Ester 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.534",
+                                "verseNumber": 5,
+                                "startTime": "00:02:21.174",
+                                "label": "Ester 4:5",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:19.953",
+                                "verseNumber": 6,
+                                "startTime": "00:02:55.708",
+                                "label": "Ester 4:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.232",
+                                "verseNumber": 7,
+                                "startTime": "00:03:15.662",
+                                "label": "Ester 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:49.082",
+                                "verseNumber": 8,
+                                "startTime": "00:03:47.894",
+                                "label": "Ester 4:8",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:10.910",
+                                "verseNumber": 9,
+                                "startTime": "00:04:36.976",
+                                "label": "Ester 4:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.775",
+                                "verseNumber": 10,
+                                "startTime": "00:04:47.887",
+                                "label": "Ester 4:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.407",
+                                "verseNumber": 11,
+                                "startTime": "00:04:56.663",
+                                "label": "Ester 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.875",
+                                "verseNumber": 12,
+                                "startTime": "00:05:37.070",
+                                "label": "Ester 4:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.820",
+                                "verseNumber": 13,
+                                "startTime": "00:05:45.945",
+                                "label": "Ester 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.725",
+                                "verseNumber": 14,
+                                "startTime": "00:06:06.766",
+                                "label": "Ester 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.211",
+                                "verseNumber": 15,
+                                "startTime": "00:06:32.492",
+                                "label": "Ester 4:15",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:50.750",
+                                "verseNumber": 16,
+                                "startTime": "00:06:43.703",
+                                "label": "Ester 4:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.918",
+                                "verseNumber": 17,
+                                "startTime": "00:07:34.454",
+                                "label": "Ester 4:17",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 478.311,
+                    "bitRate": 596.8937606755856
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/60/nwt_17_Es_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:52:25",
+                        "checksum": "201afa084d8f52a9f688700c4fe38af2"
+                    },
+                    "filesize": 23878740,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/86/nwt_17_Es_univ_05.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:53+00:00",
+                        "checksum": "5236a703047efbb00bc1da5f1dafc50e"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 17,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:23.289",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Ester 5:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.680",
+                                "verseNumber": 2,
+                                "startTime": "00:00:25.291",
+                                "label": "Ester 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.682",
+                                "verseNumber": 3,
+                                "startTime": "00:00:38.972",
+                                "label": "Ester 5:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.948",
+                                "verseNumber": 4,
+                                "startTime": "00:00:54.654",
+                                "label": "Ester 5:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.152",
+                                "verseNumber": 5,
+                                "startTime": "00:01:09.602",
+                                "label": "Ester 5:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.126",
+                                "verseNumber": 6,
+                                "startTime": "00:01:28.755",
+                                "label": "Ester 5:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:04.037",
+                                "verseNumber": 7,
+                                "startTime": "00:01:54.881",
+                                "label": "Ester 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.556",
+                                "verseNumber": 8,
+                                "startTime": "00:01:58.918",
+                                "label": "Ester 5:8",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:31.965",
+                                "verseNumber": 9,
+                                "startTime": "00:02:22.475",
+                                "label": "Ester 5:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.653",
+                                "verseNumber": 10,
+                                "startTime": "00:02:54.440",
+                                "label": "Ester 5:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.321",
+                                "verseNumber": 11,
+                                "startTime": "00:03:15.094",
+                                "label": "Ester 5:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.557",
+                                "verseNumber": 12,
+                                "startTime": "00:03:36.416",
+                                "label": "Ester 5:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.927",
+                                "verseNumber": 13,
+                                "startTime": "00:04:00.974",
+                                "label": "Ester 5:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:12.505",
+                                "verseNumber": 14,
+                                "startTime": "00:04:28.901",
+                                "label": "Ester 5:14",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 346.346,
+                    "bitRate": 538.6308958382658
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/43/nwt_17_Es_LSB_06_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-09-27 19:48:49",
+                        "checksum": "300d215f8794410f08d18a5104ebde9a"
+                    },
+                    "filesize": 31573287,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/07/nwt_17_Es_univ_06.jpg",
+                        "modifiedDatetime": "2021-08-04T16:23:59+00:00",
+                        "checksum": "f080aaacb9079e08ab54e39a8aa9ddde"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 6,
+                        "bibleBookNumber": 17,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:29.496",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Ester 6:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.031",
+                                "verseNumber": 2,
+                                "startTime": "00:00:31.498",
+                                "label": "Ester 6:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.931",
+                                "verseNumber": 3,
+                                "startTime": "00:01:02.529",
+                                "label": "Ester 6:3",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:35.568",
+                                "verseNumber": 4,
+                                "startTime": "00:01:34.461",
+                                "label": "Ester 6:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:06.406",
+                                "verseNumber": 5,
+                                "startTime": "00:02:10.029",
+                                "label": "Ester 6:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.666",
+                                "verseNumber": 6,
+                                "startTime": "00:02:16.436",
+                                "label": "Ester 6:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:04.671",
+                                "verseNumber": 7,
+                                "startTime": "00:02:50.103",
+                                "label": "Ester 6:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:17.450",
+                                "verseNumber": 8,
+                                "startTime": "00:02:54.774",
+                                "label": "Ester 6:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:48.915",
+                                "verseNumber": 9,
+                                "startTime": "00:03:12.225",
+                                "label": "Ester 6:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.471",
+                                "verseNumber": 10,
+                                "startTime": "00:04:01.140",
+                                "label": "Ester 6:10",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:49.949",
+                                "verseNumber": 11,
+                                "startTime": "00:04:39.612",
+                                "label": "Ester 6:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.831",
+                                "verseNumber": 12,
+                                "startTime": "00:05:29.562",
+                                "label": "Ester 6:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.340",
+                                "verseNumber": 13,
+                                "startTime": "00:06:01.394",
+                                "label": "Ester 6:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.455",
+                                "verseNumber": 14,
+                                "startTime": "00:06:41.734",
+                                "label": "Ester 6:14",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 429.129,
+                    "bitRate": 574.8068871772823
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/e8/nwt_17_Es_LSB_07_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 11:27:54",
+                        "checksum": "cf3b5c8ea7c07ebb57c867c7ec27488f"
+                    },
+                    "filesize": 20754487,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/61/nwt_17_Es_univ_07.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:06+00:00",
+                        "checksum": "e470ed959690361f35ff23d1c5de5c33"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 7,
+                        "bibleBookNumber": 17,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:13.279",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Ester 7:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.499",
+                                "verseNumber": 2,
+                                "startTime": "00:00:15.281",
+                                "label": "Ester 7:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.686",
+                                "verseNumber": 3,
+                                "startTime": "00:00:47.781",
+                                "label": "Ester 7:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.593",
+                                "verseNumber": 4,
+                                "startTime": "00:01:07.467",
+                                "label": "Ester 7:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.783",
+                                "verseNumber": 5,
+                                "startTime": "00:01:34.060",
+                                "label": "Ester 7:5",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:15.548",
+                                "verseNumber": 6,
+                                "startTime": "00:01:50.844",
+                                "label": "Ester 7:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.595",
+                                "verseNumber": 7,
+                                "startTime": "00:02:06.392",
+                                "label": "Ester 7:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.068",
+                                "verseNumber": 8,
+                                "startTime": "00:02:34.988",
+                                "label": "Ester 7:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:57.457",
+                                "verseNumber": 9,
+                                "startTime": "00:03:10.056",
+                                "label": "Ester 7:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.721",
+                                "verseNumber": 10,
+                                "startTime": "00:04:07.513",
+                                "label": "Ester 7:10",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 274.174,
+                    "bitRate": 591.3924357798332
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3e/nwt_17_Es_LSB_08_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 12:56:23",
+                        "checksum": "4eebe0a400130dbb4f52532b37ece91f"
+                    },
+                    "filesize": 44130370,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9f/nwt_17_Es_univ_08.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:11+00:00",
+                        "checksum": "755a7d953e37fecf98b943e82053089f"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 8,
+                        "bibleBookNumber": 17,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:38.271",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.235",
+                                "label": "Ester 8:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.293",
+                                "verseNumber": 2,
+                                "startTime": "00:00:40.507",
+                                "label": "Ester 8:2",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:28.528",
+                                "verseNumber": 3,
+                                "startTime": "00:01:07.801",
+                                "label": "Ester 8:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.911",
+                                "verseNumber": 4,
+                                "startTime": "00:01:36.329",
+                                "label": "Ester 8:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:47.981",
+                                "verseNumber": 5,
+                                "startTime": "00:01:48.241",
+                                "label": "Ester 8:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.385",
+                                "verseNumber": 6,
+                                "startTime": "00:02:36.222",
+                                "label": "Ester 8:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.023",
+                                "verseNumber": 7,
+                                "startTime": "00:02:54.607",
+                                "label": "Ester 8:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.500",
+                                "verseNumber": 8,
+                                "startTime": "00:03:17.630",
+                                "label": "Ester 8:8",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:01:07.567",
+                                "verseNumber": 9,
+                                "startTime": "00:03:51.130",
+                                "label": "Ester 8:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.071",
+                                "verseNumber": 10,
+                                "startTime": "00:04:58.698",
+                                "label": "Ester 8:10",
+                                "endTransitionDuration": "00:00:01.234"
+                            },
+                            {
+                                "duration": "00:00:37.670",
+                                "verseNumber": 11,
+                                "startTime": "00:05:36.769",
+                                "label": "Ester 8:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.981",
+                                "verseNumber": 12,
+                                "startTime": "00:06:14.440",
+                                "label": "Ester 8:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.091",
+                                "verseNumber": 13,
+                                "startTime": "00:06:29.422",
+                                "label": "Ester 8:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.593",
+                                "verseNumber": 14,
+                                "startTime": "00:06:54.514",
+                                "label": "Ester 8:14",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:01:01.394",
+                                "verseNumber": 15,
+                                "startTime": "00:07:21.107",
+                                "label": "Ester 8:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.979",
+                                "verseNumber": 16,
+                                "startTime": "00:08:22.502",
+                                "label": "Ester 8:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.444",
+                                "verseNumber": 17,
+                                "startTime": "00:08:35.481",
+                                "label": "Ester 8:17",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.235",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 564.864,
+                    "bitRate": 610.3566798822371
+                },
+                {
+                    "title": "Cap\u00edtulo 9",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/24/nwt_17_Es_LSB_09_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 12:44:10",
+                        "checksum": "4bd502414a9c3c0039f581e7ab752e7c"
+                    },
+                    "filesize": 81836573,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/31/nwt_17_Es_univ_09.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:18+00:00",
+                        "checksum": "aa94c8bfe2304f1b53d5c9a13290b776"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 9,
+                        "bibleBookNumber": 17,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:32.432",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Ester 9:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.622",
+                                "verseNumber": 2,
+                                "startTime": "00:00:34.434",
+                                "label": "Ester 9:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.130",
+                                "verseNumber": 3,
+                                "startTime": "00:00:57.057",
+                                "label": "Ester 9:3",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:20.854",
+                                "verseNumber": 4,
+                                "startTime": "00:01:27.187",
+                                "label": "Ester 9:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.850",
+                                "verseNumber": 5,
+                                "startTime": "00:01:48.041",
+                                "label": "Ester 9:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.652",
+                                "verseNumber": 6,
+                                "startTime": "00:02:04.891",
+                                "label": "Ester 9:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:18.018",
+                                "verseNumber": 7,
+                                "startTime": "00:02:24.544",
+                                "label": "Ester 9:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.543",
+                                "verseNumber": 8,
+                                "startTime": "00:02:42.562",
+                                "label": "Ester 9:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.881",
+                                "verseNumber": 9,
+                                "startTime": "00:02:53.106",
+                                "label": "Ester 9:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.837",
+                                "verseNumber": 10,
+                                "startTime": "00:03:07.987",
+                                "label": "Ester 9:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.849",
+                                "verseNumber": 11,
+                                "startTime": "00:03:45.825",
+                                "label": "Ester 9:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:43.910",
+                                "verseNumber": 12,
+                                "startTime": "00:04:01.674",
+                                "label": "Ester 9:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.345",
+                                "verseNumber": 13,
+                                "startTime": "00:04:45.585",
+                                "label": "Ester 9:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.593",
+                                "verseNumber": 14,
+                                "startTime": "00:05:30.930",
+                                "label": "Ester 9:14",
+                                "endTransitionDuration": "00:00:01.201"
+                            },
+                            {
+                                "duration": "00:00:34.134",
+                                "verseNumber": 15,
+                                "startTime": "00:05:57.523",
+                                "label": "Ester 9:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.004",
+                                "verseNumber": 16,
+                                "startTime": "00:06:31.657",
+                                "label": "Ester 9:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.029",
+                                "verseNumber": 17,
+                                "startTime": "00:07:09.662",
+                                "label": "Ester 9:17",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:31.898",
+                                "verseNumber": 18,
+                                "startTime": "00:07:38.691",
+                                "label": "Ester 9:18",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.561",
+                                "verseNumber": 19,
+                                "startTime": "00:08:10.590",
+                                "label": "Ester 9:19",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:38.104",
+                                "verseNumber": 20,
+                                "startTime": "00:08:39.151",
+                                "label": "Ester 9:20",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.021",
+                                "verseNumber": 21,
+                                "startTime": "00:09:17.256",
+                                "label": "Ester 9:21",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:44.811",
+                                "verseNumber": 22,
+                                "startTime": "00:09:38.277",
+                                "label": "Ester 9:22",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:26.459",
+                                "verseNumber": 23,
+                                "startTime": "00:10:23.089",
+                                "label": "Ester 9:23",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:42.842",
+                                "verseNumber": 24,
+                                "startTime": "00:10:49.548",
+                                "label": "Ester 9:24",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:45.311",
+                                "verseNumber": 25,
+                                "startTime": "00:11:32.391",
+                                "label": "Ester 9:25",
+                                "endTransitionDuration": "00:00:01.201"
+                            },
+                            {
+                                "duration": "00:00:57.791",
+                                "verseNumber": 26,
+                                "startTime": "00:12:17.703",
+                                "label": "Ester 9:26",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.092",
+                                "verseNumber": 27,
+                                "startTime": "00:13:15.494",
+                                "label": "Ester 9:27",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.531",
+                                "verseNumber": 28,
+                                "startTime": "00:13:41.587",
+                                "label": "Ester 9:28",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.462",
+                                "verseNumber": 29,
+                                "startTime": "00:14:13.118",
+                                "label": "Ester 9:29",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.465",
+                                "verseNumber": 30,
+                                "startTime": "00:14:42.581",
+                                "label": "Ester 9:30",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:01:10.036",
+                                "verseNumber": 31,
+                                "startTime": "00:15:15.047",
+                                "label": "Ester 9:31",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.924",
+                                "verseNumber": 32,
+                                "startTime": "00:16:25.084",
+                                "label": "Ester 9:32",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 9,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 1010.276,
+                    "bitRate": 632.8451102099823
+                },
+                {
+                    "title": "Cap\u00edtulo 10",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b6/nwt_17_Es_LSB_10_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-01 13:08:20",
+                        "checksum": "1530f31e1c0eb91b846dbcdfcb7d4ea3"
+                    },
+                    "filesize": 8569830,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/73/nwt_17_Es_univ_10.jpg",
+                        "modifiedDatetime": "2021-08-04T16:24:24+00:00",
+                        "checksum": "9bed40307946b82d7aa814c028a68b9a"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 10,
+                        "bibleBookNumber": 17,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:29.462",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "Ester 10:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.660",
+                                "verseNumber": 2,
+                                "startTime": "00:00:31.464",
+                                "label": "Ester 10:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:50.817",
+                                "verseNumber": 3,
+                                "startTime": "00:00:59.125",
+                                "label": "Ester 10:3",
+                                "endTransitionDuration": "00:00:07.007"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 10,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 17,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 109.91,
+                    "bitRate": 609.1510952142662
+                }
+            ]
+        }
+    }
+}

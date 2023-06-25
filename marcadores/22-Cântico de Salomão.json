@@ -1,0 +1,2074 @@
+{
+    "pubName": "C\u00e2ntico de Salom\u00e3o (Cantares)",
+    "parentPubName": "Tradu\u00e7\u00e3o do Novo Mundo da B\u00edblia Sagrada (Revis\u00e3o de&nbsp;2015)",
+    "booknum": 22,
+    "pub": "nwt",
+    "issue": "",
+    "formattedDate": "",
+    "fileformat": [
+        "MP4"
+    ],
+    "track": null,
+    "specialty": "",
+    "pubImage": {
+        "url": "",
+        "modifiedDatetime": "",
+        "checksum": null
+    },
+    "languages": {
+        "LSB": {
+            "name": "L\u00edngua brasileira de sinais",
+            "direction": "ltr",
+            "locale": "bzs"
+        }
+    },
+    "files": {
+        "LSB": {
+            "MP4": [
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/42/nwt_22_Ca_LSB_01_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-05 08:46:12",
+                        "checksum": "7677d0690a1864d426a11d904d995130"
+                    },
+                    "filesize": 5187926,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/79/nwt_22_Ca_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:13:01+00:00",
+                        "checksum": "66881084856515abbaf4e5ed0c5e678a"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.268,
+                    "duration": 465.231,
+                    "bitRate": 87.11945651730001
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/78/nwt_22_Ca_LSB_02_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-09 01:19:01",
+                        "checksum": "a43a4074de0a69b9a22706379988550e"
+                    },
+                    "filesize": 4206335,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/49/nwt_22_Ca_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:16:12+00:00",
+                        "checksum": "1baf16035dfad7dd4087e44da197594f"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.499,
+                    "duration": 357.157,
+                    "bitRate": 92.00993453159255
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ba/nwt_22_Ca_LSB_03_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-12 04:31:29",
+                        "checksum": "32d2c552cd1806bf1274d3c5b0fc447a"
+                    },
+                    "filesize": 3448872,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/42/nwt_22_Ca_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:07+00:00",
+                        "checksum": "3318e3279e66560f2dc74ecd271d4430"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.383,
+                    "duration": 292.692,
+                    "bitRate": 92.05688061170103
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c9/nwt_22_Ca_LSB_04_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 02:45:54",
+                        "checksum": "88988f63ac0270e110616fad486a6f21"
+                    },
+                    "filesize": 5496751,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/77/nwt_22_Ca_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:39+00:00",
+                        "checksum": "d2b2366602a531f87ca5e14f4029d0c5"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.821,
+                    "duration": 494.194,
+                    "bitRate": 86.89576803340388
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d1/nwt_22_Ca_LSB_05_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-15 02:45:57",
+                        "checksum": "103192b94d588172efe07d1c1670a95c"
+                    },
+                    "filesize": 4815959,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwt_22_Ca_LSB_05.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:26+00:00",
+                        "checksum": "d66ad9d239291f8cd3f5b7d19fa96d3f"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.674,
+                    "duration": 414.347,
+                    "bitRate": 90.80475950712808
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/db/nwt_22_Ca_LSB_06_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-12-17 10:42:57",
+                        "checksum": "59be98bc27a558db6953ff1b6c6ee29f"
+                    },
+                    "filesize": 4387513,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c7/nwt_22_Ca_LSB_06.jpg",
+                        "modifiedDatetime": "2019-01-19T23:14:47+00:00",
+                        "checksum": "501d7a7d01fe90ff3e7f222ef3148acc"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.615,
+                    "duration": 351.618,
+                    "bitRate": 97.48489927279036
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/0d/nwt_22_Ca_LSB_07_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-27 22:47:53",
+                        "checksum": "4a939f9dfdf3588dce4f0c036e1581e0"
+                    },
+                    "filesize": 4474577,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/54/nwt_22_Ca_LSB_07.jpg",
+                        "modifiedDatetime": "2019-01-19T23:17:02+00:00",
+                        "checksum": "9009de2741f08f5f3c55b2817aad0abf"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.644,
+                    "duration": 375.976,
+                    "bitRate": 92.97836248191373
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/19/nwt_22_Ca_LSB_08_r240P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2020-11-27 22:47:57",
+                        "checksum": "35f6b4dca2cc5ba891abdbc9aeede03c"
+                    },
+                    "filesize": 5265568,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6f/nwt_22_Ca_LSB_08.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:58+00:00",
+                        "checksum": "e786c1d2808547a20ba2d0f552b6004d"
+                    },
+                    "markers": null,
+                    "label": "240p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 416,
+                    "frameHeight": 234,
+                    "frameRate": 29.297,
+                    "duration": 424.591,
+                    "bitRate": 96.8867686785636
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ac/nwt_22_Ca_LSB_01_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:12",
+                        "checksum": "f840243bb2a9023b461237458e761ebe"
+                    },
+                    "filesize": 8654963,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/79/nwt_22_Ca_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:13:01+00:00",
+                        "checksum": "66881084856515abbaf4e5ed0c5e678a"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 465.231,
+                    "bitRate": 145.34048341039184
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/a4/nwt_22_Ca_LSB_02_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:11:11",
+                        "checksum": "29f99ecdf3092d0c33a0e26338ff9063"
+                    },
+                    "filesize": 7116450,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/49/nwt_22_Ca_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:16:12+00:00",
+                        "checksum": "1baf16035dfad7dd4087e44da197594f"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 357.157,
+                    "bitRate": 155.66617936929697
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/b3/nwt_22_Ca_LSB_03_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:07",
+                        "checksum": "c59e3f99b4160410f0df86c61d21c051"
+                    },
+                    "filesize": 5792066,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/42/nwt_22_Ca_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:07+00:00",
+                        "checksum": "3318e3279e66560f2dc74ecd271d4430"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 292.692,
+                    "bitRate": 154.6011357502084
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9b/nwt_22_Ca_LSB_04_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:30",
+                        "checksum": "5ceb0f87a304354220c4b967c051e68a"
+                    },
+                    "filesize": 9345002,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/77/nwt_22_Ca_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:39+00:00",
+                        "checksum": "d2b2366602a531f87ca5e14f4029d0c5"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 494.194,
+                    "bitRate": 147.73110989813716
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c4/nwt_22_Ca_LSB_05_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:45",
+                        "checksum": "725bab1b065eb807530fd030e3828bda"
+                    },
+                    "filesize": 8145541,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwt_22_Ca_LSB_05.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:26+00:00",
+                        "checksum": "d66ad9d239291f8cd3f5b7d19fa96d3f"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 414.347,
+                    "bitRate": 153.58392618385074
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/43/nwt_22_Ca_LSB_06_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:28",
+                        "checksum": "ff267c5a026306896c5b00ba52dd475b"
+                    },
+                    "filesize": 7312258,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c7/nwt_22_Ca_LSB_06.jpg",
+                        "modifiedDatetime": "2019-01-19T23:14:47+00:00",
+                        "checksum": "501d7a7d01fe90ff3e7f222ef3148acc"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 351.618,
+                    "bitRate": 162.46897378689374
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/66/nwt_22_Ca_LSB_07_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:11:23",
+                        "checksum": "ca83d8e49398b0bd0ad489f6832a47a3"
+                    },
+                    "filesize": 7493516,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/54/nwt_22_Ca_LSB_07.jpg",
+                        "modifiedDatetime": "2019-01-19T23:17:02+00:00",
+                        "checksum": "9009de2741f08f5f3c55b2817aad0abf"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 375.976,
+                    "bitRate": 155.7096563344469
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/4a/nwt_22_Ca_LSB_08_r360P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:11:03",
+                        "checksum": "91448208bce434984b7c460062748ba9"
+                    },
+                    "filesize": 8694968,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6f/nwt_22_Ca_LSB_08.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:58+00:00",
+                        "checksum": "e786c1d2808547a20ba2d0f552b6004d"
+                    },
+                    "markers": null,
+                    "label": "360p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 640,
+                    "frameHeight": 360,
+                    "frameRate": 29.97,
+                    "duration": 424.591,
+                    "bitRate": 159.98793544846689
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/12/nwt_22_Ca_LSB_01_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:14",
+                        "checksum": "6e57e7dab7b2d908c8dd9201c00d7cc5"
+                    },
+                    "filesize": 17019639,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/79/nwt_22_Ca_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:13:01+00:00",
+                        "checksum": "66881084856515abbaf4e5ed0c5e678a"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 465.231,
+                    "bitRate": 285.80625471539946
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/68/nwt_22_Ca_LSB_02_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:02",
+                        "checksum": "57eee43eec06978b7f63a1c06a82dda9"
+                    },
+                    "filesize": 13888857,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/49/nwt_22_Ca_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:16:12+00:00",
+                        "checksum": "1baf16035dfad7dd4087e44da197594f"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 357.157,
+                    "bitRate": 303.8067161290413
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2f/nwt_22_Ca_LSB_03_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:19",
+                        "checksum": "f846ff5be0741e7e3e950f99730ac445"
+                    },
+                    "filesize": 11240651,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/42/nwt_22_Ca_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:07+00:00",
+                        "checksum": "3318e3279e66560f2dc74ecd271d4430"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 292.692,
+                    "bitRate": 300.03411756214723
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/fd/nwt_22_Ca_LSB_04_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:47",
+                        "checksum": "aecc82b79a9289a4c6f2f3031245788c"
+                    },
+                    "filesize": 18273991,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/77/nwt_22_Ca_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:39+00:00",
+                        "checksum": "d2b2366602a531f87ca5e14f4029d0c5"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 494.194,
+                    "bitRate": 288.8856495374286
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/eb/nwt_22_Ca_LSB_05_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:11:14",
+                        "checksum": "62de956b3f5f61702490514e5f787f23"
+                    },
+                    "filesize": 15864063,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwt_22_Ca_LSB_05.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:26+00:00",
+                        "checksum": "d66ad9d239291f8cd3f5b7d19fa96d3f"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 414.347,
+                    "bitRate": 299.1164221956476
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/89/nwt_22_Ca_LSB_06_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:11:16",
+                        "checksum": "e3b023d224fed137c38a0e96d320173f"
+                    },
+                    "filesize": 14139977,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c7/nwt_22_Ca_LSB_06.jpg",
+                        "modifiedDatetime": "2019-01-19T23:14:47+00:00",
+                        "checksum": "501d7a7d01fe90ff3e7f222ef3148acc"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 351.618,
+                    "bitRate": 314.17211380674485
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d0/nwt_22_Ca_LSB_07_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:57",
+                        "checksum": "68acc46e867b0dca4337737f1fc8616c"
+                    },
+                    "filesize": 14421285,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/54/nwt_22_Ca_LSB_07.jpg",
+                        "modifiedDatetime": "2019-01-19T23:17:02+00:00",
+                        "checksum": "9009de2741f08f5f3c55b2817aad0abf"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 375.976,
+                    "bitRate": 299.66351326281466
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/9b/nwt_22_Ca_LSB_08_r480P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:33",
+                        "checksum": "1849fb3058be48496796e6d69ffdbf7c"
+                    },
+                    "filesize": 17163061,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6f/nwt_22_Ca_LSB_08.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:58+00:00",
+                        "checksum": "e786c1d2808547a20ba2d0f552b6004d"
+                    },
+                    "markers": null,
+                    "label": "480p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 960,
+                    "frameHeight": 540,
+                    "frameRate": 29.97,
+                    "duration": 424.591,
+                    "bitRate": 315.8013572178873
+                },
+                {
+                    "title": "Cap\u00edtulo 1",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/d0/nwt_22_Ca_LSB_01_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:36",
+                        "checksum": "ae9f717ad2b9b29c3808c351742abb5d"
+                    },
+                    "filesize": 36783331,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/79/nwt_22_Ca_LSB_01.jpg",
+                        "modifiedDatetime": "2019-01-19T23:13:01+00:00",
+                        "checksum": "66881084856515abbaf4e5ed0c5e678a"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 1,
+                        "bibleBookNumber": 22,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:15.882",
+                                "verseNumber": 1,
+                                "startTime": "00:00:10.543",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:1",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:20.253",
+                                "verseNumber": 2,
+                                "startTime": "00:00:26.426",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.358",
+                                "verseNumber": 3,
+                                "startTime": "00:00:46.679",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.804",
+                                "verseNumber": 4,
+                                "startTime": "00:01:12.038",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:4",
+                                "endTransitionDuration": "00:00:01.234"
+                            },
+                            {
+                                "duration": "00:00:33.033",
+                                "verseNumber": 5,
+                                "startTime": "00:01:49.843",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.003",
+                                "verseNumber": 6,
+                                "startTime": "00:02:22.876",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:6",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:50.417",
+                                "verseNumber": 7,
+                                "startTime": "00:02:59.879",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:7",
+                                "endTransitionDuration": "00:00:01.201"
+                            },
+                            {
+                                "duration": "00:00:31.498",
+                                "verseNumber": 8,
+                                "startTime": "00:03:50.296",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:8",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:16.216",
+                                "verseNumber": 9,
+                                "startTime": "00:04:21.794",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:13.747",
+                                "verseNumber": 10,
+                                "startTime": "00:04:38.011",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.015",
+                                "verseNumber": 11,
+                                "startTime": "00:04:51.758",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:11",
+                                "endTransitionDuration": "00:00:01.201"
+                            },
+                            {
+                                "duration": "00:00:16.716",
+                                "verseNumber": 12,
+                                "startTime": "00:05:07.774",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:21.654",
+                                "verseNumber": 13,
+                                "startTime": "00:05:24.490",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.762",
+                                "verseNumber": 14,
+                                "startTime": "00:05:46.145",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:14",
+                                "endTransitionDuration": "00:00:01.201"
+                            },
+                            {
+                                "duration": "00:00:25.759",
+                                "verseNumber": 15,
+                                "startTime": "00:06:14.907",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:15",
+                                "endTransitionDuration": "00:00:01.201"
+                            },
+                            {
+                                "duration": "00:00:29.863",
+                                "verseNumber": 16,
+                                "startTime": "00:06:40.666",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.758",
+                                "verseNumber": 17,
+                                "startTime": "00:07:10.530",
+                                "label": "C\u00e2ntico de Salom\u00e3o 1:17",
+                                "endTransitionDuration": "00:00:02.035"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:10.543",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 1,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 465.231,
+                    "bitRate": 617.6926589962836
+                },
+                {
+                    "title": "Cap\u00edtulo 2",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2c/nwt_22_Ca_LSB_02_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:16",
+                        "checksum": "24a052b185dd4278913f7125f3bf655a"
+                    },
+                    "filesize": 29736374,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/49/nwt_22_Ca_LSB_02.jpg",
+                        "modifiedDatetime": "2019-01-19T23:16:12+00:00",
+                        "checksum": "1baf16035dfad7dd4087e44da197594f"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 2,
+                        "bibleBookNumber": 22,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:28.928",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.135",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:1",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:31.831",
+                                "verseNumber": 2,
+                                "startTime": "00:00:31.064",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:2",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:35.135",
+                                "verseNumber": 3,
+                                "startTime": "00:01:02.896",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.950",
+                                "verseNumber": 4,
+                                "startTime": "00:01:38.031",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.392",
+                                "verseNumber": 5,
+                                "startTime": "00:01:54.981",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:09.242",
+                                "verseNumber": 6,
+                                "startTime": "00:02:20.373",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.787",
+                                "verseNumber": 7,
+                                "startTime": "00:02:29.616",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:7",
+                                "endTransitionDuration": "00:00:00.867"
+                            },
+                            {
+                                "duration": "00:00:10.443",
+                                "verseNumber": 8,
+                                "startTime": "00:02:50.403",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.912",
+                                "verseNumber": 9,
+                                "startTime": "00:03:00.847",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.273",
+                                "verseNumber": 10,
+                                "startTime": "00:03:13.760",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:04.037",
+                                "verseNumber": 11,
+                                "startTime": "00:03:21.034",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.525",
+                                "verseNumber": 12,
+                                "startTime": "00:03:25.071",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.227",
+                                "verseNumber": 13,
+                                "startTime": "00:03:50.597",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.729",
+                                "verseNumber": 14,
+                                "startTime": "00:04:17.824",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:14",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.684",
+                                "verseNumber": 15,
+                                "startTime": "00:04:47.553",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:15",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:24.290",
+                                "verseNumber": 16,
+                                "startTime": "00:05:05.238",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:16",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:27.627",
+                                "verseNumber": 17,
+                                "startTime": "00:05:29.529",
+                                "label": "C\u00e2ntico de Salom\u00e3o 2:17",
+                                "endTransitionDuration": "00:00:06.973"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.135",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 2,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 357.157,
+                    "bitRate": 650.4574231360439
+                },
+                {
+                    "title": "Cap\u00edtulo 3",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/f9/nwt_22_Ca_LSB_03_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:51",
+                        "checksum": "eb4a063f7c5ee224475a8622f942badf"
+                    },
+                    "filesize": 23647158,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/42/nwt_22_Ca_LSB_03.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:07+00:00",
+                        "checksum": "3318e3279e66560f2dc74ecd271d4430"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 3,
+                        "bibleBookNumber": 22,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:23.056",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.135",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.390",
+                                "verseNumber": 2,
+                                "startTime": "00:00:25.191",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:12.812",
+                                "verseNumber": 3,
+                                "startTime": "00:00:48.581",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.089",
+                                "verseNumber": 4,
+                                "startTime": "00:01:01.394",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:24.591",
+                                "verseNumber": 5,
+                                "startTime": "00:01:24.484",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:39.339",
+                                "verseNumber": 6,
+                                "startTime": "00:01:49.075",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:36.669",
+                                "verseNumber": 7,
+                                "startTime": "00:02:28.414",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:19.252",
+                                "verseNumber": 8,
+                                "startTime": "00:03:05.084",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:23.857",
+                                "verseNumber": 9,
+                                "startTime": "00:03:24.337",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.535",
+                                "verseNumber": 10,
+                                "startTime": "00:03:48.194",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.962",
+                                "verseNumber": 11,
+                                "startTime": "00:04:23.730",
+                                "label": "C\u00e2ntico de Salom\u00e3o 3:11",
+                                "endTransitionDuration": "00:00:06.840"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.135",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 3,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 292.692,
+                    "bitRate": 631.1871246053872
+                },
+                {
+                    "title": "Cap\u00edtulo 4",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/92/nwt_22_Ca_LSB_04_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:54",
+                        "checksum": "36f46c55f0c8000330fc95f3669320e7"
+                    },
+                    "filesize": 38930972,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/77/nwt_22_Ca_LSB_04.jpg",
+                        "modifiedDatetime": "2019-01-19T23:09:39+00:00",
+                        "checksum": "d2b2366602a531f87ca5e14f4029d0c5"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 4,
+                        "bibleBookNumber": 22,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:45.278",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.135",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.294",
+                                "verseNumber": 2,
+                                "startTime": "00:00:47.414",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:2",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:40.440",
+                                "verseNumber": 3,
+                                "startTime": "00:01:15.708",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.892",
+                                "verseNumber": 4,
+                                "startTime": "00:01:56.149",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:28.194",
+                                "verseNumber": 5,
+                                "startTime": "00:02:22.041",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:5",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:34.634",
+                                "verseNumber": 6,
+                                "startTime": "00:02:50.236",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:6",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:14.981",
+                                "verseNumber": 7,
+                                "startTime": "00:03:24.871",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.570",
+                                "verseNumber": 8,
+                                "startTime": "00:03:39.852",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.722",
+                                "verseNumber": 9,
+                                "startTime": "00:04:17.423",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:38.338",
+                                "verseNumber": 10,
+                                "startTime": "00:04:40.146",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:33.033",
+                                "verseNumber": 11,
+                                "startTime": "00:05:18.484",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.893",
+                                "verseNumber": 12,
+                                "startTime": "00:05:51.517",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:27.227",
+                                "verseNumber": 13,
+                                "startTime": "00:06:18.411",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:13",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:31.998",
+                                "verseNumber": 14,
+                                "startTime": "00:06:45.638",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.082",
+                                "verseNumber": 15,
+                                "startTime": "00:07:17.637",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.473",
+                                "verseNumber": 16,
+                                "startTime": "00:07:33.719",
+                                "label": "C\u00e2ntico de Salom\u00e3o 4:16",
+                                "endTransitionDuration": "00:00:06.840"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.135",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 4,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 494.194,
+                    "bitRate": 615.4429611650485
+                },
+                {
+                    "title": "Cap\u00edtulo 5",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/ca/nwt_22_Ca_LSB_05_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:10:41",
+                        "checksum": "72b8ad60a4f7aba15ed959c5821d8e6d"
+                    },
+                    "filesize": 33230417,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/3d/nwt_22_Ca_LSB_05.jpg",
+                        "modifiedDatetime": "2019-01-19T23:12:26+00:00",
+                        "checksum": "d66ad9d239291f8cd3f5b7d19fa96d3f"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 5,
+                        "bibleBookNumber": 22,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:01:03.129",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.768",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:1",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:36.970",
+                                "verseNumber": 2,
+                                "startTime": "00:01:04.898",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.249",
+                                "verseNumber": 3,
+                                "startTime": "00:01:41.868",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:07.640",
+                                "verseNumber": 4,
+                                "startTime": "00:01:58.118",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.341",
+                                "verseNumber": 5,
+                                "startTime": "00:02:05.758",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:15.482",
+                                "verseNumber": 6,
+                                "startTime": "00:02:14.100",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.816",
+                                "verseNumber": 7,
+                                "startTime": "00:02:29.582",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.155",
+                                "verseNumber": 8,
+                                "startTime": "00:02:46.399",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:8",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:15.782",
+                                "verseNumber": 9,
+                                "startTime": "00:03:08.555",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:18.618",
+                                "verseNumber": 10,
+                                "startTime": "00:03:24.337",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.789",
+                                "verseNumber": 11,
+                                "startTime": "00:03:42.956",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.396",
+                                "verseNumber": 12,
+                                "startTime": "00:04:05.745",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:40.006",
+                                "verseNumber": 13,
+                                "startTime": "00:04:35.141",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:35.168",
+                                "verseNumber": 14,
+                                "startTime": "00:05:15.148",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:14",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.137",
+                                "verseNumber": 15,
+                                "startTime": "00:05:50.316",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:15",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:26.893",
+                                "verseNumber": 16,
+                                "startTime": "00:06:27.453",
+                                "label": "C\u00e2ntico de Salom\u00e3o 5:16",
+                                "endTransitionDuration": "00:00:06.773"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.768",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 5,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 414.347,
+                    "bitRate": 626.5584952045025
+                },
+                {
+                    "title": "Cap\u00edtulo 6",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/60/nwt_22_Ca_LSB_06_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:11:05",
+                        "checksum": "ed76f1496b69c23cb79e1c1e2bb812c4"
+                    },
+                    "filesize": 29007064,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/c7/nwt_22_Ca_LSB_06.jpg",
+                        "modifiedDatetime": "2019-01-19T23:14:47+00:00",
+                        "checksum": "501d7a7d01fe90ff3e7f222ef3148acc"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 6,
+                        "bibleBookNumber": 22,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:15.148",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.668",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:1",
+                                "endTransitionDuration": "00:00:01.201"
+                            },
+                            {
+                                "duration": "00:00:30.597",
+                                "verseNumber": 2,
+                                "startTime": "00:00:16.816",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.222",
+                                "verseNumber": 3,
+                                "startTime": "00:00:47.414",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:3",
+                                "endTransitionDuration": "00:00:01.201"
+                            },
+                            {
+                                "duration": "00:00:36.102",
+                                "verseNumber": 4,
+                                "startTime": "00:01:09.636",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.123",
+                                "verseNumber": 5,
+                                "startTime": "00:01:45.738",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:23.089",
+                                "verseNumber": 6,
+                                "startTime": "00:02:08.862",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:20.720",
+                                "verseNumber": 7,
+                                "startTime": "00:02:31.951",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:7",
+                                "endTransitionDuration": "00:00:01.201"
+                            },
+                            {
+                                "duration": "00:00:10.777",
+                                "verseNumber": 8,
+                                "startTime": "00:02:52.672",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.502",
+                                "verseNumber": 9,
+                                "startTime": "00:03:03.449",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:34.768",
+                                "verseNumber": 10,
+                                "startTime": "00:03:38.952",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:10",
+                                "endTransitionDuration": "00:00:01.301"
+                            },
+                            {
+                                "duration": "00:00:35.235",
+                                "verseNumber": 11,
+                                "startTime": "00:04:13.720",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:10.343",
+                                "verseNumber": 12,
+                                "startTime": "00:04:48.955",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:12",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:47.347",
+                                "verseNumber": 13,
+                                "startTime": "00:04:59.299",
+                                "label": "C\u00e2ntico de Salom\u00e3o 6:13",
+                                "endTransitionDuration": "00:00:01.968"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.668",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 6,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 351.618,
+                    "bitRate": 644.4996772065139
+                },
+                {
+                    "title": "Cap\u00edtulo 7",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/08/nwt_22_Ca_LSB_07_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:11:19",
+                        "checksum": "8fd20536218362be987bb8abdbc34ba4"
+                    },
+                    "filesize": 29422838,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/54/nwt_22_Ca_LSB_07.jpg",
+                        "modifiedDatetime": "2019-01-19T23:17:02+00:00",
+                        "checksum": "9009de2741f08f5f3c55b2817aad0abf"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 7,
+                        "bibleBookNumber": 22,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:34.634",
+                                "verseNumber": 1,
+                                "startTime": "00:00:02.001",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:30.363",
+                                "verseNumber": 2,
+                                "startTime": "00:00:36.636",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:16.716",
+                                "verseNumber": 3,
+                                "startTime": "00:01:07.000",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:3",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:49.516",
+                                "verseNumber": 4,
+                                "startTime": "00:01:23.716",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:4",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:32.132",
+                                "verseNumber": 5,
+                                "startTime": "00:02:13.233",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.511",
+                                "verseNumber": 6,
+                                "startTime": "00:02:45.365",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:6",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:22.155",
+                                "verseNumber": 7,
+                                "startTime": "00:02:56.876",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:7",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.535",
+                                "verseNumber": 8,
+                                "startTime": "00:03:19.032",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:22.122",
+                                "verseNumber": 9,
+                                "startTime": "00:03:54.567",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:9",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:11.144",
+                                "verseNumber": 10,
+                                "startTime": "00:04:16.689",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:10",
+                                "endTransitionDuration": "00:00:01.167"
+                            },
+                            {
+                                "duration": "00:00:30.497",
+                                "verseNumber": 11,
+                                "startTime": "00:04:27.834",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:35.835",
+                                "verseNumber": 12,
+                                "startTime": "00:04:58.331",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:12",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:37.337",
+                                "verseNumber": 13,
+                                "startTime": "00:05:34.167",
+                                "label": "C\u00e2ntico de Salom\u00e3o 7:13",
+                                "endTransitionDuration": "00:00:02.369"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:02.001",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 7,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 375.976,
+                    "bitRate": 611.3845614480712
+                },
+                {
+                    "title": "Cap\u00edtulo 8",
+                    "file": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/2b/nwt_22_Ca_LSB_08_r720P.mp4",
+                        "stream": "https://jw.org",
+                        "modifiedDatetime": "2018-10-19 18:11:08",
+                        "checksum": "3ec74a691d49c25f34075c93d578fc40"
+                    },
+                    "filesize": 34897767,
+                    "trackImage": {
+                        "url": "https://download-a.akamaihd.net/files/media_publication/6f/nwt_22_Ca_LSB_08.jpg",
+                        "modifiedDatetime": "2019-01-19T23:07:58+00:00",
+                        "checksum": "e786c1d2808547a20ba2d0f552b6004d"
+                    },
+                    "markers": {
+                        "mepsLanguageSpoken": "LSB",
+                        "mepsLanguageWritten": "LSB",
+                        "bibleBookChapter": 8,
+                        "bibleBookNumber": 22,
+                        "type": "bible",
+                        "markers": [
+                            {
+                                "duration": "00:00:34.267",
+                                "verseNumber": 1,
+                                "startTime": "00:00:01.968",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:1",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.195",
+                                "verseNumber": 2,
+                                "startTime": "00:00:36.236",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:2",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:08.241",
+                                "verseNumber": 3,
+                                "startTime": "00:01:05.432",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:3",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:14.347",
+                                "verseNumber": 4,
+                                "startTime": "00:01:13.673",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:4",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:55.455",
+                                "verseNumber": 5,
+                                "startTime": "00:01:28.021",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:5",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:59.893",
+                                "verseNumber": 6,
+                                "startTime": "00:02:23.476",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:6",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:41.808",
+                                "verseNumber": 7,
+                                "startTime": "00:03:23.369",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:7",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:12.846",
+                                "verseNumber": 8,
+                                "startTime": "00:04:05.178",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:8",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.529",
+                                "verseNumber": 9,
+                                "startTime": "00:04:18.024",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:9",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:17.650",
+                                "verseNumber": 10,
+                                "startTime": "00:04:47.553",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:10",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:29.596",
+                                "verseNumber": 11,
+                                "startTime": "00:05:05.204",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:11",
+                                "endTransitionDuration": "00:00:00.000"
+                            },
+                            {
+                                "duration": "00:00:25.425",
+                                "verseNumber": 12,
+                                "startTime": "00:05:34.801",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:12",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:33.800",
+                                "verseNumber": 13,
+                                "startTime": "00:06:00.226",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:13",
+                                "endTransitionDuration": "00:00:01.000"
+                            },
+                            {
+                                "duration": "00:00:30.563",
+                                "verseNumber": 14,
+                                "startTime": "00:06:34.026",
+                                "label": "C\u00e2ntico de Salom\u00e3o 8:14",
+                                "endTransitionDuration": "00:00:05.872"
+                            }
+                        ],
+                        "hash": "12345678901234567890123456789012",
+                        "introduction": {
+                            "duration": "00:00:01.968",
+                            "startTime": "00:00:00.000"
+                        }
+                    },
+                    "label": "720p",
+                    "track": 8,
+                    "hasTrack": true,
+                    "pub": "nwt",
+                    "docid": 0,
+                    "booknum": 22,
+                    "mimetype": "video/mp4",
+                    "edition": "",
+                    "editionDescr": "Normal",
+                    "format": "",
+                    "formatDescr": "Normal",
+                    "specialty": "",
+                    "specialtyDescr": "",
+                    "subtitled": false,
+                    "frameWidth": 1280,
+                    "frameHeight": 720,
+                    "frameRate": 29.97,
+                    "duration": 424.591,
+                    "bitRate": 642.1210169021482
+                }
+            ]
+        }
+    }
+}
